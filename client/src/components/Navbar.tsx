@@ -3,7 +3,7 @@
    Dark Judicial Majesty Design
    ============================================= */
 import { useTheme } from "@/contexts/ThemeContext";
-import { Sun, Moon, Scale } from "lucide-react";
+import { Sun, Moon } from "lucide-react";
 import { useState, useEffect } from "react";
 
 export default function Navbar() {
@@ -26,40 +26,35 @@ export default function Navbar() {
     >
       <div className="container">
         <div className="flex items-center justify-between h-16">
-          {/* Right: Signature */}
+
+          {/* Right: Signature image */}
           <a
-            href="https://nsooos.com/"
+            href="https://dralhoshan.com/"
             target="_blank"
             rel="noopener noreferrer"
-            className="flex items-center gap-2 opacity-90 hover:opacity-100 transition-opacity"
+            className="opacity-90 hover:opacity-100 transition-opacity"
             title="د. يوسف بن حمود الحوشان"
           >
-            <span
-              className="text-[oklch(0.82_0.10_75)] text-sm font-bold"
-              style={{ fontFamily: "Amiri, serif" }}
-            >
-              د. يوسف بن حمود الحوشان
-            </span>
+            <img
+              src="/manus-storage/signature-hoshan_0c8875c4.webp"
+              alt="د. يوسف بن حمود الحوشان"
+              className="h-10 w-auto object-contain"
+              style={{ filter: "invert(1) brightness(2)" }}
+            />
           </a>
 
-          {/* Center: Logo + Title */}
-          <div className="flex items-center gap-3">
-            <div className="flex items-center gap-2">
-              <div className="w-8 h-8 rounded-full bg-[oklch(0.72_0.12_75/0.15)] border border-[oklch(0.72_0.12_75/0.4)] flex items-center justify-center">
-                <Scale className="w-4 h-4 text-[oklch(0.82_0.10_75)]" />
-              </div>
-              <div className="hidden sm:block">
-                <h1 className="text-sm font-bold text-[oklch(0.92_0.01_80)] leading-tight" style={{ fontFamily: "Amiri, serif" }}>
-                  مكنز القضاء والأنظمة
-                </h1>
-                <p className="text-[10px] text-[oklch(0.60_0.01_240)] leading-tight">والمحاماة</p>
-              </div>
-            </div>
+          {/* Center: Title only (no logo) */}
+          <div className="hidden sm:block text-center">
+            <h1
+              className="text-sm font-bold text-[oklch(0.92_0.01_80)] leading-tight"
+              style={{ fontFamily: "Amiri, serif" }}
+            >
+              مكنز القضاء والأنظمة والمحاماة
+            </h1>
           </div>
 
-          {/* Left: Actions */}
+          {/* Left: Dark Mode Toggle only */}
           <div className="flex items-center gap-2">
-            {/* Dark Mode Toggle */}
             <button
               onClick={toggleTheme}
               className="w-9 h-9 rounded-lg bg-[oklch(0.20_0.03_240)] border border-[oklch(0.25_0.03_240)] flex items-center justify-center text-[oklch(0.72_0.12_75)] hover:bg-[oklch(0.25_0.04_240)] transition-colors"
@@ -67,22 +62,8 @@ export default function Navbar() {
             >
               {theme === "dark" ? <Sun className="w-4 h-4" /> : <Moon className="w-4 h-4" />}
             </button>
-
-            {/* Makanez Platform Link */}
-            <a
-              href="https://dralhoshan.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              title="منصة المكانز العلمية"
-              className="w-9 h-9 flex items-center justify-center opacity-80 hover:opacity-100 transition-opacity"
-            >
-              <img
-                src="https://zadwarod.dralhoshan.com/manus-storage/makanez-icon_85f25650.png"
-                alt="منصة المكانز"
-                className="h-7 w-auto object-contain"
-              />
-            </a>
           </div>
+
         </div>
       </div>
     </header>
