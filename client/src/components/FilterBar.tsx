@@ -1,6 +1,7 @@
 /* =============================================
    FilterBar — مكنز القضاء والأنظمة والمحاماة
-   Dark Judicial Majesty Design
+   ألوان مطابقة لـ osool.dralhoshan.com
+   خلفية بيج دافئ + أزرار ذهبية بنية
    ============================================= */
 import { Filter, ArrowUpDown, Download, X } from "lucide-react";
 import type { FilterState, SortOption } from "@/hooks/useItems";
@@ -27,7 +28,7 @@ const SORT_OPTIONS: { value: SortOption; label: string }[] = [
   { value: "oldest", label: "الأقدم" },
 ];
 
-// ألوان الأقسام
+// ألوان الأقسام — مطابقة لـ osool.dralhoshan.com
 const CATEGORY_COLORS: Record<string, string> = {
   "الجنايات والحدود": "badge-crimes",
   "القضاء والأنظمة العامة": "badge-judiciary",
@@ -51,6 +52,19 @@ export function getCategoryBadgeClass(category: string): string {
   return CATEGORY_COLORS[category] || "badge-general";
 }
 
+// Shared select style
+const selectStyle = {
+  background: "oklch(1 0 0)",
+  border: "1px solid oklch(0.88 0.04 78)",
+  borderRadius: "0.5rem",
+  padding: "0.375rem 0.75rem",
+  fontSize: "0.75rem",
+  color: "oklch(0.18 0.04 50)",
+  outline: "none",
+  fontFamily: "Cairo, sans-serif",
+  width: "100%",
+};
+
 function FilterContent({
   filters,
   onFiltersChange,
@@ -63,11 +77,11 @@ function FilterContent({
     <div className="space-y-5" style={{ fontFamily: "Cairo, sans-serif" }}>
       {/* Category */}
       <div>
-        <label className="block text-xs text-[oklch(0.60_0.01_240)] mb-2">القسم</label>
+        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>القسم</label>
         <select
           value={filters.category}
           onChange={(e) => onFiltersChange({ category: e.target.value })}
-          className="w-full bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] rounded-lg px-3 py-2 text-sm text-[oklch(0.85_0.01_80)] outline-none focus:border-[oklch(0.72_0.12_75/0.5)]"
+          style={selectStyle}
         >
           <option value="all">جميع الأقسام</option>
           {categories.map((c) => (
@@ -78,11 +92,11 @@ function FilterContent({
 
       {/* Material Type */}
       <div>
-        <label className="block text-xs text-[oklch(0.60_0.01_240)] mb-2">نوع المادة</label>
+        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>نوع المادة</label>
         <select
           value={filters.material_type}
           onChange={(e) => onFiltersChange({ material_type: e.target.value })}
-          className="w-full bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] rounded-lg px-3 py-2 text-sm text-[oklch(0.85_0.01_80)] outline-none focus:border-[oklch(0.72_0.12_75/0.5)]"
+          style={selectStyle}
         >
           <option value="all">جميع الأنواع</option>
           {materialTypes.map((t) => (
@@ -93,17 +107,18 @@ function FilterContent({
 
       {/* File Type */}
       <div>
-        <label className="block text-xs text-[oklch(0.60_0.01_240)] mb-2">نوع الملف</label>
+        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>نوع الملف</label>
         <div className="flex flex-wrap gap-2">
           {["all", ...fileTypes].map((ft) => (
             <button
               key={ft}
               onClick={() => onFiltersChange({ file_type: ft })}
-              className={`px-3 py-1 rounded-full text-xs border transition-all ${
-                filters.file_type === ft
-                  ? "bg-[oklch(0.72_0.12_75)] text-[oklch(0.12_0.02_240)] border-[oklch(0.72_0.12_75)]"
-                  : "bg-transparent text-[oklch(0.65_0.01_240)] border-[oklch(0.25_0.03_240)] hover:border-[oklch(0.72_0.12_75/0.4)]"
-              }`}
+              className="px-3 py-1 rounded-full text-xs border transition-all"
+              style={{
+                background: filters.file_type === ft ? "rgb(139, 105, 20)" : "oklch(0.93 0.03 80)",
+                color: filters.file_type === ft ? "white" : "oklch(0.38 0.10 65)",
+                borderColor: filters.file_type === ft ? "rgb(139, 105, 20)" : "oklch(0.88 0.04 78)",
+              }}
             >
               {ft === "all" ? "الكل" : ft}
             </button>
@@ -113,11 +128,11 @@ function FilterContent({
 
       {/* Source */}
       <div>
-        <label className="block text-xs text-[oklch(0.60_0.01_240)] mb-2">المصدر</label>
+        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>المصدر</label>
         <select
           value={filters.source}
           onChange={(e) => onFiltersChange({ source: e.target.value })}
-          className="w-full bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] rounded-lg px-3 py-2 text-sm text-[oklch(0.85_0.01_80)] outline-none focus:border-[oklch(0.72_0.12_75/0.5)]"
+          style={selectStyle}
         >
           <option value="all">جميع المصادر</option>
           {sources.slice(0, 20).map((s) => (
@@ -131,9 +146,8 @@ function FilterContent({
         <label className="flex items-center gap-3 cursor-pointer">
           <div
             onClick={() => onFiltersChange({ has_download: !filters.has_download })}
-            className={`w-10 h-5 rounded-full transition-colors relative ${
-              filters.has_download ? "bg-[oklch(0.72_0.12_75)]" : "bg-[oklch(0.25_0.03_240)]"
-            }`}
+            className="w-10 h-5 rounded-full transition-colors relative"
+            style={{ background: filters.has_download ? "rgb(139, 105, 20)" : "oklch(0.88 0.04 78)" }}
           >
             <div
               className={`absolute top-0.5 w-4 h-4 rounded-full bg-white transition-all ${
@@ -141,7 +155,7 @@ function FilterContent({
               }`}
             />
           </div>
-          <span className="text-sm text-[oklch(0.75_0.01_240)]">
+          <span className="text-sm" style={{ color: "oklch(0.38 0.10 65)" }}>
             <Download className="w-3.5 h-3.5 inline ml-1" />
             لها روابط تحميل فقط
           </span>
@@ -150,11 +164,11 @@ function FilterContent({
 
       {/* Sort */}
       <div>
-        <label className="block text-xs text-[oklch(0.60_0.01_240)] mb-2">الترتيب</label>
+        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>الترتيب</label>
         <select
           value={filters.sort}
           onChange={(e) => onFiltersChange({ sort: e.target.value as SortOption })}
-          className="w-full bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] rounded-lg px-3 py-2 text-sm text-[oklch(0.85_0.01_80)] outline-none focus:border-[oklch(0.72_0.12_75/0.5)]"
+          style={selectStyle}
         >
           {SORT_OPTIONS.map((o) => (
             <option key={o.value} value={o.value}>{o.label}</option>
@@ -174,7 +188,12 @@ function FilterContent({
             sort: "default",
           })
         }
-        className="w-full py-2 rounded-lg border border-[oklch(0.25_0.03_240)] text-[oklch(0.60_0.01_240)] text-sm hover:border-[oklch(0.72_0.12_75/0.3)] hover:text-[oklch(0.72_0.12_75)] transition-colors flex items-center justify-center gap-2"
+        className="w-full py-2 rounded-lg text-sm flex items-center justify-center gap-2 transition-colors hover:opacity-80"
+        style={{
+          border: "1px solid oklch(0.88 0.04 78)",
+          color: "oklch(0.52 0.06 60)",
+          background: "oklch(0.93 0.03 80)",
+        }}
       >
         <X className="w-3.5 h-3.5" />
         إعادة تعيين الفلاتر
@@ -195,12 +214,20 @@ export default function FilterBar(props: FilterBarProps) {
     filters.has_download;
 
   return (
-    <div className="sticky top-16 z-40 bg-[oklch(0.14_0.025_240/0.97)] backdrop-blur-xl border-b border-[oklch(0.22_0.03_240)]">
+    <div
+      className="sticky top-16 z-40 backdrop-blur-xl border-b"
+      style={{
+        background: "oklch(0.98 0.01 85 / 0.97)",
+        borderColor: "oklch(0.88 0.04 78)",
+      }}
+    >
       <div className="container">
         <div className="flex items-center justify-between py-3 gap-3">
           {/* Results count */}
-          <div className="text-sm text-[oklch(0.60_0.01_240)]" style={{ fontFamily: "Cairo, sans-serif" }}>
-            <span className="text-[oklch(0.82_0.10_75)] font-bold">{totalResults.toLocaleString("en-US")}</span>
+          <div className="text-sm" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
+            <span className="font-bold" style={{ color: "oklch(0.48 0.12 68)" }}>
+              {totalResults.toLocaleString("en-US")}
+            </span>
             <span className="mx-1">من</span>
             <span>{totalItems.toLocaleString("en-US")}</span>
             <span className="mr-1">مادة</span>
@@ -212,14 +239,15 @@ export default function FilterBar(props: FilterBarProps) {
               <button
                 key={cat}
                 onClick={() => onFiltersChange({ category: cat })}
-                className={`px-3 py-1.5 rounded-lg text-xs whitespace-nowrap transition-all ${
-                  filters.category === cat
-                    ? "bg-[oklch(0.72_0.12_75)] text-[oklch(0.12_0.02_240)] font-bold"
-                    : "text-[oklch(0.60_0.01_240)] hover:text-[oklch(0.85_0.01_80)] hover:bg-[oklch(0.20_0.03_240)]"
-                }`}
-                style={{ fontFamily: "Cairo, sans-serif" }}
+                className="px-3 py-1.5 rounded-lg text-xs whitespace-nowrap transition-all"
+                style={{
+                  fontFamily: "Cairo, sans-serif",
+                  background: filters.category === cat ? "rgb(139, 105, 20)" : "transparent",
+                  color: filters.category === cat ? "white" : "oklch(0.52 0.06 60)",
+                  fontWeight: filters.category === cat ? "bold" : "normal",
+                }}
               >
-                {cat === "all" ? "الكل" : cat}
+                {cat === "all" ? "جميع التصنيفات" : cat}
               </button>
             ))}
           </div>
@@ -227,13 +255,19 @@ export default function FilterBar(props: FilterBarProps) {
           {/* Sort + Filter buttons */}
           <div className="flex items-center gap-2">
             {/* Sort - desktop */}
-            <div className="hidden sm:flex items-center gap-1.5 bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] rounded-lg px-3 py-1.5">
-              <ArrowUpDown className="w-3.5 h-3.5 text-[oklch(0.55_0.01_240)]" />
+            <div
+              className="hidden sm:flex items-center gap-1.5 rounded-lg px-3 py-1.5"
+              style={{
+                background: "oklch(0.93 0.03 80)",
+                border: "1px solid oklch(0.88 0.04 78)",
+              }}
+            >
+              <ArrowUpDown className="w-3.5 h-3.5" style={{ color: "oklch(0.52 0.06 60)" }} />
               <select
                 value={filters.sort}
                 onChange={(e) => onFiltersChange({ sort: e.target.value as SortOption })}
-                className="bg-transparent text-xs text-[oklch(0.75_0.01_240)] outline-none"
-                style={{ fontFamily: "Cairo, sans-serif" }}
+                className="bg-transparent text-xs outline-none"
+                style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.38 0.10 65)" }}
               >
                 {SORT_OPTIONS.map((o) => (
                   <option key={o.value} value={o.value}>{o.label}</option>
@@ -245,25 +279,34 @@ export default function FilterBar(props: FilterBarProps) {
             <Drawer open={drawerOpen} onOpenChange={setDrawerOpen}>
               <DrawerTrigger asChild>
                 <button
-                  className={`flex items-center gap-2 px-3 py-1.5 rounded-lg border text-xs transition-all ${
-                    hasActiveFilters
-                      ? "bg-[oklch(0.72_0.12_75/0.15)] border-[oklch(0.72_0.12_75/0.5)] text-[oklch(0.82_0.10_75)]"
-                      : "bg-[oklch(0.18_0.025_240)] border-[oklch(0.25_0.03_240)] text-[oklch(0.65_0.01_240)]"
-                  }`}
-                  style={{ fontFamily: "Cairo, sans-serif" }}
+                  className="flex items-center gap-2 px-3 py-1.5 rounded-lg border text-xs transition-all"
+                  style={{
+                    fontFamily: "Cairo, sans-serif",
+                    background: hasActiveFilters ? "oklch(0.93 0.03 80)" : "oklch(0.93 0.03 80)",
+                    borderColor: hasActiveFilters ? "rgb(139, 105, 20)" : "oklch(0.88 0.04 78)",
+                    color: hasActiveFilters ? "rgb(139, 105, 20)" : "oklch(0.52 0.06 60)",
+                  }}
                 >
                   <Filter className="w-3.5 h-3.5" />
-                  <span>فلترة</span>
+                  <span>فلاتر إضافية</span>
                   {hasActiveFilters && (
-                    <span className="w-4 h-4 rounded-full bg-[oklch(0.72_0.12_75)] text-[oklch(0.12_0.02_240)] text-[10px] flex items-center justify-center font-bold">
+                    <span
+                      className="w-4 h-4 rounded-full text-[10px] flex items-center justify-center font-bold"
+                      style={{ background: "rgb(139, 105, 20)", color: "white" }}
+                    >
                       !
                     </span>
                   )}
                 </button>
               </DrawerTrigger>
-              <DrawerContent className="bg-[oklch(0.14_0.025_240)] border-[oklch(0.22_0.03_240)]">
+              <DrawerContent
+                style={{
+                  background: "oklch(0.98 0.01 85)",
+                  borderColor: "oklch(0.88 0.04 78)",
+                }}
+              >
                 <DrawerHeader>
-                  <DrawerTitle className="text-[oklch(0.92_0.01_80)]" style={{ fontFamily: "Amiri, serif" }}>
+                  <DrawerTitle style={{ fontFamily: "Amiri, serif", color: "oklch(0.18 0.04 50)" }}>
                     تصفية النتائج
                   </DrawerTitle>
                 </DrawerHeader>
@@ -280,8 +323,13 @@ export default function FilterBar(props: FilterBarProps) {
           <select
             value={filters.material_type}
             onChange={(e) => onFiltersChange({ material_type: e.target.value })}
-            className="bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] rounded-lg px-3 py-1.5 text-xs text-[oklch(0.75_0.01_240)] outline-none"
-            style={{ fontFamily: "Cairo, sans-serif" }}
+            className="rounded-lg px-3 py-1.5 text-xs outline-none"
+            style={{
+              fontFamily: "Cairo, sans-serif",
+              background: "oklch(1 0 0)",
+              border: "1px solid oklch(0.88 0.04 78)",
+              color: "oklch(0.38 0.10 65)",
+            }}
           >
             <option value="all">نوع المادة: الكل</option>
             {props.materialTypes.map((t) => <option key={t} value={t}>{t}</option>)}
@@ -290,8 +338,13 @@ export default function FilterBar(props: FilterBarProps) {
           <select
             value={filters.file_type}
             onChange={(e) => onFiltersChange({ file_type: e.target.value })}
-            className="bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] rounded-lg px-3 py-1.5 text-xs text-[oklch(0.75_0.01_240)] outline-none"
-            style={{ fontFamily: "Cairo, sans-serif" }}
+            className="rounded-lg px-3 py-1.5 text-xs outline-none"
+            style={{
+              fontFamily: "Cairo, sans-serif",
+              background: "oklch(1 0 0)",
+              border: "1px solid oklch(0.88 0.04 78)",
+              color: "oklch(0.38 0.10 65)",
+            }}
           >
             <option value="all">نوع الملف: الكل</option>
             {props.fileTypes.map((t) => <option key={t} value={t}>{t}</option>)}
@@ -300,9 +353,8 @@ export default function FilterBar(props: FilterBarProps) {
           <label className="flex items-center gap-2 cursor-pointer">
             <div
               onClick={() => onFiltersChange({ has_download: !filters.has_download })}
-              className={`w-8 h-4 rounded-full transition-colors relative ${
-                filters.has_download ? "bg-[oklch(0.72_0.12_75)]" : "bg-[oklch(0.25_0.03_240)]"
-              }`}
+              className="w-8 h-4 rounded-full transition-colors relative"
+              style={{ background: filters.has_download ? "rgb(139, 105, 20)" : "oklch(0.88 0.04 78)" }}
             >
               <div
                 className={`absolute top-0.5 w-3 h-3 rounded-full bg-white transition-all ${
@@ -310,7 +362,7 @@ export default function FilterBar(props: FilterBarProps) {
                 }`}
               />
             </div>
-            <span className="text-xs text-[oklch(0.60_0.01_240)]" style={{ fontFamily: "Cairo, sans-serif" }}>
+            <span className="text-xs" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
               لها روابط تحميل
             </span>
           </label>
@@ -326,8 +378,8 @@ export default function FilterBar(props: FilterBarProps) {
                   has_download: false,
                 })
               }
-              className="flex items-center gap-1 text-xs text-[oklch(0.55_0.01_240)] hover:text-[oklch(0.72_0.12_75)] transition-colors"
-              style={{ fontFamily: "Cairo, sans-serif" }}
+              className="flex items-center gap-1 text-xs transition-colors hover:opacity-70"
+              style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.48 0.12 68)" }}
             >
               <X className="w-3 h-3" />
               مسح الفلاتر

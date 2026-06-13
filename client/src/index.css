@@ -5,8 +5,8 @@
 
 /* =============================================
    مكنز القضاء والأنظمة والمحاماة
-   تصميم "قاعة العدل" — Dark Judicial Majesty
-   ألوان: كحلي داكن + ذهبي عتيق + فيروزي
+   لوحة الألوان: مطابقة تماماً لـ osool.dralhoshan.com
+   خلفية دافئة بيج/كريمي + ذهبي بني + بطاقات بيضاء
    خطوط: Amiri (عناوين) + Cairo (واجهة) + Tajawal (تفاصيل)
    ============================================= */
 
@@ -34,100 +34,100 @@
   --color-border: var(--border);
   --color-input: var(--input);
   --color-ring: var(--ring);
-  --color-gold: var(--gold);
-  --color-gold-light: var(--gold-light);
-  --color-teal-dark: var(--teal-dark);
 }
 
+/* ===== وضع فاتح (افتراضي) — مطابق لـ osool.dralhoshan.com ===== */
 :root {
   --radius: 0.5rem;
 
-  /* Dark Judicial Palette */
-  --background: oklch(0.12 0.02 240);
-  --foreground: oklch(0.92 0.01 80);
-  --card: oklch(0.16 0.025 240);
-  --card-foreground: oklch(0.92 0.01 80);
-  --popover: oklch(0.16 0.025 240);
-  --popover-foreground: oklch(0.92 0.01 80);
+  /* الخلفية الرئيسية: بيج دافئ فاتح */
+  --background: oklch(0.98 0.01 85);
+  --foreground: oklch(0.18 0.04 50);
 
-  /* Gold Primary */
-  --primary: oklch(0.72 0.12 75);
-  --primary-foreground: oklch(0.12 0.02 240);
+  /* البطاقات: أبيض نقي */
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.18 0.04 50);
 
-  --secondary: oklch(0.20 0.03 240);
-  --secondary-foreground: oklch(0.85 0.01 80);
-  --muted: oklch(0.18 0.025 240);
-  --muted-foreground: oklch(0.60 0.01 240);
-  --accent: oklch(0.22 0.04 200);
-  --accent-foreground: oklch(0.90 0.01 80);
-  --destructive: oklch(0.55 0.22 25);
-  --destructive-foreground: oklch(0.98 0 0);
-  --border: oklch(0.25 0.03 240);
-  --input: oklch(0.20 0.03 240);
-  --ring: oklch(0.72 0.12 75);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.18 0.04 50);
 
-  /* Custom Brand Colors */
-  --gold: oklch(0.72 0.12 75);
-  --gold-light: oklch(0.82 0.10 80);
-  --gold-dim: oklch(0.55 0.09 75);
-  --teal-dark: oklch(0.35 0.08 195);
-  --teal-mid: oklch(0.45 0.10 195);
-  --navy: oklch(0.14 0.04 240);
-  --navy-light: oklch(0.20 0.04 240);
+  /* اللون الأساسي: ذهبي بني — rgb(139, 105, 20) */
+  --primary: oklch(0.48 0.12 68);
+  --primary-foreground: oklch(0.98 0.01 85);
 
-  /* Category Colors */
-  --cat-judiciary: oklch(0.72 0.12 75);
-  --cat-systems: oklch(0.55 0.12 195);
-  --cat-crimes: oklch(0.45 0.18 25);
-  --cat-evidence: oklch(0.45 0.15 280);
-  --cat-courts: oklch(0.45 0.12 240);
-  --cat-inheritance: oklch(0.45 0.12 155);
-  --cat-advocacy: oklch(0.50 0.14 310);
-  --cat-hisba: oklch(0.48 0.10 50);
-  --cat-personal: oklch(0.48 0.12 340);
-  --cat-research: oklch(0.48 0.08 200);
-  --cat-general: oklch(0.50 0.05 240);
+  /* الثانوي */
+  --secondary: oklch(0.93 0.03 80);
+  --secondary-foreground: oklch(0.32 0.08 55);
+
+  /* المكتوم */
+  --muted: oklch(0.95 0.02 80);
+  --muted-foreground: oklch(0.52 0.06 60);
+
+  /* التمييز */
+  --accent: oklch(0.93 0.03 80);
+  --accent-foreground: oklch(0.28 0.08 55);
+
+  /* التدمير */
+  --destructive: oklch(0.577 0.245 27.325);
+  --destructive-foreground: oklch(0.985 0 0);
+
+  /* الحدود والمدخلات */
+  --border: oklch(0.88 0.04 78);
+  --input: oklch(0.88 0.04 78);
+  --ring: oklch(0.58 0.14 70);
 
   /* Sidebar */
-  --sidebar: oklch(0.14 0.025 240);
-  --sidebar-foreground: oklch(0.85 0.01 80);
-  --sidebar-primary: oklch(0.72 0.12 75);
-  --sidebar-primary-foreground: oklch(0.12 0.02 240);
-  --sidebar-accent: oklch(0.20 0.03 240);
-  --sidebar-accent-foreground: oklch(0.85 0.01 80);
-  --sidebar-border: oklch(0.22 0.03 240);
-  --sidebar-ring: oklch(0.72 0.12 75);
+  --sidebar: oklch(0.96 0.01 85);
+  --sidebar-foreground: oklch(0.18 0.04 50);
+  --sidebar-primary: oklch(0.48 0.12 68);
+  --sidebar-primary-foreground: oklch(0.98 0.01 85);
+  --sidebar-accent: oklch(0.93 0.03 80);
+  --sidebar-accent-foreground: oklch(0.28 0.08 55);
+  --sidebar-border: oklch(0.88 0.04 78);
+  --sidebar-ring: oklch(0.58 0.14 70);
 
   /* Charts */
-  --chart-1: oklch(0.72 0.12 75);
-  --chart-2: oklch(0.55 0.12 195);
-  --chart-3: oklch(0.45 0.18 25);
-  --chart-4: oklch(0.45 0.15 280);
-  --chart-5: oklch(0.45 0.12 155);
+  --chart-1: oklch(0.48 0.12 68);
+  --chart-2: oklch(0.45 0.14 310);
+  --chart-3: oklch(0.45 0.14 260);
+  --chart-4: oklch(0.40 0.12 155);
+  --chart-5: oklch(0.50 0.15 30);
 }
 
-/* Light Mode Override */
-.light {
-  --background: oklch(0.97 0.005 80);
-  --foreground: oklch(0.15 0.02 240);
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.15 0.02 240);
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.15 0.02 240);
-  --primary: oklch(0.55 0.12 75);
-  --primary-foreground: oklch(0.98 0 0);
-  --secondary: oklch(0.94 0.01 80);
-  --secondary-foreground: oklch(0.30 0.02 240);
-  --muted: oklch(0.95 0.005 80);
-  --muted-foreground: oklch(0.50 0.01 240);
-  --accent: oklch(0.92 0.02 195);
-  --accent-foreground: oklch(0.20 0.04 195);
-  --border: oklch(0.88 0.01 80);
-  --input: oklch(0.88 0.01 80);
-  --ring: oklch(0.55 0.12 75);
-  --gold: oklch(0.55 0.12 75);
-  --gold-light: oklch(0.65 0.10 80);
-  --teal-dark: oklch(0.40 0.10 195);
+/* ===== وضع داكن ===== */
+.dark {
+  --background: oklch(0.18 0.04 52);
+  --foreground: oklch(0.92 0.01 80);
+  --card: oklch(0.22 0.05 52);
+  --card-foreground: oklch(0.92 0.01 80);
+  --popover: oklch(0.22 0.05 52);
+  --popover-foreground: oklch(0.92 0.01 80);
+  --primary: oklch(0.72 0.12 75);
+  --primary-foreground: oklch(0.18 0.04 52);
+  --secondary: oklch(0.28 0.05 52);
+  --secondary-foreground: oklch(0.85 0.01 80);
+  --muted: oklch(0.25 0.04 52);
+  --muted-foreground: oklch(0.60 0.04 60);
+  --accent: oklch(0.30 0.05 52);
+  --accent-foreground: oklch(0.90 0.01 80);
+  --destructive: oklch(0.704 0.191 22.216);
+  --destructive-foreground: oklch(0.985 0 0);
+  --border: oklch(1 0 0 / 12%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.72 0.12 75);
+  --sidebar: oklch(0.20 0.04 52);
+  --sidebar-foreground: oklch(0.85 0.01 80);
+  --sidebar-primary: oklch(0.72 0.12 75);
+  --sidebar-primary-foreground: oklch(0.18 0.04 52);
+  --sidebar-accent: oklch(0.28 0.05 52);
+  --sidebar-accent-foreground: oklch(0.85 0.01 80);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.72 0.12 75);
+  --chart-1: oklch(0.72 0.12 75);
+  --chart-2: oklch(0.65 0.12 310);
+  --chart-3: oklch(0.65 0.12 260);
+  --chart-4: oklch(0.60 0.12 155);
+  --chart-5: oklch(0.65 0.15 30);
 }
 
 @layer base {
@@ -175,37 +175,20 @@
     }
   }
 
-  /* Gold border for featured items */
-  .featured-card {
-    border: 1px solid var(--gold);
-    box-shadow: 0 0 12px oklch(0.72 0.12 75 / 0.15);
-  }
-
-  /* Islamic geometric pattern overlay */
-  .islamic-pattern {
-    background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23c9a84c' fill-opacity='0.04'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
-  }
-
   /* Scrollbar styling */
   ::-webkit-scrollbar {
     width: 6px;
     height: 6px;
   }
   ::-webkit-scrollbar-track {
-    background: oklch(0.14 0.025 240);
+    background: oklch(0.93 0.03 80);
   }
   ::-webkit-scrollbar-thumb {
-    background: oklch(0.30 0.04 240);
+    background: oklch(0.70 0.08 70);
     border-radius: 3px;
   }
   ::-webkit-scrollbar-thumb:hover {
-    background: oklch(0.72 0.12 75 / 0.5);
-  }
-
-  /* Gold divider */
-  .gold-divider {
-    height: 1px;
-    background: linear-gradient(90deg, transparent, oklch(0.72 0.12 75 / 0.5), transparent);
+    background: oklch(0.48 0.12 68);
   }
 
   /* Animate entrance */
@@ -217,16 +200,98 @@
     animation: fadeInUp 0.4s cubic-bezier(0.23, 1, 0.32, 1) forwards;
   }
 
-  /* Badge colors per category */
-  .badge-judiciary { background: oklch(0.72 0.12 75 / 0.15); color: oklch(0.82 0.10 75); border-color: oklch(0.72 0.12 75 / 0.3); }
-  .badge-systems { background: oklch(0.35 0.08 195 / 0.2); color: oklch(0.65 0.10 195); border-color: oklch(0.45 0.10 195 / 0.3); }
-  .badge-crimes { background: oklch(0.35 0.15 25 / 0.2); color: oklch(0.65 0.15 25); border-color: oklch(0.45 0.18 25 / 0.3); }
-  .badge-evidence { background: oklch(0.30 0.12 280 / 0.2); color: oklch(0.65 0.12 280); border-color: oklch(0.45 0.15 280 / 0.3); }
-  .badge-courts { background: oklch(0.30 0.10 240 / 0.2); color: oklch(0.65 0.10 240); border-color: oklch(0.45 0.12 240 / 0.3); }
-  .badge-inheritance { background: oklch(0.30 0.10 155 / 0.2); color: oklch(0.60 0.10 155); border-color: oklch(0.45 0.12 155 / 0.3); }
-  .badge-advocacy { background: oklch(0.30 0.12 310 / 0.2); color: oklch(0.65 0.12 310); border-color: oklch(0.45 0.14 310 / 0.3); }
-  .badge-hisba { background: oklch(0.35 0.08 50 / 0.2); color: oklch(0.65 0.08 50); border-color: oklch(0.48 0.10 50 / 0.3); }
-  .badge-personal { background: oklch(0.30 0.10 340 / 0.2); color: oklch(0.65 0.10 340); border-color: oklch(0.48 0.12 340 / 0.3); }
-  .badge-research { background: oklch(0.30 0.06 200 / 0.2); color: oklch(0.60 0.08 200); border-color: oklch(0.48 0.08 200 / 0.3); }
-  .badge-general { background: oklch(0.25 0.04 240 / 0.3); color: oklch(0.60 0.05 240); border-color: oklch(0.35 0.05 240 / 0.3); }
+  /* ===== شارات الأقسام — مطابقة لـ osool.dralhoshan.com ===== */
+  /* القضاء — ذهبي/بني */
+  .badge-judiciary {
+    background: oklch(0.93 0.03 80);
+    color: oklch(0.38 0.10 65);
+    border-color: oklch(0.88 0.04 78);
+  }
+  /* الأنظمة — أزرق */
+  .badge-systems {
+    background: oklch(0.93 0.04 260);
+    color: oklch(0.45 0.14 260);
+    border-color: oklch(0.85 0.05 260);
+  }
+  /* الجنايات والحدود — برتقالي/أحمر */
+  .badge-crimes {
+    background: oklch(0.94 0.05 30);
+    color: oklch(0.50 0.15 30);
+    border-color: oklch(0.88 0.06 30);
+  }
+  /* الإثبات والبينات — بنفسجي */
+  .badge-evidence {
+    background: oklch(0.93 0.04 310);
+    color: oklch(0.45 0.14 310);
+    border-color: oklch(0.85 0.05 310);
+  }
+  /* المحاكم والتقاضي — أزرق فاتح */
+  .badge-courts {
+    background: oklch(0.93 0.04 220);
+    color: oklch(0.40 0.12 220);
+    border-color: oklch(0.85 0.05 220);
+  }
+  /* الميراث والتركات — أخضر */
+  .badge-inheritance {
+    background: oklch(0.92 0.05 155);
+    color: oklch(0.40 0.12 155);
+    border-color: oklch(0.85 0.06 155);
+  }
+  /* المحاماة والوكالة — وردي */
+  .badge-advocacy {
+    background: oklch(0.93 0.04 310);
+    color: oklch(0.35 0.14 310);
+    border-color: oklch(0.85 0.05 310);
+  }
+  /* الحسبة والمظالم — برتقالي */
+  .badge-hisba {
+    background: oklch(0.94 0.04 50);
+    color: oklch(0.45 0.10 50);
+    border-color: oklch(0.87 0.05 50);
+  }
+  /* الأحوال الشخصية — وردي فاتح */
+  .badge-personal {
+    background: oklch(0.93 0.04 340);
+    color: oklch(0.45 0.12 340);
+    border-color: oklch(0.85 0.05 340);
+  }
+  /* الأبحاث والدراسات — رمادي أزرق */
+  .badge-research {
+    background: oklch(0.93 0.03 200);
+    color: oklch(0.42 0.08 200);
+    border-color: oklch(0.85 0.04 200);
+  }
+  /* عام */
+  .badge-general {
+    background: oklch(0.93 0.03 80);
+    color: oklch(0.40 0.06 60);
+    border-color: oklch(0.88 0.04 78);
+  }
+
+  /* شارات أنواع الملفات — مطابقة */
+  .badge-pdf {
+    background: oklch(0.94 0.05 30);
+    color: oklch(0.50 0.15 30);
+    border-color: oklch(0.88 0.06 30);
+  }
+  .badge-word {
+    background: oklch(0.93 0.04 260);
+    color: oklch(0.45 0.14 260);
+    border-color: oklch(0.85 0.05 260);
+  }
+  .badge-mp3 {
+    background: oklch(0.92 0.05 155);
+    color: oklch(0.40 0.12 155);
+    border-color: oklch(0.85 0.06 155);
+  }
+  .badge-mp4 {
+    background: oklch(0.93 0.04 310);
+    color: oklch(0.35 0.14 310);
+    border-color: oklch(0.85 0.05 310);
+  }
+  .badge-zip {
+    background: oklch(0.93 0.03 80);
+    color: oklch(0.38 0.10 65);
+    border-color: oklch(0.88 0.04 78);
+  }
 }

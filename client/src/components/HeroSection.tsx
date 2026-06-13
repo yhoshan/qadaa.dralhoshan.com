@@ -1,6 +1,6 @@
 /* =============================================
-   HeroSection — Dark Judicial Majesty (v2)
-   بدون صورة خلفية — خلفية داكنة نظيفة
+   HeroSection — ألوان مطابقة لـ osool.dralhoshan.com
+   خلفية بيج دافئ + ذهبي بني + بطاقات بيضاء
    الترتيب: عنوان → إحصاءات → بحث
    ============================================= */
 import { Search } from "lucide-react";
@@ -37,16 +37,15 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
   const withDownload = stats?.with_download_links?.toLocaleString("en-US") ?? "...";
 
   return (
-    <section className="relative flex flex-col items-center justify-center overflow-hidden pt-28 pb-10"
-      style={{ background: "oklch(0.12 0.02 240)" }}
+    <section
+      className="relative flex flex-col items-center justify-center overflow-hidden pt-28 pb-10"
+      style={{ background: "oklch(0.98 0.01 85)" }}
     >
-      {/* Islamic pattern overlay — very subtle */}
-      <div className="absolute inset-0 islamic-pattern opacity-10 pointer-events-none" />
-      {/* Subtle radial glow from center */}
+      {/* Subtle warm gradient overlay */}
       <div
         className="absolute inset-0 pointer-events-none"
         style={{
-          background: "radial-gradient(ellipse 80% 60% at 50% 30%, oklch(0.72 0.12 75 / 0.06) 0%, transparent 70%)",
+          background: "radial-gradient(ellipse 90% 70% at 50% 20%, oklch(0.48 0.12 68 / 0.05) 0%, transparent 70%)",
         }}
       />
 
@@ -55,66 +54,100 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
 
         {/* Title — مكنز في سطر، الباقي تحتها */}
         <h1
-          className="font-bold text-[oklch(0.95_0.01_80)] leading-tight animate-fade-in-up mb-8"
+          className="font-bold leading-tight animate-fade-in-up mb-8"
           style={{ fontFamily: "Amiri, serif", animationDelay: "0.1s" }}
         >
-          <span className="block text-5xl sm:text-6xl md:text-7xl text-[oklch(0.82_0.10_75)]">مكنز</span>
-          <span className="block text-3xl sm:text-4xl md:text-5xl mt-1">القضاء والأنظمة والمحاماة</span>
+          <span
+            className="block text-5xl sm:text-6xl md:text-7xl"
+            style={{ color: "oklch(0.18 0.04 50)" }}
+          >
+            مكنز
+          </span>
+          <span
+            className="block text-3xl sm:text-4xl md:text-5xl mt-1"
+            style={{ color: "oklch(0.48 0.12 68)", fontFamily: "Amiri, serif" }}
+          >
+            القضاء والأنظمة والمحاماة
+          </span>
         </h1>
 
-        {/* ── Stats Cards — 4 مربعات متجاورة ── */}
+        {/* ── Stats Cards — 4 مربعات متجاورة — مطابقة لـ osool ── */}
         <div
           className="grid grid-cols-2 sm:grid-cols-4 gap-3 max-w-2xl mx-auto mb-8 animate-fade-in-up"
           style={{ animationDelay: "0.2s" }}
         >
           {/* Card 1 — إجمالي المواد */}
-          <div className="rounded-xl p-4 text-center border border-[oklch(0.72_0.12_75/0.5)] bg-[oklch(0.72_0.12_75/0.12)] hover:bg-[oklch(0.72_0.12_75/0.18)] transition-colors">
+          <div
+            className="rounded-xl p-4 text-center border transition-colors hover:shadow-md"
+            style={{
+              background: "oklch(0.93 0.03 80)",
+              borderColor: "oklch(0.88 0.04 78)",
+            }}
+          >
             <div
-              className="text-2xl sm:text-3xl font-bold text-[oklch(0.92_0.01_80)]"
-              style={{ fontFamily: "Tajawal, sans-serif" }}
+              className="text-2xl sm:text-3xl font-bold"
+              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
             >
               {totalItems}
             </div>
-            <div className="text-xs text-[oklch(0.65_0.01_240)] mt-1" style={{ fontFamily: "Cairo, sans-serif" }}>
+            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
               إجمالي المواد
             </div>
           </div>
 
           {/* Card 2 — لها روابط تحميل */}
-          <div className="rounded-xl p-4 text-center border border-[oklch(0.55_0.12_195/0.5)] bg-[oklch(0.55_0.12_195/0.10)] hover:bg-[oklch(0.55_0.12_195/0.16)] transition-colors">
+          <div
+            className="rounded-xl p-4 text-center border transition-colors hover:shadow-md"
+            style={{
+              background: "oklch(0.93 0.04 260)",
+              borderColor: "oklch(0.85 0.05 260)",
+            }}
+          >
             <div
-              className="text-2xl sm:text-3xl font-bold text-[oklch(0.92_0.01_80)]"
-              style={{ fontFamily: "Tajawal, sans-serif" }}
+              className="text-2xl sm:text-3xl font-bold"
+              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
             >
               {withDownload}
             </div>
-            <div className="text-xs text-[oklch(0.65_0.01_240)] mt-1" style={{ fontFamily: "Cairo, sans-serif" }}>
+            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.45 0.14 260)" }}>
               لها روابط تحميل
             </div>
           </div>
 
           {/* Card 3 — أقسام متخصصة */}
-          <div className="rounded-xl p-4 text-center border border-[oklch(0.55_0.15_25/0.5)] bg-[oklch(0.55_0.15_25/0.10)] hover:bg-[oklch(0.55_0.15_25/0.16)] transition-colors">
+          <div
+            className="rounded-xl p-4 text-center border transition-colors hover:shadow-md"
+            style={{
+              background: "oklch(0.94 0.05 30)",
+              borderColor: "oklch(0.88 0.06 30)",
+            }}
+          >
             <div
-              className="text-2xl sm:text-3xl font-bold text-[oklch(0.92_0.01_80)]"
-              style={{ fontFamily: "Tajawal, sans-serif" }}
+              className="text-2xl sm:text-3xl font-bold"
+              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
             >
               14
             </div>
-            <div className="text-xs text-[oklch(0.65_0.01_240)] mt-1" style={{ fontFamily: "Cairo, sans-serif" }}>
+            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.50 0.15 30)" }}>
               أقسام متخصصة
             </div>
           </div>
 
           {/* Card 4 — مصادر ومكتبات */}
-          <div className="rounded-xl p-4 text-center border border-[oklch(0.55_0.12_280/0.5)] bg-[oklch(0.55_0.12_280/0.10)] hover:bg-[oklch(0.55_0.12_280/0.16)] transition-colors">
+          <div
+            className="rounded-xl p-4 text-center border transition-colors hover:shadow-md"
+            style={{
+              background: "oklch(0.92 0.05 155)",
+              borderColor: "oklch(0.85 0.06 155)",
+            }}
+          >
             <div
-              className="text-2xl sm:text-3xl font-bold text-[oklch(0.92_0.01_80)]"
-              style={{ fontFamily: "Tajawal, sans-serif" }}
+              className="text-2xl sm:text-3xl font-bold"
+              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
             >
               8+
             </div>
-            <div className="text-xs text-[oklch(0.65_0.01_240)] mt-1" style={{ fontFamily: "Cairo, sans-serif" }}>
+            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.40 0.12 155)" }}>
               مصادر ومكتبات
             </div>
           </div>
@@ -128,12 +161,16 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
           <div
             className={`flex items-center rounded-xl border transition-all duration-300 overflow-hidden ${
               focused
-                ? "border-[oklch(0.72_0.12_75/0.8)] shadow-[0_0_24px_oklch(0.72_0.12_75/0.2)]"
-                : "border-[oklch(0.28_0.04_240)]"
-            } bg-[oklch(0.16_0.025_240)]`}
+                ? "shadow-[0_0_20px_oklch(0.48_0.12_68/0.2)]"
+                : ""
+            }`}
+            style={{
+              borderColor: focused ? "oklch(0.48 0.12 68)" : "oklch(0.88 0.04 78)",
+              background: "oklch(1 0 0)",
+            }}
           >
             <div className="flex items-center pr-4 pl-2">
-              <Search className="w-5 h-5 text-[oklch(0.72_0.12_75)]" />
+              <Search className="w-5 h-5" style={{ color: "oklch(0.48 0.12 68)" }} />
             </div>
             <input
               ref={inputRef}
@@ -144,28 +181,46 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
               onFocus={() => setFocused(true)}
               onBlur={() => setFocused(false)}
               placeholder="ابحث في عناوين الكتب، المؤلفين، الأقسام... (الهمزات لا تؤثر في البحث)"
-              className="flex-1 bg-transparent py-4 text-[oklch(0.92_0.01_80)] placeholder-[oklch(0.40_0.01_240)] text-sm outline-none"
-              style={{ fontFamily: "Cairo, sans-serif", direction: "rtl" }}
+              className="flex-1 bg-transparent py-4 text-sm outline-none"
+              style={{
+                fontFamily: "Cairo, sans-serif",
+                direction: "rtl",
+                color: "oklch(0.18 0.04 50)",
+              }}
             />
             {searchValue && (
               <button
                 onClick={() => onSearchChange("")}
-                className="px-3 text-[oklch(0.50_0.01_240)] hover:text-[oklch(0.72_0.12_75)] transition-colors text-lg"
+                className="px-3 text-lg transition-colors"
+                style={{ color: "oklch(0.52 0.06 60)" }}
               >
                 ×
               </button>
             )}
             <button
               onClick={onSearchSubmit}
-              className="px-6 py-4 bg-[oklch(0.72_0.12_75)] text-[oklch(0.12_0.02_240)] font-bold text-sm hover:bg-[oklch(0.78_0.12_75)] transition-colors"
-              style={{ fontFamily: "Cairo, sans-serif" }}
+              className="px-6 py-4 font-bold text-sm transition-colors hover:opacity-90"
+              style={{
+                fontFamily: "Cairo, sans-serif",
+                background: "rgb(139, 105, 20)",
+                color: "white",
+              }}
             >
               بحث
             </button>
           </div>
-          <p className="text-[10px] text-[oklch(0.38_0.01_240)] mt-2 text-center" style={{ fontFamily: "Tajawal, sans-serif" }}>
+          <p className="text-[10px] mt-2 text-center" style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.60 0.04 60)" }}>
             اضغط{" "}
-            <kbd className="px-1.5 py-0.5 rounded bg-[oklch(0.20_0.03_240)] border border-[oklch(0.25_0.03_240)] text-[oklch(0.55_0.01_240)] font-mono">/</kbd>
+            <kbd
+              className="px-1.5 py-0.5 rounded font-mono"
+              style={{
+                background: "oklch(0.93 0.03 80)",
+                border: "1px solid oklch(0.88 0.04 78)",
+                color: "oklch(0.48 0.12 68)",
+              }}
+            >
+              /
+            </kbd>
             {" "}للبحث السريع
           </p>
         </div>

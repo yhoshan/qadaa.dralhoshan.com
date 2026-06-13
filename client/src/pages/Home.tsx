@@ -1,9 +1,9 @@
 /* =============================================
    Home Page — مكنز القضاء والأنظمة والمحاماة
-   Dark Judicial Majesty Design
-   React 19 + TypeScript + Tailwind CSS 4
+   ألوان مطابقة لـ osool.dralhoshan.com
+   خلفية بيج دافئ + ذهبي بني + بطاقات بيضاء
    ============================================= */
-import { useState, useMemo, useCallback, useRef, useEffect } from "react";
+import { useState, useMemo, useCallback, useRef } from "react";
 import { useItems, useFilteredItems, type FilterState } from "@/hooks/useItems";
 import Navbar from "@/components/Navbar";
 import HeroSection from "@/components/HeroSection";
@@ -24,6 +24,13 @@ const DEFAULT_FILTERS: FilterState = {
   has_download: false,
   sort: "default",
 };
+
+const WARM_BG = "oklch(0.98 0.01 85)";
+const CARD_BG = "oklch(0.93 0.03 80)";
+const BORDER_COLOR = "oklch(0.88 0.04 78)";
+const TEXT_MUTED = "oklch(0.52 0.06 60)";
+const GOLD = "rgb(139, 105, 20)";
+const TEXT_DARK = "oklch(0.18 0.04 50)";
 
 export default function Home() {
   const { items, stats, loading, error } = useItems();
@@ -117,40 +124,57 @@ export default function Home() {
   // Pagination component
   const Pagination = () => {
     if (totalPages <= 1) return null;
-    const pages = [];
+    const pageNums: number[] = [];
     const maxVisible = 5;
     let start = Math.max(1, page - Math.floor(maxVisible / 2));
     let end = Math.min(totalPages, start + maxVisible - 1);
     if (end - start < maxVisible - 1) start = Math.max(1, end - maxVisible + 1);
+    for (let i = start; i <= end; i++) pageNums.push(i);
 
-    for (let i = start; i <= end; i++) pages.push(i);
+    const btnBase: React.CSSProperties = {
+      background: CARD_BG,
+      border: `1px solid ${BORDER_COLOR}`,
+      color: TEXT_MUTED,
+      borderRadius: "0.5rem",
+      width: "2.25rem",
+      height: "2.25rem",
+      display: "flex",
+      alignItems: "center",
+      justifyContent: "center",
+      fontSize: "0.875rem",
+      cursor: "pointer",
+      transition: "opacity 0.15s",
+    };
+    const btnActive: React.CSSProperties = {
+      ...btnBase,
+      background: GOLD,
+      border: `1px solid ${GOLD}`,
+      color: "white",
+      fontWeight: "bold",
+    };
 
     return (
       <div className="flex items-center justify-center gap-1 mt-8" style={{ fontFamily: "Tajawal, sans-serif" }}>
         <button
           onClick={() => handlePageChange(page - 1)}
           disabled={page === 1}
-          className="w-9 h-9 rounded-lg bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] text-[oklch(0.60_0.01_240)] hover:border-[oklch(0.72_0.12_75/0.4)] disabled:opacity-30 flex items-center justify-center transition-colors"
+          style={{ ...btnBase, opacity: page === 1 ? 0.3 : 1 }}
         >
           <ChevronRight className="w-4 h-4" />
         </button>
 
         {start > 1 && (
           <>
-            <button onClick={() => handlePageChange(1)} className="w-9 h-9 rounded-lg bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] text-[oklch(0.60_0.01_240)] hover:border-[oklch(0.72_0.12_75/0.4)] text-sm transition-colors">1</button>
-            {start > 2 && <span className="text-[oklch(0.40_0.01_240)]">...</span>}
+            <button onClick={() => handlePageChange(1)} style={btnBase}>1</button>
+            {start > 2 && <span style={{ color: TEXT_MUTED }}>...</span>}
           </>
         )}
 
-        {pages.map((p) => (
+        {pageNums.map((p) => (
           <button
             key={p}
             onClick={() => handlePageChange(p)}
-            className={`w-9 h-9 rounded-lg border text-sm transition-all ${
-              p === page
-                ? "bg-[oklch(0.72_0.12_75)] border-[oklch(0.72_0.12_75)] text-[oklch(0.12_0.02_240)] font-bold"
-                : "bg-[oklch(0.18_0.025_240)] border-[oklch(0.25_0.03_240)] text-[oklch(0.60_0.01_240)] hover:border-[oklch(0.72_0.12_75/0.4)]"
-            }`}
+            style={p === page ? btnActive : btnBase}
           >
             {p}
           </button>
@@ -158,15 +182,15 @@ export default function Home() {
 
         {end < totalPages && (
           <>
-            {end < totalPages - 1 && <span className="text-[oklch(0.40_0.01_240)]">...</span>}
-            <button onClick={() => handlePageChange(totalPages)} className="w-9 h-9 rounded-lg bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] text-[oklch(0.60_0.01_240)] hover:border-[oklch(0.72_0.12_75/0.4)] text-sm transition-colors">{totalPages}</button>
+            {end < totalPages - 1 && <span style={{ color: TEXT_MUTED }}>...</span>}
+            <button onClick={() => handlePageChange(totalPages)} style={btnBase}>{totalPages}</button>
           </>
         )}
 
         <button
           onClick={() => handlePageChange(page + 1)}
           disabled={page === totalPages}
-          className="w-9 h-9 rounded-lg bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] text-[oklch(0.60_0.01_240)] hover:border-[oklch(0.72_0.12_75/0.4)] disabled:opacity-30 flex items-center justify-center transition-colors"
+          style={{ ...btnBase, opacity: page === totalPages ? 0.3 : 1 }}
         >
           <ChevronLeft className="w-4 h-4" />
         </button>
@@ -175,7 +199,7 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen bg-[oklch(0.12_0.02_240)]">
+    <div className="min-h-screen" style={{ background: WARM_BG }}>
       <Navbar />
 
       {/* Hero */}
@@ -204,15 +228,15 @@ export default function Home() {
       <main ref={resultsRef} className="container py-8">
         {loading ? (
           <div className="flex flex-col items-center justify-center py-24 gap-4">
-            <Loader2 className="w-10 h-10 text-[oklch(0.72_0.12_75)] animate-spin" />
-            <p className="text-[oklch(0.55_0.01_240)]" style={{ fontFamily: "Cairo, sans-serif" }}>
+            <Loader2 className="w-10 h-10 animate-spin" style={{ color: GOLD }} />
+            <p style={{ fontFamily: "Cairo, sans-serif", color: TEXT_MUTED }}>
               جارٍ تحميل المكنز...
             </p>
           </div>
         ) : error ? (
           <div className="flex flex-col items-center justify-center py-24 gap-4">
-            <AlertCircle className="w-10 h-10 text-[oklch(0.55_0.22_25)]" />
-            <p className="text-[oklch(0.55_0.01_240)]" style={{ fontFamily: "Cairo, sans-serif" }}>
+            <AlertCircle className="w-10 h-10" style={{ color: "oklch(0.55 0.22 25)" }} />
+            <p style={{ fontFamily: "Cairo, sans-serif", color: TEXT_MUTED }}>
               حدث خطأ في تحميل البيانات
             </p>
           </div>
@@ -222,20 +246,33 @@ export default function Home() {
             <div className="flex items-center justify-between mb-6 gap-3 flex-wrap">
               <div className="flex items-center gap-2">
                 <h2
-                  className="text-lg font-bold text-[oklch(0.85_0.01_80)]"
-                  style={{ fontFamily: "Amiri, serif" }}
+                  className="text-lg font-bold"
+                  style={{ fontFamily: "Amiri, serif", color: TEXT_DARK }}
                 >
                   {filters.category !== "all" ? filters.category : "جميع المواد"}
                 </h2>
-                <span className="text-xs text-[oklch(0.50_0.01_240)] bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] px-2 py-0.5 rounded-full" style={{ fontFamily: "Tajawal, sans-serif" }}>
+                <span
+                  className="text-xs px-2 py-0.5 rounded-full"
+                  style={{
+                    fontFamily: "Tajawal, sans-serif",
+                    background: CARD_BG,
+                    border: `1px solid ${BORDER_COLOR}`,
+                    color: TEXT_MUTED,
+                  }}
+                >
                   {filteredItems.length.toLocaleString("en-US")} مادة
                 </span>
               </div>
               <div className="flex items-center gap-2">
                 <button
                   onClick={copyFilterUrl}
-                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-[oklch(0.18_0.025_240)] border border-[oklch(0.25_0.03_240)] text-xs text-[oklch(0.60_0.01_240)] hover:text-[oklch(0.72_0.12_75)] hover:border-[oklch(0.72_0.12_75/0.3)] transition-colors"
-                  style={{ fontFamily: "Cairo, sans-serif" }}
+                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs transition-all hover:opacity-80"
+                  style={{
+                    fontFamily: "Cairo, sans-serif",
+                    background: CARD_BG,
+                    border: `1px solid ${BORDER_COLOR}`,
+                    color: TEXT_MUTED,
+                  }}
                 >
                   <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
                     <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
@@ -245,8 +282,12 @@ export default function Home() {
                 </button>
                 <button
                   onClick={exportToExcel}
-                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg bg-[oklch(0.72_0.12_75/0.1)] border border-[oklch(0.72_0.12_75/0.3)] text-xs text-[oklch(0.82_0.10_75)] hover:bg-[oklch(0.72_0.12_75/0.2)] transition-colors"
-                  style={{ fontFamily: "Cairo, sans-serif" }}
+                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs transition-all hover:opacity-80"
+                  style={{
+                    fontFamily: "Cairo, sans-serif",
+                    background: GOLD,
+                    color: "white",
+                  }}
                 >
                   <FileDown className="w-3.5 h-3.5" />
                   تصدير Excel
@@ -257,10 +298,10 @@ export default function Home() {
             {/* Cards Grid */}
             {currentItems.length === 0 ? (
               <div className="text-center py-20">
-                <p className="text-[oklch(0.50_0.01_240)] text-lg mb-2" style={{ fontFamily: "Amiri, serif" }}>
+                <p className="text-lg mb-2" style={{ fontFamily: "Amiri, serif", color: TEXT_MUTED }}>
                   لم يُعثر على نتائج
                 </p>
-                <p className="text-[oklch(0.40_0.01_240)] text-sm" style={{ fontFamily: "Cairo, sans-serif" }}>
+                <p className="text-sm" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.65 0.03 60)" }}>
                   جرّب البحث بكلمات مختلفة أو تغيير الفلاتر
                 </p>
               </div>
@@ -287,12 +328,13 @@ export default function Home() {
             {/* Page info */}
             {totalPages > 1 && (
               <p
-                className="text-center text-xs text-[oklch(0.40_0.01_240)] mt-4"
-                style={{ fontFamily: "Tajawal, sans-serif" }}
+                className="text-center text-xs mt-4"
+                style={{ fontFamily: "Tajawal, sans-serif", color: TEXT_MUTED }}
               >
                 صفحة {page} من {totalPages.toLocaleString("en-US")}
                 {" — "}
-                عرض {((page - 1) * PAGE_SIZE + 1).toLocaleString("en-US")} إلى {Math.min(page * PAGE_SIZE, filteredItems.length).toLocaleString("en-US")}
+                عرض {((page - 1) * PAGE_SIZE + 1).toLocaleString("en-US")} إلى{" "}
+                {Math.min(page * PAGE_SIZE, filteredItems.length).toLocaleString("en-US")}
               </p>
             )}
           </>
