@@ -125,7 +125,7 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
               onKeyDown={handleKeyDown}
               onFocus={() => setFocused(true)}
               onBlur={() => setFocused(false)}
-              placeholder="ابحث في عناوين الكتب، المؤلفين، الأقسام... (الهمزات لا تؤثر في البحث)"
+              placeholder="ابحث في عناوين الكتب، المؤلفين، الأقسام..."
               className="flex-1 bg-transparent py-4 text-sm outline-none"
               style={{
                 fontFamily: "Cairo, sans-serif",
