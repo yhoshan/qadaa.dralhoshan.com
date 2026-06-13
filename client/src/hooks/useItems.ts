@@ -27,6 +27,9 @@ export interface Stats {
   file_types: Record<string, number>;
   featured_count: number;
   with_download_links: number;
+  qadaa_count?: number;
+  nizam_count?: number;
+  mohama_count?: number;
 }
 
 // تطبيع النص العربي لإلغاء تأثير الهمزات
@@ -48,8 +51,8 @@ export function useItems() {
 
   useEffect(() => {
     Promise.all([
-      fetch(`/items.json?v=stats-fix-01`).then((r) => r.json()),
-      fetch(`/stats.json?v=stats-fix-01`).then((r) => r.json()),
+      fetch(`/items.json?v=alex3944`).then((r) => r.json()),
+      fetch(`/stats.json?v=alex3944`).then((r) => r.json()),
     ])
       .then(([itemsData, statsData]) => {
         setItems(itemsData);
