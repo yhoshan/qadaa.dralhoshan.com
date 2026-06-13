@@ -76,81 +76,26 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
           className="grid grid-cols-2 sm:grid-cols-4 gap-3 max-w-2xl mx-auto mb-8 animate-fade-in-up"
           style={{ animationDelay: "0.2s" }}
         >
-          {/* Card 1 — إجمالي المواد */}
-          <div
-            className="rounded-xl p-4 text-center border transition-colors hover:shadow-md"
-            style={{
-              background: "oklch(0.93 0.03 80)",
-              borderColor: "oklch(0.88 0.04 78)",
-            }}
-          >
+          {[{num: totalItems, label: "إجمالي المواد"}, {num: withDownload, label: "لها روابط تحميل"}, {num: "14", label: "أقسام متخصصة"}, {num: "8+", label: "مصادر ومكتبات"}].map((card) => (
             <div
-              className="text-2xl sm:text-3xl font-bold"
-              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
+              key={card.label}
+              className="rounded-xl p-4 text-center border transition-all hover:shadow-md hover:scale-[1.02]"
+              style={{
+                background: "oklch(0.93 0.03 80)",
+                borderColor: "oklch(0.88 0.04 78)",
+              }}
             >
-              {totalItems}
+              <div
+                className="text-2xl sm:text-3xl font-bold"
+                style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
+              >
+                {card.num}
+              </div>
+              <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
+                {card.label}
+              </div>
             </div>
-            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
-              إجمالي المواد
-            </div>
-          </div>
-
-          {/* Card 2 — لها روابط تحميل */}
-          <div
-            className="rounded-xl p-4 text-center border transition-colors hover:shadow-md"
-            style={{
-              background: "oklch(0.93 0.04 260)",
-              borderColor: "oklch(0.85 0.05 260)",
-            }}
-          >
-            <div
-              className="text-2xl sm:text-3xl font-bold"
-              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
-            >
-              {withDownload}
-            </div>
-            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.45 0.14 260)" }}>
-              لها روابط تحميل
-            </div>
-          </div>
-
-          {/* Card 3 — أقسام متخصصة */}
-          <div
-            className="rounded-xl p-4 text-center border transition-colors hover:shadow-md"
-            style={{
-              background: "oklch(0.94 0.05 30)",
-              borderColor: "oklch(0.88 0.06 30)",
-            }}
-          >
-            <div
-              className="text-2xl sm:text-3xl font-bold"
-              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
-            >
-              14
-            </div>
-            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.50 0.15 30)" }}>
-              أقسام متخصصة
-            </div>
-          </div>
-
-          {/* Card 4 — مصادر ومكتبات */}
-          <div
-            className="rounded-xl p-4 text-center border transition-colors hover:shadow-md"
-            style={{
-              background: "oklch(0.92 0.05 155)",
-              borderColor: "oklch(0.85 0.06 155)",
-            }}
-          >
-            <div
-              className="text-2xl sm:text-3xl font-bold"
-              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
-            >
-              8+
-            </div>
-            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.40 0.12 155)" }}>
-              مصادر ومكتبات
-            </div>
-          </div>
+          ))}
         </div>
 
         {/* ── Search Box ── */}
