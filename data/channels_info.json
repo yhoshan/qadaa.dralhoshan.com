@@ -1,0 +1,115 @@
+{
+  "main_channel": {
+    "name": "مفضلة اللجان شبه القضائية",
+    "description": "قناة تيليجرام متخصصة في اللجان شبه القضائية والمبادئ القضائية",
+    "link": "https://t.me/+some_channel"
+  },
+  "forwarded_sources": [
+    {
+      "name": "المستشارون السعوديون ⚖️",
+      "link": "https://t.me/saudiattorneys",
+      "count": 72
+    },
+    {
+      "name": "المكتبة القانونية",
+      "link": "https://t.me/Ymtaz",
+      "count": 11
+    },
+    {
+      "name": "أصدقاء SaudiAttorneys",
+      "link": "https://t.me/saudiattorneys",
+      "count": 8
+    },
+    {
+      "name": "ألق للدورات القانونية 🎧",
+      "link": "https://t.me/AlaqPlatform",
+      "count": 6
+    },
+    {
+      "name": "مدونة نظام المعاملات ⚖️",
+      "link": "https://t.me/+some_channel",
+      "count": 4
+    },
+    {
+      "name": "أنفوجرافيك و TV القانون",
+      "link": "https://t.me/+some_channel",
+      "count": 4
+    },
+    {
+      "name": "⚖ ألق | وظائف القانون ⚖️",
+      "link": "https://t.me/AlaqPlatform",
+      "count": 3
+    },
+    {
+      "name": "منصَّة ألق الإلكترونية",
+      "link": "https://t.me/AlaqPlatform",
+      "count": 2
+    },
+    {
+      "name": "منصة المدرّب القانوني",
+      "link": "https://t.me/+some_channel",
+      "count": 2
+    },
+    {
+      "name": "مفضلة ناجز ومعين",
+      "link": "https://t.me/+some_channel",
+      "count": 2
+    },
+    {
+      "name": "مفضلة نظام التحكيم",
+      "link": "https://t.me/+some_channel",
+      "count": 1
+    },
+    {
+      "name": "مفضلة المرافعات والإثبات",
+      "link": "https://t.me/+some_channel",
+      "count": 1
+    },
+    {
+      "name": "مفضلة القضاء الإداري",
+      "link": "https://t.me/+some_channel",
+      "count": 1
+    },
+    {
+      "name": "مفضلة أنظمة العمل ⚖️",
+      "link": "https://t.me/+some_channel",
+      "count": 1
+    },
+    {
+      "name": "دليل الأنظمة السعودية",
+      "link": "https://t.me/+some_channel",
+      "count": 1
+    },
+    {
+      "name": "⚖️ الأنظمة التجارية والمالية",
+      "link": "https://t.me/+some_channel",
+      "count": 1
+    },
+    {
+      "name": "مفضلة الأنظمة الطبية",
+      "link": "https://t.me/+some_channel",
+      "count": 1
+    },
+    {
+      "name": "مفضلة المرور والتأمين",
+      "link": "https://t.me/+some_channel",
+      "count": 1
+    },
+    {
+      "name": "الموثق احمد المقبلي",
+      "link": "https://t.me/+some_channel",
+      "count": 1
+    }
+  ],
+  "telegram_channels": [
+    "https://t.me/saudiattorneys",
+    "https://t.me/Ymtaz",
+    "https://t.me/AlaqPlatform"
+  ],
+  "websites": [
+    "https://ymtaz.sa",
+    "https://qadha.org.sa",
+    "https://sasl.sba.gov.sa",
+    "https://www.moj.gov.sa"
+  ]
+}
