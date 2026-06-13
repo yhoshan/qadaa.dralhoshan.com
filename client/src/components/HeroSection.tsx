@@ -78,6 +78,27 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
           className="flex flex-wrap justify-center gap-3 max-w-2xl mx-auto mb-8 animate-fade-in-up"
           style={{ animationDelay: "0.2s" }}
         >
+          {/* إجمالي المواد — أولاً بنفس حجم ولون بقية المربعات */}
+          <div
+            className="rounded-xl px-6 py-4 text-center border transition-all hover:shadow-md hover:scale-[1.02] min-w-[130px]"
+            style={{
+              background: "oklch(0.93 0.03 80)",
+              borderColor: "oklch(0.88 0.04 78)",
+            }}
+          >
+            <div
+              className="text-2xl sm:text-3xl font-bold"
+              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
+            >
+              {totalItems}
+            </div>
+            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
+              إجمالي المواد
+            </div>
+          </div>
+
+          {/* spacer invisible — removed dark card */}
+
           {/* القضاء */}
           <div
             className="rounded-xl px-6 py-4 text-center border transition-all hover:shadow-md hover:scale-[1.02] min-w-[130px]"
@@ -132,25 +153,6 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
             </div>
             <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
               المحاماة
-            </div>
-          </div>
-
-          {/* إجمالي المواد — أكبر وبارز في آخر اليسار */}
-          <div
-            className="rounded-xl px-8 py-4 text-center border-2 transition-all hover:shadow-lg hover:scale-[1.02] min-w-[160px]"
-            style={{
-              background: "oklch(0.48 0.12 68)",
-              borderColor: "oklch(0.42 0.14 65)",
-            }}
-          >
-            <div
-              className="text-3xl sm:text-4xl font-bold"
-              style={{ fontFamily: "Tajawal, sans-serif", color: "white" }}
-            >
-              {totalItems}
-            </div>
-            <div className="text-sm mt-1 font-semibold" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.92 0.04 80)" }}>
-              إجمالي المواد
             </div>
           </div>
         </div>
