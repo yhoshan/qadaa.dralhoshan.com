@@ -59,7 +59,7 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
         >
           <span
             className="block text-5xl sm:text-6xl md:text-7xl"
-            style={{ color: "oklch(0.18 0.04 50)" }}
+            style={{ color: "oklch(0.48 0.12 68)" }}
           >
             مكنز
           </span>

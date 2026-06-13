@@ -350,6 +350,24 @@ export default function FilterBar(props: FilterBarProps) {
             {props.fileTypes.map((t) => <option key={t} value={t}>{t}</option>)}
           </select>
 
+          <select
+            value={filters.source}
+            onChange={(e) => onFiltersChange({ source: e.target.value })}
+            className="rounded-lg px-3 py-1.5 text-xs outline-none"
+            style={{
+              fontFamily: "Cairo, sans-serif",
+              background: "oklch(1 0 0)",
+              border: "1px solid oklch(0.88 0.04 78)",
+              color: "oklch(0.38 0.10 65)",
+              maxWidth: "160px",
+            }}
+          >
+            <option value="all">المصدر: الكل</option>
+            {props.sources.slice(0, 20).map((s) => (
+              <option key={s} value={s}>{s.length > 30 ? s.slice(0, 30) + "…" : s}</option>
+            ))}
+          </select>
+
           <label className="flex items-center gap-2 cursor-pointer">
             <div
               onClick={() => onFiltersChange({ has_download: !filters.has_download })}

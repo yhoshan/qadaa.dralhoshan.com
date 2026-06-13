@@ -51,23 +51,15 @@ export default function Navbar() {
               alt="د. يوسف بن حمود الحوشان"
               className="h-8 w-auto object-contain"
               style={{
-                filter: "invert(1) brightness(2) drop-shadow(0 1px 3px rgba(0,0,0,0.6))",
+                filter: isDark
+                  ? "invert(1) brightness(2) drop-shadow(0 1px 3px rgba(0,0,0,0.6))"
+                  : "brightness(0) saturate(100%) opacity(0.75)",
               }}
             />
           </a>
 
-          {/* Center: Title */}
-          <div className="hidden sm:block text-center">
-            <h1
-              className="text-sm font-bold leading-tight"
-              style={{
-                fontFamily: "Amiri, serif",
-                color: isDark ? "oklch(0.92 0.01 80)" : "oklch(0.18 0.04 50)",
-              }}
-            >
-              مكنز القضاء والأنظمة والمحاماة
-            </h1>
-          </div>
+          {/* Center: empty spacer */}
+          <div className="flex-1" />
 
           {/* Left: Dark Mode Toggle */}
           <div className="flex items-center gap-2">
