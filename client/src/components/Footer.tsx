@@ -229,27 +229,22 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Bottom bar */}
+          {/* Bottom bar: Copyright (right) | Logo (center) | Signature (left) */}
           <div
             className="flex flex-col sm:flex-row items-center justify-between gap-4 pt-4"
             style={{ borderTop: `1px solid ${BORDER_COLOR}` }}
           >
-            {/* Signature */}
-            <a
-              href="https://dralhoshan.com/"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="opacity-80 hover:opacity-100 transition-opacity"
+            {/* Copyright — right side (RTL: first child) */}
+            <p
+              className="text-xs text-center"
+              style={{ fontFamily: "Tajawal, sans-serif", color: TEXT_LIGHT }}
             >
-              <img
-                src="/manus-storage/signature-hoshan_0c8875c4.webp"
-                alt="د. يوسف بن حمود الحوشان"
-                className="h-12 w-auto object-contain"
-                style={{ filter: "brightness(0) saturate(100%) sepia(60%) hue-rotate(5deg) saturate(200%)" }}
-              />
-            </a>
+              جميع الحقوق محفوظة © 2026
+              <br />
+              مكنز القضاء والأنظمة والمحاماة — د. يوسف بن حمود الحوشان
+            </p>
 
-            {/* Makanez Logo */}
+            {/* Makanez Logo — center */}
             <a
               href="https://dralhoshan.com/"
               target="_blank"
@@ -264,15 +259,20 @@ export default function Footer() {
               />
             </a>
 
-            {/* Copyright */}
-            <p
-              className="text-xs text-center"
-              style={{ fontFamily: "Tajawal, sans-serif", color: TEXT_LIGHT }}
+            {/* Signature — left side (RTL: last child) */}
+            <a
+              href="https://dralhoshan.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="opacity-80 hover:opacity-100 transition-opacity"
             >
-              جميع الحقوق محفوظة © 2026
-              <br />
-              مكنز القضاء والأنظمة والمحاماة — د. يوسف بن حمود الحوشان
-            </p>
+              <img
+                src="/manus-storage/signature-hoshan_0c8875c4.webp"
+                alt="د. يوسف بن حمود الحوشان"
+                className="h-12 w-auto object-contain"
+                style={{ filter: "invert(1) brightness(2)" }}
+              />
+            </a>
           </div>
         </div>
       </div>

@@ -49,11 +49,9 @@ export default function Navbar() {
             <img
               src="/manus-storage/signature-hoshan_0c8875c4.webp"
               alt="د. يوسف بن حمود الحوشان"
-              className="h-10 w-auto object-contain"
+              className="h-8 w-auto object-contain"
               style={{
-                filter: isDark
-                  ? "invert(1) brightness(2)"
-                  : "brightness(0) saturate(100%)",
+                filter: "invert(1) brightness(2) drop-shadow(0 1px 3px rgba(0,0,0,0.6))",
               }}
             />
           </a>
