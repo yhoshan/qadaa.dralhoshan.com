@@ -48,8 +48,8 @@ export function useItems() {
 
   useEffect(() => {
     Promise.all([
-      fetch("/items.json").then((r) => r.json()),
-      fetch("/stats.json").then((r) => r.json()),
+      fetch(`/items.json?v=94fb9875`).then((r) => r.json()),
+      fetch(`/stats.json?v=94fb9875`).then((r) => r.json()),
     ])
       .then(([itemsData, statsData]) => {
         setItems(itemsData);
