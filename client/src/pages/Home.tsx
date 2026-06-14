@@ -11,6 +11,7 @@ import FilterBar from "@/components/FilterBar";
 import ItemCard from "@/components/ItemCard";
 import Footer from "@/components/Footer";
 import { Loader2, FileDown, AlertCircle, ChevronRight, ChevronLeft } from "lucide-react";
+import JournalsSection from "@/components/JournalsSection";
 import { toast } from "sonner";
 
 const PAGE_SIZE = 24;
@@ -224,6 +225,19 @@ export default function Home() {
         />
       )}
 
+      {/* Journals Section */}
+      {!loading && (
+        <JournalsSection
+          onFilterBySource={(value) => {
+            handleFiltersChange({ search: value, source: "all", category: "all" });
+            setTimeout(() => resultsRef.current?.scrollIntoView({ behavior: "smooth" }), 100);
+          }}
+          onFilterByCategory={(category) => {
+            handleFiltersChange({ category, source: "all", search: "" });
+            setTimeout(() => resultsRef.current?.scrollIntoView({ behavior: "smooth" }), 100);
+          }}
+        />
+      )}
       {/* Results Section */}
       <main ref={resultsRef} className="container py-8">
         {loading ? (
