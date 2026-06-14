@@ -233,21 +233,21 @@ export default function FilterBar(props: FilterBarProps) {
             <span className="mr-1">مادة</span>
           </div>
 
-          {/* Quick category tabs - desktop */}
+          {/* Quick source tabs - desktop */}
           <div className="hidden lg:flex items-center gap-1 overflow-x-auto flex-1 mx-4">
-            {["all", ...props.categories.slice(0, 7)].map((cat) => (
+            {["all", ...props.sources.slice(0, 7)].map((src) => (
               <button
-                key={cat}
-                onClick={() => onFiltersChange({ category: cat })}
+                key={src}
+                onClick={() => onFiltersChange({ source: src })}
                 className="px-3 py-1.5 rounded-lg text-xs whitespace-nowrap transition-all"
                 style={{
                   fontFamily: "Cairo, sans-serif",
-                  background: filters.category === cat ? "rgb(139, 105, 20)" : "transparent",
-                  color: filters.category === cat ? "white" : "oklch(0.52 0.06 60)",
-                  fontWeight: filters.category === cat ? "bold" : "normal",
+                  background: filters.source === src ? "rgb(139, 105, 20)" : "transparent",
+                  color: filters.source === src ? "white" : "oklch(0.52 0.06 60)",
+                  fontWeight: filters.source === src ? "bold" : "normal",
                 }}
               >
-                {cat === "all" ? "جميع التصنيفات" : cat}
+                {src === "all" ? "جميع المصادر" : src}
               </button>
             ))}
           </div>
