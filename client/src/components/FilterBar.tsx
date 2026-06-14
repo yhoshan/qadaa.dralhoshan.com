@@ -235,7 +235,7 @@ export default function FilterBar(props: FilterBarProps) {
 
           {/* Quick source tabs - desktop */}
           <div className="hidden lg:flex items-center gap-1 overflow-x-auto flex-1 mx-4">
-            {["all", ...props.sources.slice(0, 7)].map((src) => (
+            {["all", ...props.sources.slice(0, 8)].map((src) => (
               <button
                 key={src}
                 onClick={() => onFiltersChange({ source: src })}
