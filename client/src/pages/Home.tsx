@@ -211,6 +211,19 @@ export default function Home() {
         onSearchSubmit={handleSearchSubmit}
       />
 
+            {/* Journals Section — مباشرة تحت المربعات */}
+      {!loading && (
+        <JournalsSection
+          onFilterBySource={(value) => {
+            handleFiltersChange({ search: value, source: "all", category: "all" });
+            setTimeout(() => resultsRef.current?.scrollIntoView({ behavior: "smooth" }), 100);
+          }}
+          onFilterByCategory={(category) => {
+            handleFiltersChange({ category, source: "all", search: "" });
+            setTimeout(() => resultsRef.current?.scrollIntoView({ behavior: "smooth" }), 100);
+          }}
+        />
+      )}
       {/* Filter Bar */}
       {!loading && (
         <FilterBar
@@ -222,20 +235,6 @@ export default function Home() {
           sources={sources}
           totalResults={filteredItems.length}
           totalItems={items.length}
-        />
-      )}
-
-      {/* Journals Section */}
-      {!loading && (
-        <JournalsSection
-          onFilterBySource={(value) => {
-            handleFiltersChange({ search: value, source: "all", category: "all" });
-            setTimeout(() => resultsRef.current?.scrollIntoView({ behavior: "smooth" }), 100);
-          }}
-          onFilterByCategory={(category) => {
-            handleFiltersChange({ category, source: "all", search: "" });
-            setTimeout(() => resultsRef.current?.scrollIntoView({ behavior: "smooth" }), 100);
-          }}
         />
       )}
       {/* Results Section */}
