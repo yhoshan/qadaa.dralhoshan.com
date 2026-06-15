@@ -1,11 +1,12 @@
 {
-  "total": 6497,
-  "qadaa_count": 4247,
-  "nizam_count": 1580,
-  "mohamah_count": 595,
-  "with_links": 6497,
-  "sources_count": 9,
-  "categories_count": 20,
-  "total_items": 6497,
-  "mohama_count": 595
+  "total_items": 8262,
+  "qadaa_count": 2375,
+  "nizam_count": 1530,
+  "mohama_count": 532,
+  "other_count": 3825,
+  "books_count": 8262,
+  "audio_count": 0,
+  "video_count": 0,
+  "size_gb": 99.1,
+  "last_updated": "2026-06-15"
 }
