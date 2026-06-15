@@ -4,7 +4,7 @@
    بطاقات بيضاء + حدود بيج + أزرار ذهبية/بنية
    ============================================= */
 import {
-  FileText, Download, ExternalLink, Copy, Star,
+  FileText, ExternalLink, Copy, Star,
   User, BookOpen, Hash, FileType, HardDrive
 } from "lucide-react";
 import type { Item } from "@/hooks/useItems";
@@ -162,14 +162,15 @@ export default function ItemCard({ item, index }: ItemCardProps) {
               href={item.link_telegram}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex-1 flex items-center justify-center gap-1.5 py-1.5 rounded-lg text-xs transition-colors hover:opacity-90"
+              className="flex-1 flex items-center justify-center gap-1.5 py-2 rounded-lg text-xs font-medium transition-all hover:opacity-85 active:scale-95"
               style={{
-                background: "oklch(0.45 0.14 310)",
-                color: "white",
+                background: "linear-gradient(135deg, oklch(0.42 0.08 78), oklch(0.35 0.10 78))",
+                color: "oklch(0.97 0.04 78)",
+                border: "1px solid oklch(0.55 0.12 78)",
               }}
             >
-              <Download className="w-3 h-3" />
-              تحميل
+              <ExternalLink className="w-3.5 h-3.5" />
+              فتح في تيليجرام
             </a>
           )}
           {item.link_direct && (
@@ -177,14 +178,15 @@ export default function ItemCard({ item, index }: ItemCardProps) {
               href={item.link_direct}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex-1 flex items-center justify-center gap-1.5 py-1.5 rounded-lg text-xs transition-colors hover:opacity-90"
+              className="flex-1 flex items-center justify-center gap-1.5 py-2 rounded-lg text-xs font-medium transition-all hover:opacity-85 active:scale-95"
               style={{
-                background: "rgb(139, 105, 20)",
-                color: "white",
+                background: "linear-gradient(135deg, oklch(0.42 0.08 78), oklch(0.35 0.10 78))",
+                color: "oklch(0.97 0.04 78)",
+                border: "1px solid oklch(0.55 0.12 78)",
               }}
             >
-              <Download className="w-3 h-3" />
-              تحميل
+              <ExternalLink className="w-3.5 h-3.5" />
+              فتح الرابط
             </a>
           )}
           {item.link_drive && !item.link_direct && !item.link_telegram && (
@@ -192,14 +194,15 @@ export default function ItemCard({ item, index }: ItemCardProps) {
               href={item.link_drive}
               target="_blank"
               rel="noopener noreferrer"
-              className="flex-1 flex items-center justify-center gap-1.5 py-1.5 rounded-lg text-xs transition-colors hover:opacity-90"
+              className="flex-1 flex items-center justify-center gap-1.5 py-2 rounded-lg text-xs font-medium transition-all hover:opacity-85 active:scale-95"
               style={{
-                background: "oklch(0.40 0.12 155)",
-                color: "white",
+                background: "linear-gradient(135deg, oklch(0.42 0.08 78), oklch(0.35 0.10 78))",
+                color: "oklch(0.97 0.04 78)",
+                border: "1px solid oklch(0.55 0.12 78)",
               }}
             >
-              <ExternalLink className="w-3 h-3" />
-              درايف
+              <ExternalLink className="w-3.5 h-3.5" />
+              فتح الرابط
             </a>
           )}
           {/* Details button */}
