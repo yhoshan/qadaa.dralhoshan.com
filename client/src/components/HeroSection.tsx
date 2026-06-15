@@ -240,6 +240,13 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
           >
             <span style={{ color: "oklch(0.48 0.12 68)", fontWeight: 600 }}>⚖️ تنبيه: </span>
             هذا الموقع دليل رقمي للمواد القانونية المتاحة على قنوات تيليجرام عامة. جميع الحقوق محفوظة لأصحابها.
+            {" "}
+            <a
+              href="/disclaimer"
+              style={{ color: "rgb(139, 105, 20)", fontWeight: 600, textDecoration: "underline" }}
+            >
+              اقرأ إخلاء المسؤولية
+            </a>
           </div>
         </div>
 
