@@ -54,6 +54,26 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
       {/* Content */}
       <div className="relative z-10 container text-center">
 
+        {/* Disclaimer badge — فوق العنوان */}
+        <div className="flex justify-center mb-5 animate-fade-in-up" style={{ animationDelay: "0s" }}>
+          <a
+            href="/disclaimer"
+            className="inline-flex items-center gap-2 px-5 py-2 rounded-full text-sm font-semibold transition-all hover:opacity-80 hover:scale-105"
+            style={{
+              fontFamily: "Cairo, sans-serif",
+              background: "oklch(0.93 0.03 80)",
+              border: "1.5px solid rgb(139, 105, 20)",
+              color: "rgb(139, 105, 20)",
+              boxShadow: "0 2px 8px oklch(0.48 0.12 68 / 0.12)",
+            }}
+          >
+            <svg xmlns="http://www.w3.org/2000/svg" className="w-4 h-4" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+              <path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/>
+            </svg>
+            إخلاء المسؤولية
+          </a>
+        </div>
+
         {/* Title — مكنز في سطر، الباقي تحتها */}
         <h1
           className="font-bold leading-tight animate-fade-in-up mb-8"
