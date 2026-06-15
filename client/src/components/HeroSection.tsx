@@ -227,6 +227,20 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
             </kbd>
             {" "}للبحث السريع
           </p>
+
+          {/* Legal disclaimer */}
+          <div
+            className="mt-4 mx-auto max-w-xl px-4 py-2.5 rounded-lg text-center text-xs leading-relaxed"
+            style={{
+              background: "oklch(0.93 0.03 80)",
+              border: "1px solid oklch(0.85 0.05 78)",
+              color: "oklch(0.40 0.06 55)",
+              fontFamily: "Cairo, sans-serif",
+            }}
+          >
+            <span style={{ color: "oklch(0.48 0.12 68)", fontWeight: 600 }}>⚖️ تنبيه: </span>
+            هذا الموقع دليل رقمي للمواد القانونية المتاحة على قنوات تيليجرام عامة. جميع الحقوق محفوظة لأصحابها.
+          </div>
         </div>
 
       </div>
