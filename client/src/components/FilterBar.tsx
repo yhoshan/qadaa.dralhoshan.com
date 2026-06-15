@@ -3,7 +3,7 @@
    ألوان مطابقة لـ osool.dralhoshan.com
    خلفية بيج دافئ + أزرار ذهبية بنية
    ============================================= */
-import { Filter, ArrowUpDown, Download, X } from "lucide-react";
+import { Filter, ArrowUpDown, ExternalLink, X } from "lucide-react";
 import type { FilterState, SortOption } from "@/hooks/useItems";
 import { Drawer, DrawerContent, DrawerHeader, DrawerTitle, DrawerTrigger } from "@/components/ui/drawer";
 import { useState } from "react";
@@ -156,8 +156,8 @@ function FilterContent({
             />
           </div>
           <span className="text-sm" style={{ color: "oklch(0.38 0.10 65)" }}>
-            <Download className="w-3.5 h-3.5 inline ml-1" />
-            لها روابط تحميل فقط
+            <ExternalLink className="w-3.5 h-3.5 inline ml-1" />
+            لها روابط فتح فقط
           </span>
         </label>
       </div>
@@ -381,7 +381,7 @@ export default function FilterBar(props: FilterBarProps) {
               />
             </div>
             <span className="text-xs" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
-              لها روابط تحميل
+              لها روابط فتح
             </span>
           </label>
 
