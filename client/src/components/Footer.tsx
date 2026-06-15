@@ -216,6 +216,22 @@ export default function Footer() {
             }}
           />
 
+          {/* Disclaimer link */}
+          <div className="flex justify-center mb-4">
+            <a
+              href="/disclaimer"
+              className="inline-flex items-center gap-1.5 px-4 py-1.5 rounded-full text-xs transition-all hover:opacity-80"
+              style={{
+                fontFamily: "Cairo, sans-serif",
+                background: "oklch(0.25 0.04 50 / 0.4)",
+                border: `1px solid ${BORDER_COLOR}`,
+                color: GOLD,
+              }}
+            >
+              ⚖️ إخلاء المسؤولية
+            </a>
+          </div>
+
           {/* Legal notes */}
           <div className="space-y-2 mb-6">
             <p className="text-xs text-center" style={{ fontFamily: "Cairo, sans-serif", color: TEXT_LIGHT }}>
