@@ -33,7 +33,7 @@ const MAKANEZ_SOURCES = [
   { name: "قناة الرسائل العلمية والبحوث المحكمة", href: "https://t.me/c/1453973283/5023" },
   { name: "قناة المحاماة والقانون السعودي", href: "https://t.me/Lawyers_saudi" },
   { name: "قناة المجلات والصحف القانونية", href: "https://t.me/LegalMagazinesandNewspapers" },
-  { name: "مكتبة الإسكندرية", href: "https://t.me/c/1592768820/107" },
+  { name: "مكتبة الاسكندرية", href: "https://t.me/c/1592768820/1" },
   { name: "مكتبة الباحث العلمي", href: "https://t.me/bahith_pdf" },
   { name: "نواف — المكتبة القانونية للمحامي نواف بن عواض الحربي", href: "https://nawaf-law.com.sa/" },
   { name: "نظام — منصة نظامي للأنظمة السعودية", href: "https://nezams.com/" },

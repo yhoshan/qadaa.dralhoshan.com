@@ -1,0 +1,1858 @@
+{
+  "source_name": "مكتبة الإسكندرية الرسمية cbz",
+  "source_url": "https://t.me/c/1592768820/1",
+  "total_messages": 74293,
+  "files_total": 74288,
+  "legal_candidates_nonduplicate": 3066,
+  "duplicates_exact": 185,
+  "excluded_nonjudicial": 6,
+  "by_category": {
+    "القانون الدولي": 313,
+    "القضاء والمحاكم": 1177,
+    "الأنظمة والتشريعات": 346,
+    "الأحوال الشخصية": 195,
+    "القضاء الإداري": 122,
+    "القانون المدني": 267,
+    "القانون العمالي": 316,
+    "التحكيم": 65,
+    "المحاماة": 15,
+    "القانون الجنائي": 131,
+    "القانون التجاري": 119
+  },
+  "candidates_sample": [
+    {
+      "id": 43,
+      "title": "الابعاد الاقليمية والدولية للقضية الفلسطينية فى الوقت الراهن",
+      "file_name": "000202_الابعاد_الاقليمية_والدولية_للقضية_الفلسطينية_فى_الوقت_الراهن.cbz",
+      "file_size": 5938225,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/43",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 70,
+      "title": "كيف تعمل الحاسبة الالكترونية",
+      "file_name": "000257_كيف_تعمل_الحاسبة_الالكترونية.cbz",
+      "file_size": 50344101,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/70",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 91,
+      "title": "عملاق من بنى مر",
+      "file_name": "000289 - عملاق من بنى مر.cbz",
+      "file_size": 5976232,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/91",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 99,
+      "title": "اصول الحكم فى نظام العالم",
+      "file_name": "000299 - اصول الحكم فى نظام العالم.cbz",
+      "file_size": 2844629,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/99",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 125,
+      "title": "كتاب نظام الغريب",
+      "file_name": "000354 - كتاب نظام الغريب.cbz",
+      "file_size": 22729983,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/125",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 166,
+      "title": "البوسنه والهرسك من الفتح الى الكارثة",
+      "file_name": "000426_البوسنه_والهرسك_من_الفتح_الى_الكارثة.cbz",
+      "file_size": 8091659,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/166",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 208,
+      "title": "لمحات من تاريخ مصر تحت حكم الرومان",
+      "file_name": "000524_لمحات_من_تاريخ_مصر_تحت_حكم_الرومان.cbz",
+      "file_size": 24854211,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/208",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 375,
+      "title": "الوثائق السياسية والادارية العائدة للعصور العباسية المتتابعة،",
+      "file_name": "000884_الوثائق_السياسية_والادارية_العائدة_للعصور_العباسية_المتتابعة،.cbz",
+      "file_size": 36887075,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/375",
+      "category": "القضاء الإداري"
+    },
+    {
+      "id": 400,
+      "title": "عام حطين صلاح الدين والعمل العربى الموحد",
+      "file_name": "000928_عام_حطين_صلاح_الدين_والعمل_العربى_الموحد.cbz",
+      "file_size": 10078830,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/400",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 505,
+      "title": "المسألة الكردية فى ملف السياسة الدولية",
+      "file_name": "001126_المسألة_الكردية_فى_ملف_السياسة_الدولية.cbz",
+      "file_size": 38783726,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/505",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 549,
+      "title": "يهود مصر دراسة فى الموقف السياسى 1897 1948",
+      "file_name": "001214_يهود_مصر_دراسة_فى_الموقف_السياسى_1897_1948.cbz",
+      "file_size": 8031013,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/549",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 642,
+      "title": "الحضارة الثقافة المدنية دراسة لسيرة المصطلح ودلالة المفهوم",
+      "file_name": "001352_الحضارة_الثقافة_المدنية_دراسة_لسيرة_المصطلح_ودلالة_المفهوم.cbz",
+      "file_size": 6759862,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/642",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 737,
+      "title": "دستور الأخلاق فى القرآن دراسة مقارنة للأخلاق النظرية فى القرآن",
+      "file_name": "002292_دستور_الأخلاق_فى_القرآن_دراسة_مقارنة_للأخلاق_النظرية_فى_القرآن.cbz",
+      "file_size": 59593976,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/737",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 767,
+      "title": "حكمة الاسلام فى تحريم الخمر دراسة نفسية اجتماعية",
+      "file_name": "002521_حكمة_الاسلام_فى_تحريم_الخمر_دراسة_نفسية_اجتماعية.cbz",
+      "file_size": 11236326,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/767",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 831,
+      "title": "الفوز بالرئاسة فى التسعينات خلف كواليس الحكم فى البيت الابيض",
+      "file_name": "002878_الفوز_بالرئاسة_فى_التسعينات_خلف_كواليس_الحكم_فى_البيت_الابيض.cbz",
+      "file_size": 39179418,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/831",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 866,
+      "title": "الشبهات الثلاثون المثارة لانكار السنة النبوية عرض وتنفيذ",
+      "file_name": "002963_الشبهات_الثلاثون_المثارة_لانكار_السنة_النبوية_عرض_وتنفيذ.cbz",
+      "file_size": 10210019,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/866",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 893,
+      "title": "سقط النظام فى 4 ايام ثورة 23 يوليو بالوثائق السرية",
+      "file_name": "003012_سقط_النظام_فى_4_ايام_ثورة_23_يوليو_بالوثائق_السرية.cbz",
+      "file_size": 29125641,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/893",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 961,
+      "title": "محاصرة وابادة موقف الغرب من الاسلام",
+      "file_name": "003227_محاصرة_وابادة_موقف_الغرب_من_الاسلام.cbz",
+      "file_size": 14112375,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/961",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 963,
+      "title": "مرافق الحج وخدماتها المدنية فى عهد الملك عبد العزيز، 1343ه",
+      "file_name": "003251_مرافق_الحج_وخدماتها_المدنية_فى_عهد_الملك_عبد_العزيز،_1343ه.cbz",
+      "file_size": 26991673,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/963",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 995,
+      "title": "ظاهرة انتشار الاسلام وموقف بعض المستشرقين منها",
+      "file_name": "003347_ظاهرة_انتشار_الاسلام_وموقف_بعض_المستشرقين_منها.cbz",
+      "file_size": 8565515,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/995",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 1001,
+      "title": "الموقف الحضارى من النزعات الدينية ودراسات اخرى",
+      "file_name": "003354_الموقف_الحضارى_من_النزعات_الدينية_ودراسات_اخرى.cbz",
+      "file_size": 13683363,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1001",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 1034,
+      "title": "مسيرة العالم الطويلة الى التشريع الاسلامى",
+      "file_name": "003425_مسيرة_العالم_الطويلة_الى_التشريع_الاسلامى.cbz",
+      "file_size": 6347782,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1034",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1042,
+      "title": "الاخاء الدينى و مجمع الاديان وموقف الاسلام",
+      "file_name": "003455_الاخاء_الدينى_و_مجمع_الاديان_وموقف_الاسلام.cbz",
+      "file_size": 832341,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1042",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 1056,
+      "title": "الرسالة الفاروقية الخالدة فى مناسك الحج و العمرة طبق اعمال",
+      "file_name": "003502_الرسالة_الفاروقية_الخالدة_فى_مناسك_الحج_و_العمرة_طبق_اعمال.cbz",
+      "file_size": 15667913,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1056",
+      "category": "القانون العمالي"
+    },
+    {
+      "id": 1059,
+      "title": "النظام السياسى الاسلامى والفكر الليبرالى",
+      "file_name": "003518_النظام_السياسى_الاسلامى_والفكر_الليبرالى.cbz",
+      "file_size": 16594009,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1059",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1064,
+      "title": "النظام السياسى فى الاسلام",
+      "file_name": "003541 - النظام السياسى فى الاسلام.cbz",
+      "file_size": 12196718,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1064",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1067,
+      "title": "تاريخ الحكم فى الاسلام دراسة فى مفهوم الحكم وتطوره",
+      "file_name": "003545_تاريخ_الحكم_فى_الاسلام_دراسة_فى_مفهوم_الحكم_وتطوره.cbz",
+      "file_size": 15038624,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1067",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1090,
+      "title": "رؤية قرآنية للمتغيرات الدولية وشواغل الفكر بين الاسلام والعصر",
+      "file_name": "003602_رؤية_قرآنية_للمتغيرات_الدولية_وشواغل_الفكر_بين_الاسلام_والعصر.cbz",
+      "file_size": 15105907,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1090",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 1106,
+      "title": "العلاقات الدولية فى الاسلام وقت الحرب دراسة للقواعد المنظمة",
+      "file_name": "003637_العلاقات_الدولية_فى_الاسلام_وقت_الحرب_دراسة_للقواعد_المنظمة.cbz",
+      "file_size": 15494627,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1106",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 1107,
+      "title": "النظام الاقتصادى فى الاسلام",
+      "file_name": "003639 - النظام الاقتصادى فى الاسلام.cbz",
+      "file_size": 9465885,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1107",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1112,
+      "title": "دستور امة الاسلام دراسة فى اصول الحكم وطبيعته وغايته عند",
+      "file_name": "003655_دستور_امة_الاسلام_دراسة_فى_اصول_الحكم_وطبيعته_وغايته_عند.cbz",
+      "file_size": 14663212,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1112",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1115,
+      "title": "منهاج الاسلام في الحكم",
+      "file_name": "003661 - منهاج الاسلام في الحكم.cbz",
+      "file_size": 7283774,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1115",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1124,
+      "title": "هموم اسلامية فى نظام عالمى جديد",
+      "file_name": "003680_هموم_اسلامية_فى_نظام_عالمى_جديد.cbz",
+      "file_size": 14337644,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1124",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1127,
+      "title": "التأزم السياسى عند العرب وموقف الاسلام b مكونات الحالة المزمنة",
+      "file_name": "003686_التأزم_السياسى_عند_العرب_وموقف_الاسلام_b_مكونات_الحالة_المزمنة.cbz",
+      "file_size": 10936355,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1127",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 1131,
+      "title": "موقف النبى صلى الله عليه وسلم من الديانات الثلاث الوثنية",
+      "file_name": "003694_موقف_النبى_صلى_الله_عليه_وسلم_من_الديانات_الثلاث_الوثنية.cbz",
+      "file_size": 5952551,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1131",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 1149,
+      "title": "القيادة الادارية فى الاسلام",
+      "file_name": "003740 - القيادة الادارية فى الاسلام.cbz",
+      "file_size": 20013479,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1149",
+      "category": "القضاء الإداري"
+    },
+    {
+      "id": 1167,
+      "title": "نظرات فى مسيرة العمل الاسلامى",
+      "file_name": "003788_نظرات_فى_مسيرة_العمل_الاسلامى.cbz",
+      "file_size": 9423947,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1167",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1173,
+      "title": "حكم الاسلام فى الغناء",
+      "file_name": "003813 - حكم الاسلام فى الغناء.cbz",
+      "file_size": 3632339,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1173",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1177,
+      "title": "العمل وقضايا الصناعة فى الاسلام",
+      "file_name": "003828_العمل_وقضايا_الصناعة_فى_الاسلام.cbz",
+      "file_size": 6518279,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1177",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1196,
+      "title": "موسى عليه السلام يتناول موقف موسى عليه السلام من فرعون وبنى",
+      "file_name": "003889_موسى_عليه_السلام_يتناول_موقف_موسى_عليه_السلام_من_فرعون_وبنى.cbz",
+      "file_size": 2844971,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1196",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 1235,
+      "title": "الاسلام كنظام للحياة",
+      "file_name": "004080 - الاسلام كنظام للحياة.cbz",
+      "file_size": 839475,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1235",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1265,
+      "title": "المبين فى شرح معانى الفاظ الحكماء والمتكلمين",
+      "file_name": "004232_المبين_فى_شرح_معانى_الفاظ_الحكماء_والمتكلمين.cbz",
+      "file_size": 5829719,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1265",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1269,
+      "title": "قراءة اللوحة فى الفن الحديث دراسة تطبيقية فى اعمال بيكاسو",
+      "file_name": "004239_قراءة_اللوحة_فى_الفن_الحديث_دراسة_تطبيقية_فى_اعمال_بيكاسو.cbz",
+      "file_size": 12165788,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1269",
+      "category": "القانون العمالي"
+    },
+    {
+      "id": 1298,
+      "title": "موقف من الميتافيزيقا",
+      "file_name": "004337 - موقف من الميتافيزيقا.cbz",
+      "file_size": 24986968,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1298",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 1354,
+      "title": "المناورات الخفية فى حياتنا العائلية والجنسية والعملية",
+      "file_name": "004507_المناورات_الخفية_فى_حياتنا_العائلية_والجنسية_والعملية.cbz",
+      "file_size": 17345594,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1354",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1386,
+      "title": "القوات العسكرية والشرطة فى فلسطين ودورها فى تنفيذ السياسة",
+      "file_name": "004621_القوات_العسكرية_والشرطة_فى_فلسطين_ودورها_فى_تنفيذ_السياسة.cbz",
+      "file_size": 61888702,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1386",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1404,
+      "title": "الغزو اليهودى للمياه العربية حلم توراتى قديم وعمل لتحقيقه",
+      "file_name": "004672_الغزو_اليهودى_للمياه_العربية_حلم_توراتى_قديم_وعمل_لتحقيقه.cbz",
+      "file_size": 11568147,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1404",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1460,
+      "title": "النقط فوق الحروف الاخوان المسلمون والنظام الخاص",
+      "file_name": "004880_النقط_فوق_الحروف_الاخوان_المسلمون_والنظام_الخاص.cbz",
+      "file_size": 48388715,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1460",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1487,
+      "title": "البحث العلمى كنظام كتاب يدوى لتنفيذه وتقريره وتقييمه",
+      "file_name": "005186_البحث_العلمى_كنظام_كتاب_يدوى_لتنفيذه_وتقريره_وتقييمه.cbz",
+      "file_size": 31061529,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1487",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1491,
+      "title": "موقف الصحافة المصرية من الصهيونية خلال الفترة من 1897 1917",
+      "file_name": "005206_موقف_الصحافة_المصرية_من_الصهيونية_خلال_الفترة_من_1897_1917.cbz",
+      "file_size": 34647674,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1491",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 1548,
+      "title": "دليل الخليج العربى دراسة فى تاريخ العلاقات الدولية والاقليمية",
+      "file_name": "005573_دليل_الخليج_العربى_دراسة_فى_تاريخ_العلاقات_الدولية_والاقليمية.cbz",
+      "file_size": 26694613,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1548",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 1585,
+      "title": "نظام الاثينيين",
+      "file_name": "005627 - نظام الاثينيين.cbz",
+      "file_size": 15502782,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1585",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1664,
+      "title": "جابرييل جارثيا ماركيث مختارات قصصية 1992 1947",
+      "file_name": "005803_جابرييل_جارثيا_ماركيث_مختارات_قصصية_1992_1947.cbz",
+      "file_size": 24223054,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1664",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 1734,
+      "title": "حول سلطة محكمة العدل الدولية فى اتخاذ تدابير تحفظية",
+      "file_name": "005976_حول_سلطة_محكمة_العدل_الدولية_فى_اتخاذ_تدابير_تحفظية.cbz",
+      "file_size": 4305808,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1734",
+      "category": "التحكيم"
+    },
+    {
+      "id": 1780,
+      "title": "وجيه اباظة - 10 سنوات فى الحكم",
+      "file_name": "006071 - وجيه اباظة - 10 سنوات فى الحكم.cbz",
+      "file_size": 20913326,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1780",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1790,
+      "title": "الوفد ودوره التاريخى فى الحركة الوطنية والعمالية والاجتماعية",
+      "file_name": "006095_الوفد_ودوره_التاريخى_فى_الحركة_الوطنية_والعمالية_والاجتماعية.cbz",
+      "file_size": 32987689,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1790",
+      "category": "القانون العمالي"
+    },
+    {
+      "id": 1811,
+      "title": "الديمقراطية ونظام 23 يوليو 1952 1970",
+      "file_name": "006158_الديمقراطية_ونظام_23_يوليو_1952_1970.cbz",
+      "file_size": 13553020,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1811",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 1837,
+      "title": "دراسات وثائقية لجبل عجلون و الكوره من خلال المحفوظات الملكية",
+      "file_name": "006223_دراسات_وثائقية_لجبل_عجلون_و_الكوره_من_خلال_المحفوظات_الملكية.cbz",
+      "file_size": 7746843,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1837",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 1843,
+      "title": "عملية السلام الفلسطينية الاسرائيلية وجهة نظر اسلامية",
+      "file_name": "006241_عملية_السلام_الفلسطينية_الاسرائيلية_وجهة_نظر_اسلامية.cbz",
+      "file_size": 13646901,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1843",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1880,
+      "title": "معجم البلاغة العربية نقد ونقض",
+      "file_name": "006348_معجم_البلاغة_العربية_نقد_ونقض.cbz",
+      "file_size": 17076704,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1880",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1921,
+      "title": "فى الفقه السياسى الاسلامى مبادئ دستورية الشورى العدل المساواة",
+      "file_name": "006493_فى_الفقه_السياسى_الاسلامى_مبادئ_دستورية_الشورى_العدل_المساواة.cbz",
+      "file_size": 25122624,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1921",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1932,
+      "title": "فلسفة القانون والسياسة عند هيجل",
+      "file_name": "006519_فلسفة_القانون_والسياسة_عند_هيجل.cbz",
+      "file_size": 23780757,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1932",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 1947,
+      "title": "الوضع القانونى المعاصر بين الشريعة الاسلامية والقانون الوضعى",
+      "file_name": "006597_الوضع_القانونى_المعاصر_بين_الشريعة_الاسلامية_والقانون_الوضعى.cbz",
+      "file_size": 15000091,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1947",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2003,
+      "title": "سقوط نظام لماذا كانت ثورة يوليو 1952 لازمة؟",
+      "file_name": "006762_سقوط_نظام_لماذا_كانت_ثورة_يوليو_1952_لازمة؟.cbz",
+      "file_size": 30816807,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2003",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 2067,
+      "title": "تاريخ اليمن عصر الاستقلال عن الحكم العثمانى الاول من سنة",
+      "file_name": "006970_تاريخ_اليمن_عصر_الاستقلال_عن_الحكم_العثمانى_الاول_من_سنة.cbz",
+      "file_size": 45740034,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2067",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2091,
+      "title": "نساء حكمن اليمن",
+      "file_name": "007020 - نساء حكمن اليمن.cbz",
+      "file_size": 18624321,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2091",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2094,
+      "title": "التشريعات البابلية",
+      "file_name": "007036 - التشريعات البابلية.cbz",
+      "file_size": 11697818,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2094",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 2141,
+      "title": "الامبراطورية العثمانية وعلاقاتها الدولية فى ثلاثينات وأربعينات",
+      "file_name": "007176_الامبراطورية_العثمانية_وعلاقاتها_الدولية_فى_ثلاثينات_وأربعينات.cbz",
+      "file_size": 10753105,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2141",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2164,
+      "title": "السادة الجدد عملاء النفوذ وكيف سيطرت اليابان على النظام السياسى",
+      "file_name": "007226_السادة_الجدد_عملاء_النفوذ_وكيف_سيطرت_اليابان_على_النظام_السياسى.cbz",
+      "file_size": 19570595,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2164",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 2223,
+      "title": "وضع الدول الاسلامية فى النظام الدولى فى اعقاب سقوط الخلافة",
+      "file_name": "007380_وضع_الدول_الاسلامية_فى_النظام_الدولى_فى_اعقاب_سقوط_الخلافة.cbz",
+      "file_size": 7597647,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2223",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2225,
+      "title": "العمامة والعباءة فى السياسة والحكم",
+      "file_name": "007382_العمامة_والعباءة_فى_السياسة_والحكم.cbz",
+      "file_size": 15881289,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2225",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2235,
+      "title": "اللعبة الكبرى الشرق العربى المعاصر والصراعات الدولية",
+      "file_name": "007402_اللعبة_الكبرى_الشرق_العربى_المعاصر_والصراعات_الدولية.cbz",
+      "file_size": 30916369,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2235",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2236,
+      "title": "الحجاز فى صدر الاسلام دراسات فى احواله العمرانية والادارية",
+      "file_name": "007404_الحجاز_فى_صدر_الاسلام_دراسات_فى_احواله_العمرانية_والادارية.cbz",
+      "file_size": 30902655,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2236",
+      "category": "القضاء الإداري"
+    },
+    {
+      "id": 2274,
+      "title": "دور اليهود والقوى الدولية فى خلع السلطان عبد الحميد الثانى",
+      "file_name": "007475_دور_اليهود_والقوى_الدولية_فى_خلع_السلطان_عبد_الحميد_الثانى.cbz",
+      "file_size": 8058367,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2274",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2275,
+      "title": "عملية السلام الدبلوماسية الامريكية والنزاع العربى الاسرائيلى",
+      "file_name": "007476_عملية_السلام_الدبلوماسية_الامريكية_والنزاع_العربى_الاسرائيلى.cbz",
+      "file_size": 16632254,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2275",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2378,
+      "title": "العملية الابداعية فى فن التصوير",
+      "file_name": "007671_العملية_الابداعية_فى_فن_التصوير.cbz",
+      "file_size": 28073713,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2378",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2387,
+      "title": "فكرة القانون",
+      "file_name": "007698 - فكرة القانون.cbz",
+      "file_size": 20872546,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2387",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2388,
+      "title": "فوه مدينة المساجد دراسة عن المدينة وعمائرها الدينية والمدنية",
+      "file_name": "007699_فوه_مدينة_المساجد_دراسة_عن_المدينة_وعمائرها_الدينية_والمدنية.cbz",
+      "file_size": 6710256,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2388",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 2397,
+      "title": "أبحاث الندوة الدولية لتاريخ القاهرة مارس ابريل 1969",
+      "file_name": "007720_أبحاث_الندوة_الدولية_لتاريخ_القاهرة_مارس_ابريل_1969.cbz",
+      "file_size": 29915738,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2397",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2447,
+      "title": "الغضب والامل مسيرة الشعب الفلسطينى تحت الاحتلال مذكرات المحامية",
+      "file_name": "007818_الغضب_والامل_مسيرة_الشعب_الفلسطينى_تحت_الاحتلال_مذكرات_المحامية.cbz",
+      "file_size": 44481274,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2447",
+      "category": "المحاماة"
+    },
+    {
+      "id": 2451,
+      "title": "الحكم المصرى فى الشام 1831 1841م",
+      "file_name": "007825_الحكم_المصرى_فى_الشام_1831_1841م.cbz",
+      "file_size": 8070149,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2451",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2463,
+      "title": "الحسين ملك المملكة الاردنية الهاشمية مهنتى كملك احاديث ملكية",
+      "file_name": "007845_الحسين_ملك_المملكة_الاردنية_الهاشمية_مهنتى_كملك_احاديث_ملكية.cbz",
+      "file_size": 29194711,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2463",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 2491,
+      "title": "ملفات المعارضة الدولية المعارضة السورية كما لم تتحدث من قبل",
+      "file_name": "007891_ملفات_المعارضة_الدولية_المعارضة_السورية_كما_لم_تتحدث_من_قبل.cbz",
+      "file_size": 30899467,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2491",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2496,
+      "title": "محمد على سيرته و اعماله و اثاره",
+      "file_name": "007902_محمد_على_سيرته_و_اعماله_و_اثاره.cbz",
+      "file_size": 7159272,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2496",
+      "category": "القانون العمالي"
+    },
+    {
+      "id": 2530,
+      "title": "العروبة والاسلام والنظام العالمى الجديد العراق والمذبحة الامريكية",
+      "file_name": "007949_العروبة_والاسلام_والنظام_العالمى_الجديد_العراق_والمذبحة_الامريكية.cbz",
+      "file_size": 16126999,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2530",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 2537,
+      "title": "قضية لوكربى ومستقبل النظام الدولى الابعاد السياسية والاستراتيجية",
+      "file_name": "007956_قضية_لوكربى_ومستقبل_النظام_الدولى_الابعاد_السياسية_والاستراتيجية.cbz",
+      "file_size": 41177268,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2537",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2576,
+      "title": "تاريخ سورية1918 1920 حكم فيصل بن الحسين",
+      "file_name": "008013_تاريخ_سورية1918_1920_حكم_فيصل_بن_الحسين.cbz",
+      "file_size": 40761842,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2576",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2620,
+      "title": "العربية السعودية 1916 1936 من القبلية الى الملكية",
+      "file_name": "008109_العربية_السعودية_1916_1936_من_القبلية_الى_الملكية.cbz",
+      "file_size": 29826135,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2620",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 2621,
+      "title": "الحياة الادارية فى سنجق الاحساء العثمانى 1871 1913",
+      "file_name": "008110_الحياة_الادارية_فى_سنجق_الاحساء_العثمانى_1871_1913.cbz",
+      "file_size": 5747347,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2621",
+      "category": "القضاء الإداري"
+    },
+    {
+      "id": 2624,
+      "title": "اللعبة الكبرى المشرق العربى والاطماع الدولية",
+      "file_name": "008115_اللعبة_الكبرى_المشرق_العربى_والاطماع_الدولية.cbz",
+      "file_size": 33391665,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2624",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2668,
+      "title": "كتاب العقود اللؤلؤية فى تاريخ الدولة الرسولية",
+      "file_name": "008222_كتاب_العقود_اللؤلؤية_فى_تاريخ_الدولة_الرسولية.cbz",
+      "file_size": 43059424,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2668",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 2685,
+      "title": "الحروب العربية الاسرائيلية وعملية السلام",
+      "file_name": "008261_الحروب_العربية_الاسرائيلية_وعملية_السلام.cbz",
+      "file_size": 29226552,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2685",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2714,
+      "title": "العقود اللؤلؤية فى تاريخ الدولة الرسولية",
+      "file_name": "008327_العقود_اللؤلؤية_فى_تاريخ_الدولة_الرسولية.cbz",
+      "file_size": 19126929,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2714",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 2746,
+      "title": "القرن الافريقى المتغيرات الداخلية والصراعات الدولية",
+      "file_name": "008395_القرن_الافريقى_المتغيرات_الداخلية_والصراعات_الدولية.cbz",
+      "file_size": 14434963,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2746",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2778,
+      "title": "الشيطان يحكم",
+      "file_name": "008453 - الشيطان يحكم.cbz",
+      "file_size": 5297734,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2778",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2830,
+      "title": "سقوط الحكم البرتغالى فى الخليج العربى 1622 1650",
+      "file_name": "008576_سقوط_الحكم_البرتغالى_فى_الخليج_العربى_1622_1650.cbz",
+      "file_size": 2575665,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2830",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2845,
+      "title": "ثورة اليمن الدستورية تاليف ضباط من رؤساء خلايا القيادة العسكرية",
+      "file_name": "008599_ثورة_اليمن_الدستورية_تاليف_ضباط_من_رؤساء_خلايا_القيادة_العسكرية.cbz",
+      "file_size": 5027135,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2845",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2898,
+      "title": "ملف الابحاث الرد على ادعاءات النظام العراقى",
+      "file_name": "008795_ملف_الابحاث_الرد_على_ادعاءات_النظام_العراقى.cbz",
+      "file_size": 6026070,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2898",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 2912,
+      "title": "نظرية المباريات ودورها فى تحليل الصراعات الدولية مع التطبيق",
+      "file_name": "008831_نظرية_المباريات_ودورها_فى_تحليل_الصراعات_الدولية_مع_التطبيق.cbz",
+      "file_size": 11449753,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2912",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 2927,
+      "title": "دور العلماء والدعاة فى عملية ردع الغزاة",
+      "file_name": "008867_دور_العلماء_والدعاة_فى_عملية_ردع_الغزاة.cbz",
+      "file_size": 1611480,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2927",
+      "category": "القضاء والمحاكم"
+    }
+  ],
+  "duplicates_sample": [
+    {
+      "id": 20,
+      "title": "اصول التشريع الاسلامى",
+      "file_name": "000129 - اصول التشريع الاسلامى.cbz",
+      "file_size": 39388221,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/20",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 107,
+      "title": "تاريخ طرابلس من خلال وثائق المحكمة الشرعية فى النصف الثانى",
+      "file_name": "000314_تاريخ_طرابلس_من_خلال_وثائق_المحكمة_الشرعية_فى_النصف_الثانى.cbz",
+      "file_size": 17260506,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/107",
+      "category": "التحكيم"
+    },
+    {
+      "id": 881,
+      "title": "اوقاف المسلمين فى بيروت فى العهد العثمانى سجلات المحكمة الشرعية",
+      "file_name": "002990_اوقاف_المسلمين_فى_بيروت_فى_العهد_العثمانى_سجلات_المحكمة_الشرعية.cbz",
+      "file_size": 26023371,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/881",
+      "category": "التحكيم"
+    },
+    {
+      "id": 1297,
+      "title": "فى محكمة التاريخ",
+      "file_name": "004326 - فى محكمة التاريخ.cbz",
+      "file_size": 6798532,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1297",
+      "category": "التحكيم"
+    },
+    {
+      "id": 1461,
+      "title": "نظرية الحرب فى الاسلام واثرها فى القانون الدولى العام",
+      "file_name": "004884_نظرية_الحرب_فى_الاسلام_واثرها_فى_القانون_الدولى_العام.cbz",
+      "file_size": 26705163,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1461",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 1897,
+      "title": "تاريخ القضاء فى مصر العثمانية 1517 1798",
+      "file_name": "006416_تاريخ_القضاء_فى_مصر_العثمانية_1517_1798.cbz",
+      "file_size": 14584861,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/1897",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 2287,
+      "title": "حرب اكتوبر فى محكمة التاريخ",
+      "file_name": "007494 - حرب اكتوبر فى محكمة التاريخ.cbz",
+      "file_size": 14618354,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2287",
+      "category": "التحكيم"
+    },
+    {
+      "id": 2505,
+      "title": "مصطفى كامل فى محكمة التاريخ",
+      "file_name": "007912 - مصطفى كامل فى محكمة التاريخ.cbz",
+      "file_size": 8393695,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/2505",
+      "category": "التحكيم"
+    },
+    {
+      "id": 6145,
+      "title": "جواهر العقود و معين القضاة و الموقعين و الشهود",
+      "file_name": "020162_جواهر_العقود_و_معين_القضاة_و_الموقعين_و_الشهود.cbz",
+      "file_size": 47851262,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/6145",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 6158,
+      "title": "مصادر التشريع الاسلامى",
+      "file_name": "020291 - مصادر التشريع الاسلامى.cbz",
+      "file_size": 1855966,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/6158",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 6173,
+      "title": "القضاء و العرف فى الاسلام دراسة مقارنة",
+      "file_name": "020384_القضاء_و_العرف_فى_الاسلام_دراسة_مقارنة.cbz",
+      "file_size": 17599275,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/6173",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 6174,
+      "title": "القيم الضرورية ومقاصد التشريع الاسلامى",
+      "file_name": "020387_القيم_الضرورية_ومقاصد_التشريع_الاسلامى.cbz",
+      "file_size": 13877309,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/6174",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 12109,
+      "title": "قضاء مجلس الدولة واجراءات وصيغ الدعاوى الادارية",
+      "file_name": "046800_قضاء_مجلس_الدولة_واجراءات_وصيغ_الدعاوى_الادارية.cbz",
+      "file_size": 52936201,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12109",
+      "category": "القضاء الإداري"
+    },
+    {
+      "id": 12127,
+      "title": "القضاء الادارى",
+      "file_name": "046874 - القضاء الادارى.cbz",
+      "file_size": 51273487,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12127",
+      "category": "القضاء الإداري"
+    },
+    {
+      "id": 12130,
+      "title": "التعليق على قانون الطوارىء فى ضوء الفقه والقضاء",
+      "file_name": "046898_التعليق_على_قانون_الطوارىء_فى_ضوء_الفقه_والقضاء.cbz",
+      "file_size": 12220490,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12130",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12145,
+      "title": "موسوعة مبادئ القضاء الادارى التى قررتها محكمة التم عام 1",
+      "file_name": "047152_موسوعة_مبادئ_القضاء_الادارى_التى_قررتها_محكمة_التم_عام_1.cbz",
+      "file_size": 20199548,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12145",
+      "category": "التحكيم"
+    },
+    {
+      "id": 12155,
+      "title": "قسمة المال الشائع واحكام دعوى الفرز والتجنيب فقها وقضاء",
+      "file_name": "047256_قسمة_المال_الشائع_واحكام_دعوى_الفرز_والتجنيب_فقها_وقضاء.cbz",
+      "file_size": 18028857,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12155",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12192,
+      "title": "موسوعة القضاء التأديبى وطرق الطعن فى الاحكام اما فى الف",
+      "file_name": "047623_موسوعة_القضاء_التأديبى_وطرق_الطعن_فى_الاحكام_اما_فى_الف.cbz",
+      "file_size": 14646090,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12192",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12195,
+      "title": "تاريخ القضاء فى الأندلس من الفتح الاسلامى الى نه ر المي",
+      "file_name": "047630_تاريخ_القضاء_فى_الأندلس_من_الفتح_الاسلامى_الى_نه_ر_المي.cbz",
+      "file_size": 41952523,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12195",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12208,
+      "title": "القضاء المستعجل وقضاء التنفيذ فى ضوء الفقه والقضاء",
+      "file_name": "047706_القضاء_المستعجل_وقضاء_التنفيذ_فى_ضوء_الفقه_والقضاء.cbz",
+      "file_size": 114175454,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12208",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12210,
+      "title": "موسوعة مصر للتشريع والقضاء",
+      "file_name": "047710 - موسوعة مصر للتشريع والقضاء.cbz",
+      "file_size": 52925219,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12210",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 12216,
+      "title": "موسوعة القرار الادارى فى قضاء مجلس الدولة",
+      "file_name": "047744_موسوعة_القرار_الادارى_فى_قضاء_مجلس_الدولة.cbz",
+      "file_size": 90905713,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12216",
+      "category": "القضاء الإداري"
+    },
+    {
+      "id": 12230,
+      "title": "المحكمة الدستورية العليا",
+      "file_name": "048647 - المحكمة الدستورية العليا.cbz",
+      "file_size": 50082985,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12230",
+      "category": "التحكيم"
+    },
+    {
+      "id": 12262,
+      "title": "اهم مبادىء التأديب المستخلصة من احكام المحكمة الاد اكتوبر",
+      "file_name": "049138_اهم_مبادىء_التأديب_المستخلصة_من_احكام_المحكمة_الاد_اكتوبر.cbz",
+      "file_size": 20357776,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12262",
+      "category": "التحكيم"
+    },
+    {
+      "id": 12266,
+      "title": "قانون القضاء المدنى دراسة فى نظام القضاء واجراءات ا رافعات",
+      "file_name": "049157_قانون_القضاء_المدنى_دراسة_فى_نظام_القضاء_واجراءات_ا_رافعات.cbz",
+      "file_size": 53426555,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12266",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 12276,
+      "title": "قضاء النقض التجارى فى الافلاس مجموعة القواعد القان الافلا",
+      "file_name": "049197_قضاء_النقض_التجارى_فى_الافلاس_مجموعة_القواعد_القان_الافلا.cbz",
+      "file_size": 15381631,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12276",
+      "category": "القانون التجاري"
+    },
+    {
+      "id": 12278,
+      "title": "قانون التجارة",
+      "file_name": "049200 - قانون التجارة.cbz",
+      "file_size": 25160593,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12278",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12286,
+      "title": "احكام النسب فقها وقضاء فى ضوء المذاهب الفقهية و باحدث",
+      "file_name": "049229_احكام_النسب_فقها_وقضاء_فى_ضوء_المذاهب_الفقهية_و_باحدث.cbz",
+      "file_size": 25005360,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12286",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12296,
+      "title": "التحكيم فى عقود البترول",
+      "file_name": "049593 - التحكيم فى عقود البترول.cbz",
+      "file_size": 63527278,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12296",
+      "category": "التحكيم"
+    },
+    {
+      "id": 12328,
+      "title": "فن المرافعة وصناعة المحامى المترافع امام المحاكم الجنائية",
+      "file_name": "049696_فن_المرافعة_وصناعة_المحامى_المترافع_امام_المحاكم_الجنائية.cbz",
+      "file_size": 13930025,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12328",
+      "category": "المحاماة"
+    },
+    {
+      "id": 12332,
+      "title": "تشريعات المحاماة فى الدول العربية ومستويات الدفاع وا لدولية",
+      "file_name": "049727_تشريعات_المحاماة_فى_الدول_العربية_ومستويات_الدفاع_وا_لدولية.cbz",
+      "file_size": 86652605,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12332",
+      "category": "المحاماة"
+    },
+    {
+      "id": 12345,
+      "title": "الاوراق التجارية والافلاس",
+      "file_name": "050199 - الاوراق التجارية والافلاس.cbz",
+      "file_size": 45112001,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12345",
+      "category": "القانون التجاري"
+    },
+    {
+      "id": 12348,
+      "title": "موسوعة القضاء المستعجل وقضاء التنفيذ واشكالاته مع الاحك ة",
+      "file_name": "050207_موسوعة_القضاء_المستعجل_وقضاء_التنفيذ_واشكالاته_مع_الاحك_ة.cbz",
+      "file_size": 60099685,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12348",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12350,
+      "title": "وثائق فى احكام القضاء الجنائى فى الاندلس مستخرجة م ى الاص",
+      "file_name": "050213_وثائق_فى_احكام_القضاء_الجنائى_فى_الاندلس_مستخرجة_م_ى_الاص.cbz",
+      "file_size": 10517544,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12350",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 12353,
+      "title": "قانون المرافعات",
+      "file_name": "050226 - قانون المرافعات.cbz",
+      "file_size": 28031960,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12353",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12366,
+      "title": "المحكمة العليا",
+      "file_name": "050263 - المحكمة العليا.cbz",
+      "file_size": 18902066,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12366",
+      "category": "التحكيم"
+    },
+    {
+      "id": 12381,
+      "title": "قضاء النقض المدنى والجنائى فى التزوير مجموعة القواعد النقض",
+      "file_name": "050335_قضاء_النقض_المدنى_والجنائى_فى_التزوير_مجموعة_القواعد_النقض.cbz",
+      "file_size": 34131888,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12381",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 12387,
+      "title": "عقد البيع فى ضوء قضاء النقض التصدى لكافة المنازعات ال اء",
+      "file_name": "050369_عقد_البيع_فى_ضوء_قضاء_النقض_التصدى_لكافة_المنازعات_ال_اء.cbz",
+      "file_size": 46012269,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12387",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12430,
+      "title": "الارهاب والقانون الدولى",
+      "file_name": "050558 - الارهاب والقانون الدولى.cbz",
+      "file_size": 13089731,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12430",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 12475,
+      "title": "قانون العقوبات- القسم الخاص",
+      "file_name": "051108 - قانون العقوبات- القسم الخاص.cbz",
+      "file_size": 87871665,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12475",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 12477,
+      "title": "موسوعة القضاء التأديبى وطرق الطعن فى الاحكام امام ال فى الف",
+      "file_name": "051111_موسوعة_القضاء_التأديبى_وطرق_الطعن_فى_الاحكام_امام_ال_فى_الف.cbz",
+      "file_size": 22384843,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12477",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12492,
+      "title": "الصورية فى ضوء الفقه والقضاء",
+      "file_name": "051163_الصورية_فى_ضوء_الفقه_والقضاء.cbz",
+      "file_size": 57566393,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12492",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12508,
+      "title": "قانون الاجراءات الجنائية",
+      "file_name": "051221 - قانون الاجراءات الجنائية.cbz",
+      "file_size": 52139535,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12508",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 12510,
+      "title": "القضاء المستعجل ومشاكله العملية فى الوطن العربى دراسة مقارنة",
+      "file_name": "051225_القضاء_المستعجل_ومشاكله_العملية_فى_الوطن_العربى_دراسة_مقارنة.cbz",
+      "file_size": 38593875,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12510",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12626,
+      "title": "الوسيط فى قانون الاجراءات الجنائية",
+      "file_name": "051733_الوسيط_فى_قانون_الاجراءات_الجنائية.cbz",
+      "file_size": 89002472,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12626",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 12638,
+      "title": "القضاء العشائرى فى الاردن",
+      "file_name": "051798 - القضاء العشائرى فى الاردن.cbz",
+      "file_size": 15642867,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12638",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12694,
+      "title": "قيم وتقاليد السلطة القضائية",
+      "file_name": "052023 - قيم وتقاليد السلطة القضائية.cbz",
+      "file_size": 13819820,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12694",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12723,
+      "title": "دعوى الإلغاء ووقف تنفيذ القرار الإدارى وقضاء التنفيذ واشكال",
+      "file_name": "052181_دعوى_الإلغاء_ووقف_تنفيذ_القرار_الإدارى_وقضاء_التنفيذ_واشكال.cbz",
+      "file_size": 56159259,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12723",
+      "category": "القضاء الإداري"
+    },
+    {
+      "id": 12742,
+      "title": "الجرائم المخلة بالآداب فقها وقضاء",
+      "file_name": "052267_الجرائم_المخلة_بالآداب_فقها_وقضاء.cbz",
+      "file_size": 22304287,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12742",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12744,
+      "title": "فى أصول النظام الجنائى الإسلامى دراسة مقارنة",
+      "file_name": "052284_فى_أصول_النظام_الجنائى_الإسلامى_دراسة_مقارنة.cbz",
+      "file_size": 16424088,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12744",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 12752,
+      "title": "قضاء النقض المدنى دعوى التعويض مجموعة المبادىء ا ض عن ا",
+      "file_name": "052314_قضاء_النقض_المدنى_دعوى_التعويض_مجموعة_المبادىء_ا_ض_عن_ا.cbz",
+      "file_size": 37307734,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12752",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 12781,
+      "title": "مرافعات",
+      "file_name": "052416 - مرافعات.cbz",
+      "file_size": 19721026,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12781",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12787,
+      "title": "موسوعة مبادئ المحكمة الدستورية العليا في الدعوي الدس ليا",
+      "file_name": "052442_موسوعة_مبادئ_المحكمة_الدستورية_العليا_في_الدعوي_الدس_ليا.cbz",
+      "file_size": 45120260,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12787",
+      "category": "التحكيم"
+    },
+    {
+      "id": 12824,
+      "title": "قضاء النقض فى التأمينات الاجتماعية مجموعة القواعد ال ض خلال",
+      "file_name": "052822_قضاء_النقض_فى_التأمينات_الاجتماعية_مجموعة_القواعد_ال_ض_خلال.cbz",
+      "file_size": 26371370,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12824",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12825,
+      "title": "أصول القانون الدولي",
+      "file_name": "052824 - أصول القانون الدولي.cbz",
+      "file_size": 34051076,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12825",
+      "category": "القانون الدولي"
+    },
+    {
+      "id": 12827,
+      "title": "الحراسة القضائية فى ضوء القضاء والفقه الحراسة المدنية و القيم",
+      "file_name": "052826_الحراسة_القضائية_فى_ضوء_القضاء_والفقه_الحراسة_المدنية_و_القيم.cbz",
+      "file_size": 33966200,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12827",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 12842,
+      "title": "قانون العقوبات واحكام النقض",
+      "file_name": "052902 - قانون العقوبات واحكام النقض.cbz",
+      "file_size": 25434567,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12842",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 12848,
+      "title": "مبادئ فى القضاء الشرعى",
+      "file_name": "052925 - مبادئ فى القضاء الشرعى.cbz",
+      "file_size": 37517707,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12848",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12849,
+      "title": "جريمة القتل والاصابة الخطأ فى ضوء القضاء والفقه دراسة ل والظرو",
+      "file_name": "052938_جريمة_القتل_والاصابة_الخطأ_فى_ضوء_القضاء_والفقه_دراسة_ل_والظرو.cbz",
+      "file_size": 10796055,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12849",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 12852,
+      "title": "القضاء الشرعى فى مصر فى العصر العثمانى",
+      "file_name": "052951_القضاء_الشرعى_فى_مصر_فى_العصر_العثمانى.cbz",
+      "file_size": 4852751,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12852",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12867,
+      "title": "قضاء الالغاء والتعويض",
+      "file_name": "053155 - قضاء الالغاء والتعويض.cbz",
+      "file_size": 30003383,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12867",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 12922,
+      "title": "عظمة المحاماة",
+      "file_name": "053574 - عظمة المحاماة.cbz",
+      "file_size": 3583801,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12922",
+      "category": "المحاماة"
+    },
+    {
+      "id": 12940,
+      "title": "المحكمة الجنائية الدولية المواءمات الدستورية والتشريعي موذجى",
+      "file_name": "053672_المحكمة_الجنائية_الدولية_المواءمات_الدستورية_والتشريعي_موذجى.cbz",
+      "file_size": 50281573,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12940",
+      "category": "التحكيم"
+    },
+    {
+      "id": 12959,
+      "title": "موسوعة الفقه والقضاء والتشريع فى ايجار وبيع الاماكن الخا",
+      "file_name": "053865_موسوعة_الفقه_والقضاء_والتشريع_فى_ايجار_وبيع_الاماكن_الخا.cbz",
+      "file_size": 106628081,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12959",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 12961,
+      "title": "التعليق على قانون العقوبات",
+      "file_name": "053876 - التعليق على قانون العقوبات.cbz",
+      "file_size": 103514632,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12961",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 12974,
+      "title": "قضاء النقض فى الايجارات",
+      "file_name": "053903 - قضاء النقض فى الايجارات.cbz",
+      "file_size": 63758901,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12974",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 12977,
+      "title": "جريمة البلاغ الكاذب فى ضوء القضاء والفقه",
+      "file_name": "053927_جريمة_البلاغ_الكاذب_فى_ضوء_القضاء_والفقه.cbz",
+      "file_size": 9489577,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12977",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 12991,
+      "title": "عقد الايجار فى ضوء قضاء النقض",
+      "file_name": "054018_عقد_الايجار_فى_ضوء_قضاء_النقض.cbz",
+      "file_size": 75072714,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/12991",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 13205,
+      "title": "التشريع الجنائى الاسلامى مقارنا بالقانون الوضعى",
+      "file_name": "054768_التشريع_الجنائى_الاسلامى_مقارنا_بالقانون_الوضعى.cbz",
+      "file_size": 73580326,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/13205",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 13910,
+      "title": "لا تراجع سنواصل ما بداناه كفاح قرية مصرية للقضاء على ختان",
+      "file_name": "057484_لا_تراجع_سنواصل_ما_بداناه_كفاح_قرية_مصرية_للقضاء_على_ختان.cbz",
+      "file_size": 8717790,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/13910",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 15045,
+      "title": "كتاب احكام الوقف",
+      "file_name": "062259 - كتاب احكام الوقف.cbz",
+      "file_size": 36034950,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/15045",
+      "category": "الأحوال الشخصية"
+    },
+    {
+      "id": 15226,
+      "title": "قانون المحاكم الأهلية",
+      "file_name": "062968 - قانون المحاكم الأهلية.cbz",
+      "file_size": 49578549,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/15226",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 15254,
+      "title": "الميثاق وقانون الاتحاد الاشتراكى العربى",
+      "file_name": "063039_الميثاق_وقانون_الاتحاد_الاشتراكى_العربى.cbz",
+      "file_size": 5208036,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/15254",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 15762,
+      "title": "الموسوعة الادارية الحديثة مبادئ المحكمة الادارية العليا و",
+      "file_name": "065359_الموسوعة_الادارية_الحديثة_مبادئ_المحكمة_الادارية_العليا_و.cbz",
+      "file_size": 82024208,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/15762",
+      "category": "التحكيم"
+    },
+    {
+      "id": 16117,
+      "title": "ظفر اللاضى بما يجب فى القضاء على القاضى",
+      "file_name": "066311_ظفر_اللاضى_بما_يجب_فى_القضاء_على_القاضى.cbz",
+      "file_size": 35728031,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/16117",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 19243,
+      "title": "زديج، او، القضاء قصة شرقية",
+      "file_name": "075698_زديج،_او،_القضاء_قصة_شرقية.cbz",
+      "file_size": 10217562,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/19243",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 19434,
+      "title": "استقلال القضاء",
+      "file_name": "076529 - استقلال القضاء.cbz",
+      "file_size": 3130941,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/19434",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 21420,
+      "title": "قضاء النقض فى المواد المدنية، 1931 1992",
+      "file_name": "084944_قضاء_النقض_فى_المواد_المدنية،_1931_1992.cbz",
+      "file_size": 99820124,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/21420",
+      "category": "القانون المدني"
+    },
+    {
+      "id": 21590,
+      "title": "موسوعة الفقه والقضاء فى الطب الشرعى",
+      "file_name": "085570_موسوعة_الفقه_والقضاء_فى_الطب_الشرعى.cbz",
+      "file_size": 65498545,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/21590",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 21829,
+      "title": "شرح قانون المحاماة الجديدرقم 17 لسنة 1983",
+      "file_name": "086312_شرح_قانون_المحاماة_الجديدرقم_17_لسنة_1983.cbz",
+      "file_size": 9320273,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/21829",
+      "category": "المحاماة"
+    },
+    {
+      "id": 21850,
+      "title": "قضاء مجلس الدولة وصيغ الدعاوى الادارية واجراءتها",
+      "file_name": "086399_قضاء_مجلس_الدولة_وصيغ_الدعاوى_الادارية_واجراءتها.cbz",
+      "file_size": 50691108,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/21850",
+      "category": "القضاء الإداري"
+    },
+    {
+      "id": 21881,
+      "title": "براءة المتهم فى جرائم الشيك فى ضوء قضاء النقض الجنائى",
+      "file_name": "086515_براءة_المتهم_فى_جرائم_الشيك_فى_ضوء_قضاء_النقض_الجنائى.cbz",
+      "file_size": 7458796,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/21881",
+      "category": "القانون الجنائي"
+    },
+    {
+      "id": 21994,
+      "title": "الموسوعة الدستورية مبادئ واحكام المحكمة الدستورية ال 5 عاما",
+      "file_name": "087110_الموسوعة_الدستورية_مبادئ_واحكام_المحكمة_الدستورية_ال_5_عاما.cbz",
+      "file_size": 63656988,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/21994",
+      "category": "التحكيم"
+    },
+    {
+      "id": 22135,
+      "title": "قضاء الارب فى وعظ الخطبة بغير لغة العرب، ولقبه، تدبير اصل",
+      "file_name": "087912_قضاء_الارب_فى_وعظ_الخطبة_بغير_لغة_العرب،_ولقبه،_تدبير_اصل.cbz",
+      "file_size": 14413437,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/22135",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 22236,
+      "title": "قضاء المحاكم الجزئية والابتدائية فى ضوء احكام النقض ومب لقضائى",
+      "file_name": "088630_قضاء_المحاكم_الجزئية_والابتدائية_فى_ضوء_احكام_النقض_ومب_لقضائى.cbz",
+      "file_size": 47596974,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/22236",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 22671,
+      "title": "المناهج الاصولية فى الاجتهاد بالرأى فى التشريع الاسلامى",
+      "file_name": "091281_المناهج_الاصولية_فى_الاجتهاد_بالرأى_فى_التشريع_الاسلامى.cbz",
+      "file_size": 26414401,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/22671",
+      "category": "الأنظمة والتشريعات"
+    },
+    {
+      "id": 24953,
+      "title": "القضاء المستعجل ومنازعات التنفيذ الوقتية اشكالات التنفيذ",
+      "file_name": "099453_القضاء_المستعجل_ومنازعات_التنفيذ_الوقتية_اشكالات_التنفيذ.cbz",
+      "file_size": 110657189,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/24953",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 26463,
+      "title": "استقلال القضاء ومحنة الانتخابات",
+      "file_name": "105284_استقلال_القضاء_ومحنة_الانتخابات.cbz",
+      "file_size": 31220058,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/26463",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 27952,
+      "title": "القضاء القبطى فى مصر دراسة تاريخية",
+      "file_name": "110670_القضاء_القبطى_فى_مصر_دراسة_تاريخية.cbz",
+      "file_size": 8078027,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/27952",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 28217,
+      "title": "خصومة الاستئناف أمام المحكمة المدنية",
+      "file_name": "111580_خصومة_الاستئناف_أمام_المحكمة_المدنية.cbz",
+      "file_size": 29106359,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/28217",
+      "category": "التحكيم"
+    },
+    {
+      "id": 29206,
+      "title": "مصرع رجل قضاء",
+      "file_name": "114969 - مصرع رجل قضاء.cbz",
+      "file_size": 4845427,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/29206",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 29236,
+      "title": "التطور الحضارى لقضاء بنى كنانة فى محافظة اربد من عام 1984م",
+      "file_name": "115050_التطور_الحضارى_لقضاء_بنى_كنانة_فى_محافظة_اربد_من_عام_1984م.cbz",
+      "file_size": 17771201,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/29236",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 29239,
+      "title": "من ذكريات الفن والقضاء",
+      "file_name": "115079 - من ذكريات الفن والقضاء.cbz",
+      "file_size": 4094522,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/29239",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 29503,
+      "title": "مذبحة القضاء",
+      "file_name": "115927 - مذبحة القضاء.cbz",
+      "file_size": 8689836,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/29503",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 30371,
+      "title": "المحاماة",
+      "file_name": "119134 - المحاماة.cbz",
+      "file_size": 21892995,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/30371",
+      "category": "المحاماة"
+    },
+    {
+      "id": 31292,
+      "title": "الحرب الاهلية فى نقابة المحامين الدور القومى، صراع المن قراطية",
+      "file_name": "121734_الحرب_الاهلية_فى_نقابة_المحامين_الدور_القومى،_صراع_المن_قراطية.cbz",
+      "file_size": 20982313,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/31292",
+      "category": "المحاماة"
+    },
+    {
+      "id": 31314,
+      "title": "كتاب تاريخ القضاء فى الاسلام",
+      "file_name": "121795_كتاب_تاريخ_القضاء_فى_الاسلام.cbz",
+      "file_size": 16122411,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/31314",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 31489,
+      "title": "صلاح الدين الايوبى وجهوده فى القضاء على الدولة الفاط المقدس",
+      "file_name": "122280_صلاح_الدين_الايوبى_وجهوده_فى_القضاء_على_الدولة_الفاط_المقدس.cbz",
+      "file_size": 49834513,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/31489",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 32808,
+      "title": "القضاء فى الاسلام",
+      "file_name": "127454 - القضاء فى الاسلام.cbz",
+      "file_size": 2804355,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/32808",
+      "category": "القضاء والمحاكم"
+    },
+    {
+      "id": 33315,
+      "title": "القضاء المستعجل",
+      "file_name": "128678 - القضاء المستعجل.cbz",
+      "file_size": 36779465,
+      "file_type": "application/vnd.comicbook+zip",
+      "telegram_link": "https://t.me/c/1592768820/33315",
+      "category": "القضاء والمحاكم"
+    }
+  ],
+  "excluded_sample": [
+    {
+      "id": 4694,
+      "title": "شفاء العليل فى القضاء والقدر والحكمة والتعليل",
+      "reason": "موضوع غير قضائي"
+    },
+    {
+      "id": 23124,
+      "title": "القضاء والقدر",
+      "reason": "موضوع غير قضائي"
+    },
+    {
+      "id": 28997,
+      "title": "القضاء والقدر",
+      "reason": "موضوع غير قضائي"
+    },
+    {
+      "id": 31962,
+      "title": "القضاء والقدر",
+      "reason": "موضوع غير قضائي"
+    },
+    {
+      "id": 34310,
+      "title": "موت فوضوى قضاء وقدرا جائزة نوبل 1997",
+      "reason": "موضوع غير قضائي"
+    },
+    {
+      "id": 59227,
+      "title": "كتاب شفاء العليل فى مسائل القضاء والقدر والحكمة والتعليل",
+      "reason": "موضوع غير قضائي"
+    }
+  ]
+}
