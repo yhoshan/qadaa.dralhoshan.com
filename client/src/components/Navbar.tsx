@@ -1,14 +1,16 @@
 /* =============================================
    Navbar — مكنز القضاء والأنظمة والمحاماة
-   ألوان مطابقة لـ osool.dralhoshan.com
+   زر حول المكنز ذهبي صغير مقابل الوضع الليلي، ونافذة تعريفية بهوية بيجية
    ============================================= */
 import { useTheme } from "@/contexts/ThemeContext";
-import { Sun, Moon } from "lucide-react";
+import { Sun, Moon, ShieldCheck } from "lucide-react";
 import { useState, useEffect } from "react";
+import { Dialog, DialogClose, DialogContent, DialogDescription, DialogTitle } from "@/components/ui/dialog";
 
 export default function Navbar() {
   const { theme, toggleTheme } = useTheme();
   const [scrolled, setScrolled] = useState(false);
+  const [aboutOpen, setAboutOpen] = useState(false);
 
   useEffect(() => {
     const onScroll = () => setScrolled(window.scrollY > 60);
@@ -38,25 +40,60 @@ export default function Navbar() {
       <div className="container">
         <div className="flex items-center justify-between h-16">
 
-          {/* Right: Signature image */}
-          <a
-            href="https://dralhoshan.com/"
-            target="_blank"
-            rel="noopener noreferrer"
-            className="opacity-90 hover:opacity-100 transition-opacity"
-            title="د. يوسف بن حمود الحوشان"
-          >
-            <img
-              src="/manus-storage/signature-hoshan_0c8875c4.webp"
-              alt="د. يوسف بن حمود الحوشان"
-              className="h-8 w-auto object-contain"
+          {/* Right: About the thesaurus — identity-colored compact control */}
+          <Dialog open={aboutOpen} onOpenChange={setAboutOpen}>
+            <button
+              onClick={() => setAboutOpen(true)}
+              className="inline-flex h-9 items-center gap-1.5 rounded-lg px-3 transition-all hover:opacity-85 active:scale-[0.97]"
               style={{
-                filter: isDark
-                  ? "invert(1) brightness(2) drop-shadow(0 1px 3px rgba(0,0,0,0.6))"
-                  : "brightness(0) saturate(100%) opacity(0.75)",
+                background: isDark ? "oklch(0.28 0.05 52)" : "oklch(0.93 0.03 80)",
+                border: isDark ? "1px solid oklch(1 0 0 / 12%)" : "1px solid oklch(0.88 0.04 78)",
+                color: "oklch(0.48 0.12 68)",
+                fontFamily: "Cairo, sans-serif",
               }}
-            />
-          </a>
+              title="حول المكنز"
+            >
+              <ShieldCheck className="h-3.5 w-3.5" />
+              <span className="text-[10px] font-semibold">حول المكنز</span>
+            </button>
+
+            <DialogContent
+              dir="rtl"
+              showCloseButton={false}
+              className="max-w-md text-right"
+              style={{
+                background: isDark ? "oklch(0.22 0.045 52)" : "oklch(0.98 0.01 85)",
+                borderColor: isDark ? "oklch(0.55 0.12 68 / 0.55)" : "oklch(0.85 0.05 78)",
+                color: isDark ? "oklch(0.94 0.02 82)" : "oklch(0.18 0.04 50)",
+                fontFamily: "Cairo, sans-serif",
+              }}
+            >
+              <div className="flex items-center justify-between gap-4 border-b pb-3" style={{ borderColor: isDark ? "oklch(1 0 0 / 10%)" : "oklch(0.88 0.04 78)" }}>
+                <div className="flex items-center gap-2">
+                  <ShieldCheck className="h-5 w-5" style={{ color: "oklch(0.48 0.12 68)" }} />
+                  <DialogTitle className="text-base" style={{ fontFamily: "Amiri, serif", color: "oklch(0.48 0.12 68)" }}>
+                    حول المكنز
+                  </DialogTitle>
+                </div>
+                <DialogClose className="text-xl leading-none opacity-65 transition-opacity hover:opacity-100" aria-label="إغلاق">×</DialogClose>
+              </div>
+
+              <DialogDescription className="pt-1 text-right text-sm leading-8" style={{ color: isDark ? "oklch(0.88 0.02 82)" : "oklch(0.37 0.05 55)", fontFamily: "Cairo, sans-serif" }}>
+                مكنز القضاء والأنظمة والمحاماة فهرسٌ تجميعيٌّ للروابط والإحالات إلى مواد قانونية وقضائية منشورة في مصادر خارجية، أُعدّ لتيسير الوصول وخدمة الباحثين والقضاة والمحامين. لا يدّعي ملكية المواد ولا يضمن محتواها أو دقتها أو بقاء روابطها. تبقى الحقوق لأصحابها، ويتحمل المستخدم مسؤولية التحقق من المادة وحقوق استخدامها، ومن له حق أو ملاحظة فليتواصل عبر البريد الإلكتروني.
+              </DialogDescription>
+
+              <div className="flex justify-center pt-2">
+                <DialogClose asChild>
+                  <button
+                    className="rounded-lg px-6 py-2 text-xs font-semibold transition-opacity hover:opacity-85 active:scale-[0.97]"
+                    style={{ background: "rgb(139, 105, 20)", color: "white", fontFamily: "Cairo, sans-serif" }}
+                  >
+                    فهمت
+                  </button>
+                </DialogClose>
+              </div>
+            </DialogContent>
+          </Dialog>
 
           {/* Center: empty spacer */}
           <div className="flex-1" />
