@@ -1,7 +1,6 @@
 /* =============================================
    Footer — مكنز القضاء والأنظمة والمحاماة
-   ألوان مطابقة لـ osool.dralhoshan.com
-   خلفية بيج دافئ + ذهبي بني
+   تجربة هوية: جلد عنّابي + ذهب عتيق + خط ثمانية
    ============================================= */
 import { Mail, Copy, ExternalLink } from "lucide-react";
 import { toast } from "sonner";
@@ -10,12 +9,12 @@ import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/
 const SHARE_URL = typeof window !== "undefined" ? window.location.href : "https://qadaa.dralhoshan.com";
 const SHARE_TEXT = "مكنز القضاء والأنظمة والمحاماة — فهرس علمي شامل يضم أكثر من 11,000 مادة";
 
-const FOOTER_BG = "oklch(0.95 0.02 80)";
-const BORDER_COLOR = "oklch(0.88 0.04 78)";
-const TEXT_MUTED = "oklch(0.52 0.06 60)";
-const TEXT_LIGHT = "oklch(0.65 0.03 60)";
-const GOLD = "rgb(139, 105, 20)";
-const TEXT_DARK = "oklch(0.18 0.04 50)";
+const FOOTER_BG = "oklch(0.16 0.05 22)";
+const BORDER_COLOR = "oklch(0.60 0.10 70 / 0.65)";
+const TEXT_MUTED = "oklch(0.76 0.04 72)";
+const TEXT_LIGHT = "oklch(0.68 0.035 70)";
+const GOLD = "oklch(0.74 0.13 76)";
+const TEXT_DARK = "oklch(0.94 0.03 82)";
 
 // مصادر المواد المعتمدة في المكنز — تحفظ الإحالة إلى المنصة أو القناة الأصلية.
 const MAKANEZ_SOURCES = [
@@ -262,7 +261,7 @@ export default function Footer() {
               <AccordionItem
                 value="makanez-sources"
                 className="rounded-xl overflow-hidden"
-                style={{ border: `1px solid ${BORDER_COLOR}`, background: "oklch(0.97 0.01 82)" }}
+                style={{ border: `1px solid ${BORDER_COLOR}`, background: "oklch(0.25 0.06 23)" }}
               >
                 <AccordionTrigger
                   className="px-4 py-3 hover:no-underline items-center"

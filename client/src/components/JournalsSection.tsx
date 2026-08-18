@@ -1,16 +1,16 @@
 /* =============================================
    JournalsSection — قسم المجلات القانونية والحقوقية البارز
-   تصميم تراثي: بيج دافئ + ذهبي بني + خط Amiri
+   تجربة هوية: جلد عنّابي + ذهب عتيق + خط ثمانية
    ============================================= */
 import { BookOpen, ExternalLink, ChevronLeft } from "lucide-react";
 
-const GOLD = "rgb(139, 105, 20)";
-const GOLD_LIGHT = "oklch(0.88 0.06 78)";
-const WARM_BG = "oklch(0.96 0.015 80)";
-const CARD_BG = "oklch(0.99 0.005 80)";
-const BORDER = "oklch(0.85 0.05 75)";
-const TEXT_DARK = "oklch(0.18 0.04 50)";
-const TEXT_MUTED = "oklch(0.52 0.06 60)";
+const GOLD = "oklch(0.74 0.13 76)";
+const GOLD_LIGHT = "oklch(0.63 0.11 72 / 0.75)";
+const WARM_BG = "oklch(0.20 0.06 23)";
+const CARD_BG = "oklch(0.28 0.07 24)";
+const BORDER = "oklch(0.60 0.10 70 / 0.72)";
+const TEXT_DARK = "oklch(0.94 0.03 82)";
+const TEXT_MUTED = "oklch(0.75 0.04 72)";
 
 interface JournalsSectionProps {
   onFilterBySource?: (source: string) => void;
@@ -97,7 +97,7 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
     <section
       dir="rtl"
       style={{
-        background: `linear-gradient(180deg, ${WARM_BG} 0%, oklch(0.94 0.02 78) 100%)`,
+        background: `linear-gradient(180deg, ${WARM_BG} 0%, oklch(0.24 0.065 23) 100%)`,
         borderTop: `1px solid ${BORDER}`,
         borderBottom: `1px solid ${BORDER}`,
         padding: "3rem 0",

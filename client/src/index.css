@@ -290,8 +290,72 @@
     border-color: oklch(0.85 0.05 310);
   }
   .badge-zip {
-    background: oklch(0.93 0.03 80);
-    color: oklch(0.38 0.10 65);
-    border-color: oklch(0.88 0.04 78);
-  }
+  background: oklch(0.93 0.03 80);
+  color: oklch(0.38 0.10 65);
+  border-color: oklch(0.88 0.04 78);
+}
+
+/* ========================================================
+   تجربة هوية الغلاف: جلد عنّابي، ذهب عتيق، وخط ثمانية
+   هذه طبقة لونية فقط؛ لا تمس بنية المكنز أو بياناته.
+   ======================================================== */
+:root {
+  --background: oklch(0.20 0.055 23);
+  --foreground: oklch(0.93 0.025 80);
+  --card: oklch(0.27 0.062 24);
+  --card-foreground: oklch(0.93 0.025 80);
+  --popover: oklch(0.25 0.06 24);
+  --popover-foreground: oklch(0.93 0.025 80);
+  --primary: oklch(0.73 0.13 76);
+  --primary-foreground: oklch(0.20 0.055 23);
+  --secondary: oklch(0.34 0.065 24);
+  --secondary-foreground: oklch(0.88 0.06 78);
+  --muted: oklch(0.31 0.045 24);
+  --muted-foreground: oklch(0.73 0.035 72);
+  --accent: oklch(0.38 0.08 26);
+  --accent-foreground: oklch(0.92 0.05 80);
+  --border: oklch(0.56 0.10 70 / 0.6);
+  --input: oklch(0.56 0.10 70 / 0.6);
+  --ring: oklch(0.75 0.14 76);
+}
+
+.dark {
+  --background: oklch(0.14 0.045 22);
+  --foreground: oklch(0.94 0.03 80);
+  --card: oklch(0.20 0.055 23);
+  --card-foreground: oklch(0.94 0.03 80);
+  --popover: oklch(0.22 0.06 23);
+  --popover-foreground: oklch(0.94 0.03 80);
+  --primary: oklch(0.76 0.14 76);
+  --primary-foreground: oklch(0.14 0.045 22);
+  --secondary: oklch(0.28 0.065 23);
+  --secondary-foreground: oklch(0.89 0.05 80);
+  --muted: oklch(0.24 0.05 23);
+  --muted-foreground: oklch(0.68 0.04 72);
+  --accent: oklch(0.32 0.075 24);
+  --accent-foreground: oklch(0.94 0.03 80);
+  --border: oklch(0.62 0.11 72 / 0.45);
+  --input: oklch(0.62 0.11 72 / 0.45);
+  --ring: oklch(0.76 0.14 76);
+}
+
+body, button, input, select, textarea, [role="dialog"], [data-slot="select-content"] {
+  font-family: 'Thmanyah Sans', 'Cairo', sans-serif !important;
+}
+
+h1, h2, h3, .font-display {
+  font-family: 'Thmanyah Serif Display', 'Amiri', serif !important;
+}
+
+body {
+  background-image: radial-gradient(circle at 76% -10%, oklch(0.48 0.10 30 / 0.65), transparent 34%), radial-gradient(circle at 12% 18%, oklch(0.34 0.08 21 / 0.8), transparent 38%);
+}
+
+.badge-judiciary, .badge-systems, .badge-crimes, .badge-evidence, .badge-courts,
+.badge-inheritance, .badge-advocacy, .badge-hisba, .badge-personal, .badge-research, .badge-general,
+.badge-pdf, .badge-word, .badge-mp3, .badge-mp4, .badge-zip {
+  background: oklch(0.34 0.065 24) !important;
+  color: oklch(0.85 0.10 76) !important;
+  border-color: oklch(0.62 0.11 72 / 0.65) !important;
+}
 }

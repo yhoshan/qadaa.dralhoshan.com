@@ -1,7 +1,6 @@
 /* =============================================
    Home Page — مكنز القضاء والأنظمة والمحاماة
-   ألوان مطابقة لـ osool.dralhoshan.com
-   خلفية بيج دافئ + ذهبي بني + بطاقات بيضاء
+   تجربة هوية: جلد عنّابي + ذهب عتيق + خط ثمانية
    ============================================= */
 import { useState, useMemo, useCallback, useRef } from "react";
 import { useItems, useFilteredItems, type FilterState } from "@/hooks/useItems";
@@ -26,12 +25,12 @@ const DEFAULT_FILTERS: FilterState = {
   sort: "default",
 };
 
-const WARM_BG = "oklch(0.98 0.01 85)";
-const CARD_BG = "oklch(0.93 0.03 80)";
-const BORDER_COLOR = "oklch(0.88 0.04 78)";
-const TEXT_MUTED = "oklch(0.52 0.06 60)";
-const GOLD = "rgb(139, 105, 20)";
-const TEXT_DARK = "oklch(0.18 0.04 50)";
+const WARM_BG = "oklch(0.19 0.055 23)";
+const CARD_BG = "oklch(0.29 0.07 24)";
+const BORDER_COLOR = "oklch(0.60 0.10 70 / 0.7)";
+const TEXT_MUTED = "oklch(0.75 0.04 72)";
+const GOLD = "oklch(0.74 0.13 76)";
+const TEXT_DARK = "oklch(0.94 0.03 82)";
 
 export default function Home() {
   const { items, stats, loading, error } = useItems();
@@ -150,7 +149,7 @@ export default function Home() {
       ...btnBase,
       background: GOLD,
       border: `1px solid ${GOLD}`,
-      color: "white",
+      color: "oklch(0.17 0.05 22)",
       fontWeight: "bold",
     };
 

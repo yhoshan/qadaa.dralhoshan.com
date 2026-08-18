@@ -1,7 +1,6 @@
 /* =============================================
    ItemCard — مكنز القضاء والأنظمة والمحاماة
-   ألوان مطابقة لـ osool.dralhoshan.com
-   بطاقات بيضاء + حدود بيج + أزرار ذهبية/بنية
+   تجربة هوية الغلاف: بطاقات عنّابية + ذهب عتيق + خط ثمانية
    ============================================= */
 import {
   FileText, ExternalLink, Copy, Star,
@@ -42,19 +41,19 @@ export default function ItemCard({ item, index }: ItemCardProps) {
     <div
       className="group relative rounded-xl border transition-all duration-200 hover:-translate-y-0.5 hover:shadow-md"
       style={{
-        fontFamily: "Cairo, sans-serif",
-        background: item.is_featured ? "oklch(1 0 0)" : "oklch(1 0 0)",
-        borderColor: item.is_featured ? "rgb(139, 105, 20)" : "oklch(0.88 0.04 78)",
-        boxShadow: item.is_featured ? "0 0 10px oklch(0.48 0.12 68 / 0.12)" : undefined,
+        fontFamily: "Thmanyah Sans, Cairo, sans-serif",
+        background: "linear-gradient(145deg, oklch(0.30 0.075 24), oklch(0.23 0.06 23))",
+        borderColor: item.is_featured ? "oklch(0.77 0.14 76)" : "oklch(0.58 0.10 70 / 0.7)",
+        boxShadow: item.is_featured ? "0 0 18px oklch(0.75 0.14 76 / 0.22)" : "inset 0 1px oklch(1 0 0 / 0.05), 0 8px 18px oklch(0 0 0 / 0.16)",
       }}
     >
       {/* Featured badge */}
       {item.is_featured && (
         <div
           className="absolute -top-2 -right-2 w-6 h-6 rounded-full flex items-center justify-center shadow-md"
-          style={{ background: "rgb(139, 105, 20)" }}
+          style={{ background: "oklch(0.74 0.13 76)" }}
         >
-          <Star className="w-3 h-3 fill-current" style={{ color: "white" }} />
+          <Star className="w-3 h-3 fill-current" style={{ color: "oklch(0.17 0.05 22)" }} />
         </div>
       )}
 
@@ -65,10 +64,10 @@ export default function ItemCard({ item, index }: ItemCardProps) {
           <span
             className="flex-shrink-0 w-7 h-7 rounded-lg flex items-center justify-center text-[10px]"
             style={{
-              fontFamily: "Tajawal, sans-serif",
-              background: "oklch(0.93 0.03 80)",
-              border: "1px solid oklch(0.88 0.04 78)",
-              color: "oklch(0.52 0.06 60)",
+              fontFamily: "Thmanyah Sans, Cairo, sans-serif",
+              background: "oklch(0.21 0.055 22)",
+              border: "1px solid oklch(0.58 0.10 70 / 0.7)",
+              color: "oklch(0.78 0.08 76)",
             }}
           >
             {index}
@@ -84,8 +83,8 @@ export default function ItemCard({ item, index }: ItemCardProps) {
               <span
                 className="inline-flex items-center px-2 py-0.5 rounded-full text-[10px]"
                 style={{
-                  background: "oklch(0.93 0.03 80)",
-                  color: "oklch(0.38 0.10 65)",
+                  background: "oklch(0.36 0.07 25)",
+                  color: "oklch(0.85 0.10 76)",
                 }}
               >
                 {item.material_type}
@@ -103,8 +102,8 @@ export default function ItemCard({ item, index }: ItemCardProps) {
         <h3
           className="text-sm font-bold mb-2 leading-relaxed line-clamp-2 transition-colors"
           style={{
-            fontFamily: "Amiri, serif",
-            color: "oklch(0.18 0.04 50)",
+            fontFamily: "Thmanyah Serif Display, Amiri, serif",
+            color: "oklch(0.94 0.03 82)",
           }}
         >
           {item.title}
@@ -113,18 +112,18 @@ export default function ItemCard({ item, index }: ItemCardProps) {
         {/* Meta info */}
         <div className="space-y-1 mb-3">
           {item.author && (
-            <div className="flex items-center gap-1.5 text-xs" style={{ color: "oklch(0.52 0.06 60)" }}>
+            <div className="flex items-center gap-1.5 text-xs" style={{ color: "oklch(0.78 0.04 74)" }}>
               <User className="w-3 h-3 flex-shrink-0" />
               <span className="truncate">{item.author}</span>
             </div>
           )}
           {item.investigator && (
-            <div className="flex items-center gap-1.5 text-xs" style={{ color: "oklch(0.60 0.04 60)" }}>
+            <div className="flex items-center gap-1.5 text-xs" style={{ color: "oklch(0.74 0.04 72)" }}>
               <BookOpen className="w-3 h-3 flex-shrink-0" />
               <span className="truncate">تحقيق: {item.investigator}</span>
             </div>
           )}
-          <div className="flex items-center gap-3 text-xs" style={{ color: "oklch(0.65 0.03 60)" }}>
+          <div className="flex items-center gap-3 text-xs" style={{ color: "oklch(0.72 0.04 70)" }}>
             {item.file_size && (
               <span className="flex items-center gap-1">
                 <HardDrive className="w-3 h-3" />
@@ -151,7 +150,7 @@ export default function ItemCard({ item, index }: ItemCardProps) {
           className="mb-3"
           style={{
             height: "1px",
-            background: "linear-gradient(90deg, transparent, oklch(0.88 0.04 78), transparent)",
+            background: "linear-gradient(90deg, transparent, oklch(0.63 0.11 72 / 0.7), transparent)",
           }}
         />
 
