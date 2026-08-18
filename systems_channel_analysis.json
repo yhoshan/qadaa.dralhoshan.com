@@ -1,0 +1,1002 @@
+{
+  "source_name": "قناة الأنظمة",
+  "channel_name": "الأنظمة | SOCPA",
+  "channel_id": 1197187841,
+  "messages_total": 68468,
+  "files_total": 735,
+  "system_candidates_count": 124,
+  "candidates": [
+    {
+      "id": 518,
+      "title": "��الأنشطة المستثناة من الاستثمار الأجنبي�",
+      "file_name": "��الأنشطة_المستثناة_من_الاستثمار_الأجنبي�.pdf",
+      "file_size": 43008,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/518"
+    },
+    {
+      "id": 520,
+      "title": "العقوبات الواردة في نظام الشركات",
+      "file_name": "العقوبات الواردة في نظام الشركات.pdf",
+      "file_size": 48342,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/520"
+    },
+    {
+      "id": 526,
+      "title": "نظام الشركات المهنية",
+      "file_name": "نظام الشركات المهنية.pdf",
+      "file_size": 58989,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/526"
+    },
+    {
+      "id": 528,
+      "title": "نظام مراقبة البنوك",
+      "file_name": "نظام مراقبة البنوك.pdf",
+      "file_size": 352668,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/528"
+    },
+    {
+      "id": 533,
+      "title": "الأوراق التجارية-3",
+      "file_name": "الأوراق التجارية-3.pdf",
+      "file_size": 647564,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/533"
+    },
+    {
+      "id": 536,
+      "title": "أنظمة تجارية سوكبا-1-6",
+      "file_name": "أنظمة تجارية سوكبا-1-6.pdf",
+      "file_size": 553051,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/536"
+    },
+    {
+      "id": 538,
+      "title": "مقارنة الأحكام الرئيسية لأبرز أشكال الشركات",
+      "file_name": "مقارنة_الأحكام_الرئيسية_لأبرز_أشكال_الشركات.pdf",
+      "file_size": 304979,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/538"
+    },
+    {
+      "id": 1739,
+      "title": "نظام مهنة المحاسبة والمراجعة",
+      "file_name": "نظام مهنة المحاسبة والمراجعة.pdf",
+      "file_size": 517764,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/1739"
+    },
+    {
+      "id": 3130,
+      "title": "الانظمة التجارية",
+      "file_name": "الانظمة التجارية.pdf",
+      "file_size": 519540,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/3130"
+    },
+    {
+      "id": 4934,
+      "title": "م 4 الأنظمة التجارية نظام مهنة المحاسبة والمراجعة وتنظيم الهيئة",
+      "file_name": "م_4_الأنظمة_التجارية_نظام_مهنة_المحاسبة_والمراجعة_وتنظيم_الهيئة.pdf",
+      "file_size": 15419281,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/4934"
+    },
+    {
+      "id": 6418,
+      "title": "مختصر في الأوراق التجارية",
+      "file_name": "مختصر في الأوراق التجارية.pdf",
+      "file_size": 228931,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/6418"
+    },
+    {
+      "id": 8503,
+      "title": "م 4 الأنظمة التجارية نظام مهنة المحاسبة والمراجعة وتنظيم الهيئة",
+      "file_name": "م_4_الأنظمة_التجارية_نظام_مهنة_المحاسبة_والمراجعة_وتنظيم_الهيئة.pdf",
+      "file_size": 15419281,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/8503"
+    },
+    {
+      "id": 12738,
+      "title": "تجميع أسئلة مجموعة الوتساب أنظمة تجارية ٢٠١٩",
+      "file_name": "تجميع_أسئلة_مجموعة_الوتساب_أنظمة_تجارية_٢٠١٩.pdf",
+      "file_size": 93951,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/12738"
+    },
+    {
+      "id": 13717,
+      "title": "مقارنة الشركات",
+      "file_name": "مقارنة الشركات.pdf",
+      "file_size": 157850,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/13717"
+    },
+    {
+      "id": 17614,
+      "title": "الانطمة التجاريه محمد العتيبي جديد",
+      "file_name": "الانطمة_التجاريه_محمد_العتيبي_جديد.pdf",
+      "file_size": 168439,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/17614"
+    },
+    {
+      "id": 18808,
+      "title": "الأنظمة التجارية",
+      "file_name": "الأنظمة التجارية.pdf",
+      "file_size": 188154,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/18808"
+    },
+    {
+      "id": 23027,
+      "title": "نظام الشركات - الخبراء",
+      "file_name": "نظام الشركات - الخبراء.pdf",
+      "file_size": 548617,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/23027"
+    },
+    {
+      "id": 23595,
+      "title": "شركات المساهمة",
+      "file_name": "شركات المساهمة.pdf",
+      "file_size": 483054,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/23595"
+    },
+    {
+      "id": 23690,
+      "title": "مختصر في الأوراق التجارية",
+      "file_name": "مختصر في الأوراق التجارية.pdf",
+      "file_size": 228931,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/23690"
+    },
+    {
+      "id": 23745,
+      "title": "أوراق تجارية الدوري الأول",
+      "file_name": "أوراق تجارية الدوري الأول.pdf",
+      "file_size": 1127607,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/23745"
+    },
+    {
+      "id": 23746,
+      "title": "أوراق تجارية الدوري الثاني",
+      "file_name": "أوراق تجارية الدوري الثاني.pdf",
+      "file_size": 819059,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/23746"
+    },
+    {
+      "id": 24275,
+      "title": "الفصل الثاني الشركات - #2",
+      "file_name": "الفصل الثاني الشركات - #2.pdf",
+      "file_size": 273208,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/24275"
+    },
+    {
+      "id": 24374,
+      "title": "مقارنة نظامي الشركات القديم والجديد",
+      "file_name": "مقارنة_نظامي_الشركات_القديم_والجديد.pdf",
+      "file_size": 2325801,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/24374"
+    },
+    {
+      "id": 25124,
+      "title": "تفاصيل النظام",
+      "file_name": "تفاصيل النظام.pdf",
+      "file_size": 10181,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/25124"
+    },
+    {
+      "id": 26028,
+      "title": "الانطمة التجارية",
+      "file_name": "الانطمة التجارية.docx",
+      "file_size": 32005,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "telegram_link": "https://t.me/c/1197187841/26028"
+    },
+    {
+      "id": 31705,
+      "title": "اللائحة التنفيذية ل الوكالات التجارية",
+      "file_name": "اللائحة_التنفيذية_ل_الوكالات_التجارية.pdf",
+      "file_size": 2093056,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/31705"
+    },
+    {
+      "id": 31852,
+      "title": "الأنظمة التجارية.pdf",
+      "file_name": "الأنظمة التجارية.pdf.pdf",
+      "file_size": 511191,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/31852"
+    },
+    {
+      "id": 32852,
+      "title": "المراجعة ديسمبر 2022م",
+      "file_name": "المراجعة ديسمبر 2022م.pdf",
+      "file_size": 246666,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/32852"
+    },
+    {
+      "id": 35853,
+      "title": "الأنظمة التجارية الفصل الثاني ٢",
+      "file_name": "الأنظمة_التجارية_الفصل_الثاني_٢.pdf",
+      "file_size": 19631489,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/35853"
+    },
+    {
+      "id": 35854,
+      "title": "الأنظمة التجارية الفصل الثاني ٣",
+      "file_name": "الأنظمة_التجارية_الفصل_الثاني_٣.pdf",
+      "file_size": 11097448,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/35854"
+    },
+    {
+      "id": 37119,
+      "title": "مشروع اللائحة التنفيذية لنظام مهنة المحاسبة والمراجعة",
+      "file_name": "مشروع_اللائحة_التنفيذية_لنظام_مهنة_المحاسبة_والمراجعة.pdf",
+      "file_size": 558588,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/37119"
+    },
+    {
+      "id": 37129,
+      "title": "س:ج -نظام الشركات- الفصل الثاني",
+      "file_name": "س:ج -نظام الشركات- الفصل الثاني.pdf",
+      "file_size": 4225032,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/37129"
+    },
+    {
+      "id": 37137,
+      "title": "س:ج الحالات العملية الفصل٢",
+      "file_name": "س:ج الحالات العملية الفصل٢ .pdf",
+      "file_size": 9588421,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/37137"
+    },
+    {
+      "id": 37790,
+      "title": "الانظمة التجاريةعبدالرحيم",
+      "file_name": "الانظمة التجاريةعبدالرحيم .pdf",
+      "file_size": 15260692,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/37790"
+    },
+    {
+      "id": 37791,
+      "title": "الانظمة التجاريةhamad",
+      "file_name": "الانظمة التجاريةhamad.pdf",
+      "file_size": 686334,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/37791"
+    },
+    {
+      "id": 38253,
+      "title": "الاختلافات في نظام الشركات",
+      "file_name": "الاختلافات في نظام الشركات.pdf",
+      "file_size": 133128,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/38253"
+    },
+    {
+      "id": 41758,
+      "title": "الفصل الأول أنظمة تجارية",
+      "file_name": "الفصل الأول أنظمة تجارية.pdf",
+      "file_size": 667623,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/41758"
+    },
+    {
+      "id": 42815,
+      "title": "نظام الشركات الجديد ٢٠٢٣",
+      "file_name": "نظام الشركات الجديد ٢٠٢٣.pdf",
+      "file_size": 638385,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/42815"
+    },
+    {
+      "id": 48266,
+      "title": "معاينة أصل النظام",
+      "file_name": "معاينة أصل النظام.pdf",
+      "file_size": 33478571,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/48266"
+    },
+    {
+      "id": 49329,
+      "title": "العقوبات في نظام الشركات",
+      "file_name": "العقوبات في نظام الشركات.pdf",
+      "file_size": 514655,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/49329"
+    },
+    {
+      "id": 52724,
+      "title": "اللائحة التنفيذية لنظام الشركات 1444 2023",
+      "file_name": "اللائحة_التنفيذية_لنظام_الشركات_1444_2023.pdf",
+      "file_size": 16744448,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52724"
+    },
+    {
+      "id": 52725,
+      "title": "نظام الشركات الجديد",
+      "file_name": "نظام الشركات الجديد.pdf",
+      "file_size": 33488896,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52725"
+    },
+    {
+      "id": 52728,
+      "title": "اللائحة التنفيذية لنظام التجارة الإلكترونية",
+      "file_name": "اللائحة_التنفيذية_لنظام_التجارة_الإلكترونية.pdf",
+      "file_size": 2093056,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52728"
+    },
+    {
+      "id": 52729,
+      "title": "نظام التجارة الإلكترونية",
+      "file_name": "نظام التجارة الإلكترونية.pdf",
+      "file_size": 2093056,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52729"
+    },
+    {
+      "id": 52730,
+      "title": "نظام المقيّمين المعتمدين",
+      "file_name": "نظام المقيّمين المعتمدين.pdf",
+      "file_size": 4186112,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52730"
+    },
+    {
+      "id": 52731,
+      "title": "اللائحة التنفيذية لنظام مكافحة الغش التجاري",
+      "file_name": "اللائحة_التنفيذية_لنظام_مكافحة_الغش_التجاري.pdf",
+      "file_size": 4186112,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52731"
+    },
+    {
+      "id": 52732,
+      "title": "نظام مكافحة الغش التجاري",
+      "file_name": "نظام مكافحة الغش التجاري.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52732"
+    },
+    {
+      "id": 52733,
+      "title": "نظام الرهن التجاري 1439",
+      "file_name": "نظام الرهن التجاري 1439.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52733"
+    },
+    {
+      "id": 52734,
+      "title": "اللائحة التنفيذية لنظام الدفاتر التجارية",
+      "file_name": "اللائحة_التنفيذية_لنظام_الدفاتر_التجارية.pdf",
+      "file_size": 523264,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52734"
+    },
+    {
+      "id": 52735,
+      "title": "نظام الدفاتر التجارية",
+      "file_name": "نظام الدفاتر التجارية.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52735"
+    },
+    {
+      "id": 52736,
+      "title": "نظام وزارة التجارة",
+      "file_name": "نظام وزارة التجارة.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52736"
+    },
+    {
+      "id": 52737,
+      "title": "نظام مكافحة غسل الأموال",
+      "file_name": "نظام مكافحة غسل الأموال.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52737"
+    },
+    {
+      "id": 52738,
+      "title": "الائحة التنفيذية لنظام البيانات التجارية",
+      "file_name": "الائحة_التنفيذية_لنظام_البيانات_التجارية.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52738"
+    },
+    {
+      "id": 52739,
+      "title": "نظام البيانات التجارية 1423",
+      "file_name": "نظام البيانات التجارية 1423.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52739"
+    },
+    {
+      "id": 52740,
+      "title": "اللائحة التنفيئية لنظام مهنة المحاسبة و المراجعة",
+      "file_name": "اللائحة_التنفيئية_لنظام_مهنة_المحاسبة_و_المراجعة.pdf",
+      "file_size": 2093056,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52740"
+    },
+    {
+      "id": 52742,
+      "title": "نظام الغرف التجارية",
+      "file_name": "نظام الغرف التجارية.pdf",
+      "file_size": 8372224,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52742"
+    },
+    {
+      "id": 52743,
+      "title": "الائحة التنفيذية لنظام الغرف التجارية",
+      "file_name": "الائحة_التنفيذية_لنظام_الغرف_التجارية.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52743"
+    },
+    {
+      "id": 52744,
+      "title": "اللائحة التنفيذية لنظام السجل التجاري",
+      "file_name": "اللائحة_التنفيذية_لنظام_السجل_التجاري.pdf",
+      "file_size": 523264,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52744"
+    },
+    {
+      "id": 52745,
+      "title": "نظام السجل التجاري",
+      "file_name": "نظام السجل التجاري.pdf",
+      "file_size": 523264,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52745"
+    },
+    {
+      "id": 52746,
+      "title": "اللائحة التنفيذية لنظام الامتياز التجاري",
+      "file_name": "اللائحة_التنفيذية_لنظام_الامتياز_التجاري.pdf",
+      "file_size": 4186112,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52746"
+    },
+    {
+      "id": 52747,
+      "title": "نظام الامتياز التجاري",
+      "file_name": "نظام الامتياز التجاري.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52747"
+    },
+    {
+      "id": 52748,
+      "title": "اللائحة التنفيذية لنظام الاسماء التجارية",
+      "file_name": "اللائحة_التنفيذية_لنظام_الاسماء_التجارية.pdf",
+      "file_size": 2093056,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52748"
+    },
+    {
+      "id": 52749,
+      "title": "نظام الاسماء التجارية",
+      "file_name": "نظام الاسماء التجارية.pdf",
+      "file_size": 2093056,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52749"
+    },
+    {
+      "id": 52750,
+      "title": "اللائحة التنفيذية لنظام الوكالات التجارية",
+      "file_name": "اللائحة_التنفيذية_لنظام_الوكالات_التجارية.pdf",
+      "file_size": 2093056,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52750"
+    },
+    {
+      "id": 52751,
+      "title": "نظام الوكالات التجارية",
+      "file_name": "نظام الوكالات التجارية.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52751"
+    },
+    {
+      "id": 52752,
+      "title": "نظام الاوراق التجارية",
+      "file_name": "نظام الاوراق التجارية.pdf",
+      "file_size": 1046528,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52752"
+    },
+    {
+      "id": 52753,
+      "title": "اللائحة التنفيذية لنظام الإفلاس",
+      "file_name": "اللائحة التنفيذية لنظام الإفلاس.pdf",
+      "file_size": 8372224,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52753"
+    },
+    {
+      "id": 52754,
+      "title": "نظام الافلاس 1440-2019",
+      "file_name": "نظام الافلاس 1440-2019.pdf",
+      "file_size": 2093056,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/52754"
+    },
+    {
+      "id": 53507,
+      "title": "الانظمة التجارية 240404 181039",
+      "file_name": "الانظمة التجارية_240404_181039.pdf",
+      "file_size": 1432655,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/53507"
+    },
+    {
+      "id": 55258,
+      "title": "النظام التجاري نظام المحكمة التجارية",
+      "file_name": "النظام_التجاري_نظام_المحكمة_التجارية.pdf",
+      "file_size": 51511796,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55258"
+    },
+    {
+      "id": 55259,
+      "title": "تنظيم الهيئة السعودية للمراجعين والمحاسبين",
+      "file_name": "تنظيم_الهيئة_السعودية_للمراجعين_والمحاسبين.pdf",
+      "file_size": 1224401,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55259"
+    },
+    {
+      "id": 55260,
+      "title": "نظام الاستثمار الاجنبي",
+      "file_name": "نظام الاستثمار الاجنبي.pdf",
+      "file_size": 1160336,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55260"
+    },
+    {
+      "id": 55261,
+      "title": "نظام الإفلاس2",
+      "file_name": "نظام الإفلاس2.pdf",
+      "file_size": 11908097,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55261"
+    },
+    {
+      "id": 55263,
+      "title": "نظام التأمينات الاجتماعية",
+      "file_name": "نظام التأمينات الاجتماعية.pdf",
+      "file_size": 8367385,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55263"
+    },
+    {
+      "id": 55265,
+      "title": "نظام الرهن التجاري",
+      "file_name": "نظام الرهن التجاري.pdf",
+      "file_size": 2343815,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55265"
+    },
+    {
+      "id": 55267,
+      "title": "نظام السوق المالية",
+      "file_name": "نظام السوق المالية.pdf",
+      "file_size": 7317115,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55267"
+    },
+    {
+      "id": 55268,
+      "title": "نظام الشركات المهني2ة",
+      "file_name": "نظام الشركات المهني2ة.pdf",
+      "file_size": 1109373,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55268"
+    },
+    {
+      "id": 55271,
+      "title": "نظام المحاسبيين القانونيين لاغي",
+      "file_name": "نظام المحاسبيين القانونيين  لاغي.pdf",
+      "file_size": 3018096,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55271"
+    },
+    {
+      "id": 55272,
+      "title": "نظام المقيمين المعتمدين",
+      "file_name": "نظام المقيمين المعتمدين.pdf",
+      "file_size": 3113625,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55272"
+    },
+    {
+      "id": 55273,
+      "title": "نظام المنافس2ة",
+      "file_name": "نظام المنافس2ة.pdf",
+      "file_size": 1690129,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55273"
+    },
+    {
+      "id": 55275,
+      "title": "نظام مراقبة شركات التأمين",
+      "file_name": "نظام مراقبة شركات التأمين.pdf",
+      "file_size": 6550174,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55275"
+    },
+    {
+      "id": 55276,
+      "title": "نظام مكافحة جرائم الإرهاب وتمويله",
+      "file_name": "نظام_مكافحة_جرائم_الإرهاب_وتمويله.pdf",
+      "file_size": 4674249,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55276"
+    },
+    {
+      "id": 55277,
+      "title": "نظام مكافحة غسل الأموال2",
+      "file_name": "نظام مكافحة غسل الأموال2.pdf",
+      "file_size": 2949136,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/55277"
+    },
+    {
+      "id": 57635,
+      "title": "نظام مكافحة غسل الأموال2",
+      "file_name": "نظام مكافحة غسل الأموال2.pdf",
+      "file_size": 2949136,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/57635"
+    },
+    {
+      "id": 57636,
+      "title": "نظام مكافحة جرائم الإرهاب وتمويله",
+      "file_name": "نظام_مكافحة_جرائم_الإرهاب_وتمويله.pdf",
+      "file_size": 4674249,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/57636"
+    },
+    {
+      "id": 62822,
+      "title": "‎⁨الشركات التجاريةانظمة تجارية⁩",
+      "file_name": "‎⁨الشركات_التجاريةانظمة_تجارية⁩.docx",
+      "file_size": 40831,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "telegram_link": "https://t.me/c/1197187841/62822"
+    },
+    {
+      "id": 63413,
+      "title": "‎⁨الفصل السادس انظمة تجارية⁩",
+      "file_name": "‎⁨الفصل السادس انظمة تجارية⁩.pdf",
+      "file_size": 679278,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/63413"
+    },
+    {
+      "id": 63860,
+      "title": "‎⁨الانظمة التجارية 240404 181039⁩ 202411211826 25443",
+      "file_name": "‎⁨الانظمة_التجارية_240404_181039⁩_202411211826_25443.pdf",
+      "file_size": 1169585,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/63860"
+    },
+    {
+      "id": 63987,
+      "title": "العقوبات والغرامات لمادة الأنظمة من حقيبة 8",
+      "file_name": "العقوبات_والغرامات_لمادة_الأنظمة_من_حقيبة_8.docx",
+      "file_size": 41512,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "telegram_link": "https://t.me/c/1197187841/63987"
+    },
+    {
+      "id": 63988,
+      "title": "العقوبات والغرامات لمادة الأنظمة من حقيبة 8 2024",
+      "file_name": "العقوبات_والغرامات_لمادة_الأنظمة_من_حقيبة_8_2024.pdf",
+      "file_size": 184292,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/63988"
+    },
+    {
+      "id": 66290,
+      "title": "‎⁨الانظمة التجارية 240404 181039⁩ 202412281003 15163",
+      "file_name": "‎⁨الانظمة_التجارية_240404_181039⁩_202412281003_15163.pdf",
+      "file_size": 1311299,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/66290"
+    },
+    {
+      "id": 70120,
+      "title": "نظام الأوراق التجاري",
+      "file_name": "نظام الأوراق التجاري.pdf",
+      "file_size": 4615029,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/70120"
+    },
+    {
+      "id": 70231,
+      "title": "نبذة عن نظام مكافحة جرائم الإرهاب وتمويله.xmind",
+      "file_name": "نبذة_عن_نظام_مكافحة_جرائم_الإرهاب_وتمويله.xmind",
+      "file_size": 186679,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70231"
+    },
+    {
+      "id": 70233,
+      "title": "نظام المنافسة.xmind",
+      "file_name": "نظام المنافسة.xmind",
+      "file_size": 180570,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70233"
+    },
+    {
+      "id": 70234,
+      "title": "نظام مراقبة شركات التأمين التعاوني.xmind",
+      "file_name": "نظام_مراقبة_شركات_التأمين_التعاوني.xmind",
+      "file_size": 210419,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70234"
+    },
+    {
+      "id": 70235,
+      "title": "العقود التجارية.xmind",
+      "file_name": "العقود التجارية.xmind",
+      "file_size": 171605,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70235"
+    },
+    {
+      "id": 70237,
+      "title": "نظام الأوراق التجارية :.xmind",
+      "file_name": "نظام الأوراق التجارية :.xmind",
+      "file_size": 293654,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70237"
+    },
+    {
+      "id": 70238,
+      "title": "نظام التجارة الإلكترونية و الامتياز التجاري.xmind",
+      "file_name": "نظام_التجارة_الإلكترونية_و_الامتياز_التجاري.xmind",
+      "file_size": 138879,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70238"
+    },
+    {
+      "id": 70239,
+      "title": "نظام الشركات في المملكة العربية السعودية .xmind",
+      "file_name": "نظام_الشركات_في_المملكة_العربية_السعودية_.xmind",
+      "file_size": 649900,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70239"
+    },
+    {
+      "id": 70240,
+      "title": "نظام مراقبة البنوك.xmind",
+      "file_name": "نظام مراقبة البنوك.xmind",
+      "file_size": 157850,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70240"
+    },
+    {
+      "id": 70241,
+      "title": "نظام مراقبة شركات التمويل.xmind",
+      "file_name": "نظام مراقبة شركات التمويل.xmind",
+      "file_size": 226814,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70241"
+    },
+    {
+      "id": 70242,
+      "title": "نظام الاستثمار الأجنبي.xmind",
+      "file_name": "نظام الاستثمار الأجنبي.xmind",
+      "file_size": 133073,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70242"
+    },
+    {
+      "id": 70243,
+      "title": "نظام السوق المالية.xmind",
+      "file_name": "نظام السوق المالية.xmind",
+      "file_size": 273581,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70243"
+    },
+    {
+      "id": 70316,
+      "title": "نظام مهنة المحاسبة و",
+      "file_name": "نظام مهنة المحاسبة و.pdf",
+      "file_size": 4631463,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/70316"
+    },
+    {
+      "id": 70323,
+      "title": "الأعمال التجارية.xmind",
+      "file_name": "الأعمال التجارية.xmind",
+      "file_size": 179534,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70323"
+    },
+    {
+      "id": 70324,
+      "title": "النظام التجاري.xmind",
+      "file_name": "النظام التجاري.xmind",
+      "file_size": 194815,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70324"
+    },
+    {
+      "id": 70325,
+      "title": "نظام المقيمين المعتمدين.xmind",
+      "file_name": "نظام المقيمين المعتمدين.xmind",
+      "file_size": 167565,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70325"
+    },
+    {
+      "id": 70330,
+      "title": "نظام العمل.xmind",
+      "file_name": "نظام العمل.xmind",
+      "file_size": 253153,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/70330"
+    },
+    {
+      "id": 70396,
+      "title": "الأنظمة التجاريه",
+      "file_name": "الأنظمة التجاريه .pdf",
+      "file_size": 1711395,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/70396"
+    },
+    {
+      "id": 71329,
+      "title": "التحكيم ونظام مكافحة التستر وغسيل الأموال.xmind",
+      "file_name": "التحكيم_ونظام_مكافحة_التستر_وغسيل_الأموال.xmind",
+      "file_size": 222596,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/71329"
+    },
+    {
+      "id": 71337,
+      "title": "نظام الرهن التجاري 2.xmind",
+      "file_name": "نظام الرهن التجاري 2.xmind",
+      "file_size": 169398,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/71337"
+    },
+    {
+      "id": 71340,
+      "title": "🏢 الشركات.xmind",
+      "file_name": "🏢 الشركات.xmind",
+      "file_size": 236383,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/71340"
+    },
+    {
+      "id": 71344,
+      "title": "نظام مهنة المحاسبة والمراجعة وتنظيم الهيئة السعودية للمراجعين والمحاسبين.xmind",
+      "file_name": "نظام_مهنة_المحاسبة_والمراجعة_وتنظيم_الهيئة_السعودية_للمراجعين_والمحاسبين.xmind",
+      "file_size": 249041,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/71344"
+    },
+    {
+      "id": 71345,
+      "title": "نظام الايجار التمويلي.xmind",
+      "file_name": "نظام الايجار التمويلي.xmind",
+      "file_size": 176770,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/71345"
+    },
+    {
+      "id": 71347,
+      "title": "نظام الرهن التجاري.xmind",
+      "file_name": "نظام الرهن التجاري.xmind",
+      "file_size": 168979,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/71347"
+    },
+    {
+      "id": 71350,
+      "title": "التحكيم ونظام مكافحة التستر وغسيل الأموال 2.xmind",
+      "file_name": "التحكيم_ونظام_مكافحة_التستر_وغسيل_الأموال_2.xmind",
+      "file_size": 222596,
+      "mime_type": "application/binary",
+      "telegram_link": "https://t.me/c/1197187841/71350"
+    },
+    {
+      "id": 72520,
+      "title": "اسئلة مراجعه الفصل الثاني.txt",
+      "file_name": "اسئلة مراجعه الفصل الثاني.txt",
+      "file_size": 11015,
+      "mime_type": "text/plain",
+      "telegram_link": "https://t.me/c/1197187841/72520"
+    },
+    {
+      "id": 72521,
+      "title": "مراجعة الفصل الثالث.txt",
+      "file_name": "مراجعة الفصل الثالث.txt",
+      "file_size": 13885,
+      "mime_type": "text/plain",
+      "telegram_link": "https://t.me/c/1197187841/72521"
+    },
+    {
+      "id": 72522,
+      "title": "اسئله مراجعه الفصل ١ ، ٢ ، ٣ .txt",
+      "file_name": "اسئله مراجعه الفصل ١ ، ٢ ، ٣ .txt",
+      "file_size": 16831,
+      "mime_type": "text/plain",
+      "telegram_link": "https://t.me/c/1197187841/72522"
+    },
+    {
+      "id": 72934,
+      "title": "التحكيم ونظام مكافحة التستر وغسيل الأموال 1 Combined pdf",
+      "file_name": "التحكيم_ونظام_مكافحة_التستر_وغسيل_الأموال_1_Combined_pdf.pdf",
+      "file_size": 23877998,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/72934"
+    },
+    {
+      "id": 73721,
+      "title": "موجز شامل حول الأنظمة التجارية والقانونية",
+      "file_name": "موجز_شامل_حول_الأنظمة_التجارية_والقانونية.docx",
+      "file_size": 34815,
+      "mime_type": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+      "telegram_link": "https://t.me/c/1197187841/73721"
+    },
+    {
+      "id": 75614,
+      "title": "‎⁨الأجراءات النظامية الواردة في حقيبة الأنظمة⁩",
+      "file_name": "‎⁨الأجراءات_النظامية_الواردة_في_حقيبة_الأنظمة⁩.pdf",
+      "file_size": 228776,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/75614"
+    },
+    {
+      "id": 81542,
+      "title": "‎⁨ نظام مهنة المحاسبة والمراجعة وتنظيم سوكبا ⁩",
+      "file_name": "‎⁨_نظام_مهنة_المحاسبة_والمراجعة_وتنظيم_سوكبا_⁩.pdf",
+      "file_size": 203513,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/81542"
+    },
+    {
+      "id": 83452,
+      "title": "نظام الأوراق التجارية",
+      "file_name": "نظام الأوراق التجارية.pdf",
+      "file_size": 39270,
+      "mime_type": "application/pdf",
+      "telegram_link": "https://t.me/c/1197187841/83452"
+    }
+  ]
+}

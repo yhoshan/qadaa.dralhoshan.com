@@ -31,6 +31,7 @@ const MAKANEZ_SOURCES = [
   { name: "جامعة الرسائل العلمية", href: "https://t.me/Arsail2020" },
   { name: "قسم الأنظمة — جامعة نجران", href: "https://t.me/c/1876374106/23056" },
   { name: "قناة الرسائل العلمية والبحوث المحكمة", href: "https://t.me/c/1453973283/5023" },
+  { name: "قناة الأنظمة", href: "https://t.me/c/1197187841/1" },
   { name: "قناة المحاماة والقانون السعودي", href: "https://t.me/Lawyers_saudi" },
   { name: "قناة المجلات والصحف القانونية", href: "https://t.me/LegalMagazinesandNewspapers" },
   { name: "مكتبة الاسكندرية", href: "https://t.me/c/1592768820/1" },
