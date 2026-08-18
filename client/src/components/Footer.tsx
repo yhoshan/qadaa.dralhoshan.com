@@ -20,6 +20,7 @@ const TEXT_DARK = "oklch(0.18 0.04 50)";
 // مصادر المواد المعتمدة في المكنز — تحفظ الإحالة إلى المنصة أو القناة الأصلية.
 const MAKANEZ_SOURCES = [
   { name: "أرشيف الإنترنت", href: "https://archive.org/" },
+  { name: "أكاديمية المحاماة", href: "https://t.me/arabialawer" },
   { name: "القانون الدولي العام", href: "https://t.me/ibrazx40" },
   { name: "المكتبة الشاملة", href: "https://t.me/shamela_epub" },
   { name: "المكتبة العلمية", href: "https://t.me/ilmiya_pdf" },
