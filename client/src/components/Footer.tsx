@@ -309,7 +309,7 @@ export default function Footer() {
 
             {/* Makanez Logo — center */}
             <a
-              href="https://dralhoshan.com/"
+              href="https://almakanaz.dralhoshan.com/"
               target="_blank"
               rel="noopener noreferrer"
               title="منصة المكانز العلمية"
