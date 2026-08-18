@@ -1,0 +1,49 @@
+{
+  "removed_count": 2,
+  "removed_items": [
+    {
+      "id": "qadaa_1383",
+      "title": "المحاكمات بين أبي حيان وابن عطية والزمخشري",
+      "author": "",
+      "investigator": "",
+      "publisher": "",
+      "year": "",
+      "link_telegram": "https://t.me/bahith_pdf/229758",
+      "link_drive": "",
+      "link_direct": "",
+      "source": "مكتبة الباحث العلمي",
+      "category": "المحاكم والمرافعات",
+      "material_type": "متن",
+      "file_type": "PDF",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "id": "buhooth_54defb82",
+      "title": "آراء الزمخشري النحوية في نظر ابن أبي الربيع القرشي من خلال كتابه: (البسيط)",
+      "author": "د. رياض بن رزق الله أبو هولا",
+      "investigator": "",
+      "link_telegram": "",
+      "link_drive": "",
+      "link_direct": "https://www.buhooth.link:8080/data/journals/%D9%85%D8%AC%D9%84%D8%A9%20%D8%A7%D9%84%D8%B9%D9%84%D9%88%D9%85%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A%D8%A9%20-%20%D8%AC%D8%A7%D9%85%D8%B9%D8%A9%20%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D9%85%20%28%D8%A7%D9%84%D8%B3%D8%B9%D9%88%D8%AF%D9%8A%D8%A9%29/35/1%20%D8%A2%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%B2%D9%85%D8%AE%D8%B4%D8%B1%D9%8A%20%D8%A7%D9%84%D9%86%D8%AD%D9%88%D9%8A%D8%A9%20%D9%81%D9%8A%20%D9%86%D8%B8%D8%B1%20%D8%A7%D8%A8%D9%86%20...%20%D8%A7%D9%84%D8%B1%D8%A8%D9%8A%D8%B9%20%D8%A7%D9%84%D9%82%D8%B1%D8%B4%D9%8A%20%D9%85%D9%86%20%D8%AE%D9%84%D8%A7%D9%84%20%D9%83%D8%AA%D8%A7%D8%A8%D9%87%24%20%28%D8%A7%D9%84%D8%A8%D8%B3%D9%8A%D8%B7%29.pdf?v=",
+      "source": "موقع بحوث - مجلة العلوم العربية - جامعة الإمام (السعودية)",
+      "category": "الأبحاث القانونية والقضائية",
+      "material_type": "بحث",
+      "file_type": "PDF",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    }
+  ],
+  "updated_stats": {
+    "total_items": 11296,
+    "qadaa_count": 5342,
+    "nizam_count": 2604,
+    "mohama_count": 646,
+    "research_count": 1665,
+    "last_updated": "2026-08-18"
+  }
+}
