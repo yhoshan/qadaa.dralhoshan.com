@@ -232,6 +232,47 @@
     color: #1E3E28 !important;
   }
 
+  /* قسم المجلات: نفس ألوان قسم المواد فقط */
+  #root section.journals-theme {
+    background: #E5EFEA !important;
+    border-color: rgb(46 90 68 / 0.22) !important;
+  }
+
+  #root section.journals-theme :where(div) {
+    background: transparent !important;
+  }
+
+  #root section.journals-theme :where(span) {
+    background: transparent !important;
+  }
+
+  #root section.journals-theme :where(h2, h3, p, span, svg) {
+    color: #1E3E28 !important;
+  }
+
+  #root section.journals-theme .journals-heading-icon {
+    background: #2E5A44 !important;
+  }
+
+  #root section.journals-theme .journals-heading-icon svg {
+    color: #FFFFFF !important;
+  }
+
+  #root section.journals-theme button {
+    background: #FFFFFF !important;
+    border-color: rgb(46 90 68 / 0.22) !important;
+    color: #1E3E28 !important;
+  }
+
+  #root section.journals-theme .journal-card {
+    background: #FFFFFF !important;
+    border-color: rgb(46 90 68 / 0.22) !important;
+  }
+
+  #root section.journals-theme .journal-accent {
+    background: linear-gradient(to left, rgb(197 160 89 / 0.4), #C5A059) !important;
+  }
+
   h1, h2, h3 {
     font-family: 'Amiri', serif;
   }

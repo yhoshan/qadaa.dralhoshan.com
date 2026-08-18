@@ -88,6 +88,7 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
   return (
     <section
       dir="rtl"
+      className="journals-theme"
       style={{
         background: `linear-gradient(180deg, ${WARM_BG} 0%, oklch(0.94 0.02 78) 100%)`,
         borderTop: `1px solid ${BORDER}`,
@@ -100,6 +101,7 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
         <div className="flex items-center justify-between mb-8 flex-wrap gap-4">
           <div className="flex items-center gap-3">
             <div
+              className="journals-heading-icon"
               style={{
                 background: `linear-gradient(135deg, ${GOLD}, oklch(0.72 0.14 55))`,
                 borderRadius: "12px",
@@ -121,18 +123,8 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
                   lineHeight: 1.3,
                 }}
               >
-                المجلات القانونية والحقوقية
+                المجلات المتخصصة
               </h2>
-              <p
-                style={{
-                  fontFamily: "Cairo, sans-serif",
-                  fontSize: "0.85rem",
-                  color: TEXT_MUTED,
-                  marginTop: "2px",
-                }}
-              >
-                أعداد المجلات القانونية المحكّمة من مصادر موثوقة
-              </p>
             </div>
           </div>
           <button
@@ -174,6 +166,7 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
           {JOURNALS.map((journal) => (
             <button
               key={journal.name}
+              className="journal-card"
               onClick={() => onFilterBySource?.(journal.filterValue)}
               style={{
                 background: CARD_BG,
@@ -247,6 +240,7 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
 
               {/* Bottom bar */}
               <div
+                className="journal-accent"
                 style={{
                   height: "3px",
                   borderRadius: "2px",
