@@ -35,6 +35,7 @@ const MAKANEZ_SOURCES = [
   { name: "مكتبة الباحث العلمي", href: "https://t.me/bahith_pdf" },
   { name: "المكتبة القانونية — موقع المحامي نواف بن عواض الحربي", href: "https://nawaf-law.com.sa/" },
   { name: "منصة نظامي للأنظمة السعودية", href: "https://nezams.com/" },
+  { name: "الجمعية العلمية القضائية (قضاء)", href: "https://qadha.org.sa/ar/books" },
   { name: "موقع بحوث ومجلاته الأكاديمية", href: "https://www.buhooth.link/" },
   { name: "موقع د. عبدالعزيز الدغيثر — شبكة الألوكة", href: "https://www.alukah.net/web/doghaither/" },
 ];
