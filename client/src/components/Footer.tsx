@@ -5,6 +5,7 @@
    ============================================= */
 import { Mail, Copy, ExternalLink } from "lucide-react";
 import { toast } from "sonner";
+import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from "@/components/ui/accordion";
 
 const SHARE_URL = typeof window !== "undefined" ? window.location.href : "https://qadaa.dralhoshan.com";
 const SHARE_TEXT = "مكنز القضاء والأنظمة والمحاماة — فهرس علمي شامل يضم أكثر من 11,000 مادة";
@@ -15,6 +16,27 @@ const TEXT_MUTED = "oklch(0.52 0.06 60)";
 const TEXT_LIGHT = "oklch(0.65 0.03 60)";
 const GOLD = "rgb(139, 105, 20)";
 const TEXT_DARK = "oklch(0.18 0.04 50)";
+
+// مصادر المواد المعتمدة في المكنز — تحفظ الإحالة إلى المنصة أو القناة الأصلية.
+const MAKANEZ_SOURCES = [
+  { name: "أرشيف الإنترنت", href: "https://archive.org/" },
+  { name: "القانون الدولي العام", href: "https://t.me/ibrazx40" },
+  { name: "المكتبة الشاملة", href: "https://t.me/shamela_epub" },
+  { name: "المكتبة العلمية", href: "https://t.me/ilmiya_pdf" },
+  { name: "المكتبة القانونية الكبرى", href: "https://t.me/great_law" },
+  { name: "المكتبة القانونية", href: "https://t.me/iirmll" },
+  { name: "المكتبة الوقفية", href: "https://t.me/waqfeya_pdf" },
+  { name: "تسهيل الأنظمة", href: "https://t.me/muath_alyahya" },
+  { name: "جامعة الرسائل العلمية", href: "https://t.me/Arsail2020" },
+  { name: "قسم الأنظمة — جامعة نجران", href: "https://t.me/c/1876374106/23056" },
+  { name: "قناة الرسائل العلمية والبحوث المحكمة", href: "https://t.me/c/1453973283/5023" },
+  { name: "قناة المجلات والصحف القانونية", href: "https://t.me/LegalMagazinesandNewspapers" },
+  { name: "مكتبة الإسكندرية", href: "https://t.me/c/1592768820/107" },
+  { name: "مكتبة الباحث العلمي", href: "https://t.me/bahith_pdf" },
+  { name: "منصة نظامي للأنظمة السعودية", href: "https://nezams.com/" },
+  { name: "موقع بحوث ومجلاته الأكاديمية", href: "https://www.buhooth.link/" },
+  { name: "موقع د. عبدالعزيز الدغيثر — شبكة الألوكة", href: "https://www.alukah.net/web/doghaither/" },
+];
 
 export default function Footer() {
   const copyLink = () => {
@@ -227,6 +249,47 @@ export default function Footer() {
               هل تبحث في السلاسل التراثية الأخرى؟ انتقل لمنصة نصوص تراثية للباحثين:
               <a href="https://nsooos.com" target="_blank" rel="noopener noreferrer" className="mr-1 hover:opacity-70 transition-opacity" style={{ color: GOLD }}>nsooos.com</a>
             </p>
+          </div>
+
+          {/* Sources list — يحفظ الإحالة إلى كل منصة أو قناة استُخدمت منها مواد */}
+          <div className="mb-6 max-w-3xl mx-auto">
+            <Accordion type="single" collapsible dir="rtl">
+              <AccordionItem
+                value="makanez-sources"
+                className="rounded-xl overflow-hidden"
+                style={{ border: `1px solid ${BORDER_COLOR}`, background: "oklch(0.97 0.01 82)" }}
+              >
+                <AccordionTrigger
+                  className="px-4 py-3 hover:no-underline items-center"
+                  style={{ fontFamily: "Cairo, sans-serif", color: GOLD }}
+                >
+                  <span className="flex items-center gap-2 text-sm font-semibold">
+                    <ExternalLink className="w-4 h-4" />
+                    مصادر المكنز
+                    <span className="text-xs font-normal" style={{ color: TEXT_MUTED }}>
+                      ({MAKANEZ_SOURCES.length} مصدراً)
+                    </span>
+                  </span>
+                </AccordionTrigger>
+                <AccordionContent className="px-4">
+                  <div className="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2 pt-1" dir="rtl">
+                    {MAKANEZ_SOURCES.map((source) => (
+                      <a
+                        key={source.href}
+                        href={source.href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="flex items-center gap-2 text-xs transition-opacity hover:opacity-70"
+                        style={{ fontFamily: "Cairo, sans-serif", color: TEXT_MUTED }}
+                      >
+                        <ExternalLink className="w-3 h-3 shrink-0" style={{ color: GOLD }} />
+                        <span>{source.name}</span>
+                      </a>
+                    ))}
+                  </div>
+                </AccordionContent>
+              </AccordionItem>
+            </Accordion>
           </div>
 
           {/* Bottom bar: Copyright (right) | Logo (center) | Signature (left) */}
