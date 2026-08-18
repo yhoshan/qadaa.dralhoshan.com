@@ -1,6 +1,22 @@
 @import "tailwindcss";
 @import "tw-animate-css";
 
+@font-face {
+  font-family: "Thmanyah Serif Display";
+  src: url("https://framerusercontent.com/assets/s1q2LvVNWBbqzMxMBxsexY73tE.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Thmanyah Serif Text";
+  src: url("https://framerusercontent.com/assets/3WPjrTAizPcMoDaKDtKdNB0Jo50.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
 @custom-variant dark (&:is(.dark *));
 
 /* =============================================
@@ -40,94 +56,94 @@
 :root {
   --radius: 0.5rem;
 
-  /* الخلفية الرئيسية: بيج دافئ فاتح */
-  --background: oklch(0.98 0.01 85);
-  --foreground: oklch(0.18 0.04 50);
+  /* الخلفية الرئيسية: أبيض ثلجي */
+  --background: #F7FBFF;
+  --foreground: #006C35;
 
-  /* البطاقات: أبيض نقي */
-  --card: oklch(1 0 0);
-  --card-foreground: oklch(0.18 0.04 50);
+  /* البطاقات: أبيض ثلجي */
+  --card: #F7FBFF;
+  --card-foreground: #006C35;
 
-  --popover: oklch(1 0 0);
-  --popover-foreground: oklch(0.18 0.04 50);
+  --popover: #F7FBFF;
+  --popover-foreground: #006C35;
 
-  /* اللون الأساسي: ذهبي بني — rgb(139, 105, 20) */
-  --primary: oklch(0.48 0.12 68);
-  --primary-foreground: oklch(0.98 0.01 85);
+  /* اللون الأساسي: أخضر الهوية */
+  --primary: #006C35;
+  --primary-foreground: #F7FBFF;
 
   /* الثانوي */
-  --secondary: oklch(0.93 0.03 80);
-  --secondary-foreground: oklch(0.32 0.08 55);
+  --secondary: #F7FBFF;
+  --secondary-foreground: #006C35;
 
   /* المكتوم */
-  --muted: oklch(0.95 0.02 80);
-  --muted-foreground: oklch(0.52 0.06 60);
+  --muted: #F7FBFF;
+  --muted-foreground: #006C35;
 
   /* التمييز */
-  --accent: oklch(0.93 0.03 80);
-  --accent-foreground: oklch(0.28 0.08 55);
+  --accent: #F7FBFF;
+  --accent-foreground: #006C35;
 
   /* التدمير */
   --destructive: oklch(0.577 0.245 27.325);
   --destructive-foreground: oklch(0.985 0 0);
 
   /* الحدود والمدخلات */
-  --border: oklch(0.88 0.04 78);
-  --input: oklch(0.88 0.04 78);
-  --ring: oklch(0.58 0.14 70);
+  --border: rgb(0 108 53 / 0.25);
+  --input: rgb(0 108 53 / 0.25);
+  --ring: #006C35;
 
   /* Sidebar */
-  --sidebar: oklch(0.96 0.01 85);
-  --sidebar-foreground: oklch(0.18 0.04 50);
-  --sidebar-primary: oklch(0.48 0.12 68);
-  --sidebar-primary-foreground: oklch(0.98 0.01 85);
-  --sidebar-accent: oklch(0.93 0.03 80);
-  --sidebar-accent-foreground: oklch(0.28 0.08 55);
-  --sidebar-border: oklch(0.88 0.04 78);
-  --sidebar-ring: oklch(0.58 0.14 70);
+  --sidebar: #F7FBFF;
+  --sidebar-foreground: #006C35;
+  --sidebar-primary: #006C35;
+  --sidebar-primary-foreground: #F7FBFF;
+  --sidebar-accent: #F7FBFF;
+  --sidebar-accent-foreground: #006C35;
+  --sidebar-border: rgb(0 108 53 / 0.25);
+  --sidebar-ring: #006C35;
 
   /* Charts */
-  --chart-1: oklch(0.48 0.12 68);
-  --chart-2: oklch(0.45 0.14 310);
-  --chart-3: oklch(0.45 0.14 260);
-  --chart-4: oklch(0.40 0.12 155);
-  --chart-5: oklch(0.50 0.15 30);
+  --chart-1: #006C35;
+  --chart-2: #006C35;
+  --chart-3: #006C35;
+  --chart-4: #006C35;
+  --chart-5: #006C35;
 }
 
 /* ===== وضع داكن ===== */
 .dark {
-  --background: oklch(0.18 0.04 52);
-  --foreground: oklch(0.92 0.01 80);
-  --card: oklch(0.22 0.05 52);
-  --card-foreground: oklch(0.92 0.01 80);
-  --popover: oklch(0.22 0.05 52);
-  --popover-foreground: oklch(0.92 0.01 80);
-  --primary: oklch(0.72 0.12 75);
-  --primary-foreground: oklch(0.18 0.04 52);
-  --secondary: oklch(0.28 0.05 52);
-  --secondary-foreground: oklch(0.85 0.01 80);
-  --muted: oklch(0.25 0.04 52);
-  --muted-foreground: oklch(0.60 0.04 60);
-  --accent: oklch(0.30 0.05 52);
-  --accent-foreground: oklch(0.90 0.01 80);
-  --destructive: oklch(0.704 0.191 22.216);
-  --destructive-foreground: oklch(0.985 0 0);
-  --border: oklch(1 0 0 / 12%);
-  --input: oklch(1 0 0 / 15%);
-  --ring: oklch(0.72 0.12 75);
-  --sidebar: oklch(0.20 0.04 52);
-  --sidebar-foreground: oklch(0.85 0.01 80);
-  --sidebar-primary: oklch(0.72 0.12 75);
-  --sidebar-primary-foreground: oklch(0.18 0.04 52);
-  --sidebar-accent: oklch(0.28 0.05 52);
-  --sidebar-accent-foreground: oklch(0.85 0.01 80);
-  --sidebar-border: oklch(1 0 0 / 10%);
-  --sidebar-ring: oklch(0.72 0.12 75);
-  --chart-1: oklch(0.72 0.12 75);
-  --chart-2: oklch(0.65 0.12 310);
-  --chart-3: oklch(0.65 0.12 260);
-  --chart-4: oklch(0.60 0.12 155);
-  --chart-5: oklch(0.65 0.15 30);
+  --background: #006C35;
+  --foreground: #F7FBFF;
+  --card: #006C35;
+  --card-foreground: #F7FBFF;
+  --popover: #006C35;
+  --popover-foreground: #F7FBFF;
+  --primary: #F7FBFF;
+  --primary-foreground: #006C35;
+  --secondary: #006C35;
+  --secondary-foreground: #F7FBFF;
+  --muted: #006C35;
+  --muted-foreground: #F7FBFF;
+  --accent: #006C35;
+  --accent-foreground: #F7FBFF;
+  --destructive: #F7FBFF;
+  --destructive-foreground: #006C35;
+  --border: rgb(247 251 255 / 0.25);
+  --input: rgb(247 251 255 / 0.25);
+  --ring: #F7FBFF;
+  --sidebar: #006C35;
+  --sidebar-foreground: #F7FBFF;
+  --sidebar-primary: #F7FBFF;
+  --sidebar-primary-foreground: #006C35;
+  --sidebar-accent: #006C35;
+  --sidebar-accent-foreground: #F7FBFF;
+  --sidebar-border: rgb(247 251 255 / 0.25);
+  --sidebar-ring: #F7FBFF;
+  --chart-1: #F7FBFF;
+  --chart-2: #F7FBFF;
+  --chart-3: #F7FBFF;
+  --chart-4: #F7FBFF;
+  --chart-5: #F7FBFF;
 }
 
 @layer base {
@@ -139,6 +155,31 @@
     font-family: 'Cairo', 'Tajawal', sans-serif;
     direction: rtl;
   }
+
+  /* هوية المكنز الموحدة: أخضر للخلفيات وأبيض ثلجي للنصوص */
+  body,
+  #root,
+  #root :where(section, header, main, footer, nav, aside, article, div, button, input, select, textarea, a, label, span, [role="dialog"], [role="menu"], [role="button"]) {
+    background: #006C35 !important;
+    background-image: none !important;
+  }
+
+  #root,
+  #root * {
+    color: #F7FBFF !important;
+    border-color: #F7FBFF !important;
+  }
+
+  #root input::placeholder,
+  #root textarea::placeholder {
+    color: #F7FBFF !important;
+    opacity: 1;
+  }
+
+  #root svg {
+    color: #F7FBFF !important;
+  }
+
   h1, h2, h3 {
     font-family: 'Amiri', serif;
   }

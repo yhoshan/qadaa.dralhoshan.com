@@ -7,6 +7,10 @@ import { Search } from "lucide-react";
 import { useState, useRef, useEffect } from "react";
 import type { Stats } from "@/hooks/useItems";
 
+const GREEN = "#006C35";
+const SNOW = "#F7FBFF";
+const GREEN_BORDER = "rgb(0 108 53 / 0.25)";
+
 interface HeroSectionProps {
   stats: Stats | null;
   searchValue: string;
@@ -41,37 +45,42 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
   return (
     <section
       className="relative flex flex-col items-center justify-center overflow-hidden pt-28 pb-10"
-      style={{ background: "oklch(0.98 0.01 85)" }}
+      style={{ background: SNOW }}
     >
       {/* Subtle warm gradient overlay */}
       <div
         className="absolute inset-0 pointer-events-none"
         style={{
-          background: "radial-gradient(ellipse 90% 70% at 50% 20%, oklch(0.48 0.12 68 / 0.05) 0%, transparent 70%)",
+          background: "radial-gradient(ellipse 90% 70% at 50% 20%, rgb(0 108 53 / 0.05) 0%, transparent 70%)",
         }}
       />
 
       {/* Content */}
       <div className="relative z-10 container text-center">
 
-        {/* Title — مكنز في سطر، الباقي تحتها */}
-        <h1
-          className="font-bold leading-tight animate-fade-in-up mb-8"
-          style={{ fontFamily: "Amiri, serif", animationDelay: "0.1s" }}
-        >
-          <span
-            className="block text-5xl sm:text-6xl md:text-7xl"
-            style={{ color: "oklch(0.48 0.12 68)" }}
+        {/* عنوان نصي بخط ثمانية وفق الترتيب المرجعي */}
+        <header className="animate-fade-in-up mb-8" style={{ animationDelay: "0.1s" }}>
+          <h1
+            className="mx-auto font-bold leading-tight"
+            style={{
+              fontFamily: "Thmanyah Serif Display",
+              color: GREEN,
+            }}
           >
-            مكنز
-          </span>
-          <span
-            className="block text-3xl sm:text-4xl md:text-5xl mt-1"
-            style={{ color: "oklch(0.48 0.12 68)", fontFamily: "Amiri, serif" }}
+            <span className="block text-2xl sm:text-3xl">مكنز</span>
+            <span className="mt-1 block text-4xl sm:text-5xl md:text-6xl">القضاء والأنظمة والمحاماة</span>
+          </h1>
+          <p
+            className="mx-auto mt-3 w-fit max-w-3xl rounded-md px-4 py-1.5 text-sm leading-7 sm:text-base"
+            style={{
+              fontFamily: "Thmanyah Serif Text",
+              fontWeight: 500,
+              color: SNOW,
+            }}
           >
-            القضاء والأنظمة والمحاماة
-          </span>
-        </h1>
+            فهرس يجمع غالب العناوين والروابط التي تخدم القضاء والأنظمة والمحاماة
+          </p>
+        </header>
 
         {/* ── Stats Cards — 4 مربعات: إجمالي + القضاء + الأنظمة + المحاماة ── */}
         <div
@@ -82,17 +91,17 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
           <div
             className="rounded-xl px-6 py-4 text-center border transition-all hover:shadow-md hover:scale-[1.02] min-w-[130px]"
             style={{
-              background: "oklch(0.93 0.03 80)",
-              borderColor: "oklch(0.88 0.04 78)",
+              background: SNOW,
+              borderColor: GREEN_BORDER,
             }}
           >
             <div
               className="text-2xl sm:text-3xl font-bold"
-              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
+              style={{ fontFamily: "Tajawal, sans-serif", color: GREEN }}
             >
               {totalItems}
             </div>
-            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
+            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: GREEN }}>
               إجمالي المواد
             </div>
           </div>
@@ -103,17 +112,17 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
           <div
             className="rounded-xl px-6 py-4 text-center border transition-all hover:shadow-md hover:scale-[1.02] min-w-[130px]"
             style={{
-              background: "oklch(0.93 0.03 80)",
-              borderColor: "oklch(0.88 0.04 78)",
+              background: SNOW,
+              borderColor: GREEN_BORDER,
             }}
           >
             <div
               className="text-2xl sm:text-3xl font-bold"
-              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
+              style={{ fontFamily: "Tajawal, sans-serif", color: GREEN }}
             >
               {qadaaCount}
             </div>
-            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
+            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: GREEN }}>
               القضاء
             </div>
           </div>
@@ -122,17 +131,17 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
           <div
             className="rounded-xl px-6 py-4 text-center border transition-all hover:shadow-md hover:scale-[1.02] min-w-[130px]"
             style={{
-              background: "oklch(0.93 0.03 80)",
-              borderColor: "oklch(0.88 0.04 78)",
+              background: SNOW,
+              borderColor: GREEN_BORDER,
             }}
           >
             <div
               className="text-2xl sm:text-3xl font-bold"
-              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
+              style={{ fontFamily: "Tajawal, sans-serif", color: GREEN }}
             >
               {nizamCount}
             </div>
-            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
+            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: GREEN }}>
               الأنظمة
             </div>
           </div>
@@ -141,17 +150,17 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
           <div
             className="rounded-xl px-6 py-4 text-center border transition-all hover:shadow-md hover:scale-[1.02] min-w-[130px]"
             style={{
-              background: "oklch(0.93 0.03 80)",
-              borderColor: "oklch(0.88 0.04 78)",
+              background: SNOW,
+              borderColor: GREEN_BORDER,
             }}
           >
             <div
               className="text-2xl sm:text-3xl font-bold"
-              style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.18 0.04 50)" }}
+              style={{ fontFamily: "Tajawal, sans-serif", color: GREEN }}
             >
               {mohamaCount}
             </div>
-            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: "oklch(0.52 0.06 60)" }}>
+            <div className="text-xs mt-1" style={{ fontFamily: "Cairo, sans-serif", color: GREEN }}>
               المحاماة
             </div>
           </div>
@@ -165,16 +174,16 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
           <div
             className={`flex items-center rounded-xl border transition-all duration-300 overflow-hidden ${
               focused
-                ? "shadow-[0_0_20px_oklch(0.48_0.12_68/0.2)]"
+                ? "shadow-[0_0_20px_rgb(0_108_53/0.2)]"
                 : ""
             }`}
             style={{
-              borderColor: focused ? "oklch(0.48 0.12 68)" : "oklch(0.88 0.04 78)",
-              background: "oklch(1 0 0)",
+              borderColor: focused ? GREEN : GREEN_BORDER,
+              background: SNOW,
             }}
           >
             <div className="flex items-center pr-4 pl-2">
-              <Search className="w-5 h-5" style={{ color: "oklch(0.48 0.12 68)" }} />
+              <Search className="w-5 h-5" style={{ color: GREEN }} />
             </div>
             <input
               ref={inputRef}
@@ -184,19 +193,18 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
               onKeyDown={handleKeyDown}
               onFocus={() => setFocused(true)}
               onBlur={() => setFocused(false)}
-              placeholder="ابحث في عناوين الكتب، المؤلفين، الأقسام..."
               className="flex-1 bg-transparent py-4 text-sm outline-none"
               style={{
                 fontFamily: "Cairo, sans-serif",
                 direction: "rtl",
-                color: "oklch(0.18 0.04 50)",
+                color: GREEN,
               }}
             />
             {searchValue && (
               <button
                 onClick={() => onSearchChange("")}
                 className="px-3 text-lg transition-colors"
-                style={{ color: "oklch(0.52 0.06 60)" }}
+                style={{ color: GREEN }}
               >
                 ×
               </button>
@@ -206,40 +214,12 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
               className="px-6 py-4 font-bold text-sm transition-colors hover:opacity-90"
               style={{
                 fontFamily: "Cairo, sans-serif",
-                background: "rgb(139, 105, 20)",
-                color: "white",
+                background: GREEN,
+                color: SNOW,
               }}
             >
               بحث
             </button>
-          </div>
-          <p className="text-[10px] mt-2 text-center" style={{ fontFamily: "Tajawal, sans-serif", color: "oklch(0.60 0.04 60)" }}>
-            اضغط{" "}
-            <kbd
-              className="px-1.5 py-0.5 rounded font-mono"
-              style={{
-                background: "oklch(0.93 0.03 80)",
-                border: "1px solid oklch(0.88 0.04 78)",
-                color: "oklch(0.48 0.12 68)",
-              }}
-            >
-              /
-            </kbd>
-            {" "}للبحث السريع
-          </p>
-
-          {/* Legal disclaimer */}
-          <div
-            className="mt-4 mx-auto max-w-xl px-4 py-2.5 rounded-lg text-center text-xs leading-relaxed"
-            style={{
-              background: "oklch(0.93 0.03 80)",
-              border: "1px solid oklch(0.85 0.05 78)",
-              color: "oklch(0.40 0.06 55)",
-              fontFamily: "Cairo, sans-serif",
-            }}
-          >
-            <span style={{ color: "oklch(0.48 0.12 68)", fontWeight: 600 }}>⚖️ تنبيه: </span>
-            هذا الموقع دليل رقمي للمواد القانونية المتاحة على قنوات تيليجرام عامة. جميع الحقوق محفوظة لأصحابها.
           </div>
         </div>
 

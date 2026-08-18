@@ -62,23 +62,23 @@ export default function Navbar() {
               showCloseButton={false}
               className="max-w-md text-right"
               style={{
-                background: isDark ? "oklch(0.22 0.045 52)" : "oklch(0.98 0.01 85)",
-                borderColor: isDark ? "oklch(0.55 0.12 68 / 0.55)" : "oklch(0.85 0.05 78)",
-                color: isDark ? "oklch(0.94 0.02 82)" : "oklch(0.18 0.04 50)",
+                background: "#006C35",
+                borderColor: "#F7FBFF",
+                color: "#F7FBFF",
                 fontFamily: "Cairo, sans-serif",
               }}
             >
-              <div className="flex items-center justify-between gap-4 border-b pb-3" style={{ borderColor: isDark ? "oklch(1 0 0 / 10%)" : "oklch(0.88 0.04 78)" }}>
+              <div className="flex items-center justify-between gap-4 border-b pb-3" style={{ borderColor: "#F7FBFF" }}>
                 <div className="flex items-center gap-2">
-                  <ShieldCheck className="h-5 w-5" style={{ color: "oklch(0.48 0.12 68)" }} />
-                  <DialogTitle className="text-base" style={{ fontFamily: "Amiri, serif", color: "oklch(0.48 0.12 68)" }}>
+                  <ShieldCheck className="h-5 w-5" style={{ color: "#F7FBFF" }} />
+                  <DialogTitle className="text-base" style={{ fontFamily: "Amiri, serif", color: "#F7FBFF" }}>
                     حول المكنز
                   </DialogTitle>
                 </div>
                 <DialogClose className="text-xl leading-none opacity-65 transition-opacity hover:opacity-100" aria-label="إغلاق">×</DialogClose>
               </div>
 
-              <DialogDescription className="pt-1 text-right text-sm leading-8" style={{ color: isDark ? "oklch(0.88 0.02 82)" : "oklch(0.37 0.05 55)", fontFamily: "Cairo, sans-serif" }}>
+              <DialogDescription className="pt-1 text-right text-sm leading-8" style={{ color: "#F7FBFF", fontFamily: "Cairo, sans-serif" }}>
                 مكنز القضاء والأنظمة والمحاماة فهرسٌ تجميعيٌّ للروابط والإحالات إلى مواد قانونية وقضائية منشورة في مصادر خارجية، أُعدّ لتيسير الوصول وخدمة الباحثين والقضاة والمحامين. لا يدّعي ملكية المواد ولا يضمن محتواها أو دقتها أو بقاء روابطها. تبقى الحقوق لأصحابها، ويتحمل المستخدم مسؤولية التحقق من المادة وحقوق استخدامها، ومن له حق أو ملاحظة فليتواصل عبر البريد الإلكتروني.
               </DialogDescription>
 
@@ -86,7 +86,7 @@ export default function Navbar() {
                 <DialogClose asChild>
                   <button
                     className="rounded-lg px-6 py-2 text-xs font-semibold transition-opacity hover:opacity-85 active:scale-[0.97]"
-                    style={{ background: "rgb(139, 105, 20)", color: "white", fontFamily: "Cairo, sans-serif" }}
+                    style={{ background: "#006C35", color: "#F7FBFF", border: "1px solid #F7FBFF", fontFamily: "Cairo, sans-serif" }}
                   >
                     فهمت
                   </button>
