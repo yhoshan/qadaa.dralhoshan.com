@@ -1,8 +1,10 @@
 {
-  "total_items": 11506,
-  "qadaa_count": 5521,
+  "total_items": 11512,
+  "qadaa_count": 5526,
   "nizam_count": 2635,
   "mohama_count": 646,
   "research_count": 1659,
-  "last_updated": "2026-08-18"
+  "last_updated": "2026-08-18",
+  "total": 11512,
+  "mohamah_count": 646
 }
