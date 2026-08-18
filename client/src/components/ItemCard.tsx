@@ -5,10 +5,9 @@
    ============================================= */
 import {
   FileText, ExternalLink, Copy, Star,
-  User, BookOpen, Hash, FileType, HardDrive
+  User, BookOpen, FileType, HardDrive
 } from "lucide-react";
 import type { Item } from "@/hooks/useItems";
-import { getCategoryBadgeClass } from "./FilterBar";
 import { toast } from "sonner";
 
 interface ItemCardProps {
@@ -16,18 +15,7 @@ interface ItemCardProps {
   index: number;
 }
 
-const FILE_TYPE_ICONS: Record<string, string> = {
-  PDF: "📄",
-  MP3: "🎵",
-  MP4: "🎬",
-  Word: "📝",
-  ZIP: "📦",
-  Excel: "📊",
-};
-
 export default function ItemCard({ item, index }: ItemCardProps) {
-  const badgeClass = getCategoryBadgeClass(item.category);
-
   const copyLink = () => {
     const link = item.link_telegram || item.link_direct || item.link_drive || "";
     if (link) {
@@ -74,29 +62,8 @@ export default function ItemCard({ item, index }: ItemCardProps) {
             {index}
           </span>
 
-          {/* Badges */}
-          <div className="flex flex-wrap gap-1 flex-1">
-            <span className={`inline-flex items-center gap-1 px-2 py-0.5 rounded-full text-[10px] border ${badgeClass}`}>
-              <Hash className="w-2.5 h-2.5" />
-              {item.category.length > 18 ? item.category.slice(0, 18) + "..." : item.category}
-            </span>
-            {item.material_type && (
-              <span
-                className="inline-flex items-center px-2 py-0.5 rounded-full text-[10px]"
-                style={{
-                  background: "oklch(0.93 0.03 80)",
-                  color: "oklch(0.38 0.10 65)",
-                }}
-              >
-                {item.material_type}
-              </span>
-            )}
-          </div>
+          <div className="flex-1" />
 
-          {/* File type */}
-          <span className="flex-shrink-0 text-base" title={item.file_type}>
-            {FILE_TYPE_ICONS[item.file_type] || "📄"}
-          </span>
         </div>
 
         {/* Title */}

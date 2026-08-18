@@ -180,6 +180,58 @@
     color: #F7FBFF !important;
   }
 
+  /* ألوان قسم المواد فقط — محاكاة ألوان مكنز ابن تيمية */
+  #root main.materials-theme {
+    background: #E5EFEA !important;
+    color: #1E3E28 !important;
+  }
+
+  #root main.materials-theme > * {
+    background: transparent !important;
+  }
+
+  #root main.materials-theme .group {
+    background: #FFFFFF !important;
+    border-color: rgb(46 90 68 / 0.22) !important;
+  }
+
+  #root main.materials-theme .group > div,
+  #root main.materials-theme .group div {
+    background: transparent !important;
+  }
+
+  #root main.materials-theme .group :where(span, svg) {
+    background: transparent !important;
+  }
+
+  #root main.materials-theme .group :where(h3, span, div, svg) {
+    color: #1E3E28 !important;
+  }
+
+  #root main.materials-theme .group a {
+    background: #2E5A44 !important;
+    border-color: #2E5A44 !important;
+    color: #FFFFFF !important;
+  }
+
+  #root main.materials-theme .group a :where(svg, span) {
+    color: #FFFFFF !important;
+  }
+
+  #root main.materials-theme .group button {
+    background: #C5A059 !important;
+    border-color: #C5A059 !important;
+    color: #1E3E28 !important;
+  }
+
+  #root main.materials-theme .group button :where(svg, span) {
+    color: #1E3E28 !important;
+  }
+
+  #root main.materials-theme > :where(div, button, span, p, h2) {
+    color: #1E3E28 !important;
+  }
+
   h1, h2, h3 {
     font-family: 'Amiri', serif;
   }

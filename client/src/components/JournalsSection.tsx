@@ -22,7 +22,6 @@ const JOURNALS = [
     name: "مجلة العدل السعودية",
     description: "315 مادة قضائية ونظامية من مجلة العدل الصادرة عن وزارة العدل السعودية",
     count: "315",
-    icon: "⚖️",
     color: "oklch(0.48 0.12 68)",
     filterType: "source",
     filterValue: "موقع بحوث - مجلة العدل - وزارة العدل (السعودية)",
@@ -31,7 +30,6 @@ const JOURNALS = [
     name: "مجلة قضاء السعودية",
     description: "212 مادة قانونية وقضائية من مجلة قضاء السعودية المتخصصة",
     count: "212",
-    icon: "🏛️",
     color: "oklch(0.60 0.13 250)",
     filterType: "source",
     filterValue: "موقع بحوث - مجلة قضاء (السعودية)",
@@ -40,7 +38,6 @@ const JOURNALS = [
     name: "مجلة المحاماة",
     description: "أعداد مجلة المحاماة المصرية منذ 1920 حتى 2018 — أقدم مجلة قانونية عربية",
     count: "400+",
-    icon: "⚖️",
     color: "oklch(0.72 0.12 45)",
     filterType: "title",
     filterValue: "مجلة المحاماة",
@@ -49,7 +46,6 @@ const JOURNALS = [
     name: "مجلة الحقوق",
     description: "مجلة الحقوق الكويتية والأردنية والمصرية — مجلات أكاديمية محكّمة",
     count: "140+",
-    icon: "📜",
     color: "oklch(0.65 0.14 160)",
     filterType: "title",
     filterValue: "مجلة الحقوق",
@@ -58,7 +54,6 @@ const JOURNALS = [
     name: "مجلة العدل",
     description: "مجلة العدل اللبنانية وغيرها من مجلات العدالة القضائية",
     count: "25+",
-    icon: "🏛️",
     color: "oklch(0.62 0.13 250)",
     filterType: "title",
     filterValue: "مجلة العدل",
@@ -67,7 +62,6 @@ const JOURNALS = [
     name: "مجلة القانون والاقتصاد",
     description: "مجلة القانون والاقتصاد المصرية — دراسات قانونية وتشريعية متخصصة",
     count: "15+",
-    icon: "📊",
     color: "oklch(0.68 0.15 30)",
     filterType: "title",
     filterValue: "مجلة القانون",
@@ -76,7 +70,6 @@ const JOURNALS = [
     name: "مجلة الدراسات القانونية",
     description: "مجلة الدراسات القانونية والقضائية — أبحاث ودراسات محكّمة",
     count: "35+",
-    icon: "🔍",
     color: "oklch(0.60 0.14 300)",
     filterType: "title",
     filterValue: "مجلة الدراسات القانونية",
@@ -85,7 +78,6 @@ const JOURNALS = [
     name: "مجلة القضاء والتشريع",
     description: "مجلة القضاء والتشريع التونسية — مرجع قانوني متخصص في التشريع المقارن",
     count: "18+",
-    icon: "📋",
     color: "oklch(0.66 0.13 200)",
     filterType: "title",
     filterValue: "مجلة القضاء والتشريع",
@@ -211,17 +203,6 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
             >
               {/* Top row */}
               <div style={{ display: "flex", alignItems: "center", gap: "0.75rem" }}>
-                <span
-                  style={{
-                    fontSize: "1.6rem",
-                    lineHeight: 1,
-                    background: `${journal.color}18`,
-                    borderRadius: "8px",
-                    padding: "6px 8px",
-                  }}
-                >
-                  {journal.icon}
-                </span>
                 <div style={{ flex: 1 }}>
                   <h3
                     style={{
