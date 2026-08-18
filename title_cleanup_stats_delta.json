@@ -1,0 +1,28 @@
+{
+  "before": {
+    "total_items": 18689,
+    "qadaa_count": 11779,
+    "nizam_count": 3207,
+    "mohama_count": 998,
+    "research_count": 1659,
+    "last_updated": "2026-08-18",
+    "total": 18689,
+    "mohamah_count": 998
+  },
+  "decrements": {
+    "qadaa_count": 1521,
+    "nizam_count": 87,
+    "mohama_count": 2,
+    "research_count": 616
+  },
+  "after": {
+    "total_items": 17079,
+    "qadaa_count": 10258,
+    "nizam_count": 3120,
+    "mohama_count": 996,
+    "research_count": 1043,
+    "last_updated": "2026-08-18",
+    "total": 17079,
+    "mohamah_count": 996
+  }
+}

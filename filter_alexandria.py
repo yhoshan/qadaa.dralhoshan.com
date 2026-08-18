@@ -5,6 +5,7 @@
 """
 import json, re, shutil
 from pathlib import Path
+from title_scope_gate import intake_decision
 
 INPUT_FILE = '/home/ubuntu/upload/result.json'
 OUTPUT_ITEMS = '/home/ubuntu/makanez-qadaa/items.json'
@@ -210,6 +211,7 @@ print(f'إجمالي الرسائل: {len(msgs)}')
 
 # ===== التصفية =====
 filtered = []
+review_needed = []
 for m in msgs:
     fn = m.get('file_name', '')
     if not fn.endswith('.cbz'):
@@ -218,9 +220,17 @@ for m in msgs:
         continue
     if matches_negative(fn):
         continue
+    title = clean_filename(fn)
+    if intake_decision(title) != 'CANDIDATE':
+        review_needed.append({"file_name": fn, "message_id": m.get('id', '')})
+        continue
     filtered.append(m)
 
 print(f'بعد التصفية الدقيقة: {len(filtered)} مادة')
+print(f'تحتاج مراجعة دلالية قبل الدمج: {len(review_needed)} مادة')
+
+with open('/home/ubuntu/makanez-qadaa/alexandria_review_needed.json', 'w', encoding='utf-8') as f:
+    json.dump(review_needed, f, ensure_ascii=False, indent=2)
 
 # ===== بناء items =====
 new_items = []

@@ -3,6 +3,7 @@
 """
 import json
 import re
+from title_scope_gate import intake_decision
 
 def normalize(text):
     text = re.sub(r'[أإآا]', 'ا', text)
@@ -112,6 +113,10 @@ for item in items:
     
     if not has_pos:
         rejected.append(f"[لا صلة] {title[:60]}")
+        continue
+
+    if intake_decision(title) != 'CANDIDATE':
+        rejected.append(f"[مراجعة دلالية لازمة] {title[:60]}")
         continue
     
     # استبعاد العناوين المشبوهة (مجموعات وموسوعات عامة)

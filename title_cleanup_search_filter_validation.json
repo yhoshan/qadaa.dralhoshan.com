@@ -1,0 +1,12 @@
+{
+  "total_items": 17079,
+  "search_hamza_plain": {
+    "with_hamza": 541,
+    "without_hamza": 541
+  },
+  "filter_category_count": 2075,
+  "filter_source_count": 2753,
+  "all_items_have_required_title_and_id": true,
+  "search_hamza_normalization_passed": true,
+  "passed": true
+}

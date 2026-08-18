@@ -9,6 +9,7 @@ import json
 import re
 import uuid
 from pathlib import Path
+from title_scope_gate import intake_decision
 
 # ===== إعدادات القناة =====
 CHANNEL_ID = 1453973283  # ID القناة من result.json
@@ -151,6 +152,7 @@ print(f"ملفات PDF: {len(pdf_msgs)}")
 
 # ===== تطبيق التصفية =====
 matched = []
+review_needed = []
 for m in pdf_msgs:
     fname = m.get('file_name', '')
     if not fname:
@@ -160,9 +162,16 @@ for m in pdf_msgs:
         continue
     
     if matches_positive(fname):
+        if intake_decision(clean_filename(fname)) != 'CANDIDATE':
+            review_needed.append({"file_name": fname, "message_id": m.get('id', '')})
+            continue
         matched.append(m)
 
 print(f"المطابق للمكنز: {len(matched)}")
+print(f"تحتاج مراجعة دلالية قبل الدمج: {len(review_needed)}")
+
+with open('/home/ubuntu/makanez-qadaa/risail_review_needed.json', 'w', encoding='utf-8') as f:
+    json.dump(review_needed, f, ensure_ascii=False, indent=2)
 
 # ===== بناء عناصر items.json =====
 items = []

@@ -1,0 +1,12 @@
+{
+  "total_current": 17079,
+  "total_reported_after": 17079,
+  "total_public": 17079,
+  "stats_total": 17079,
+  "duplicate_id_count": 0,
+  "items_without_open_link_count": 0,
+  "removed_ids_still_present": 0,
+  "review_ids_missing_from_current_data": 0,
+  "public_copy_mismatch": false,
+  "passed": true
+}
