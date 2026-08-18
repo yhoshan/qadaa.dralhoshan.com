@@ -19,6 +19,24 @@ interface JournalsSectionProps {
 
 const JOURNALS = [
   {
+    name: "مجلة العدل السعودية",
+    description: "315 مادة قضائية ونظامية من مجلة العدل الصادرة عن وزارة العدل السعودية",
+    count: "315",
+    icon: "⚖️",
+    color: "oklch(0.48 0.12 68)",
+    filterType: "source",
+    filterValue: "موقع بحوث - مجلة العدل - وزارة العدل (السعودية)",
+  },
+  {
+    name: "مجلة قضاء السعودية",
+    description: "212 مادة قانونية وقضائية من مجلة قضاء السعودية المتخصصة",
+    count: "212",
+    icon: "🏛️",
+    color: "oklch(0.60 0.13 250)",
+    filterType: "source",
+    filterValue: "موقع بحوث - مجلة قضاء (السعودية)",
+  },
+  {
     name: "مجلة المحاماة",
     description: "أعداد مجلة المحاماة المصرية منذ 1920 حتى 2018 — أقدم مجلة قانونية عربية",
     count: "400+",
