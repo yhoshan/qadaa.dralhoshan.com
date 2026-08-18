@@ -1,6 +1,6 @@
 /* =============================================
    Navbar — مكنز القضاء والأنظمة والمحاماة
-   زر حول المكنز ذهبي صغير مقابل الوضع الليلي، ونافذة تعريفية بهوية عنّابية
+   زر حول المكنز ذهبي صغير مقابل الوضع الليلي، ونافذة تعريفية بهوية بيجية
    ============================================= */
 import { useTheme } from "@/contexts/ThemeContext";
 import { Sun, Moon, ShieldCheck } from "lucide-react";
@@ -26,15 +26,15 @@ export default function Navbar() {
       style={{
         background: scrolled
           ? isDark
-            ? "oklch(0.14 0.045 22 / 0.97)"
-            : "oklch(0.21 0.06 23 / 0.97)"
-          : "oklch(0.20 0.055 23 / 0.78)",
+            ? "oklch(0.18 0.04 52 / 0.97)"
+            : "oklch(0.98 0.01 85 / 0.97)"
+          : "transparent",
         backdropFilter: scrolled ? "blur(12px)" : "none",
         borderBottom: scrolled
           ? isDark
-            ? "1px solid oklch(0.62 0.11 72 / 0.45)"
-            : "1px solid oklch(0.62 0.11 72 / 0.60)"
-          : "1px solid oklch(0.62 0.11 72 / 0.35)",
+            ? "1px solid oklch(1 0 0 / 12%)"
+            : "1px solid oklch(0.88 0.04 78)"
+          : "none",
       }}
     >
       <div className="container">
@@ -46,10 +46,10 @@ export default function Navbar() {
               onClick={() => setAboutOpen(true)}
               className="inline-flex h-9 items-center gap-1.5 rounded-lg px-3 transition-all hover:opacity-85 active:scale-[0.97]"
               style={{
-                background: isDark ? "oklch(0.29 0.07 24)" : "oklch(0.31 0.075 24)",
-                border: "1px solid oklch(0.62 0.11 72 / 0.7)",
-                color: "oklch(0.78 0.14 76)",
-                fontFamily: "Thmanyah Sans, Cairo, sans-serif",
+                background: isDark ? "oklch(0.28 0.05 52)" : "oklch(0.93 0.03 80)",
+                border: isDark ? "1px solid oklch(1 0 0 / 12%)" : "1px solid oklch(0.88 0.04 78)",
+                color: "oklch(0.48 0.12 68)",
+                fontFamily: "Cairo, sans-serif",
               }}
               title="حول المكنز"
             >
@@ -62,23 +62,23 @@ export default function Navbar() {
               showCloseButton={false}
               className="max-w-md text-right"
               style={{
-                background: "oklch(0.23 0.06 23)",
-                borderColor: "oklch(0.62 0.11 72 / 0.75)",
-                color: "oklch(0.94 0.03 82)",
-                fontFamily: "Thmanyah Sans, Cairo, sans-serif",
+                background: isDark ? "oklch(0.22 0.045 52)" : "oklch(0.98 0.01 85)",
+                borderColor: isDark ? "oklch(0.55 0.12 68 / 0.55)" : "oklch(0.85 0.05 78)",
+                color: isDark ? "oklch(0.94 0.02 82)" : "oklch(0.18 0.04 50)",
+                fontFamily: "Cairo, sans-serif",
               }}
             >
-              <div className="flex items-center justify-between gap-4 border-b pb-3" style={{ borderColor: "oklch(0.62 0.11 72 / 0.45)" }}>
+              <div className="flex items-center justify-between gap-4 border-b pb-3" style={{ borderColor: isDark ? "oklch(1 0 0 / 10%)" : "oklch(0.88 0.04 78)" }}>
                 <div className="flex items-center gap-2">
-                  <ShieldCheck className="h-5 w-5" style={{ color: "oklch(0.78 0.14 76)" }} />
-                  <DialogTitle className="text-base" style={{ fontFamily: "Thmanyah Serif Display, Amiri, serif", color: "oklch(0.78 0.14 76)" }}>
+                  <ShieldCheck className="h-5 w-5" style={{ color: "oklch(0.48 0.12 68)" }} />
+                  <DialogTitle className="text-base" style={{ fontFamily: "Amiri, serif", color: "oklch(0.48 0.12 68)" }}>
                     حول المكنز
                   </DialogTitle>
                 </div>
                 <DialogClose className="text-xl leading-none opacity-65 transition-opacity hover:opacity-100" aria-label="إغلاق">×</DialogClose>
               </div>
 
-              <DialogDescription className="pt-1 text-right text-sm leading-8" style={{ color: "oklch(0.88 0.03 80)", fontFamily: "Thmanyah Sans, Cairo, sans-serif" }}>
+              <DialogDescription className="pt-1 text-right text-sm leading-8" style={{ color: isDark ? "oklch(0.88 0.02 82)" : "oklch(0.37 0.05 55)", fontFamily: "Cairo, sans-serif" }}>
                 مكنز القضاء والأنظمة والمحاماة فهرسٌ تجميعيٌّ للروابط والإحالات إلى مواد قانونية وقضائية منشورة في مصادر خارجية، أُعدّ لتيسير الوصول وخدمة الباحثين والقضاة والمحامين. لا يدّعي ملكية المواد ولا يضمن محتواها أو دقتها أو بقاء روابطها. تبقى الحقوق لأصحابها، ويتحمل المستخدم مسؤولية التحقق من المادة وحقوق استخدامها، ومن له حق أو ملاحظة فليتواصل عبر البريد الإلكتروني.
               </DialogDescription>
 
@@ -86,7 +86,7 @@ export default function Navbar() {
                 <DialogClose asChild>
                   <button
                     className="rounded-lg px-6 py-2 text-xs font-semibold transition-opacity hover:opacity-85 active:scale-[0.97]"
-                    style={{ background: "oklch(0.74 0.13 76)", color: "oklch(0.17 0.05 22)", fontFamily: "Thmanyah Sans, Cairo, sans-serif" }}
+                    style={{ background: "rgb(139, 105, 20)", color: "white", fontFamily: "Cairo, sans-serif" }}
                   >
                     فهمت
                   </button>
@@ -104,9 +104,9 @@ export default function Navbar() {
               onClick={toggleTheme}
               className="w-9 h-9 rounded-lg flex items-center justify-center transition-colors"
               style={{
-                background: isDark ? "oklch(0.29 0.07 24)" : "oklch(0.31 0.075 24)",
-                border: "1px solid oklch(0.62 0.11 72 / 0.7)",
-                color: "oklch(0.78 0.14 76)",
+                background: isDark ? "oklch(0.28 0.05 52)" : "oklch(0.93 0.03 80)",
+                border: isDark ? "1px solid oklch(1 0 0 / 12%)" : "1px solid oklch(0.88 0.04 78)",
+                color: "oklch(0.48 0.12 68)",
               }}
               title={isDark ? "الوضع النهاري" : "الوضع الليلي"}
             >
