@@ -102,6 +102,7 @@ const JOURNALS: JournalCard[] = [...BASE_JOURNALS, ...OFFICIAL_JOURNALS];
 
 export default function JournalsSection({ onFilterBySource, onFilterByCategory }: JournalsSectionProps) {
   const [selectedCountry, setSelectedCountry] = useState("all");
+  const [showAllJournals, setShowAllJournals] = useState(false);
   const countries = useMemo(
     () => Array.from(new Set(OFFICIAL_JOURNALS.map((journal) => journal.country))).sort((a, b) => {
       if (a === "السعودية") return -1;
@@ -112,9 +113,10 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
     }),
     []
   );
-  const visibleJournals: JournalCard[] = selectedCountry === "all"
+  const matchingJournals: JournalCard[] = selectedCountry === "all"
     ? JOURNALS
     : OFFICIAL_JOURNALS.filter((journal) => journal.country === selectedCountry);
+  const visibleJournals = showAllJournals ? matchingJournals : matchingJournals.slice(0, 6);
 
   return (
     <section
@@ -159,7 +161,7 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
             </div>
           </div>
           <button
-            onClick={() => onFilterByCategory?.("المجلات القانونية")}
+            onClick={() => setShowAllJournals((current) => !current)}
             style={{
               fontFamily: "Cairo, sans-serif",
               fontSize: "0.85rem",
@@ -181,7 +183,7 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
               (e.currentTarget as HTMLButtonElement).style.background = "transparent";
             }}
           >
-            عرض الكل
+            {showAllJournals ? "عرض ست مجلات" : "عرض كل المجلات"}
             <ChevronLeft className="w-4 h-4" />
           </button>
         </div>
@@ -191,7 +193,10 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
             <span className="text-xs font-semibold">بلد الإصدار:</span>
             <select
               value={selectedCountry}
-              onChange={(event) => setSelectedCountry(event.target.value)}
+              onChange={(event) => {
+                setSelectedCountry(event.target.value);
+                setShowAllJournals(false);
+              }}
               aria-label="فلتر بلد إصدار المجلات"
               className="text-xs outline-none transition-colors"
               style={{
