@@ -246,6 +246,20 @@
     background: transparent !important;
   }
 
+  #root section.journals-theme label {
+    width: fit-content !important;
+    background: transparent !important;
+  }
+
+  #root section.journals-theme select {
+    width: 190px !important;
+    flex: 0 0 190px;
+    box-sizing: border-box;
+    background: #FFFFFF !important;
+    border-color: rgb(46 90 68 / 0.22) !important;
+    color: #1E3E28 !important;
+  }
+
   #root section.journals-theme :where(h2, h3, p, span, svg) {
     color: #1E3E28 !important;
   }

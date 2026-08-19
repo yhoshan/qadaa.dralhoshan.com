@@ -1,0 +1,128 @@
+{
+  "summary": {
+    "candidates_for_confirmation": 9,
+    "existing_duplicates": 3,
+    "needs_specific_official_url": 3,
+    "unavailable_or_social_only": 1
+  },
+  "candidates_for_confirmation": [
+    {
+      "country": "اليمن",
+      "title": "مجلة جامعة صنعاء للعلوم الإنسانية (فرع القانون)",
+      "publisher": "جامعة صنعاء",
+      "link": "https://journals.su.edu.ye",
+      "notes": "مجلة علمية محكمة، تنشر أبحاثًا في المجال القانوني."
+    },
+    {
+      "country": "اليمن",
+      "title": "مجلة جامعة الجزيرة العلمية (فرع القانون)",
+      "publisher": "جامعة الجزيرة - إب",
+      "link": "https://j.aljazeeraibb.edu.ye",
+      "notes": "تنشر أبحاثًا في القانون، منها دراسات في المنازعات الضريبية."
+    },
+    {
+      "country": "اليمن",
+      "title": "مجلة ابن خلدون للدراسات والأبحاث (فرع القانون)",
+      "publisher": "غير محدد",
+      "link": "https://www.benkjournal.com",
+      "notes": "تنشر أبحاثًا في القانون اليمني، مثل الجريمة الاقتصادية."
+    },
+    {
+      "country": "فلسطين",
+      "title": "مجلة ديوان الجريدة الرسمية للأبحاث القانونية",
+      "publisher": "ديوان الجريدة الرسمية - فلسطين",
+      "link": "https://journal.ogb.gov.ps",
+      "notes": "مجلة علمية محكمة، صدر العدد الأول في 2025، وتهدف لنشر الأبحاث القانونية."
+    },
+    {
+      "country": "ليبيا",
+      "title": "مجلة كلية الشريعة والقانون - الجامعة الأسمرية",
+      "publisher": "الجامعة الأسمرية الإسلامية - زليتن",
+      "link": "https://journals.asmarya.edu.ly",
+      "notes": "مجلة علمية دولية محكمة، صدر المجلد 6، العدد 1 في 2025."
+    },
+    {
+      "country": "تونس",
+      "title": "مجلة الحقوق والإجراءات الجبائية",
+      "publisher": "Juridoc تونس",
+      "link": "https://juridoc.tn",
+      "notes": "مجلة قانونية تصدر في تونس، تغطي قوانين الإجراءات الجبائية والضريبية."
+    },
+    {
+      "country": "الجزائر",
+      "title": "مجلة الدراسات القانونية المقارنة",
+      "publisher": "جامعة الشلف",
+      "link": "https://journals.univ-chlef.dz",
+      "notes": "مجلة أكاديمية محكمة، صدر المجلد الحادي عشر، العدد الثاني في ديسمبر 2025."
+    },
+    {
+      "country": "الجزائر",
+      "title": "مجلة المحكمة العليا الجزائرية",
+      "publisher": "المحكمة العليا الجزائرية",
+      "link": "https://coursupreme.dz",
+      "notes": "مجلة قضائية رسمية، تصدر أعدادًا خاصة، مثل عدد المسؤولية المدنية."
+    },
+    {
+      "country": "دولية",
+      "title": "CIFILE Journal of International Law (CJIL)",
+      "publisher": "CIFILE",
+      "link": "https://www.cifilejournal.com",
+      "notes": "مجلة دولية محكمة مفتوحة الوصول، صدر العدد 12 من المجلد 7 في أكتوبر 2025."
+    }
+  ],
+  "existing_duplicates": [
+    {
+      "country": "اليمن",
+      "title": "مجلة القانون - جامعة عدن",
+      "publisher": "كلية الحقوق، جامعة عدن",
+      "link": "https://www.aden-univ.net/mag10.aspx",
+      "notes": "مجلة محكمة، صدر العدد الثاني والثلاثون في ديسمبر 2025."
+    },
+    {
+      "country": "ليبيا",
+      "title": "Al-haq Journal for Sharia and Legal Sciences",
+      "publisher": "كلية القانون، جامعة بني وليد",
+      "link": "https://www.al-haqjournal.ly",
+      "notes": "مجلة أكاديمية محكمة، متخصصة في نشر البحوث الشرعية والقانونية."
+    },
+    {
+      "country": "دولية",
+      "title": "Leiden Journal of International Law",
+      "publisher": "جامعة لايدن / Cambridge Core",
+      "link": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law",
+      "notes": "مجلة دولية محكمة، تحولت إلى نظام النشر المفتوح (Gold OA) اعتبارًا من مجلد 2025."
+    }
+  ],
+  "needs_specific_official_url": [
+    {
+      "country": "دولية",
+      "title": "Utrecht Journal of International and European Law",
+      "publisher": "جامعة أوتريخت",
+      "link": "https://platform.openjournals.nl",
+      "notes": "مجلة قانونية مفتوحة الوصول (Diamond OA)، يُديرها طلاب القانون، وتخضع لتحكيم مزدوج."
+    },
+    {
+      "country": "دولية",
+      "title": "Heidelberg Journal of International Law (HJIL)",
+      "publisher": "معهد ماكس بلانك",
+      "link": "https://www.inlibra.com",
+      "notes": "مجلة قانون دولي مرموقة، تُعرف أيضًا بـ ZaöRV، وتصدر باللغة الألمانية والإنجليزية."
+    },
+    {
+      "country": "دولية",
+      "title": "Perspectives contentieuses internationales (PCI)",
+      "publisher": "غير محدد",
+      "link": "https://lynxlex.com",
+      "notes": "مجلة أكاديمية جديدة متخصصة في عولمة التقاضي الدولي، وهي مفتوحة الوصول."
+    }
+  ],
+  "unavailable_or_social_only": [
+    {
+      "country": "اليمن",
+      "title": "مجلة البحوث والدراسات القضائية والقانونية",
+      "publisher": "غير محدد",
+      "link": "غير متوفر (تُنشر على فيسبوك)",
+      "notes": "صدر العدد السابع عشر ويضم دراسات في قانون المرافعات اليمني."
+    }
+  ]
+}

@@ -103,7 +103,13 @@ const JOURNALS: JournalCard[] = [...BASE_JOURNALS, ...OFFICIAL_JOURNALS];
 export default function JournalsSection({ onFilterBySource, onFilterByCategory }: JournalsSectionProps) {
   const [selectedCountry, setSelectedCountry] = useState("all");
   const countries = useMemo(
-    () => Array.from(new Set(OFFICIAL_JOURNALS.map((journal) => journal.country))).sort((a, b) => a.localeCompare(b, "ar")),
+    () => Array.from(new Set(OFFICIAL_JOURNALS.map((journal) => journal.country))).sort((a, b) => {
+      if (a === "السعودية") return -1;
+      if (b === "السعودية") return 1;
+      if (a === "دولية") return 1;
+      if (b === "دولية") return -1;
+      return a.localeCompare(b, "ar");
+    }),
     []
   );
   const visibleJournals: JournalCard[] = selectedCountry === "all"
@@ -181,43 +187,31 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
         </div>
 
         <div className="mb-6" style={{ fontFamily: "Cairo, sans-serif" }}>
-          <div className="flex items-center gap-2 flex-wrap" aria-label="فلتر بلد إصدار المجلات">
-            <span className="text-xs font-semibold ml-1" style={{ color: TEXT_MUTED }}>
-              بلد الإصدار:
-            </span>
-            <button
-              type="button"
-              onClick={() => setSelectedCountry("all")}
-              aria-pressed={selectedCountry === "all"}
-              className="px-3 py-1.5 rounded-lg text-xs transition-all"
+          <label className="flex items-center gap-2" style={{ color: TEXT_MUTED }}>
+            <span className="text-xs font-semibold">بلد الإصدار:</span>
+            <select
+              value={selectedCountry}
+              onChange={(event) => setSelectedCountry(event.target.value)}
+              aria-label="فلتر بلد إصدار المجلات"
+              className="text-xs outline-none transition-colors"
               style={{
-                background: selectedCountry === "all" ? GOLD : CARD_BG,
-                border: `1px solid ${selectedCountry === "all" ? GOLD : BORDER}`,
-                color: selectedCountry === "all" ? "white" : TEXT_MUTED,
+                fontFamily: "Cairo, sans-serif",
+                minWidth: "190px",
+                background: CARD_BG,
+                color: TEXT_DARK,
+                border: `1px solid ${BORDER}`,
+                borderRadius: "8px",
+                padding: "7px 12px",
               }}
             >
-              الكل
-            </button>
-            {countries.map((country) => {
-              const active = selectedCountry === country;
-              return (
-                <button
-                  key={country}
-                  type="button"
-                  onClick={() => setSelectedCountry(country)}
-                  aria-pressed={active}
-                  className="px-3 py-1.5 rounded-lg text-xs transition-all"
-                  style={{
-                    background: active ? GOLD : CARD_BG,
-                    border: `1px solid ${active ? GOLD : BORDER}`,
-                    color: active ? "white" : TEXT_MUTED,
-                  }}
-                >
-                  {country}
-                </button>
-              );
-            })}
-          </div>
+              <option value="all">الكل</option>
+              {countries.map((country) => (
+                <option key={country} value={country}>
+                  {country === "دولية" ? "المجلات الدولية باللغة الإنجليزية" : country}
+                </option>
+              ))}
+            </select>
+          </label>
         </div>
 
         {/* Grid */}

@@ -1,4 +1,4 @@
-/* بيانات روابط المجلات الرسمية؛ تصميم المكنز الأخضر مع فلاتر محلية حسب بلد الإصدار. */
+/* بيانات روابط المجلات الرسمية؛ تصميم المكنز الأخضر مع فلتر بلد الإصدار. */
 export type OfficialJournal = { name: string; country: string; description: string; countLabel: string; color: string; officialLink: string }
 
 export const OFFICIAL_JOURNALS: OfficialJournal[] = [
@@ -131,6 +131,14 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
     "officialLink": "https://asjp.cerist.dz"
   },
   {
+    "name": "مجلة الدراسات القانونية المقارنة",
+    "country": "الجزائر",
+    "description": "الجزائر · جامعة الشلف",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.54 0.13 140)",
+    "officialLink": "https://journals.univ-chlef.dz"
+  },
+  {
     "name": "مجلة الدراسات القانونية والسياسية",
     "country": "الجزائر",
     "description": "الجزائر · جامعة عمر تليجي - الأغواط",
@@ -153,6 +161,14 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
     "countLabel": "رابط رسمي",
     "color": "oklch(0.54 0.13 140)",
     "officialLink": "https://www.asjp.cerist.dz/en/PresentationRevue/137"
+  },
+  {
+    "name": "مجلة المحكمة العليا الجزائرية",
+    "country": "الجزائر",
+    "description": "الجزائر · المحكمة العليا الجزائرية",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.54 0.13 140)",
+    "officialLink": "https://coursupreme.dz"
   },
   {
     "name": "مجلة جامعة الملك سعود - القانون والعلوم السياسية",
@@ -371,6 +387,14 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
     "officialLink": "https://maroclaw.com"
   },
   {
+    "name": "مجلة ابن خلدون للدراسات والأبحاث (فرع القانون)",
+    "country": "اليمن",
+    "description": "اليمن · غير محدد",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.48 0.11 32)",
+    "officialLink": "https://www.benkjournal.com"
+  },
+  {
     "name": "مجلة البحوث والدراسات القانونية",
     "country": "اليمن",
     "description": "اليمن · وزارة العدل اليمنية",
@@ -387,6 +411,14 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
     "officialLink": "https://www.aden-univ.net/mag10.aspx"
   },
   {
+    "name": "مجلة جامعة الجزيرة العلمية (فرع القانون)",
+    "country": "اليمن",
+    "description": "اليمن · جامعة الجزيرة - إب",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.48 0.11 32)",
+    "officialLink": "https://j.aljazeeraibb.edu.ye"
+  },
+  {
     "name": "مجلة جامعة الملكة أروى",
     "country": "اليمن",
     "description": "اليمن · جامعة الملكة أروى",
@@ -395,12 +427,28 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
     "officialLink": "https://journal.qau.edu.ye"
   },
   {
+    "name": "مجلة جامعة صنعاء للعلوم الإنسانية (فرع القانون)",
+    "country": "اليمن",
+    "description": "اليمن · جامعة صنعاء",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.48 0.11 32)",
+    "officialLink": "https://journals.su.edu.ye"
+  },
+  {
     "name": "المجلة القانونية التونسية",
     "country": "تونس",
     "description": "تونس · مركز الدراسات والبحوث والنشر",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.57 0.14 20)",
     "officialLink": "https://bibliotheque.arp.tn"
+  },
+  {
+    "name": "مجلة الحقوق والإجراءات الجبائية",
+    "country": "تونس",
+    "description": "تونس · Juridoc تونس",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.57 0.14 20)",
+    "officialLink": "https://juridoc.tn"
   },
   {
     "name": "مجلة المرافعات المدنية والتجارية",
@@ -413,7 +461,7 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "المجلة الدولية للبحوث والدراسات القانونية (IJLRS)",
     "country": "دولية",
-    "description": "دولية · غير محدد",
+    "description": "المجلات الدولية باللغة الإنجليزية · غير محدد",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://vsrp.co.uk"
@@ -421,7 +469,7 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "مجلة القانون الدولي للدراسات البحثية",
     "country": "دولية",
-    "description": "دولية · غير محدد",
+    "description": "المجلات الدولية باللغة الإنجليزية · غير محدد",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.democraticac.de"
@@ -429,15 +477,23 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "مجلة القانون والأعمال الدولية (Revue Droit Des Affaires)",
     "country": "دولية",
-    "description": "دولية · غير محدد",
+    "description": "المجلات الدولية باللغة الإنجليزية · غير محدد",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.droitetentreprise.com"
   },
   {
+    "name": "Air and Space Law",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون الفضاء · Kluwer Law International",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://kluwerlawonline.com/Journals/Air+and+Space+Law/18"
+  },
+  {
     "name": "American Journal of International Law (AJIL)",
     "country": "دولية",
-    "description": "دولية · American Society of International Law (ASIL)",
+    "description": "المجلات الدولية باللغة الإنجليزية · American Society of International Law (ASIL)",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.cambridge.org/core/journals/american-journal-of-international-law"
@@ -445,23 +501,39 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "Arbitration International",
     "country": "دولية",
-    "description": "دولية · Oxford University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Oxford University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://academic.oup.com/arbitration"
   },
   {
+    "name": "Artificial Intelligence and Law",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون الذكاء الاصطناعي · Springer Nature",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://www.springer.com/journal/10506"
+  },
+  {
     "name": "British Yearbook of International Law",
     "country": "دولية",
-    "description": "دولية · Oxford University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Oxford University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://academic.oup.com/bybil"
   },
   {
+    "name": "CIFILE Journal of International Law (CJIL)",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · CIFILE",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://www.cifilejournal.com"
+  },
+  {
     "name": "Columbia Journal of Transnational Law",
     "country": "دولية",
-    "description": "دولية · Columbia Law School",
+    "description": "المجلات الدولية باللغة الإنجليزية · Columbia Law School",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.columbialawreview.org/jtl"
@@ -469,15 +541,31 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "European Journal of International Law (EJIL)",
     "country": "دولية",
-    "description": "دولية · Oxford University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Oxford University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://academic.oup.com/ejil"
   },
   {
+    "name": "European Journal of Migration and Law",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون الهجرة · Brill | Nijhoff",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://brill.com/view/journals/emil/emil-overview.xml"
+  },
+  {
+    "name": "Georgetown International Environmental Law Review (GIELR)",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون البيئة · Georgetown University Law Center",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://www.law.georgetown.edu/environmental-law-review"
+  },
+  {
     "name": "Hague Journal on the Rule of Law",
     "country": "دولية",
-    "description": "دولية · Springer",
+    "description": "المجلات الدولية باللغة الإنجليزية · Springer",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.springer.com/journal/40803"
@@ -485,7 +573,7 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "Harvard International Law Journal",
     "country": "دولية",
-    "description": "دولية · Harvard Law School",
+    "description": "المجلات الدولية باللغة الإنجليزية · Harvard Law School",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://journals.law.harvard.edu/ilj"
@@ -493,7 +581,7 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "Harvard Law Review",
     "country": "دولية",
-    "description": "دولية · Harvard Law School",
+    "description": "المجلات الدولية باللغة الإنجليزية · Harvard Law School",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://harvardlawreview.org"
@@ -501,7 +589,7 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "Human Rights Law Review",
     "country": "دولية",
-    "description": "دولية · Oxford University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Oxford University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://academic.oup.com/hrlr"
@@ -509,7 +597,7 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "Human Rights Quarterly",
     "country": "دولية",
-    "description": "دولية · Johns Hopkins University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Johns Hopkins University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.press.jhu.edu/journals/human-rights-quarterly"
@@ -517,7 +605,7 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "ICSID Review - Foreign Investment Law Journal",
     "country": "دولية",
-    "description": "دولية · Oxford University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Oxford University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://academic.oup.com/icsidreview"
@@ -525,39 +613,111 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "International & Comparative Law Quarterly (ICLQ)",
     "country": "دولية",
-    "description": "دولية · British Institute of International and Comparative Law",
+    "description": "المجلات الدولية باللغة الإنجليزية · British Institute of International and Comparative Law",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.cambridge.org/core/journals/international-and-comparative-law-quarterly"
   },
   {
+    "name": "International Data Privacy Law (IDPL)",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون البيانات والخصوصية · Oxford University Press",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://academic.oup.com/idpl"
+  },
+  {
+    "name": "International Journal of Constitutional Law (I•CON)",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · القانون الدستوري المقارن · Oxford University Press",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://academic.oup.com/icon"
+  },
+  {
+    "name": "International Journal of Human Rights",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون حقوق الإنسان · Taylor & Francis",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://www.tandfonline.com/toc/fjhr20/current"
+  },
+  {
+    "name": "International Journal of Refugee Law",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون الهجرة · Oxford University Press",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://academic.oup.com/ijrl"
+  },
+  {
+    "name": "International Sports Law Journal (ISLJ)",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون الرياضة · Springer Nature",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://link.springer.com/journal/40318"
+  },
+  {
     "name": "Journal of Conflict and Security Law",
     "country": "دولية",
-    "description": "دولية · Oxford University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Oxford University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://academic.oup.com/jcsl"
   },
   {
+    "name": "Journal of Environmental Law",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون البيئة · Oxford University Press",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://academic.oup.com/jel"
+  },
+  {
+    "name": "Journal of Intellectual Property Law and Practice (JIPLP)",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · الملكية الفكرية · Oxford University Press",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://academic.oup.com/jiplp"
+  },
+  {
     "name": "Journal of International Criminal Justice",
     "country": "دولية",
-    "description": "دولية · Oxford University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Oxford University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://academic.oup.com/jicj"
   },
   {
+    "name": "Journal of International Dispute Settlement",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون المنازعات الدولي · Oxford University Press",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://academic.oup.com/jids"
+  },
+  {
     "name": "Journal of International Economic Law",
     "country": "دولية",
-    "description": "دولية · Oxford University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Oxford University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://academic.oup.com/jiel"
   },
   {
+    "name": "Journal of Space Law",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون الفضاء · University of Mississippi School of Law",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "http://airandspacelaw.olemiss.edu/journal-of-space-law"
+  },
+  {
     "name": "Leiden Journal of International Law",
     "country": "دولية",
-    "description": "دولية · Cambridge University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Cambridge University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.cambridge.org/core/journals/leiden-journal-of-international-law"
@@ -565,7 +725,7 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "Michigan Journal of International Law",
     "country": "دولية",
-    "description": "دولية · University of Michigan Law School",
+    "description": "المجلات الدولية باللغة الإنجليزية · University of Michigan Law School",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://repository.law.umich.edu/mjil"
@@ -573,7 +733,7 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "Modern Law Review",
     "country": "دولية",
-    "description": "دولية · Wiley-Blackwell",
+    "description": "المجلات الدولية باللغة الإنجليزية · Wiley-Blackwell",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://onlinelibrary.wiley.com/journal/14682230"
@@ -581,15 +741,23 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "Netherlands International Law Review",
     "country": "دولية",
-    "description": "دولية · Springer",
+    "description": "المجلات الدولية باللغة الإنجليزية · Springer",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.springer.com/journal/40802"
   },
   {
+    "name": "Ocean Development and International Law",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون البحار · Taylor & Francis",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://www.tandfonline.com/journals/uodl20"
+  },
+  {
     "name": "Oxford Journal of Legal Studies",
     "country": "دولية",
-    "description": "دولية · Oxford University Press",
+    "description": "المجلات الدولية باللغة الإنجليزية · Oxford University Press",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://academic.oup.com/ojls"
@@ -597,15 +765,23 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
   {
     "name": "Stanford Journal of International Law",
     "country": "دولية",
-    "description": "دولية · Stanford Law School",
+    "description": "المجلات الدولية باللغة الإنجليزية · Stanford Law School",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://law.stanford.edu/stanford-journal-of-international-law-sjil"
   },
   {
+    "name": "The International Journal of Marine and Coastal Law",
+    "country": "دولية",
+    "description": "المجلات الدولية باللغة الإنجليزية · قانون البحار · Brill",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.53 0.12 260)",
+    "officialLink": "https://brill.com/view/journals/estu/estu-overview.xml"
+  },
+  {
     "name": "Yale Law Journal",
     "country": "دولية",
-    "description": "دولية · Yale Law School",
+    "description": "المجلات الدولية باللغة الإنجليزية · Yale Law School",
     "countLabel": "رابط رسمي",
     "color": "oklch(0.53 0.12 260)",
     "officialLink": "https://www.yalelawjournal.org"
@@ -705,6 +881,14 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
     "countLabel": "رابط رسمي",
     "color": "oklch(0.46 0.12 150)",
     "officialLink": "https://www.alquds.edu"
+  },
+  {
+    "name": "مجلة ديوان الجريدة الرسمية للأبحاث القانونية",
+    "country": "فلسطين",
+    "description": "فلسطين · ديوان الجريدة الرسمية - فلسطين",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.46 0.12 150)",
+    "officialLink": "https://journal.ogb.gov.ps"
   },
   {
     "name": "المجلة الدولية للقانون (International Review of Law - IRL)",
@@ -817,6 +1001,14 @@ export const OFFICIAL_JOURNALS: OfficialJournal[] = [
     "countLabel": "رابط رسمي",
     "color": "oklch(0.60 0.12 210)",
     "officialLink": "https://journals.uob.edu.ly"
+  },
+  {
+    "name": "مجلة كلية الشريعة والقانون - الجامعة الأسمرية",
+    "country": "ليبيا",
+    "description": "ليبيا · الجامعة الأسمرية الإسلامية - زليتن",
+    "countLabel": "رابط رسمي",
+    "color": "oklch(0.60 0.12 210)",
+    "officialLink": "https://journals.asmarya.edu.ly"
   },
   {
     "name": "المجلة الدولية للفقه والقضاء والتشريع (IJDJL)",
