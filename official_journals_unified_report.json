@@ -1,0 +1,35 @@
+{
+  "added_count": 87,
+  "total_before": 15559,
+  "total_after": 15646,
+  "total_official_journal_links": 112,
+  "by_country": {
+    "الأردن": 1,
+    "الإمارات": 5,
+    "البحرين": 3,
+    "الجزائر": 5,
+    "السعودية": 2,
+    "السودان": 5,
+    "العراق": 1,
+    "الكويت": 2,
+    "المغرب": 8,
+    "اليمن": 3,
+    "تونس": 2,
+    "دولية": 25,
+    "سلطنة عمان": 2,
+    "سوريا": 1,
+    "فلسطين": 4,
+    "قطر": 1,
+    "لبنان": 1,
+    "ليبيا": 6,
+    "مصر": 8,
+    "موريتانيا": 2
+  },
+  "exclusions": {
+    "invalid_or_nonofficial_link": 33,
+    "not_a_periodical": 5,
+    "already_imported": 30,
+    "duplicate_within_inputs": 11
+  },
+  "backup": "/home/ubuntu/makanez-qadaa/backups/official-journals-unified-2026-08-19_10-25-42-078"
+}

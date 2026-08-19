@@ -1,0 +1,33 @@
+{
+  "added_count": 25,
+  "total_before": 15534,
+  "total_after": 15559,
+  "by_country": {
+    "العراق": 9,
+    "سوريا": 5,
+    "لبنان": 6,
+    "الأردن": 5
+  },
+  "skipped": [
+    {
+      "country": "العراق",
+      "name": "مجلة الحقوق",
+      "reason": "عنوان مجلة موجود مسبقاً في بيانات المكنز"
+    },
+    {
+      "country": "سوريا",
+      "name": "مجلة المحامون",
+      "reason": "لا يوجد رابط رسمي صالح"
+    },
+    {
+      "country": "لبنان",
+      "name": "المجلة القانونية اللبنانية - La Revue Juridique Libanaise",
+      "reason": "لا يوجد رابط رسمي صالح"
+    },
+    {
+      "country": "لبنان",
+      "name": "المجلة اللبنانية للتحكيم العربي والدولي - The Lebanese Review of Arab and International Arbitration",
+      "reason": "لا يوجد رابط رسمي صالح"
+    }
+  ]
+}

@@ -1,8 +1,10 @@
 /* =============================================
-   JournalsSection — قسم المجلات القانونية والحقوقية البارز
-   تصميم تراثي: بيج دافئ + ذهبي بني + خط Amiri
+   JournalsSection — يحافظ على ألوان قسم المواد الحالية
+   ويضيف فلتر بلد الإصدار محلياً للمجلات الرسمية فقط.
    ============================================= */
 import { BookOpen, ExternalLink, ChevronLeft } from "lucide-react";
+import { useMemo, useState } from "react";
+import { OFFICIAL_JOURNALS } from "@/data/officialJournals";
 
 const GOLD = "rgb(139, 105, 20)";
 const GOLD_LIGHT = "oklch(0.88 0.06 78)";
@@ -17,7 +19,19 @@ interface JournalsSectionProps {
   onFilterByCategory?: (category: string) => void;
 }
 
-const JOURNALS = [
+type JournalCard = {
+  name: string;
+  country?: string;
+  description: string;
+  count?: string;
+  countLabel?: string;
+  color: string;
+  filterType?: "source" | "title";
+  filterValue?: string;
+  officialLink?: string;
+};
+
+const BASE_JOURNALS: JournalCard[] = [
   {
     name: "مجلة العدل السعودية",
     description: "315 مادة قضائية ونظامية من مجلة العدل الصادرة عن وزارة العدل السعودية",
@@ -84,7 +98,18 @@ const JOURNALS = [
   },
 ];
 
+const JOURNALS: JournalCard[] = [...BASE_JOURNALS, ...OFFICIAL_JOURNALS];
+
 export default function JournalsSection({ onFilterBySource, onFilterByCategory }: JournalsSectionProps) {
+  const [selectedCountry, setSelectedCountry] = useState("all");
+  const countries = useMemo(
+    () => Array.from(new Set(OFFICIAL_JOURNALS.map((journal) => journal.country))).sort((a, b) => a.localeCompare(b, "ar")),
+    []
+  );
+  const visibleJournals: JournalCard[] = selectedCountry === "all"
+    ? JOURNALS
+    : OFFICIAL_JOURNALS.filter((journal) => journal.country === selectedCountry);
+
   return (
     <section
       dir="rtl"
@@ -155,6 +180,46 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
           </button>
         </div>
 
+        <div className="mb-6" style={{ fontFamily: "Cairo, sans-serif" }}>
+          <div className="flex items-center gap-2 flex-wrap" aria-label="فلتر بلد إصدار المجلات">
+            <span className="text-xs font-semibold ml-1" style={{ color: TEXT_MUTED }}>
+              بلد الإصدار:
+            </span>
+            <button
+              type="button"
+              onClick={() => setSelectedCountry("all")}
+              aria-pressed={selectedCountry === "all"}
+              className="px-3 py-1.5 rounded-lg text-xs transition-all"
+              style={{
+                background: selectedCountry === "all" ? GOLD : CARD_BG,
+                border: `1px solid ${selectedCountry === "all" ? GOLD : BORDER}`,
+                color: selectedCountry === "all" ? "white" : TEXT_MUTED,
+              }}
+            >
+              الكل
+            </button>
+            {countries.map((country) => {
+              const active = selectedCountry === country;
+              return (
+                <button
+                  key={country}
+                  type="button"
+                  onClick={() => setSelectedCountry(country)}
+                  aria-pressed={active}
+                  className="px-3 py-1.5 rounded-lg text-xs transition-all"
+                  style={{
+                    background: active ? GOLD : CARD_BG,
+                    border: `1px solid ${active ? GOLD : BORDER}`,
+                    color: active ? "white" : TEXT_MUTED,
+                  }}
+                >
+                  {country}
+                </button>
+              );
+            })}
+          </div>
+        </div>
+
         {/* Grid */}
         <div
           style={{
@@ -163,11 +228,18 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
             gap: "1rem",
           }}
         >
-          {JOURNALS.map((journal) => (
+          {visibleJournals.map((journal) => (
             <button
-              key={journal.name}
+              key={`${journal.country || "base"}-${journal.name}`}
               className="journal-card"
-              onClick={() => onFilterBySource?.(journal.filterValue)}
+              onClick={() => {
+                if (journal.officialLink) {
+                  window.open(journal.officialLink, "_blank", "noopener,noreferrer");
+                  return;
+                }
+                if (journal.filterType === "title") onFilterBySource?.(journal.filterValue || "");
+                else onFilterBySource?.(journal.filterValue || "");
+              }}
               style={{
                 background: CARD_BG,
                 border: `1px solid ${BORDER}`,
@@ -216,7 +288,7 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
                       fontWeight: 600,
                     }}
                   >
-                    {journal.count} عدد
+                    {journal.countLabel || `${journal.count} عدد`}
                   </span>
                 </div>
                 <ExternalLink

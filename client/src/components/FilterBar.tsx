@@ -3,10 +3,8 @@
    ألوان مطابقة لـ osool.dralhoshan.com
    خلفية بيج دافئ + أزرار ذهبية بنية
    ============================================= */
-import { Filter, ArrowUpDown, ExternalLink, X } from "lucide-react";
+import { ArrowUpDown, X } from "lucide-react";
 import type { FilterState, SortOption } from "@/hooks/useItems";
-import { Drawer, DrawerContent, DrawerHeader, DrawerTitle, DrawerTrigger } from "@/components/ui/drawer";
-import { useState } from "react";
 
 interface FilterBarProps {
   filters: FilterState;
@@ -65,146 +63,8 @@ const selectStyle = {
   width: "100%",
 };
 
-function FilterContent({
-  filters,
-  onFiltersChange,
-  categories,
-  materialTypes,
-  fileTypes,
-  sources,
-}: Omit<FilterBarProps, "totalResults" | "totalItems">) {
-  return (
-    <div className="space-y-5" style={{ fontFamily: "Cairo, sans-serif" }}>
-      {/* Category */}
-      <div>
-        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>القسم</label>
-        <select
-          value={filters.category}
-          onChange={(e) => onFiltersChange({ category: e.target.value })}
-          style={selectStyle}
-        >
-          <option value="all">جميع الأقسام</option>
-          {categories.map((c) => (
-            <option key={c} value={c}>{c}</option>
-          ))}
-        </select>
-      </div>
-
-      {/* Material Type */}
-      <div>
-        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>نوع المادة</label>
-        <select
-          value={filters.material_type}
-          onChange={(e) => onFiltersChange({ material_type: e.target.value })}
-          style={selectStyle}
-        >
-          <option value="all">جميع الأنواع</option>
-          {materialTypes.map((t) => (
-            <option key={t} value={t}>{t}</option>
-          ))}
-        </select>
-      </div>
-
-      {/* File Type */}
-      <div>
-        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>نوع الملف</label>
-        <div className="flex flex-wrap gap-2">
-          {["all", ...fileTypes].map((ft) => (
-            <button
-              key={ft}
-              onClick={() => onFiltersChange({ file_type: ft })}
-              className="px-3 py-1 rounded-full text-xs border transition-all"
-              style={{
-                background: filters.file_type === ft ? "rgb(139, 105, 20)" : "oklch(0.93 0.03 80)",
-                color: filters.file_type === ft ? "white" : "oklch(0.38 0.10 65)",
-                borderColor: filters.file_type === ft ? "rgb(139, 105, 20)" : "oklch(0.88 0.04 78)",
-              }}
-            >
-              {ft === "all" ? "الكل" : ft}
-            </button>
-          ))}
-        </div>
-      </div>
-
-      {/* Source */}
-      <div>
-        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>المصدر</label>
-        <select
-          value={filters.source}
-          onChange={(e) => onFiltersChange({ source: e.target.value })}
-          style={selectStyle}
-        >
-          <option value="all">جميع المصادر</option>
-          {sources.slice(0, 20).map((s) => (
-            <option key={s} value={s}>{s.length > 40 ? s.slice(0, 40) + "..." : s}</option>
-          ))}
-        </select>
-      </div>
-
-      {/* Has Download */}
-      <div>
-        <label className="flex items-center gap-3 cursor-pointer">
-          <div
-            onClick={() => onFiltersChange({ has_download: !filters.has_download })}
-            className="w-10 h-5 rounded-full transition-colors relative"
-            style={{ background: filters.has_download ? "rgb(139, 105, 20)" : "oklch(0.88 0.04 78)" }}
-          >
-            <div
-              className={`absolute top-0.5 w-4 h-4 rounded-full bg-white transition-all ${
-                filters.has_download ? "right-0.5" : "left-0.5"
-              }`}
-            />
-          </div>
-          <span className="text-sm" style={{ color: "oklch(0.38 0.10 65)" }}>
-            <ExternalLink className="w-3.5 h-3.5 inline ml-1" />
-            لها روابط فتح فقط
-          </span>
-        </label>
-      </div>
-
-      {/* Sort */}
-      <div>
-        <label className="block text-xs mb-2" style={{ color: "oklch(0.52 0.06 60)" }}>الترتيب</label>
-        <select
-          value={filters.sort}
-          onChange={(e) => onFiltersChange({ sort: e.target.value as SortOption })}
-          style={selectStyle}
-        >
-          {SORT_OPTIONS.map((o) => (
-            <option key={o.value} value={o.value}>{o.label}</option>
-          ))}
-        </select>
-      </div>
-
-      {/* Reset */}
-      <button
-        onClick={() =>
-          onFiltersChange({
-            category: "all",
-            material_type: "all",
-            file_type: "all",
-            source: "all",
-            has_download: false,
-            sort: "default",
-          })
-        }
-        className="w-full py-2 rounded-lg text-sm flex items-center justify-center gap-2 transition-colors hover:opacity-80"
-        style={{
-          border: "1px solid oklch(0.88 0.04 78)",
-          color: "oklch(0.52 0.06 60)",
-          background: "oklch(0.93 0.03 80)",
-        }}
-      >
-        <X className="w-3.5 h-3.5" />
-        إعادة تعيين الفلاتر
-      </button>
-    </div>
-  );
-}
-
 export default function FilterBar(props: FilterBarProps) {
   const { filters, onFiltersChange, totalResults, totalItems } = props;
-  const [drawerOpen, setDrawerOpen] = useState(false);
 
   const hasActiveFilters =
     filters.category !== "all" ||
@@ -275,46 +135,6 @@ export default function FilterBar(props: FilterBarProps) {
               </select>
             </div>
 
-            {/* Mobile filter drawer */}
-            <Drawer open={drawerOpen} onOpenChange={setDrawerOpen}>
-              <DrawerTrigger asChild>
-                <button
-                  className="flex items-center gap-2 px-3 py-1.5 rounded-lg border text-xs transition-all"
-                  style={{
-                    fontFamily: "Cairo, sans-serif",
-                    background: hasActiveFilters ? "oklch(0.93 0.03 80)" : "oklch(0.93 0.03 80)",
-                    borderColor: hasActiveFilters ? "rgb(139, 105, 20)" : "oklch(0.88 0.04 78)",
-                    color: hasActiveFilters ? "rgb(139, 105, 20)" : "oklch(0.52 0.06 60)",
-                  }}
-                >
-                  <Filter className="w-3.5 h-3.5" />
-                  <span>فلاتر إضافية</span>
-                  {hasActiveFilters && (
-                    <span
-                      className="w-4 h-4 rounded-full text-[10px] flex items-center justify-center font-bold"
-                      style={{ background: "rgb(139, 105, 20)", color: "white" }}
-                    >
-                      !
-                    </span>
-                  )}
-                </button>
-              </DrawerTrigger>
-              <DrawerContent
-                style={{
-                  background: "oklch(0.98 0.01 85)",
-                  borderColor: "oklch(0.88 0.04 78)",
-                }}
-              >
-                <DrawerHeader>
-                  <DrawerTitle style={{ fontFamily: "Amiri, serif", color: "oklch(0.18 0.04 50)" }}>
-                    تصفية النتائج
-                  </DrawerTitle>
-                </DrawerHeader>
-                <div className="px-4 pb-6 overflow-y-auto max-h-[70vh]">
-                  <FilterContent {...props} />
-                </div>
-              </DrawerContent>
-            </Drawer>
           </div>
         </div>
 

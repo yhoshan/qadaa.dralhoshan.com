@@ -10,9 +10,8 @@ import HeroSection from "@/components/HeroSection";
 import FilterBar from "@/components/FilterBar";
 import ItemCard from "@/components/ItemCard";
 import Footer from "@/components/Footer";
-import { Loader2, FileDown, AlertCircle, ChevronRight, ChevronLeft } from "lucide-react";
+import { Loader2, AlertCircle, ChevronRight, ChevronLeft } from "lucide-react";
 import JournalsSection from "@/components/JournalsSection";
-import { toast } from "sonner";
 
 const PAGE_SIZE = 24;
 
@@ -75,51 +74,6 @@ export default function Home() {
   const handlePageChange = (newPage: number) => {
     setPage(newPage);
     resultsRef.current?.scrollIntoView({ behavior: "smooth", block: "start" });
-  };
-
-  // Export to CSV (Excel-compatible)
-  const exportToExcel = () => {
-    const headers = ["#", "العنوان", "المؤلف", "المحقق", "القسم", "نوع المادة", "نوع الملف", "الحجم", "الصفحات", "المصدر", "رابط تيليجرام", "رابط مباشر"];
-    const rows = filteredItems.map((item, i) => [
-      i + 1,
-      item.title,
-      item.author,
-      item.investigator,
-      item.category,
-      item.material_type,
-      item.file_type,
-      item.file_size,
-      item.pages_count,
-      item.source,
-      item.link_telegram,
-      item.link_direct,
-    ]);
-
-    const csvContent = [headers, ...rows]
-      .map((row) => row.map((cell) => `"${String(cell || "").replace(/"/g, '""')}"`).join(","))
-      .join("\n");
-
-    const blob = new Blob(["\uFEFF" + csvContent], { type: "text/csv;charset=utf-8;" });
-    const url = URL.createObjectURL(blob);
-    const a = document.createElement("a");
-    a.href = url;
-    a.download = "مكنز-القضاء-والأنظمة.csv";
-    a.click();
-    URL.revokeObjectURL(url);
-    toast.success(`تم تصدير ${filteredItems.length.toLocaleString("en-US")} مادة`);
-  };
-
-  // Copy current filter URL
-  const copyFilterUrl = () => {
-    const params = new URLSearchParams();
-    if (filters.search) params.set("q", filters.search);
-    if (filters.category !== "all") params.set("cat", filters.category);
-    if (filters.material_type !== "all") params.set("type", filters.material_type);
-    if (filters.file_type !== "all") params.set("file", filters.file_type);
-    if (filters.has_download) params.set("dl", "1");
-    const url = `${window.location.origin}?${params.toString()}`;
-    navigator.clipboard.writeText(url);
-    toast.success("تم نسخ رابط الفلتر الحالي");
   };
 
   // Pagination component
@@ -255,59 +209,6 @@ export default function Home() {
           </div>
         ) : (
           <>
-            {/* Toolbar */}
-            <div className="flex items-center justify-between mb-6 gap-3 flex-wrap">
-              <div className="flex items-center gap-2">
-                <h2
-                  className="text-lg font-bold"
-                  style={{ fontFamily: "Amiri, serif", color: TEXT_DARK }}
-                >
-                  {filters.category !== "all" ? filters.category : "جميع المواد"}
-                </h2>
-                <span
-                  className="text-xs px-2 py-0.5 rounded-full"
-                  style={{
-                    fontFamily: "Tajawal, sans-serif",
-                    background: CARD_BG,
-                    border: `1px solid ${BORDER_COLOR}`,
-                    color: TEXT_MUTED,
-                  }}
-                >
-                  {filteredItems.length.toLocaleString("en-US")} مادة
-                </span>
-              </div>
-              <div className="flex items-center gap-2">
-                <button
-                  onClick={copyFilterUrl}
-                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs transition-all hover:opacity-80"
-                  style={{
-                    fontFamily: "Cairo, sans-serif",
-                    background: CARD_BG,
-                    border: `1px solid ${BORDER_COLOR}`,
-                    color: TEXT_MUTED,
-                  }}
-                >
-                  <svg className="w-3.5 h-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2">
-                    <path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" />
-                    <path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" />
-                  </svg>
-                  نسخ رابط الفلتر
-                </button>
-                <button
-                  onClick={exportToExcel}
-                  className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg text-xs transition-all hover:opacity-80"
-                  style={{
-                    fontFamily: "Cairo, sans-serif",
-                    background: GOLD,
-                    color: "white",
-                  }}
-                >
-                  <FileDown className="w-3.5 h-3.5" />
-                  تصدير Excel
-                </button>
-              </div>
-            </div>
-
             {/* Cards Grid */}
             {currentItems.length === 0 ? (
               <div className="text-center py-20">
