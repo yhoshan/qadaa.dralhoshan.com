@@ -1,0 +1,12 @@
+{
+  "expected_cases": 669,
+  "decided_cases": 669,
+  "counts": {
+    "KEEP": 32,
+    "REMOVE": 273,
+    "REVIEW": 364
+  },
+  "ids_match": true,
+  "no_site_data_modified": true,
+  "no_publish_performed": true
+}

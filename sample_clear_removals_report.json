@@ -1,0 +1,39 @@
+{
+  "total_before": 15546,
+  "total_after": 15540,
+  "removed_count": 6,
+  "removed_ids": [
+    "buhooth_4635b8e9",
+    "alexandria_cbz_39669",
+    "buhooth_5e4d0e1f",
+    "alexandria_cbz_24863",
+    "qadaa_9288",
+    "alexandria_cbz_2845"
+  ],
+  "decrements": {
+    "qadaa_count": 6,
+    "nizam_count": 0,
+    "mohama_count": 0,
+    "research_count": 2
+  },
+  "stats": {
+    "total_items": 15540,
+    "qadaa_count": 8836,
+    "nizam_count": 3006,
+    "mohama_count": 993,
+    "research_count": 505,
+    "last_updated": "2026-08-19",
+    "total": 15540,
+    "mohamah_count": 993
+  },
+  "uncertain_count": 7,
+  "uncertain_ids": [
+    "alexandria_cbz_31868",
+    "legal_mag_340",
+    "archive_20240604_20240604_2219",
+    "buhooth_a4e263df",
+    "archive_QWAAMEELAAA",
+    "great_law_4489",
+    "buhooth_8e75cbe9"
+  ]
+}

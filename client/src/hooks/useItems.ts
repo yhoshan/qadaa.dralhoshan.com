@@ -51,7 +51,7 @@ export function useItems() {
 
   useEffect(() => {
     Promise.all([
-      fetch(`/items.json?v=qadaa17079-clean-20260818`).then((r) => r.json()),
+      fetch(`/items.json?v=final-uncertain-decisions-2026-08-19`).then((r) => r.json()),
       fetch(`/stats.json?v=qadaa17079-clean-20260818`).then((r) => r.json()),
     ])
       .then(([itemsData, statsData]) => {

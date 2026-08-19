@@ -1,0 +1,16 @@
+{
+  "input_cases": 669,
+  "final_cases": 669,
+  "expected_tiebreak_cases": 364,
+  "actual_tiebreak_cases": 364,
+  "ids_match": true,
+  "tiebreak_ids_match": true,
+  "counts": {
+    "KEEP": 141,
+    "REMOVE": 405,
+    "REVIEW": 123
+  },
+  "count_matches": true,
+  "no_site_data_modified": true,
+  "no_publish_performed": true
+}

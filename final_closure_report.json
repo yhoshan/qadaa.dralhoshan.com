@@ -1,0 +1,32 @@
+{
+  "applied_at": "2026-08-19T08:34:01.008Z",
+  "total_before": 17079,
+  "total_after": 15546,
+  "removed_this_closure": 1533,
+  "removed_from_second_pass": 1008,
+  "removed_from_third_pass": 405,
+  "removed_from_final_review": 120,
+  "explicit_kept_ids": [
+    "qadaa_10466",
+    "qadaa_12297",
+    "archive_alfirdwsiy2018_gmail_2551_201810"
+  ],
+  "final_review_count": 0,
+  "missing_remove_ids_not_in_current_data": [],
+  "decrements": {
+    "qadaa_count": 1416,
+    "nizam_count": 114,
+    "mohama_count": 3,
+    "research_count": 536
+  },
+  "stats": {
+    "total_items": 15546,
+    "qadaa_count": 8842,
+    "nizam_count": 3006,
+    "mohama_count": 993,
+    "research_count": 507,
+    "last_updated": "2026-08-19",
+    "total": 15546,
+    "mohamah_count": 993
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "total_before": 15540,
+  "total_after": 15534,
+  "kept_id": "legal_mag_340",
+  "removed_ids": [
+    "alexandria_cbz_31868",
+    "archive_20240604_20240604_2219",
+    "buhooth_a4e263df",
+    "archive_QWAAMEELAAA",
+    "great_law_4489",
+    "buhooth_8e75cbe9"
+  ],
+  "removed_count": 6,
+  "decrements": {
+    "qadaa_count": 6,
+    "nizam_count": 0,
+    "mohama_count": 0,
+    "research_count": 2
+  },
+  "stats": {
+    "total_items": 15534,
+    "qadaa_count": 8830,
+    "nizam_count": 3006,
+    "mohama_count": 993,
+    "research_count": 503,
+    "last_updated": "2026-08-19",
+    "total": 15534,
+    "mohamah_count": 993
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "source_cases": 2853,
+  "decided_cases": 2853,
+  "counts": {
+    "KEEP": 1176,
+    "REMOVE": 1008,
+    "REVIEW": 669
+  },
+  "identifiers_match": true,
+  "decision_values_valid": true,
+  "counts_match": true,
+  "examples_available": true,
+  "published_items_untouched": true,
+  "passed": true
+}
