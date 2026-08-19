@@ -287,6 +287,59 @@
     background: linear-gradient(to left, rgb(197 160 89 / 0.4), #C5A059) !important;
   }
 
+  /* هذه القواعد في طبقة base ذاتها لأن القواعد المهمة (!important) في الطبقات الأسبق لها أولوية أعلى. */
+  html.dark #root .qadaa-home {
+    background: #063A28 !important;
+  }
+
+  html.dark #root main.materials-theme,
+  html.dark #root section.journals-theme {
+    background: #0A432F !important;
+    border-color: rgb(247 251 255 / 0.22) !important;
+  }
+
+  html.dark #root main.materials-theme .group,
+  html.dark #root section.journals-theme .journal-card,
+  html.dark #root section.journals-theme button,
+  html.dark #root section.journals-theme select {
+    background: #0E543A !important;
+    border-color: rgb(247 251 255 / 0.22) !important;
+  }
+
+  html.dark #root main.materials-theme :where(h2, h3, p, span, div, svg),
+  html.dark #root section.journals-theme :where(h2, h3, p, span, svg, label, select, option) {
+    color: #F7FBFF !important;
+  }
+
+  html.dark #root main.materials-theme .group a {
+    background: #F7FBFF !important;
+    border-color: #F7FBFF !important;
+    color: #063A28 !important;
+  }
+
+  html.dark #root main.materials-theme .group a :where(svg, span) {
+    color: #063A28 !important;
+  }
+
+  html.dark #root main.materials-theme .group button {
+    background: #C5A059 !important;
+    border-color: #C5A059 !important;
+    color: #063A28 !important;
+  }
+
+  #root .whatsapp-share {
+    background: #25D366 !important;
+    color: #FFFFFF !important;
+    border-color: #FFFFFF !important;
+  }
+
+  #root footer .footer-share-button { color: #FFFFFF !important; }
+  #root footer .footer-share-button[data-share="نسخ الرابط"] { background: #6B7280 !important; }
+  #root footer .footer-share-button[data-share="واتساب"] { background: #25D366 !important; }
+  #root footer .footer-share-button[data-share="تيليجرام"] { background: #229ED9 !important; }
+  #root footer .footer-share-button[data-share="تويتر"] { background: #000000 !important; }
+  #root footer .footer-share-button[data-share="فيسبوك"] { background: #1877F2 !important; }
+
   h1, h2, h3 {
     font-family: 'Amiri', serif;
   }
@@ -320,6 +373,103 @@
     height: auto;
     display: block;
   }
+
+  /* الوضع الليلي: يتجاوز ألوان العرض الفاتح الصريحة في أقسام المواد والمجلات. */
+  html.dark #root .qadaa-home {
+    background: #063A28 !important;
+  }
+
+  html.dark #root main.materials-theme,
+  html.dark #root section.journals-theme {
+    background: #0A432F !important;
+    border-color: rgb(247 251 255 / 0.22) !important;
+  }
+
+  html.dark #root main.materials-theme .group,
+  html.dark #root section.journals-theme .journal-card,
+  html.dark #root section.journals-theme button,
+  html.dark #root section.journals-theme select {
+    background: #0E543A !important;
+    border-color: rgb(247 251 255 / 0.22) !important;
+  }
+
+  html.dark #root main.materials-theme :where(h2, h3, p, span, div, svg),
+  html.dark #root section.journals-theme :where(h2, h3, p, span, svg, label, select, option) {
+    color: #F7FBFF !important;
+  }
+
+  html.dark #root main.materials-theme .group a {
+    background: #F7FBFF !important;
+    border-color: #F7FBFF !important;
+    color: #063A28 !important;
+  }
+
+  html.dark #root main.materials-theme .group a :where(svg, span) {
+    color: #063A28 !important;
+  }
+
+  html.dark #root main.materials-theme .group button {
+    background: #C5A059 !important;
+    border-color: #C5A059 !important;
+    color: #063A28 !important;
+  }
+
+  /* واتساب: أيقونة عائمة خضراء صغيرة بنبضة خفيفة ومشاركة آمنة للرابط. */
+  .whatsapp-share {
+    position: fixed;
+    left: 24px;
+    bottom: 24px;
+    z-index: 40;
+    width: 48px;
+    height: 48px;
+    display: grid;
+    place-items: center;
+    border-radius: 999px;
+    background: #25D366 !important;
+    color: #FFFFFF !important;
+    border: 2px solid #FFFFFF !important;
+    box-shadow: 0 12px 24px rgb(0 0 0 / 0.22);
+    transition: transform 180ms cubic-bezier(0.23, 1, 0.32, 1), box-shadow 180ms cubic-bezier(0.23, 1, 0.32, 1);
+    isolation: isolate;
+  }
+
+  .whatsapp-share::before {
+    content: "";
+    position: absolute;
+    inset: -5px;
+    z-index: -1;
+    border: 2px solid rgb(37 211 102 / 0.58);
+    border-radius: inherit;
+    animation: whatsapp-pulse 1.8s ease-out infinite;
+  }
+
+  .whatsapp-share:hover { transform: scale(1.10); box-shadow: 0 16px 30px rgb(0 0 0 / 0.28); }
+  .whatsapp-share:active { transform: scale(0.95); }
+  .whatsapp-share__bubble { width: 28px; height: 28px; stroke-width: 2.3; }
+  .whatsapp-share__phone { position: absolute; width: 12px; height: 12px; stroke-width: 3; transform: rotate(-20deg); }
+
+  @keyframes whatsapp-pulse {
+    0% { opacity: 0.72; transform: scale(0.92); }
+    70%, 100% { opacity: 0; transform: scale(1.36); }
+  }
+
+  @media (max-width: 640px) {
+    .whatsapp-share { left: 16px; bottom: 16px; width: 44px; height: 44px; }
+    .whatsapp-share__bubble { width: 25px; height: 25px; }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .whatsapp-share::before { animation: none; }
+    .whatsapp-share { transition: none; }
+  }
+
+  /* أزرار المشاركة: ألوان العلامات الرسمية، دون تغيير حجم w-9 h-9 القائم. */
+  #root footer .footer-share-button { color: #FFFFFF !important; }
+  #root footer .footer-share-button[data-share="نسخ الرابط"] { background: #6B7280 !important; }
+  #root footer .footer-share-button[data-share="واتساب"] { background: #25D366 !important; }
+  #root footer .footer-share-button[data-share="تيليجرام"] { background: #229ED9 !important; }
+  #root footer .footer-share-button[data-share="تويتر"] { background: #000000 !important; }
+  #root footer .footer-share-button[data-share="فيسبوك"] { background: #1877F2 !important; }
 
   .container {
     width: 100%;

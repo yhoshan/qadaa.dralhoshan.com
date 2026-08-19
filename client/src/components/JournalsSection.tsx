@@ -2,7 +2,7 @@
    JournalsSection — يحافظ على ألوان قسم المواد الحالية
    ويضيف فلتر بلد الإصدار محلياً للمجلات الرسمية فقط.
    ============================================= */
-import { BookOpen, ExternalLink, ChevronLeft } from "lucide-react";
+import { BookOpen, ExternalLink } from "lucide-react";
 import { useMemo, useState } from "react";
 import { OFFICIAL_JOURNALS } from "@/data/officialJournals";
 
@@ -16,7 +16,6 @@ const TEXT_MUTED = "oklch(0.52 0.06 60)";
 
 interface JournalsSectionProps {
   onFilterBySource?: (source: string) => void;
-  onFilterByCategory?: (category: string) => void;
 }
 
 type JournalCard = {
@@ -100,9 +99,8 @@ const BASE_JOURNALS: JournalCard[] = [
 
 const JOURNALS: JournalCard[] = [...BASE_JOURNALS, ...OFFICIAL_JOURNALS];
 
-export default function JournalsSection({ onFilterBySource, onFilterByCategory }: JournalsSectionProps) {
+export default function JournalsSection({ onFilterBySource }: JournalsSectionProps) {
   const [selectedCountry, setSelectedCountry] = useState("all");
-  const [showAllJournals, setShowAllJournals] = useState(false);
   const countries = useMemo(
     () => Array.from(new Set(OFFICIAL_JOURNALS.map((journal) => journal.country))).sort((a, b) => {
       if (a === "السعودية") return -1;
@@ -116,7 +114,7 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
   const matchingJournals: JournalCard[] = selectedCountry === "all"
     ? JOURNALS
     : OFFICIAL_JOURNALS.filter((journal) => journal.country === selectedCountry);
-  const visibleJournals = showAllJournals ? matchingJournals : matchingJournals.slice(0, 6);
+  const visibleJournals = matchingJournals.slice(0, 6);
 
   return (
     <section
@@ -160,32 +158,6 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
               </h2>
             </div>
           </div>
-          <button
-            onClick={() => setShowAllJournals((current) => !current)}
-            style={{
-              fontFamily: "Cairo, sans-serif",
-              fontSize: "0.85rem",
-              color: GOLD,
-              background: "transparent",
-              border: `1px solid ${GOLD_LIGHT}`,
-              borderRadius: "8px",
-              padding: "6px 16px",
-              cursor: "pointer",
-              display: "flex",
-              alignItems: "center",
-              gap: "4px",
-              transition: "all 0.2s ease",
-            }}
-            onMouseEnter={(e) => {
-              (e.currentTarget as HTMLButtonElement).style.background = GOLD_LIGHT;
-            }}
-            onMouseLeave={(e) => {
-              (e.currentTarget as HTMLButtonElement).style.background = "transparent";
-            }}
-          >
-            {showAllJournals ? "عرض ست مجلات" : "عرض كل المجلات"}
-            <ChevronLeft className="w-4 h-4" />
-          </button>
         </div>
 
         <div className="mb-6" style={{ fontFamily: "Cairo, sans-serif" }}>
@@ -195,7 +167,6 @@ export default function JournalsSection({ onFilterBySource, onFilterByCategory }
               value={selectedCountry}
               onChange={(event) => {
                 setSelectedCountry(event.target.value);
-                setShowAllJournals(false);
               }}
               aria-label="فلتر بلد إصدار المجلات"
               className="text-xs outline-none transition-colors"

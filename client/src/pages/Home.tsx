@@ -10,6 +10,8 @@ import HeroSection from "@/components/HeroSection";
 import FilterBar from "@/components/FilterBar";
 import ItemCard from "@/components/ItemCard";
 import Footer from "@/components/Footer";
+import WhatsAppShare from "@/components/WhatsAppShare";
+import { useTheme } from "@/contexts/ThemeContext";
 import { Loader2, AlertCircle, ChevronRight, ChevronLeft } from "lucide-react";
 import JournalsSection from "@/components/JournalsSection";
 
@@ -33,6 +35,7 @@ const GOLD = "rgb(139, 105, 20)";
 const TEXT_DARK = "oklch(0.18 0.04 50)";
 
 export default function Home() {
+  const { theme } = useTheme();
   const { items, stats, loading, error } = useItems();
   const [filters, setFilters] = useState<FilterState>(DEFAULT_FILTERS);
   const [page, setPage] = useState(1);
@@ -154,7 +157,7 @@ export default function Home() {
   };
 
   return (
-    <div className="min-h-screen" style={{ background: WARM_BG }}>
+    <div className={`qadaa-home min-h-screen ${theme === "dark" ? "qadaa-home--dark" : ""}`} style={{ background: WARM_BG }}>
       <Navbar />
 
       {/* Hero */}
@@ -170,10 +173,6 @@ export default function Home() {
         <JournalsSection
           onFilterBySource={(value) => {
             handleFiltersChange({ search: value, source: "all", category: "all" });
-            setTimeout(() => resultsRef.current?.scrollIntoView({ behavior: "smooth" }), 100);
-          }}
-          onFilterByCategory={(category) => {
-            handleFiltersChange({ category, source: "all", search: "" });
             setTimeout(() => resultsRef.current?.scrollIntoView({ behavior: "smooth" }), 100);
           }}
         />
@@ -256,6 +255,7 @@ export default function Home() {
       </main>
 
       <Footer />
+      <WhatsAppShare />
     </div>
   );
 }
