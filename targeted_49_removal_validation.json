@@ -1,0 +1,19 @@
+{
+  "checks": {
+    "main_total": true,
+    "published_total": true,
+    "stats_total": true,
+    "public_stats_total": true,
+    "target_ids_absent": true,
+    "no_duplicate_ids_main": true,
+    "no_duplicate_ids_published": true,
+    "main_and_published_match": true,
+    "no_missing_required_fields": true
+  },
+  "passed": true,
+  "total": 11540,
+  "remaining_target_ids": [],
+  "id_mismatches": [],
+  "duplicate_ids": [],
+  "missing_required_fields": []
+}

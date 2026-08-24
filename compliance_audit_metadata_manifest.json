@@ -1,0 +1,1334 @@
+{
+  "generated_at": "2026-08-23T17:50:46.206Z",
+  "primary_data_files": [
+    "/home/ubuntu/makanez-qadaa/items.json",
+    "/home/ubuntu/makanez-qadaa/client/src/data/officialJournals.ts"
+  ],
+  "item_records": 15670,
+  "journal_records": 136,
+  "total_records": 15806,
+  "chunk_size": 100,
+  "chunk_count": 159,
+  "chunks": [
+    {
+      "chunk_number": 1,
+      "filename": "chunk_001.json",
+      "first_row": 1,
+      "last_row": 100,
+      "count": 100
+    },
+    {
+      "chunk_number": 2,
+      "filename": "chunk_002.json",
+      "first_row": 101,
+      "last_row": 200,
+      "count": 100
+    },
+    {
+      "chunk_number": 3,
+      "filename": "chunk_003.json",
+      "first_row": 201,
+      "last_row": 300,
+      "count": 100
+    },
+    {
+      "chunk_number": 4,
+      "filename": "chunk_004.json",
+      "first_row": 301,
+      "last_row": 400,
+      "count": 100
+    },
+    {
+      "chunk_number": 5,
+      "filename": "chunk_005.json",
+      "first_row": 401,
+      "last_row": 500,
+      "count": 100
+    },
+    {
+      "chunk_number": 6,
+      "filename": "chunk_006.json",
+      "first_row": 501,
+      "last_row": 600,
+      "count": 100
+    },
+    {
+      "chunk_number": 7,
+      "filename": "chunk_007.json",
+      "first_row": 601,
+      "last_row": 700,
+      "count": 100
+    },
+    {
+      "chunk_number": 8,
+      "filename": "chunk_008.json",
+      "first_row": 701,
+      "last_row": 800,
+      "count": 100
+    },
+    {
+      "chunk_number": 9,
+      "filename": "chunk_009.json",
+      "first_row": 801,
+      "last_row": 900,
+      "count": 100
+    },
+    {
+      "chunk_number": 10,
+      "filename": "chunk_010.json",
+      "first_row": 901,
+      "last_row": 1000,
+      "count": 100
+    },
+    {
+      "chunk_number": 11,
+      "filename": "chunk_011.json",
+      "first_row": 1001,
+      "last_row": 1100,
+      "count": 100
+    },
+    {
+      "chunk_number": 12,
+      "filename": "chunk_012.json",
+      "first_row": 1101,
+      "last_row": 1200,
+      "count": 100
+    },
+    {
+      "chunk_number": 13,
+      "filename": "chunk_013.json",
+      "first_row": 1201,
+      "last_row": 1300,
+      "count": 100
+    },
+    {
+      "chunk_number": 14,
+      "filename": "chunk_014.json",
+      "first_row": 1301,
+      "last_row": 1400,
+      "count": 100
+    },
+    {
+      "chunk_number": 15,
+      "filename": "chunk_015.json",
+      "first_row": 1401,
+      "last_row": 1500,
+      "count": 100
+    },
+    {
+      "chunk_number": 16,
+      "filename": "chunk_016.json",
+      "first_row": 1501,
+      "last_row": 1600,
+      "count": 100
+    },
+    {
+      "chunk_number": 17,
+      "filename": "chunk_017.json",
+      "first_row": 1601,
+      "last_row": 1700,
+      "count": 100
+    },
+    {
+      "chunk_number": 18,
+      "filename": "chunk_018.json",
+      "first_row": 1701,
+      "last_row": 1800,
+      "count": 100
+    },
+    {
+      "chunk_number": 19,
+      "filename": "chunk_019.json",
+      "first_row": 1801,
+      "last_row": 1900,
+      "count": 100
+    },
+    {
+      "chunk_number": 20,
+      "filename": "chunk_020.json",
+      "first_row": 1901,
+      "last_row": 2000,
+      "count": 100
+    },
+    {
+      "chunk_number": 21,
+      "filename": "chunk_021.json",
+      "first_row": 2001,
+      "last_row": 2100,
+      "count": 100
+    },
+    {
+      "chunk_number": 22,
+      "filename": "chunk_022.json",
+      "first_row": 2101,
+      "last_row": 2200,
+      "count": 100
+    },
+    {
+      "chunk_number": 23,
+      "filename": "chunk_023.json",
+      "first_row": 2201,
+      "last_row": 2300,
+      "count": 100
+    },
+    {
+      "chunk_number": 24,
+      "filename": "chunk_024.json",
+      "first_row": 2301,
+      "last_row": 2400,
+      "count": 100
+    },
+    {
+      "chunk_number": 25,
+      "filename": "chunk_025.json",
+      "first_row": 2401,
+      "last_row": 2500,
+      "count": 100
+    },
+    {
+      "chunk_number": 26,
+      "filename": "chunk_026.json",
+      "first_row": 2501,
+      "last_row": 2600,
+      "count": 100
+    },
+    {
+      "chunk_number": 27,
+      "filename": "chunk_027.json",
+      "first_row": 2601,
+      "last_row": 2700,
+      "count": 100
+    },
+    {
+      "chunk_number": 28,
+      "filename": "chunk_028.json",
+      "first_row": 2701,
+      "last_row": 2800,
+      "count": 100
+    },
+    {
+      "chunk_number": 29,
+      "filename": "chunk_029.json",
+      "first_row": 2801,
+      "last_row": 2900,
+      "count": 100
+    },
+    {
+      "chunk_number": 30,
+      "filename": "chunk_030.json",
+      "first_row": 2901,
+      "last_row": 3000,
+      "count": 100
+    },
+    {
+      "chunk_number": 31,
+      "filename": "chunk_031.json",
+      "first_row": 3001,
+      "last_row": 3100,
+      "count": 100
+    },
+    {
+      "chunk_number": 32,
+      "filename": "chunk_032.json",
+      "first_row": 3101,
+      "last_row": 3200,
+      "count": 100
+    },
+    {
+      "chunk_number": 33,
+      "filename": "chunk_033.json",
+      "first_row": 3201,
+      "last_row": 3300,
+      "count": 100
+    },
+    {
+      "chunk_number": 34,
+      "filename": "chunk_034.json",
+      "first_row": 3301,
+      "last_row": 3400,
+      "count": 100
+    },
+    {
+      "chunk_number": 35,
+      "filename": "chunk_035.json",
+      "first_row": 3401,
+      "last_row": 3500,
+      "count": 100
+    },
+    {
+      "chunk_number": 36,
+      "filename": "chunk_036.json",
+      "first_row": 3501,
+      "last_row": 3600,
+      "count": 100
+    },
+    {
+      "chunk_number": 37,
+      "filename": "chunk_037.json",
+      "first_row": 3601,
+      "last_row": 3700,
+      "count": 100
+    },
+    {
+      "chunk_number": 38,
+      "filename": "chunk_038.json",
+      "first_row": 3701,
+      "last_row": 3800,
+      "count": 100
+    },
+    {
+      "chunk_number": 39,
+      "filename": "chunk_039.json",
+      "first_row": 3801,
+      "last_row": 3900,
+      "count": 100
+    },
+    {
+      "chunk_number": 40,
+      "filename": "chunk_040.json",
+      "first_row": 3901,
+      "last_row": 4000,
+      "count": 100
+    },
+    {
+      "chunk_number": 41,
+      "filename": "chunk_041.json",
+      "first_row": 4001,
+      "last_row": 4100,
+      "count": 100
+    },
+    {
+      "chunk_number": 42,
+      "filename": "chunk_042.json",
+      "first_row": 4101,
+      "last_row": 4200,
+      "count": 100
+    },
+    {
+      "chunk_number": 43,
+      "filename": "chunk_043.json",
+      "first_row": 4201,
+      "last_row": 4300,
+      "count": 100
+    },
+    {
+      "chunk_number": 44,
+      "filename": "chunk_044.json",
+      "first_row": 4301,
+      "last_row": 4400,
+      "count": 100
+    },
+    {
+      "chunk_number": 45,
+      "filename": "chunk_045.json",
+      "first_row": 4401,
+      "last_row": 4500,
+      "count": 100
+    },
+    {
+      "chunk_number": 46,
+      "filename": "chunk_046.json",
+      "first_row": 4501,
+      "last_row": 4600,
+      "count": 100
+    },
+    {
+      "chunk_number": 47,
+      "filename": "chunk_047.json",
+      "first_row": 4601,
+      "last_row": 4700,
+      "count": 100
+    },
+    {
+      "chunk_number": 48,
+      "filename": "chunk_048.json",
+      "first_row": 4701,
+      "last_row": 4800,
+      "count": 100
+    },
+    {
+      "chunk_number": 49,
+      "filename": "chunk_049.json",
+      "first_row": 4801,
+      "last_row": 4900,
+      "count": 100
+    },
+    {
+      "chunk_number": 50,
+      "filename": "chunk_050.json",
+      "first_row": 4901,
+      "last_row": 5000,
+      "count": 100
+    },
+    {
+      "chunk_number": 51,
+      "filename": "chunk_051.json",
+      "first_row": 5001,
+      "last_row": 5100,
+      "count": 100
+    },
+    {
+      "chunk_number": 52,
+      "filename": "chunk_052.json",
+      "first_row": 5101,
+      "last_row": 5200,
+      "count": 100
+    },
+    {
+      "chunk_number": 53,
+      "filename": "chunk_053.json",
+      "first_row": 5201,
+      "last_row": 5300,
+      "count": 100
+    },
+    {
+      "chunk_number": 54,
+      "filename": "chunk_054.json",
+      "first_row": 5301,
+      "last_row": 5400,
+      "count": 100
+    },
+    {
+      "chunk_number": 55,
+      "filename": "chunk_055.json",
+      "first_row": 5401,
+      "last_row": 5500,
+      "count": 100
+    },
+    {
+      "chunk_number": 56,
+      "filename": "chunk_056.json",
+      "first_row": 5501,
+      "last_row": 5600,
+      "count": 100
+    },
+    {
+      "chunk_number": 57,
+      "filename": "chunk_057.json",
+      "first_row": 5601,
+      "last_row": 5700,
+      "count": 100
+    },
+    {
+      "chunk_number": 58,
+      "filename": "chunk_058.json",
+      "first_row": 5701,
+      "last_row": 5800,
+      "count": 100
+    },
+    {
+      "chunk_number": 59,
+      "filename": "chunk_059.json",
+      "first_row": 5801,
+      "last_row": 5900,
+      "count": 100
+    },
+    {
+      "chunk_number": 60,
+      "filename": "chunk_060.json",
+      "first_row": 5901,
+      "last_row": 6000,
+      "count": 100
+    },
+    {
+      "chunk_number": 61,
+      "filename": "chunk_061.json",
+      "first_row": 6001,
+      "last_row": 6100,
+      "count": 100
+    },
+    {
+      "chunk_number": 62,
+      "filename": "chunk_062.json",
+      "first_row": 6101,
+      "last_row": 6200,
+      "count": 100
+    },
+    {
+      "chunk_number": 63,
+      "filename": "chunk_063.json",
+      "first_row": 6201,
+      "last_row": 6300,
+      "count": 100
+    },
+    {
+      "chunk_number": 64,
+      "filename": "chunk_064.json",
+      "first_row": 6301,
+      "last_row": 6400,
+      "count": 100
+    },
+    {
+      "chunk_number": 65,
+      "filename": "chunk_065.json",
+      "first_row": 6401,
+      "last_row": 6500,
+      "count": 100
+    },
+    {
+      "chunk_number": 66,
+      "filename": "chunk_066.json",
+      "first_row": 6501,
+      "last_row": 6600,
+      "count": 100
+    },
+    {
+      "chunk_number": 67,
+      "filename": "chunk_067.json",
+      "first_row": 6601,
+      "last_row": 6700,
+      "count": 100
+    },
+    {
+      "chunk_number": 68,
+      "filename": "chunk_068.json",
+      "first_row": 6701,
+      "last_row": 6800,
+      "count": 100
+    },
+    {
+      "chunk_number": 69,
+      "filename": "chunk_069.json",
+      "first_row": 6801,
+      "last_row": 6900,
+      "count": 100
+    },
+    {
+      "chunk_number": 70,
+      "filename": "chunk_070.json",
+      "first_row": 6901,
+      "last_row": 7000,
+      "count": 100
+    },
+    {
+      "chunk_number": 71,
+      "filename": "chunk_071.json",
+      "first_row": 7001,
+      "last_row": 7100,
+      "count": 100
+    },
+    {
+      "chunk_number": 72,
+      "filename": "chunk_072.json",
+      "first_row": 7101,
+      "last_row": 7200,
+      "count": 100
+    },
+    {
+      "chunk_number": 73,
+      "filename": "chunk_073.json",
+      "first_row": 7201,
+      "last_row": 7300,
+      "count": 100
+    },
+    {
+      "chunk_number": 74,
+      "filename": "chunk_074.json",
+      "first_row": 7301,
+      "last_row": 7400,
+      "count": 100
+    },
+    {
+      "chunk_number": 75,
+      "filename": "chunk_075.json",
+      "first_row": 7401,
+      "last_row": 7500,
+      "count": 100
+    },
+    {
+      "chunk_number": 76,
+      "filename": "chunk_076.json",
+      "first_row": 7501,
+      "last_row": 7600,
+      "count": 100
+    },
+    {
+      "chunk_number": 77,
+      "filename": "chunk_077.json",
+      "first_row": 7601,
+      "last_row": 7700,
+      "count": 100
+    },
+    {
+      "chunk_number": 78,
+      "filename": "chunk_078.json",
+      "first_row": 7701,
+      "last_row": 7800,
+      "count": 100
+    },
+    {
+      "chunk_number": 79,
+      "filename": "chunk_079.json",
+      "first_row": 7801,
+      "last_row": 7900,
+      "count": 100
+    },
+    {
+      "chunk_number": 80,
+      "filename": "chunk_080.json",
+      "first_row": 7901,
+      "last_row": 8000,
+      "count": 100
+    },
+    {
+      "chunk_number": 81,
+      "filename": "chunk_081.json",
+      "first_row": 8001,
+      "last_row": 8100,
+      "count": 100
+    },
+    {
+      "chunk_number": 82,
+      "filename": "chunk_082.json",
+      "first_row": 8101,
+      "last_row": 8200,
+      "count": 100
+    },
+    {
+      "chunk_number": 83,
+      "filename": "chunk_083.json",
+      "first_row": 8201,
+      "last_row": 8300,
+      "count": 100
+    },
+    {
+      "chunk_number": 84,
+      "filename": "chunk_084.json",
+      "first_row": 8301,
+      "last_row": 8400,
+      "count": 100
+    },
+    {
+      "chunk_number": 85,
+      "filename": "chunk_085.json",
+      "first_row": 8401,
+      "last_row": 8500,
+      "count": 100
+    },
+    {
+      "chunk_number": 86,
+      "filename": "chunk_086.json",
+      "first_row": 8501,
+      "last_row": 8600,
+      "count": 100
+    },
+    {
+      "chunk_number": 87,
+      "filename": "chunk_087.json",
+      "first_row": 8601,
+      "last_row": 8700,
+      "count": 100
+    },
+    {
+      "chunk_number": 88,
+      "filename": "chunk_088.json",
+      "first_row": 8701,
+      "last_row": 8800,
+      "count": 100
+    },
+    {
+      "chunk_number": 89,
+      "filename": "chunk_089.json",
+      "first_row": 8801,
+      "last_row": 8900,
+      "count": 100
+    },
+    {
+      "chunk_number": 90,
+      "filename": "chunk_090.json",
+      "first_row": 8901,
+      "last_row": 9000,
+      "count": 100
+    },
+    {
+      "chunk_number": 91,
+      "filename": "chunk_091.json",
+      "first_row": 9001,
+      "last_row": 9100,
+      "count": 100
+    },
+    {
+      "chunk_number": 92,
+      "filename": "chunk_092.json",
+      "first_row": 9101,
+      "last_row": 9200,
+      "count": 100
+    },
+    {
+      "chunk_number": 93,
+      "filename": "chunk_093.json",
+      "first_row": 9201,
+      "last_row": 9300,
+      "count": 100
+    },
+    {
+      "chunk_number": 94,
+      "filename": "chunk_094.json",
+      "first_row": 9301,
+      "last_row": 9400,
+      "count": 100
+    },
+    {
+      "chunk_number": 95,
+      "filename": "chunk_095.json",
+      "first_row": 9401,
+      "last_row": 9500,
+      "count": 100
+    },
+    {
+      "chunk_number": 96,
+      "filename": "chunk_096.json",
+      "first_row": 9501,
+      "last_row": 9600,
+      "count": 100
+    },
+    {
+      "chunk_number": 97,
+      "filename": "chunk_097.json",
+      "first_row": 9601,
+      "last_row": 9700,
+      "count": 100
+    },
+    {
+      "chunk_number": 98,
+      "filename": "chunk_098.json",
+      "first_row": 9701,
+      "last_row": 9800,
+      "count": 100
+    },
+    {
+      "chunk_number": 99,
+      "filename": "chunk_099.json",
+      "first_row": 9801,
+      "last_row": 9900,
+      "count": 100
+    },
+    {
+      "chunk_number": 100,
+      "filename": "chunk_100.json",
+      "first_row": 9901,
+      "last_row": 10000,
+      "count": 100
+    },
+    {
+      "chunk_number": 101,
+      "filename": "chunk_101.json",
+      "first_row": 10001,
+      "last_row": 10100,
+      "count": 100
+    },
+    {
+      "chunk_number": 102,
+      "filename": "chunk_102.json",
+      "first_row": 10101,
+      "last_row": 10200,
+      "count": 100
+    },
+    {
+      "chunk_number": 103,
+      "filename": "chunk_103.json",
+      "first_row": 10201,
+      "last_row": 10300,
+      "count": 100
+    },
+    {
+      "chunk_number": 104,
+      "filename": "chunk_104.json",
+      "first_row": 10301,
+      "last_row": 10400,
+      "count": 100
+    },
+    {
+      "chunk_number": 105,
+      "filename": "chunk_105.json",
+      "first_row": 10401,
+      "last_row": 10500,
+      "count": 100
+    },
+    {
+      "chunk_number": 106,
+      "filename": "chunk_106.json",
+      "first_row": 10501,
+      "last_row": 10600,
+      "count": 100
+    },
+    {
+      "chunk_number": 107,
+      "filename": "chunk_107.json",
+      "first_row": 10601,
+      "last_row": 10700,
+      "count": 100
+    },
+    {
+      "chunk_number": 108,
+      "filename": "chunk_108.json",
+      "first_row": 10701,
+      "last_row": 10800,
+      "count": 100
+    },
+    {
+      "chunk_number": 109,
+      "filename": "chunk_109.json",
+      "first_row": 10801,
+      "last_row": 10900,
+      "count": 100
+    },
+    {
+      "chunk_number": 110,
+      "filename": "chunk_110.json",
+      "first_row": 10901,
+      "last_row": 11000,
+      "count": 100
+    },
+    {
+      "chunk_number": 111,
+      "filename": "chunk_111.json",
+      "first_row": 11001,
+      "last_row": 11100,
+      "count": 100
+    },
+    {
+      "chunk_number": 112,
+      "filename": "chunk_112.json",
+      "first_row": 11101,
+      "last_row": 11200,
+      "count": 100
+    },
+    {
+      "chunk_number": 113,
+      "filename": "chunk_113.json",
+      "first_row": 11201,
+      "last_row": 11300,
+      "count": 100
+    },
+    {
+      "chunk_number": 114,
+      "filename": "chunk_114.json",
+      "first_row": 11301,
+      "last_row": 11400,
+      "count": 100
+    },
+    {
+      "chunk_number": 115,
+      "filename": "chunk_115.json",
+      "first_row": 11401,
+      "last_row": 11500,
+      "count": 100
+    },
+    {
+      "chunk_number": 116,
+      "filename": "chunk_116.json",
+      "first_row": 11501,
+      "last_row": 11600,
+      "count": 100
+    },
+    {
+      "chunk_number": 117,
+      "filename": "chunk_117.json",
+      "first_row": 11601,
+      "last_row": 11700,
+      "count": 100
+    },
+    {
+      "chunk_number": 118,
+      "filename": "chunk_118.json",
+      "first_row": 11701,
+      "last_row": 11800,
+      "count": 100
+    },
+    {
+      "chunk_number": 119,
+      "filename": "chunk_119.json",
+      "first_row": 11801,
+      "last_row": 11900,
+      "count": 100
+    },
+    {
+      "chunk_number": 120,
+      "filename": "chunk_120.json",
+      "first_row": 11901,
+      "last_row": 12000,
+      "count": 100
+    },
+    {
+      "chunk_number": 121,
+      "filename": "chunk_121.json",
+      "first_row": 12001,
+      "last_row": 12100,
+      "count": 100
+    },
+    {
+      "chunk_number": 122,
+      "filename": "chunk_122.json",
+      "first_row": 12101,
+      "last_row": 12200,
+      "count": 100
+    },
+    {
+      "chunk_number": 123,
+      "filename": "chunk_123.json",
+      "first_row": 12201,
+      "last_row": 12300,
+      "count": 100
+    },
+    {
+      "chunk_number": 124,
+      "filename": "chunk_124.json",
+      "first_row": 12301,
+      "last_row": 12400,
+      "count": 100
+    },
+    {
+      "chunk_number": 125,
+      "filename": "chunk_125.json",
+      "first_row": 12401,
+      "last_row": 12500,
+      "count": 100
+    },
+    {
+      "chunk_number": 126,
+      "filename": "chunk_126.json",
+      "first_row": 12501,
+      "last_row": 12600,
+      "count": 100
+    },
+    {
+      "chunk_number": 127,
+      "filename": "chunk_127.json",
+      "first_row": 12601,
+      "last_row": 12700,
+      "count": 100
+    },
+    {
+      "chunk_number": 128,
+      "filename": "chunk_128.json",
+      "first_row": 12701,
+      "last_row": 12800,
+      "count": 100
+    },
+    {
+      "chunk_number": 129,
+      "filename": "chunk_129.json",
+      "first_row": 12801,
+      "last_row": 12900,
+      "count": 100
+    },
+    {
+      "chunk_number": 130,
+      "filename": "chunk_130.json",
+      "first_row": 12901,
+      "last_row": 13000,
+      "count": 100
+    },
+    {
+      "chunk_number": 131,
+      "filename": "chunk_131.json",
+      "first_row": 13001,
+      "last_row": 13100,
+      "count": 100
+    },
+    {
+      "chunk_number": 132,
+      "filename": "chunk_132.json",
+      "first_row": 13101,
+      "last_row": 13200,
+      "count": 100
+    },
+    {
+      "chunk_number": 133,
+      "filename": "chunk_133.json",
+      "first_row": 13201,
+      "last_row": 13300,
+      "count": 100
+    },
+    {
+      "chunk_number": 134,
+      "filename": "chunk_134.json",
+      "first_row": 13301,
+      "last_row": 13400,
+      "count": 100
+    },
+    {
+      "chunk_number": 135,
+      "filename": "chunk_135.json",
+      "first_row": 13401,
+      "last_row": 13500,
+      "count": 100
+    },
+    {
+      "chunk_number": 136,
+      "filename": "chunk_136.json",
+      "first_row": 13501,
+      "last_row": 13600,
+      "count": 100
+    },
+    {
+      "chunk_number": 137,
+      "filename": "chunk_137.json",
+      "first_row": 13601,
+      "last_row": 13700,
+      "count": 100
+    },
+    {
+      "chunk_number": 138,
+      "filename": "chunk_138.json",
+      "first_row": 13701,
+      "last_row": 13800,
+      "count": 100
+    },
+    {
+      "chunk_number": 139,
+      "filename": "chunk_139.json",
+      "first_row": 13801,
+      "last_row": 13900,
+      "count": 100
+    },
+    {
+      "chunk_number": 140,
+      "filename": "chunk_140.json",
+      "first_row": 13901,
+      "last_row": 14000,
+      "count": 100
+    },
+    {
+      "chunk_number": 141,
+      "filename": "chunk_141.json",
+      "first_row": 14001,
+      "last_row": 14100,
+      "count": 100
+    },
+    {
+      "chunk_number": 142,
+      "filename": "chunk_142.json",
+      "first_row": 14101,
+      "last_row": 14200,
+      "count": 100
+    },
+    {
+      "chunk_number": 143,
+      "filename": "chunk_143.json",
+      "first_row": 14201,
+      "last_row": 14300,
+      "count": 100
+    },
+    {
+      "chunk_number": 144,
+      "filename": "chunk_144.json",
+      "first_row": 14301,
+      "last_row": 14400,
+      "count": 100
+    },
+    {
+      "chunk_number": 145,
+      "filename": "chunk_145.json",
+      "first_row": 14401,
+      "last_row": 14500,
+      "count": 100
+    },
+    {
+      "chunk_number": 146,
+      "filename": "chunk_146.json",
+      "first_row": 14501,
+      "last_row": 14600,
+      "count": 100
+    },
+    {
+      "chunk_number": 147,
+      "filename": "chunk_147.json",
+      "first_row": 14601,
+      "last_row": 14700,
+      "count": 100
+    },
+    {
+      "chunk_number": 148,
+      "filename": "chunk_148.json",
+      "first_row": 14701,
+      "last_row": 14800,
+      "count": 100
+    },
+    {
+      "chunk_number": 149,
+      "filename": "chunk_149.json",
+      "first_row": 14801,
+      "last_row": 14900,
+      "count": 100
+    },
+    {
+      "chunk_number": 150,
+      "filename": "chunk_150.json",
+      "first_row": 14901,
+      "last_row": 15000,
+      "count": 100
+    },
+    {
+      "chunk_number": 151,
+      "filename": "chunk_151.json",
+      "first_row": 15001,
+      "last_row": 15100,
+      "count": 100
+    },
+    {
+      "chunk_number": 152,
+      "filename": "chunk_152.json",
+      "first_row": 15101,
+      "last_row": 15200,
+      "count": 100
+    },
+    {
+      "chunk_number": 153,
+      "filename": "chunk_153.json",
+      "first_row": 15201,
+      "last_row": 15300,
+      "count": 100
+    },
+    {
+      "chunk_number": 154,
+      "filename": "chunk_154.json",
+      "first_row": 15301,
+      "last_row": 15400,
+      "count": 100
+    },
+    {
+      "chunk_number": 155,
+      "filename": "chunk_155.json",
+      "first_row": 15401,
+      "last_row": 15500,
+      "count": 100
+    },
+    {
+      "chunk_number": 156,
+      "filename": "chunk_156.json",
+      "first_row": 15501,
+      "last_row": 15600,
+      "count": 100
+    },
+    {
+      "chunk_number": 157,
+      "filename": "chunk_157.json",
+      "first_row": 15601,
+      "last_row": 15700,
+      "count": 100
+    },
+    {
+      "chunk_number": 158,
+      "filename": "chunk_158.json",
+      "first_row": 15701,
+      "last_row": 15800,
+      "count": 100
+    },
+    {
+      "chunk_number": 159,
+      "filename": "chunk_159.json",
+      "first_row": 15801,
+      "last_row": 15806,
+      "count": 6
+    }
+  ],
+  "fields_seen": [
+    "author",
+    "category",
+    "country",
+    "description",
+    "download_links_count",
+    "file_size",
+    "file_type",
+    "frequency",
+    "id",
+    "import_origin",
+    "investigator",
+    "is_featured",
+    "issn",
+    "link_direct",
+    "link_drive",
+    "link_telegram",
+    "material_type",
+    "notes",
+    "pages_count",
+    "publisher",
+    "record_origin",
+    "source",
+    "title",
+    "topic",
+    "year"
+  ],
+  "field_population": {
+    "id": 15806,
+    "title": 15806,
+    "author": 3480,
+    "investigator": 7,
+    "publisher": 3126,
+    "year": 1117,
+    "link_telegram": 11429,
+    "source": 15806,
+    "category": 15806,
+    "material_type": 15806,
+    "file_type": 15806,
+    "file_size": 3634,
+    "pages_count": 23,
+    "is_featured": 15670,
+    "download_links_count": 15670,
+    "record_origin": 15806,
+    "link_direct": 4382,
+    "description": 218,
+    "link_drive": 4,
+    "country": 272,
+    "issn": 135,
+    "frequency": 135,
+    "notes": 136,
+    "import_origin": 247,
+    "topic": 15
+  },
+  "category_counts": {
+    "القضاء الشرعي": 1503,
+    "المحاكم والمرافعات": 706,
+    "الأنظمة والتشريعات": 1985,
+    "الجنايات والحدود": 860,
+    "الحسبة والمظالم": 30,
+    "الإثبات والشهادة": 129,
+    "المحاماة والتحكيم": 375,
+    "القضاء والأنظمة العامة": 177,
+    "الأحوال الشخصية": 141,
+    "أبحاث ودراسات قضائية": 37,
+    "الفرائض والمواريث": 7,
+    "المبادئ والقرارات القضائية": 22,
+    "القضاء الإداري": 280,
+    "أنظمة العمل": 16,
+    "الأنظمة التجارية": 50,
+    "المحاماة والتمثيل القانوني": 107,
+    "العقود والمعاملات المالية": 1,
+    "المحاماة": 398,
+    "التحكيم والوساطة": 79,
+    "الإجراءات القضائية": 42,
+    "الجنايات والعقوبات": 178,
+    "المجلات القانونية": 195,
+    "الأحوال الشخصية والأسرة": 10,
+    "قضاء": 31,
+    "قانون دستوري": 4,
+    "قانون مدني": 1,
+    "دراسات قانونية": 26,
+    "قانون جنائي": 8,
+    "محاماة": 1,
+    "أنظمة": 3,
+    "قانون إداري": 1,
+    "تحكيم": 28,
+    "عام": 261,
+    "القانون المدني والتجاري": 282,
+    "القانون الدولي": 540,
+    "القانون الجنائي": 987,
+    "القانون الإداري": 23,
+    "الأنظمة واللوائح": 358,
+    "القضاء": 1008,
+    "الأبحاث والرسائل": 111,
+    "القانون الدستوري": 69,
+    "المقالات والأوراق القانونية": 64,
+    "الأبحاث القانونية والقضائية": 524,
+    "الأنظمة": 360,
+    "الأنظمة الجزائية": 57,
+    "القانون التجاري": 427,
+    "قضايا الأسرة": 73,
+    "القانون المدني": 888,
+    "المحاماة والمرافعات": 1,
+    "القضاء التجاري": 27,
+    "القضاء العمالي": 23,
+    "القضاء والمحاكم": 1487,
+    "التحكيم": 434,
+    "القانون العمالي": 220,
+    "المجلات القانونية الدولية": 15,
+    "مجلة قانونية أو قضائية": 136
+  },
+  "source_counts": {
+    "المكتبة الوقفية": 22,
+    "المكتبة الشاملة": 23,
+    "المكتبة العلمية": 2,
+    "مكتبة الباحث العلمي": 1272,
+    "موقع بحوث": 410,
+    "جامعة الرسائل العلمية": 1090,
+    "المكتبة القانونية ⚖️": 510,
+    "مكتبة الاسكندرية": 1954,
+    "قناة الرسائل العلمية": 460,
+    "أرشيف الإنترنت": 1631,
+    "قناة المجلات والصحف القانونية": 103,
+    "المكتبة القانونية الكبرى": 1702,
+    "تسهيل الأنظمة": 9,
+    "قسم الأنظمة - جامعة نجران": 47,
+    "القانون الدولي العام": 133,
+    "موقع بحوث - أبحاث هيئة كبار العلماء (السعودية)": 7,
+    "موقع بحوث - المجلة العربية للدراسات الإسلامية والشرعية (مصر)": 47,
+    "موقع بحوث - المجلة العلمية لجامعة الملك فيصل للعلوم الإنسانية والإدارية (السعودية)": 18,
+    "موقع بحوث - المجلة القضائية - وزارة العدل (السعودية)": 59,
+    "موقع بحوث - مجلة أصول (السعودية)": 4,
+    "موقع بحوث - مجلة الآداب - جامعة الملك سعود (السعودية)": 2,
+    "موقع بحوث - مجلة البحوث الإسلامية (السعودية)": 34,
+    "موقع بحوث - مجلة البحوث الفقهية المعاصرة (السعودية)": 130,
+    "موقع بحوث - مجلة الجامعة الإسلامية للعلوم الشرعية (السعودية)": 134,
+    "موقع بحوث - مجلة الجامعة الإسلامية للغة العربية وآدابها (السعودية)": 1,
+    "موقع بحوث - مجلة الجمعية الفقهية السعودية": 135,
+    "موقع بحوث - مجلة الحرمين الشريفين (السعودية)": 1,
+    "موقع بحوث - مجلة الدراسات الإسلامية - جامعة الملك سعود (السعودية)": 9,
+    "موقع بحوث - مجلة الدراسات الدعوية (السعودية)": 6,
+    "موقع بحوث - مجلة الدراسات الطبية الفقهية (السعودية)": 18,
+    "موقع بحوث - مجلة الدراسات العقدية (السعودية)": 9,
+    "موقع بحوث - مجلة الشمال للعلوم الإنسانية (السعودية)": 6,
+    "موقع بحوث - مجلة العدل - وزارة العدل (السعودية)": 307,
+    "موقع بحوث - مجلة العلوم الإنسانية والإدارية - جامعة شقراء (السعودية)": 6,
+    "موقع بحوث - مجلة العلوم التربوية والدراسات الإسلامية - جامعة الملك سعود (السعودية)": 5,
+    "موقع بحوث - مجلة العلوم الشرعية - جامعة الإمام (السعودية)": 55,
+    "موقع بحوث - مجلة العلوم الشرعية - جامعة القصيم (السعودية)": 135,
+    "موقع بحوث - مجلة العلوم الشرعية والعربية - جامعة الإمام (السعودية)": 2,
+    "موقع بحوث - مجلة العلوم الشرعية والقانونية - جامعة المجمعة (السعودية)": 12,
+    "موقع بحوث - مجلة العلوم الشرعية واللغة العربية بجامعة الأمير سطام (السعودية)": 20,
+    "موقع بحوث - مجلة العلوم العربية - جامعة الإمام (السعودية)": 2,
+    "موقع بحوث - مجلة العلوم العربية والإنسانية - جامعة القصيم (السعودية)": 2,
+    "موقع بحوث - مجلة المجمع الفقهي الإسلامي (السعودية)": 10,
+    "موقع بحوث - مجلة تدبر (السعودية)": 1,
+    "موقع بحوث - مجلة جامعة أم القرى لعلوم الشريعة والدراسات الإسلامية (السعودية)": 68,
+    "موقع بحوث - مجلة جامعة الباحة للعلوم الإنسانية (السعودية)": 8,
+    "موقع بحوث - مجلة جامعة الشارقة للعلوم الشرعية والدراسات الإسلامية (الإمارات)": 92,
+    "موقع بحوث - مجلة جامعة الشارقة للعلوم الشرعية والقانونية (الإمارات)": 43,
+    "موقع بحوث - مجلة جامعة الطائف للعلوم الشرعية والقانونية (السعودية)": 67,
+    "موقع بحوث - مجلة جامعة الملك خالد للعلوم الشرعية والدراسات الإسلامية (السعودية)": 25,
+    "موقع بحوث - مجلة جامعة الملك عبد العزيز - الآداب والعلوم الإنسانية (السعودية)": 12,
+    "موقع بحوث - مجلة جامعة تبوك للعلوم الإنسانية والاجتماعية (السعودية)": 13,
+    "موقع بحوث - مجلة جامعة جازان للعلوم الإنسانية (السعودية)": 36,
+    "موقع بحوث - مجلة جامعة طيبة للآداب والعلوم الإنسانية (السعودية)": 20,
+    "موقع بحوث - مجلة دراسات إسلامية (السعودية)": 16,
+    "موقع بحوث - مجلة قضاء (السعودية)": 206,
+    "موقع بحوث - مجلة معهد الإمام الشاطبي للدراسات القرآنية (السعودية)": 3,
+    "موقع بحوث - ‏‏مجلة العلوم الإنسانية - جامعة حائل (السعودية)": 15,
+    "موقع بحوث - مجلة الجامعة القاسمية للعلوم الشرعية والدراسات الإسلامية (الإمارات)": 7,
+    "موقع بحوث - مجلة العلوم الشرعية واللغة العربية - جامعة الأميرة نورة (السعودية)": 9,
+    "موقع بحوث - مجلة الفقه الحنبلي وأصوله (الكويت)": 2,
+    "موقع بحوث - مجلة تبيان للدراسات القرآنية (السعودية)": 4,
+    "موقع بحوث - مجلة جامعة الإمام عبد الرحمن بن فيصل للعلوم الإنسانية والتربوية (السعودية)": 2,
+    "موقع بحوث - مجلة جامعة بيشة للعلوم الإنسانية (السعودية)": 5,
+    "موقع د. عبدالعزيز الدغيثر (شبكة الألوكة)": 4,
+    "منصة نظامي للأنظمة السعودية (nezams.com)": 14,
+    "المكتبة القانونية — موقع المحامي نواف بن عواض الحربي": 216,
+    "قناة المحاماة والقانون السعودي": 6,
+    "أكاديمية المحاماة": 4062,
+    "قناة الأنظمة": 34,
+    "فهرس المجلات المتخصصة — العراق": 10,
+    "فهرس المجلات المتخصصة — سوريا": 6,
+    "فهرس المجلات المتخصصة — لبنان": 7,
+    "فهرس المجلات المتخصصة — الأردن": 6,
+    "فهرس المجلات المتخصصة — السعودية": 2,
+    "فهرس المجلات المتخصصة — سلطنة عمان": 2,
+    "فهرس المجلات المتخصصة — الإمارات": 5,
+    "فهرس المجلات المتخصصة — قطر": 1,
+    "فهرس المجلات المتخصصة — البحرين": 3,
+    "فهرس المجلات المتخصصة — الكويت": 2,
+    "فهرس المجلات المتخصصة — المغرب": 8,
+    "فهرس المجلات المتخصصة — الجزائر": 7,
+    "فهرس المجلات المتخصصة — تونس": 3,
+    "فهرس المجلات المتخصصة — ليبيا": 7,
+    "فهرس المجلات المتخصصة — موريتانيا": 2,
+    "فهرس المجلات المتخصصة — السودان": 5,
+    "فهرس المجلات المتخصصة — فلسطين": 5,
+    "فهرس المجلات المتخصصة — مصر": 8,
+    "فهرس المجلات المتخصصة — دولية": 26,
+    "فهرس المجلات المتخصصة — اليمن": 6,
+    "فهرس المجلات الدولية باللغة الإنجليزية": 15,
+    "قسم المجلات الرسمية": 136
+  },
+  "duplicate_id_count": 0
+}

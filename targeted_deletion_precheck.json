@@ -1,0 +1,236 @@
+{
+  "generated_at": "2026-08-24T09:54:40.084Z",
+  "main_count": 15670,
+  "published_count": 15670,
+  "target_count": 20,
+  "duplicate_ids_in_main": [],
+  "all_verified": true,
+  "records": [
+    {
+      "id": "archive_4_20230212_20230212_2202",
+      "expected_title_fragments": [
+        "إقامة الدولة الإسلامية في ظل قانون السببية والسنن الإلهية والسنن التاريخية"
+      ],
+      "actual_title": "إقامة الدولة الإسلامية في ظل قانون السببية والسنن الإلهية والسنن التاريخية الطبعة 6 منقحة",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_22895",
+      "expected_title_fragments": [
+        "حزب اشتراكي ثوري للعمال والفلاحين لا يرقص للقرد في دولته"
+      ],
+      "actual_title": "حزب اشتراكى ثورى للعمال والفلاحين لا يرقص للقرد فى دولته",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_24852",
+      "expected_title_fragments": [
+        "تعزيز نظام لجنة الحزب"
+      ],
+      "actual_title": "تعزيز نظام لجنة الحزب",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_29818",
+      "expected_title_fragments": [
+        "فلسفة الثورة ودستور الغد"
+      ],
+      "actual_title": "فلسفة الثورة ودستور الغد خطاب القاه الرئيس لمناسبة توق الجلاء",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_35915",
+      "expected_title_fragments": [
+        "اليمن بين القات وفساد الحكم قبل الثورة"
+      ],
+      "actual_title": "اليمن بين القات وفساد الحكم قبل الثورة",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_66124",
+      "expected_title_fragments": [
+        "الصراع من أجل نظام سياسي جديد: مصر ما بعد الثورة"
+      ],
+      "actual_title": "الصراع من أجل نظام سياسي جديد مصر ما بعد الثورة",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "arabialawer_18722",
+      "expected_title_fragments": [
+        "ثورة اليمن الدستورية"
+      ],
+      "actual_title": "ثورة اليمن الدستورية",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_72662",
+      "expected_title_fragments": [
+        "من الدين إلى الطائفة في ضرورة الدولة المدنية"
+      ],
+      "actual_title": "من الدين إلى الطائفة في ضرورة الدولة المدنية",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_27440",
+      "expected_title_fragments": [
+        "النظام السياسي والإخوان المسلمون في مصر"
+      ],
+      "actual_title": "النظام السياسي والاخوان المسلمون في مصر من التس 1 1996",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_22448",
+      "expected_title_fragments": [
+        "الإرهابيون قادمون",
+        "العنف"
+      ],
+      "actual_title": "الارهابيون قادمون! دراسة مقارنة بين موقف الاخوان المس العنف",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_10902",
+      "expected_title_fragments": [
+        "النظام السياسي والمعارضة الإسلامية في مصر"
+      ],
+      "actual_title": "النظام السياسى والمعارضة الاسلامية فى مصر",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_18123",
+      "expected_title_fragments": [
+        "الناصرية والنظام العالمي الجديد"
+      ],
+      "actual_title": "الناصرية والنظام العالمى الجديد ندوة باريس",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_10881",
+      "expected_title_fragments": [
+        "نظام الحزب الواحد في أفريقيا بين النظرية والتطبيق"
+      ],
+      "actual_title": "نظام الحزب الواحد فى افريقيا بين النظرية والتطبيق",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_11004",
+      "expected_title_fragments": [
+        "حزب الأحرار الدستوريين 1922",
+        "1953"
+      ],
+      "actual_title": "حزب الاحرار الدستوريين 1922 1953",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_15252",
+      "expected_title_fragments": [
+        "لائحة النظام الأساسي للحزب الوطني الديمقراطي"
+      ],
+      "actual_title": "لائحة النظام الاساسى للحزب الوطنى الديمقراطى",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_22258",
+      "expected_title_fragments": [
+        "الأحزاب الصغيرة والنظام الحزبي في مصر"
+      ],
+      "actual_title": "الاحزاب الصغيرة والنظام الحزبى فى مصر",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "qadaa_3218",
+      "expected_title_fragments": [
+        "المحكمة الشرعية الفيدرالية بجمهورية باكستان تقرر القاديانية فئة كافرة"
+      ],
+      "actual_title": "المحكمة الشرعية الفيدرالية بجمهورية باكستان تقرر القاديانية فئة كافرة",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_32176",
+      "expected_title_fragments": [
+        "ولاية الفقيه عند الشيعة الاثنى عشرية وموقف الإسلام منها"
+      ],
+      "actual_title": "ولاية الفقيه عند الشيعة الاثنى عشرية وموقف الاسلام منها",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_8450",
+      "expected_title_fragments": [
+        "خلف الحجاب: موقف الجماعات الإسلامية من قضية المرأة"
+      ],
+      "actual_title": "خلف الحجاب موقف الجماعات الاسلامية من قضية المرأة",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    },
+    {
+      "id": "alexandria_cbz_27047",
+      "expected_title_fragments": [
+        "الدولة الإسلامية بين النظام الوطني الديمقراطي"
+      ],
+      "actual_title": "الدولة الاسلامية بين النظام الوطنى الديمقراطى القائم على",
+      "exists_main": true,
+      "exists_published": true,
+      "title_matches": true,
+      "published_title_matches_main": true
+    }
+  ],
+  "backups": [
+    "backups/items.before-targeted-deletion.json",
+    "backups/client-public-items.before-targeted-deletion.json"
+  ]
+}

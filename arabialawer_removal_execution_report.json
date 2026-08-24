@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-08-24T10:14:34.488Z",
+  "before_count": 15650,
+  "found_count": 4061,
+  "removed_count": 4061,
+  "final_count": 11589,
+  "final_source_matches": 0,
+  "remaining_prefixed_ids": [],
+  "remaining_matching_sources": [],
+  "duplicate_ids_after_deletion": [],
+  "non_target_records_preserved_by_count": true,
+  "removed_source_values": {
+    "أكاديمية المحاماة": 4061
+  },
+  "cache_version": "arabialawer-removal-2026-08-24"
+}

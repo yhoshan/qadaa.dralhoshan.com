@@ -1,0 +1,25 @@
+{
+  "checks": {
+    "expected_total_main": true,
+    "expected_total_published": true,
+    "expected_total_stats": true,
+    "expected_total_public_stats": true,
+    "no_arabialawer_records_main": true,
+    "no_arabialawer_records_published": true,
+    "no_prefixed_ids_main": true,
+    "no_prefixed_ids_published": true,
+    "no_duplicate_ids_main": true,
+    "no_duplicate_ids_published": true,
+    "main_and_published_id_sets_match": true,
+    "no_missing_required_fields": true
+  },
+  "main_count": 11589,
+  "published_count": 11589,
+  "matches_main": 0,
+  "matches_published": 0,
+  "prefixed_ids_main": 0,
+  "id_mismatches": [],
+  "duplicate_ids_main": [],
+  "missing_required_fields": [],
+  "passed": true
+}
