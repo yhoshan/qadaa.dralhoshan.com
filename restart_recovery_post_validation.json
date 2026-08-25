@@ -1,0 +1,244 @@
+{
+  "final_count": 11295,
+  "source_counts_after": {
+    "great_law": 1671,
+    "academic_theses": 430
+  },
+  "removed_main": [
+    "risail_6845",
+    "risail_8198",
+    "risail_8199",
+    "risail_9289",
+    "risail_24600",
+    "risail_25156",
+    "risail_25519",
+    "risail_25520",
+    "risail_25652",
+    "risail_25877",
+    "risail_25951",
+    "risail_25952",
+    "risail_25953",
+    "risail_28188",
+    "risail_28874",
+    "risail_29090",
+    "risail_29705",
+    "risail_30065",
+    "risail_31041",
+    "risail_35582",
+    "risail_36568",
+    "risail_37668",
+    "risail_38256",
+    "risail_49409",
+    "risail_50406",
+    "risail_53246",
+    "risail_54760",
+    "risail_57563",
+    "risail_58948",
+    "risail_59962",
+    "great_law_1888",
+    "great_law_4327",
+    "great_law_4364",
+    "great_law_4768",
+    "great_law_4949",
+    "great_law_4952",
+    "great_law_5008",
+    "great_law_5010",
+    "great_law_5014",
+    "great_law_5091",
+    "great_law_5137",
+    "great_law_5189",
+    "great_law_5204",
+    "great_law_5206",
+    "great_law_5216",
+    "great_law_5227",
+    "great_law_5239",
+    "great_law_5243",
+    "great_law_5347",
+    "great_law_5409",
+    "great_law_5414",
+    "great_law_5443",
+    "great_law_8441",
+    "great_law_8683",
+    "great_law_13315",
+    "great_law_13345",
+    "great_law_15188",
+    "great_law_15295",
+    "great_law_15339",
+    "great_law_15342",
+    "great_law_16770"
+  ],
+  "removed_published": [
+    "risail_6845",
+    "risail_8198",
+    "risail_8199",
+    "risail_9289",
+    "risail_24600",
+    "risail_25156",
+    "risail_25519",
+    "risail_25520",
+    "risail_25652",
+    "risail_25877",
+    "risail_25951",
+    "risail_25952",
+    "risail_25953",
+    "risail_28188",
+    "risail_28874",
+    "risail_29090",
+    "risail_29705",
+    "risail_30065",
+    "risail_31041",
+    "risail_35582",
+    "risail_36568",
+    "risail_37668",
+    "risail_38256",
+    "risail_49409",
+    "risail_50406",
+    "risail_53246",
+    "risail_54760",
+    "risail_57563",
+    "risail_58948",
+    "risail_59962",
+    "great_law_1888",
+    "great_law_4327",
+    "great_law_4364",
+    "great_law_4768",
+    "great_law_4949",
+    "great_law_4952",
+    "great_law_5008",
+    "great_law_5010",
+    "great_law_5014",
+    "great_law_5091",
+    "great_law_5137",
+    "great_law_5189",
+    "great_law_5204",
+    "great_law_5206",
+    "great_law_5216",
+    "great_law_5227",
+    "great_law_5239",
+    "great_law_5243",
+    "great_law_5347",
+    "great_law_5409",
+    "great_law_5414",
+    "great_law_5443",
+    "great_law_8441",
+    "great_law_8683",
+    "great_law_13315",
+    "great_law_13345",
+    "great_law_15188",
+    "great_law_15295",
+    "great_law_15339",
+    "great_law_15342",
+    "great_law_16770"
+  ],
+  "duplicate_ids_after": [],
+  "protected_remaining": [
+    {
+      "id": "great_law_2410",
+      "title": "بحث بعنوان وسائل اسناد السلطة"
+    },
+    {
+      "id": "great_law_5355",
+      "title": "الطعن بالأحكام تمييزاً في دعاوى الأحداث"
+    },
+    {
+      "id": "great_law_5393",
+      "title": "حق الطعن بالأحكام تمييزاً في دعاوى الأحداث"
+    },
+    {
+      "id": "great_law_4316",
+      "title": "صيغة دعوى إخلاء ‏للتأجير من الباطن"
+    },
+    {
+      "id": "great_law_4322",
+      "title": "دعوى ‏اخلاء ‏لعدم ‏سداد ‏القيمة ‏الإيجارية"
+    },
+    {
+      "id": "great_law_5090",
+      "title": "دليل الصياغة التشريعية"
+    },
+    {
+      "id": "risail_6221",
+      "title": "الآثار القانونية لتدخل القاضي في"
+    },
+    {
+      "id": "risail_7540",
+      "title": "التزام المحكم بتطبيق القانون على"
+    },
+    {
+      "id": "risail_11151",
+      "title": "تعارض البيانات القضائية وأثره في"
+    },
+    {
+      "id": "risail_23788",
+      "title": "ضمانات تحقيق العدالة القضائية المتعلقة"
+    },
+    {
+      "id": "risail_5257",
+      "title": "الاختصاص التشريعي والقضائي بمنازعات"
+    },
+    {
+      "id": "risail_8197",
+      "title": "الرقابة القضائية على أعمال الإدارة"
+    },
+    {
+      "id": "risail_9223",
+      "title": "المساهمة الجنائية في جريمة القتل"
+    },
+    {
+      "id": "risail_9288",
+      "title": "المسؤولية المدنية والجنائية المترتبة"
+    },
+    {
+      "id": "risail_15972",
+      "title": "أحكام المحامي المتدرب في النظام"
+    },
+    {
+      "id": "risail_20471",
+      "title": "العدالة الجنائية الدولية"
+    },
+    {
+      "id": "risail_21653",
+      "title": "إنقضاء العقوبة بالتقادم دراسة مقارنة"
+    },
+    {
+      "id": "risail_25876",
+      "title": "معوقات التقاضي في ضوء مقاصد الشريعة"
+    },
+    {
+      "id": "risail_27506",
+      "title": "ضمانات المتهم أمام المحاكم الجنائية الدولية أثناء التحقيق والمحاكمة"
+    },
+    {
+      "id": "risail_27507",
+      "title": "ضمانات المتهم أمام محكمة الجنايات"
+    },
+    {
+      "id": "risail_28570",
+      "title": "الحماية الجنائية للوظيفة الإدارية"
+    },
+    {
+      "id": "risail_37585",
+      "title": "بحث: أحكام تأخير تنفيذ عقوبة الجنايات والحدود في الفقه الإس"
+    },
+    {
+      "id": "risail_59788",
+      "title": "القضاء بالمقاصد الشرعية في نوازل تركات العملات الرقمية وحقوق الملكيات"
+    }
+  ],
+  "checks": {
+    "final_count": true,
+    "execution_count": true,
+    "targets_absent_main": true,
+    "targets_absent_published": true,
+    "protected_present_main": true,
+    "protected_present_published": true,
+    "only_target_main_losses": true,
+    "only_target_published_losses": true,
+    "primary_published_ids_match": true,
+    "stats_match_published": true,
+    "stats_match_items": true,
+    "source_counts": true,
+    "no_duplicate_ids": true
+  },
+  "passed": true
+}

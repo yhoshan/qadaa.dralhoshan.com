@@ -1,0 +1,19 @@
+{
+  "generated_at": "2026-08-24T16:34:15.654Z",
+  "final_count_main": 11356,
+  "final_count_published": 11356,
+  "expected_final_count": 11356,
+  "stats_total": 11356,
+  "public_stats_total": 11356,
+  "requested_count": 184,
+  "removed_count": 184,
+  "remaining_target_ids_main": [],
+  "remaining_target_ids_published": [],
+  "duplicate_ids_main": [],
+  "duplicate_ids_published": [],
+  "records_missing_basic_fields": [],
+  "main_and_published_match": true,
+  "count_equation_valid": true,
+  "non_target_records_preserved_by_count": true,
+  "safe": true
+}
