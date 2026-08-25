@@ -51,8 +51,8 @@ export function useItems() {
 
   useEffect(() => {
     Promise.all([
-      fetch(`/items.json?v=iirmll-duplicate-removal-9-2026-08-25`).then((r) => r.json()),
-      fetch(`/stats.json?v=iirmll-duplicate-removal-9-2026-08-25`).then((r) => r.json()),
+      fetch(`/items.json?v=ibrazx40-targeted-removal-3-2026-08-25`).then((r) => r.json()),
+      fetch(`/stats.json?v=ibrazx40-targeted-removal-3-2026-08-25`).then((r) => r.json()),
     ])
       .then(([itemsData, statsData]) => {
         setItems(itemsData);
