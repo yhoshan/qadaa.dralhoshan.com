@@ -1,0 +1,2004 @@
+{
+  "total_candidate_groups": 29,
+  "confirmed_groups": [
+    {
+      "group_id": "iirmll_dup_005",
+      "records": [
+        {
+          "audit_index": 35,
+          "id": "legal_lib_11384",
+          "title": "نظام مكافحة جرائم المعلوماتية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "241 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/133",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام مكافحه جرايم المعلوماتيه"
+        },
+        {
+          "audit_index": 266,
+          "id": "legal_lib_12307",
+          "title": "نظام مكافحة جرائم المعلوماتية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "269 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1485",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام مكافحه جرايم المعلوماتيه"
+        },
+        {
+          "audit_index": 267,
+          "id": "legal_lib_12308",
+          "title": "نظام مكافحة جرائم المعلوماتية(1)",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "182 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1486",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام مكافحه جرايم المعلوماتيه 1"
+        },
+        {
+          "audit_index": 299,
+          "id": "legal_lib_12492",
+          "title": "نظام مكافحة جرائم المعلوماتية 1",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "269 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1803",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام مكافحه جرايم المعلوماتيه 1"
+        }
+      ],
+      "confirmed": true,
+      "recommended_keep_id": "legal_lib_11384",
+      "redundant_ids": [
+        "legal_lib_12307",
+        "legal_lib_12308",
+        "legal_lib_12492"
+      ],
+      "reason": "تطابق العنوان بعد التطبيع مقترناً بتطابق رابط أو بثلاث قرائن وصفية غير فارغة على الأقل؛ هذه توصية تنظيمية فقط لا تنفيذ لها.",
+      "evidence": [
+        {
+          "left": "legal_lib_11384",
+          "right": "legal_lib_12307",
+          "sameTitle": true,
+          "sameTelegram": false,
+          "sharedMetadata": [
+            "category",
+            "material_type",
+            "file_type"
+          ],
+          "strong": true
+        },
+        {
+          "left": "legal_lib_12308",
+          "right": "legal_lib_12492",
+          "sameTitle": true,
+          "sameTelegram": false,
+          "sharedMetadata": [
+            "category",
+            "material_type",
+            "file_type"
+          ],
+          "strong": true
+        }
+      ]
+    },
+    {
+      "group_id": "iirmll_dup_007",
+      "records": [
+        {
+          "audit_index": 74,
+          "id": "legal_lib_11532",
+          "title": "القضاء الإداري",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "5.5 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/390",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "القضاء الاداري"
+        },
+        {
+          "audit_index": 279,
+          "id": "legal_lib_12332",
+          "title": "القضاء الإداري",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "5.5 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1519",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "القضاء الاداري"
+        }
+      ],
+      "confirmed": true,
+      "recommended_keep_id": "legal_lib_11532",
+      "redundant_ids": [
+        "legal_lib_12332"
+      ],
+      "reason": "تطابق العنوان بعد التطبيع مقترناً بتطابق رابط أو بثلاث قرائن وصفية غير فارغة على الأقل؛ هذه توصية تنظيمية فقط لا تنفيذ لها.",
+      "evidence": [
+        {
+          "left": "legal_lib_11532",
+          "right": "legal_lib_12332",
+          "sameTitle": true,
+          "sameTelegram": false,
+          "sharedMetadata": [
+            "category",
+            "material_type",
+            "file_type",
+            "file_size"
+          ],
+          "strong": true
+        }
+      ]
+    },
+    {
+      "group_id": "iirmll_dup_011",
+      "records": [
+        {
+          "audit_index": 96,
+          "id": "legal_lib_11661",
+          "title": "اللائحة التنفيذية لنظام المرافعات",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "21.3 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/548",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "اللايحه التنفيذيه لنظام المرافعات"
+        },
+        {
+          "audit_index": 271,
+          "id": "legal_lib_12312",
+          "title": "اللائحة التنفيذية لنظام المرافعات",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "3.8 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1491",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "اللايحه التنفيذيه لنظام المرافعات"
+        }
+      ],
+      "confirmed": true,
+      "recommended_keep_id": "legal_lib_11661",
+      "redundant_ids": [
+        "legal_lib_12312"
+      ],
+      "reason": "تطابق العنوان بعد التطبيع مقترناً بتطابق رابط أو بثلاث قرائن وصفية غير فارغة على الأقل؛ هذه توصية تنظيمية فقط لا تنفيذ لها.",
+      "evidence": [
+        {
+          "left": "legal_lib_11661",
+          "right": "legal_lib_12312",
+          "sameTitle": true,
+          "sameTelegram": false,
+          "sharedMetadata": [
+            "category",
+            "material_type",
+            "file_type"
+          ],
+          "strong": true
+        }
+      ]
+    },
+    {
+      "group_id": "iirmll_dup_017",
+      "records": [
+        {
+          "audit_index": 180,
+          "id": "legal_lib_11997",
+          "title": "الدليل الإرشادي للتقاضي",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الإثبات والشهادة",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "7.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1027",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "الدليل الارشادي للتقاضي"
+        },
+        {
+          "audit_index": 505,
+          "id": "legal_lib_13449",
+          "title": "‎⁨الدليل الإرشادي للتقاضي⁩",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الإثبات والشهادة",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "7.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/3055",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "الدليل الارشادي للتقاضي"
+        }
+      ],
+      "confirmed": true,
+      "recommended_keep_id": "legal_lib_11997",
+      "redundant_ids": [
+        "legal_lib_13449"
+      ],
+      "reason": "تطابق العنوان بعد التطبيع مقترناً بتطابق رابط أو بثلاث قرائن وصفية غير فارغة على الأقل؛ هذه توصية تنظيمية فقط لا تنفيذ لها.",
+      "evidence": [
+        {
+          "left": "legal_lib_11997",
+          "right": "legal_lib_13449",
+          "sameTitle": true,
+          "sameTelegram": false,
+          "sharedMetadata": [
+            "category",
+            "material_type",
+            "file_type",
+            "file_size"
+          ],
+          "strong": true
+        }
+      ]
+    },
+    {
+      "group_id": "iirmll_dup_020",
+      "records": [
+        {
+          "audit_index": 255,
+          "id": "legal_lib_12259",
+          "title": "الجديد في نظام الإجراءات الجزائية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "287 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1433",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "الجديد في نظام الاجراءات الجزاييه"
+        },
+        {
+          "audit_index": 373,
+          "id": "legal_lib_12800",
+          "title": "الجديد في نظام الاجراءات الجزائية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "287 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2226",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "الجديد في نظام الاجراءات الجزاييه"
+        }
+      ],
+      "confirmed": true,
+      "recommended_keep_id": "legal_lib_12259",
+      "redundant_ids": [
+        "legal_lib_12800"
+      ],
+      "reason": "تطابق العنوان بعد التطبيع مقترناً بتطابق رابط أو بثلاث قرائن وصفية غير فارغة على الأقل؛ هذه توصية تنظيمية فقط لا تنفيذ لها.",
+      "evidence": [
+        {
+          "left": "legal_lib_12259",
+          "right": "legal_lib_12800",
+          "sameTitle": true,
+          "sameTelegram": false,
+          "sharedMetadata": [
+            "category",
+            "material_type",
+            "file_type",
+            "file_size"
+          ],
+          "strong": true
+        }
+      ]
+    },
+    {
+      "group_id": "iirmll_dup_025",
+      "records": [
+        {
+          "audit_index": 332,
+          "id": "legal_lib_12629",
+          "title": "نظام المرافعات أمام ديوان المظالم 2013",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "7.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1986",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات امام ديوان المظالم 2013"
+        },
+        {
+          "audit_index": 333,
+          "id": "legal_lib_12630",
+          "title": "نظام المرافعات امام ديوان المظالم",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "1.2 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1987",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات امام ديوان المظالم"
+        },
+        {
+          "audit_index": 336,
+          "id": "legal_lib_12633",
+          "title": "نظام+المرافعات+أمام+ديوان+المظالم",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "1.2 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1990",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات امام ديوان المظالم"
+        }
+      ],
+      "confirmed": true,
+      "recommended_keep_id": "legal_lib_12630",
+      "redundant_ids": [
+        "legal_lib_12633"
+      ],
+      "reason": "تطابق العنوان بعد التطبيع مقترناً بتطابق رابط أو بثلاث قرائن وصفية غير فارغة على الأقل؛ هذه توصية تنظيمية فقط لا تنفيذ لها.",
+      "evidence": [
+        {
+          "left": "legal_lib_12630",
+          "right": "legal_lib_12633",
+          "sameTitle": true,
+          "sameTelegram": false,
+          "sharedMetadata": [
+            "category",
+            "file_type",
+            "file_size"
+          ],
+          "strong": true
+        }
+      ]
+    },
+    {
+      "group_id": "iirmll_dup_029",
+      "records": [
+        {
+          "audit_index": 473,
+          "id": "legal_lib_13324",
+          "title": "مجلة قضاء العدد 27 التعويض عن الضرر المعنوي",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "670 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2876",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "مجله قضاء العدد 27 التعويض عن الضرر المعنوي"
+        },
+        {
+          "audit_index": 501,
+          "id": "legal_lib_13435",
+          "title": "‎⁨مجلة قضاء العدد 27 التعويض عن الضرر المعنوي⁩",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "670 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/3026",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "مجله قضاء العدد 27 التعويض عن الضرر المعنوي"
+        }
+      ],
+      "confirmed": true,
+      "recommended_keep_id": "legal_lib_13324",
+      "redundant_ids": [
+        "legal_lib_13435"
+      ],
+      "reason": "تطابق العنوان بعد التطبيع مقترناً بتطابق رابط أو بثلاث قرائن وصفية غير فارغة على الأقل؛ هذه توصية تنظيمية فقط لا تنفيذ لها.",
+      "evidence": [
+        {
+          "left": "legal_lib_13324",
+          "right": "legal_lib_13435",
+          "sameTitle": true,
+          "sameTelegram": false,
+          "sharedMetadata": [
+            "category",
+            "material_type",
+            "file_type",
+            "file_size"
+          ],
+          "strong": true
+        }
+      ]
+    }
+  ],
+  "unconfirmed_groups": [
+    {
+      "group_id": "iirmll_dup_001",
+      "records": [
+        {
+          "audit_index": 1,
+          "id": "legal_lib_11294",
+          "title": "الشرط الجزائي وتطبيقاته في المحاكم",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "141 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/6",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "الشرط الجزايي وتطبيقاته في المحاكم"
+        },
+        {
+          "audit_index": 422,
+          "id": "legal_lib_13085",
+          "title": "الشرط الجزائي وتطبيقاته في المحاكم السعودية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الجنايات والحدود",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "141 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2551",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "الشرط الجزايي وتطبيقاته في المحاكم السعوديه"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_002",
+      "records": [
+        {
+          "audit_index": 4,
+          "id": "legal_lib_11304",
+          "title": "تنازع الاختصاص الولائي",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء والأنظمة العامة",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "6.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/16",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "تنازع الاختصاص الولايي"
+        },
+        {
+          "audit_index": 404,
+          "id": "legal_lib_13010",
+          "title": "مادة تنازع الاختصاص الولائي",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء والأنظمة العامة",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "697 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2460",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "ماده تنازع الاختصاص الولايي"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_003",
+      "records": [
+        {
+          "audit_index": 8,
+          "id": "legal_lib_11317",
+          "title": "نظام المرافعات الشرعية + لوائح",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "DOCX",
+          "file_size": "296 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/31",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات الشرعيه لوايح"
+        },
+        {
+          "audit_index": 127,
+          "id": "legal_lib_11875",
+          "title": "نظام المرافعات الشرعية 1435",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "16.7 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/817",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات الشرعيه 1435"
+        },
+        {
+          "audit_index": 275,
+          "id": "legal_lib_12319",
+          "title": "نظام المرافعات الشرعية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "12.4 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1501",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات الشرعيه"
+        },
+        {
+          "audit_index": 285,
+          "id": "legal_lib_12426",
+          "title": "تسهيل نظام المرافعات الشرعية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "4.8 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1638",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "تسهيل نظام المرافعات الشرعيه"
+        },
+        {
+          "audit_index": 329,
+          "id": "legal_lib_12626",
+          "title": "نظام المرافعات الشرعية 39",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "3.3 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1982",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات الشرعيه 39"
+        },
+        {
+          "audit_index": 330,
+          "id": "legal_lib_12627",
+          "title": "نظام المرافعات الشرعية مفهرس",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "3.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1984",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات الشرعيه مفهرس"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_004",
+      "records": [
+        {
+          "audit_index": 11,
+          "id": "legal_lib_11327",
+          "title": "مبادئ المحكمة العليا السعودية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الجنايات والحدود",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "10.6 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/45",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "مبادي المحكمه العليا السعوديه"
+        },
+        {
+          "audit_index": 111,
+          "id": "legal_lib_11754",
+          "title": "مبادئ المحكمة العليا",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "7.8 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/670",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "مبادي المحكمه العليا"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_006",
+      "records": [
+        {
+          "audit_index": 43,
+          "id": "legal_lib_11422",
+          "title": "الجديد في نظام الشركات الجديد",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة التجارية",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "461 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/178",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "الجديد في نظام الشركات الجديد"
+        },
+        {
+          "audit_index": 193,
+          "id": "legal_lib_12091",
+          "title": "نظام الشركات الجديد",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة التجارية",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "1.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1146",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام الشركات الجديد"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_008",
+      "records": [
+        {
+          "audit_index": 84,
+          "id": "legal_lib_11582",
+          "title": "حقيبة الدعوى العقارية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "1.4 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/443",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "حقيبه الدعوي العقاريه"
+        },
+        {
+          "audit_index": 403,
+          "id": "legal_lib_13007",
+          "title": "حقيبة الدعوى العقارية (1)",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "1.4 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2456",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "حقيبه الدعوي العقاريه 1"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_009",
+      "records": [
+        {
+          "audit_index": 93,
+          "id": "legal_lib_11649",
+          "title": "تسبيبات الأحكام في خصومات القضاء",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "439 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/535",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "تسبيبات الاحكام في خصومات القضاء"
+        },
+        {
+          "audit_index": 398,
+          "id": "legal_lib_13002",
+          "title": "تسبيبات الأحكام في خصومات القضاء العام البهلال",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "439 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2451",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "تسبيبات الاحكام في خصومات القضاء العام البهلال"
+        },
+        {
+          "audit_index": 399,
+          "id": "legal_lib_13003",
+          "title": "تسبيبات الأحكام في خصومات القضاء العام البهلال1",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "439 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2452",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "تسبيبات الاحكام في خصومات القضاء العام البهلال1"
+        },
+        {
+          "audit_index": 400,
+          "id": "legal_lib_13004",
+          "title": "تسبيبات الأحكام في خصومات القضاء العام البهلال2",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "439 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2453",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "تسبيبات الاحكام في خصومات القضاء العام البهلال2"
+        },
+        {
+          "audit_index": 401,
+          "id": "legal_lib_13005",
+          "title": "تسبيبات الأحكام في خصومات القضاء العام 1",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "439 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2454",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "تسبيبات الاحكام في خصومات القضاء العام 1"
+        },
+        {
+          "audit_index": 480,
+          "id": "legal_lib_13342",
+          "title": "تسبيبات الأحكام في خصومات القضاء العام",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "439 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2905",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "تسبيبات الاحكام في خصومات القضاء العام"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_010",
+      "records": [
+        {
+          "audit_index": 95,
+          "id": "legal_lib_11659",
+          "title": "مادة أصول المحاكمات",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "2.2 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/546",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "ماده اصول المحاكمات"
+        },
+        {
+          "audit_index": 250,
+          "id": "legal_lib_12250",
+          "title": "مذكرة مادة أصول المحاكمات",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "2.2 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1423",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "مذكره ماده اصول المحاكمات"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_012",
+      "records": [
+        {
+          "audit_index": 112,
+          "id": "legal_lib_11760",
+          "title": "اللوائح التنفيذية لنظام المرافعات",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "21.3 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/678",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "اللوايح التنفيذيه لنظام المرافعات"
+        },
+        {
+          "audit_index": 272,
+          "id": "legal_lib_12313",
+          "title": "اللوائح التنفيذية لنظام المرافعات",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "DOC",
+          "file_size": "524 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1493",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "اللوايح التنفيذيه لنظام المرافعات"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_013",
+      "records": [
+        {
+          "audit_index": 114,
+          "id": "legal_lib_11762",
+          "title": "فهرس المرافعات ١٤٣٥هـ",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "DOCX",
+          "file_size": "31 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/680",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "فهرس المرافعات 1435هـ"
+        },
+        {
+          "audit_index": 324,
+          "id": "legal_lib_12617",
+          "title": "فهرس المرافعات ١٤٣٥هـ 3",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "11 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1973",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "فهرس المرافعات 1435هـ 3"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_014",
+      "records": [
+        {
+          "audit_index": 128,
+          "id": "legal_lib_11876",
+          "title": "نظام ديوان المظالم",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء الإداري",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "1.2 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/818",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام ديوان المظالم"
+        },
+        {
+          "audit_index": 211,
+          "id": "legal_lib_12154",
+          "title": "2. نظام ديوان المظالم",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء الإداري",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "863 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1282",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "2 نظام ديوان المظالم"
+        },
+        {
+          "audit_index": 276,
+          "id": "legal_lib_12320",
+          "title": "نظام ديوان المظالم  الجديد",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء الإداري",
+          "material_type": "نظام",
+          "file_type": "DOCX",
+          "file_size": "23 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1502",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام ديوان المظالم الجديد"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_015",
+      "records": [
+        {
+          "audit_index": 145,
+          "id": "legal_lib_11930",
+          "title": "ضمانات المحامي في نظام المحاماة",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاماة والتحكيم",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "1.6 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/896",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "ضمانات المحامي في نظام المحاماه"
+        },
+        {
+          "audit_index": 359,
+          "id": "legal_lib_12746",
+          "title": "ضمانات المحامي في نظام المحاماة السعودى",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاماة والتحكيم",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "1.6 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2146",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "ضمانات المحامي في نظام المحاماه السعودي"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_016",
+      "records": [
+        {
+          "audit_index": 164,
+          "id": "legal_lib_11953",
+          "title": "قواعد التحكيم والوساطة (2)",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاماة والتحكيم",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "770 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/955",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "قواعد التحكيم والوساطه 2"
+        },
+        {
+          "audit_index": 165,
+          "id": "legal_lib_11954",
+          "title": "قواعد التحكيم والوساطة",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاماة والتحكيم",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "795 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/956",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "قواعد التحكيم والوساطه"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_018",
+      "records": [
+        {
+          "audit_index": 209,
+          "id": "legal_lib_12152",
+          "title": "1.نظام القضاء (1)",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "619 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1280",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "1 نظام القضاء 1"
+        },
+        {
+          "audit_index": 218,
+          "id": "legal_lib_12175",
+          "title": "1.نظام القضاء",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "619 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1307",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "1 نظام القضاء"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_019",
+      "records": [
+        {
+          "audit_index": 247,
+          "id": "legal_lib_12242",
+          "title": "2 مدونة الأحكام القضائية الجنايات",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء والأنظمة العامة",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "929 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1410",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "2 مدونه الاحكام القضاييه الجنايات"
+        },
+        {
+          "audit_index": 452,
+          "id": "legal_lib_13247",
+          "title": "مدونة الأحكام القضائية الجنايات",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء والأنظمة العامة",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "929 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2756",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "مدونه الاحكام القضاييه الجنايات"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_021",
+      "records": [
+        {
+          "audit_index": 264,
+          "id": "legal_lib_12302",
+          "title": "أوجه البطلان في نظام الإجراءات الجزائية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "448 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1480",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "اوجه البطلان في نظام الاجراءات الجزاييه"
+        },
+        {
+          "audit_index": 381,
+          "id": "legal_lib_12848",
+          "title": "اوجه البطلان في نظام الاجراءات",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "448 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2276",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "اوجه البطلان في نظام الاجراءات"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_022",
+      "records": [
+        {
+          "audit_index": 295,
+          "id": "legal_lib_12480",
+          "title": "نظام المحاكم التجارية.pdf.pdf.pdf",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة التجارية",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "19.3 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1751",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المحاكم التجاريه"
+        },
+        {
+          "audit_index": 338,
+          "id": "legal_lib_12641",
+          "title": "لوائح نظام المحاكم التجارية.pdf",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة التجارية",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "12.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2001",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "لوايح نظام المحاكم التجاريه"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_023",
+      "records": [
+        {
+          "audit_index": 306,
+          "id": "legal_lib_12582",
+          "title": "المختصر في إجراءات ونظام التنفيذ 1",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "DOCX",
+          "file_size": "22 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1933",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "المختصر في اجراءات ونظام التنفيذ 1"
+        },
+        {
+          "audit_index": 307,
+          "id": "legal_lib_12583",
+          "title": "المختصر في إجراءات ونظام التنفيذ",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "DOCX",
+          "file_size": "22 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1934",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "المختصر في اجراءات ونظام التنفيذ"
+        },
+        {
+          "audit_index": 308,
+          "id": "legal_lib_12584",
+          "title": "المختصر في اجراءات ونظام التنفيذ",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "425 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1936",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "المختصر في اجراءات ونظام التنفيذ"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_024",
+      "records": [
+        {
+          "audit_index": 331,
+          "id": "legal_lib_12628",
+          "title": "نظام المرافعات الشرعية ولائحته التنفيذية مفهرس",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "3.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/1985",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات الشرعيه ولايحته التنفيذيه مفهرس"
+        },
+        {
+          "audit_index": 471,
+          "id": "legal_lib_13320",
+          "title": "نظام المرافعات الشرعية ولائحته التنفيذية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "نظام",
+          "file_type": "PDF",
+          "file_size": "8.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2870",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "نظام المرافعات الشرعيه ولايحته التنفيذيه"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_026",
+      "records": [
+        {
+          "audit_index": 405,
+          "id": "legal_lib_13011",
+          "title": "مذكرة في الدعاوى المرورية",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء والأنظمة العامة",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "911 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2461",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "مذكره في الدعاوي المروريه"
+        },
+        {
+          "audit_index": 406,
+          "id": "legal_lib_13012",
+          "title": "مذكرة في الدعاوى المرورية(1)",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء والأنظمة العامة",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "911 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2462",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "مذكره في الدعاوي المروريه 1"
+        },
+        {
+          "audit_index": 407,
+          "id": "legal_lib_13013",
+          "title": "مذكرة في الدعاوى المرورية(2)",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "القضاء والأنظمة العامة",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "911 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2463",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "مذكره في الدعاوي المروريه 2"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_027",
+      "records": [
+        {
+          "audit_index": 410,
+          "id": "legal_lib_13029",
+          "title": "أحكام دعوى التعويض في القانون الادا",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "DOC",
+          "file_size": "76 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2481",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "احكام دعوي التعويض في القانون الادا"
+        },
+        {
+          "audit_index": 411,
+          "id": "legal_lib_13030",
+          "title": "أحكام دعوى التعويض في القانون الادا1",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "المحاكم والمرافعات",
+          "material_type": "كتاب",
+          "file_type": "DOC",
+          "file_size": "76 KB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2482",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "احكام دعوي التعويض في القانون الادا1"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    },
+    {
+      "group_id": "iirmll_dup_028",
+      "records": [
+        {
+          "audit_index": 416,
+          "id": "legal_lib_13049",
+          "title": "الوجيز في القانون الاداري",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "1.0 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2503",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "الوجيز في القانون الاداري"
+        },
+        {
+          "audit_index": 417,
+          "id": "legal_lib_13052",
+          "title": "الوجيز في القانون الاداري  الدكت",
+          "author": "",
+          "investigator": "",
+          "source": "المكتبة القانونية ⚖️",
+          "category": "الأنظمة والتشريعات",
+          "material_type": "كتاب",
+          "file_type": "PDF",
+          "file_size": "2.7 MB",
+          "pages_count": "",
+          "description": "",
+          "links": {
+            "link_telegram": "https://t.me/iirmll/2506",
+            "link_direct": "",
+            "link_drive": "",
+            "link": ""
+          },
+          "has_structurally_valid_link": true,
+          "normalized_title": "الوجيز في القانون الاداري الدكت"
+        }
+      ],
+      "confirmed": false,
+      "recommended_keep_id": null,
+      "redundant_ids": [],
+      "reason": "التشابه العنواني وحده أو تقارب الموضوع لا يثبت أن الوثائق نسخة واحدة؛ لا توجد مطابقة رابط أو قرائن وصفية كافية.",
+      "evidence": []
+    }
+  ]
+}

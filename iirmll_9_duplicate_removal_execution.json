@@ -1,0 +1,84 @@
+{
+  "generated_at": "2026-08-25T15:13:03.522Z",
+  "total_before": 11295,
+  "total_after": 11286,
+  "iirmll_before": 510,
+  "iirmll_after": 501,
+  "removed_count": 9,
+  "removed": [
+    {
+      "id": "legal_lib_12307",
+      "title": "نظام مكافحة جرائم المعلوماتية",
+      "source": "المكتبة القانونية ⚖️",
+      "category": "الأنظمة والتشريعات",
+      "link_telegram": "https://t.me/iirmll/1485"
+    },
+    {
+      "id": "legal_lib_12308",
+      "title": "نظام مكافحة جرائم المعلوماتية(1)",
+      "source": "المكتبة القانونية ⚖️",
+      "category": "الأنظمة والتشريعات",
+      "link_telegram": "https://t.me/iirmll/1486"
+    },
+    {
+      "id": "legal_lib_12492",
+      "title": "نظام مكافحة جرائم المعلوماتية 1",
+      "source": "المكتبة القانونية ⚖️",
+      "category": "الأنظمة والتشريعات",
+      "link_telegram": "https://t.me/iirmll/1803"
+    },
+    {
+      "id": "legal_lib_12332",
+      "title": "القضاء الإداري",
+      "source": "المكتبة القانونية ⚖️",
+      "category": "المحاكم والمرافعات",
+      "link_telegram": "https://t.me/iirmll/1519"
+    },
+    {
+      "id": "legal_lib_12312",
+      "title": "اللائحة التنفيذية لنظام المرافعات",
+      "source": "المكتبة القانونية ⚖️",
+      "category": "المحاكم والمرافعات",
+      "link_telegram": "https://t.me/iirmll/1491"
+    },
+    {
+      "id": "legal_lib_13449",
+      "title": "‎⁨الدليل الإرشادي للتقاضي⁩",
+      "source": "المكتبة القانونية ⚖️",
+      "category": "الإثبات والشهادة",
+      "link_telegram": "https://t.me/iirmll/3055"
+    },
+    {
+      "id": "legal_lib_12800",
+      "title": "الجديد في نظام الاجراءات الجزائية",
+      "source": "المكتبة القانونية ⚖️",
+      "category": "الأنظمة والتشريعات",
+      "link_telegram": "https://t.me/iirmll/2226"
+    },
+    {
+      "id": "legal_lib_12633",
+      "title": "نظام+المرافعات+أمام+ديوان+المظالم",
+      "source": "المكتبة القانونية ⚖️",
+      "category": "المحاكم والمرافعات",
+      "link_telegram": "https://t.me/iirmll/1990"
+    },
+    {
+      "id": "legal_lib_13435",
+      "title": "‎⁨مجلة قضاء العدد 27 التعويض عن الضرر المعنوي⁩",
+      "source": "المكتبة القانونية ⚖️",
+      "category": "المحاكم والمرافعات",
+      "link_telegram": "https://t.me/iirmll/3026"
+    }
+  ],
+  "protected_ids_verified": [
+    "legal_lib_11384",
+    "legal_lib_11532",
+    "legal_lib_11661",
+    "legal_lib_11997",
+    "legal_lib_12259",
+    "legal_lib_12630",
+    "legal_lib_13324",
+    "legal_lib_12629"
+  ],
+  "stats_before_total": 11295
+}

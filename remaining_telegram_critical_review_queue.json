@@ -1,0 +1,287 @@
+{
+  "generated_at": "2026-08-25T19:18:56.475Z",
+  "total_records": 96,
+  "initial_counts": {
+    "KEEP": 87,
+    "REMOVE": 9,
+    "REVIEW": 0
+  },
+  "missing_or_invalid_results": [],
+  "critical_queue": [
+    {
+      "record_number": 10,
+      "id": "najran_23056",
+      "title": "ملخص المذاهب الاربعة واسباب اختلاف الفقهاء دعواتكم",
+      "author": "",
+      "category": "الأنظمة واللوائح",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/23056",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_23056",
+        "political_or_madhabi_signal": true,
+        "reason": "موضوع فقهي ديني يتناول المذاهب الأربعة وأسباب اختلاف الفقهاء دون صلة قانونية مباشرة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "الفقه الإسلامي"
+      }
+    },
+    {
+      "record_number": 13,
+      "id": "najran_art_12337",
+      "title": "مدخل دراسه الانظمه قواعد فقهيه ثقافه 2 سياسه شرعيه مبادى الاداره العامه القانون التجاري السعودي",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/12337",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_12337",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان يتضمن موضوعات قانونية ونظامية مباشرة كالقانون التجاري ودراسة الأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "دراسات وبحوث قانونية"
+      }
+    },
+    {
+      "record_number": 21,
+      "id": "najran_art_27190",
+      "title": "كتب للبيع مطبوعه ( تخصص ) قانون نظام الإجراءات الجزائية احكام الالتزام الجزء الثاني مصادر الالتزام الملكيه الصناعيه نظام العمل والتأمنيتات الاجتماعيه ...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/27190",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_27190",
+        "political_or_madhabi_signal": "",
+        "reason": "إعلان تجاري لبيع كتب قانونية يفتقر للمحتوى القانوني أو القضائي المباشر.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "كتب وأنظمة قانونية"
+      }
+    },
+    {
+      "record_number": 23,
+      "id": "najran_art_35174",
+      "title": "صباح الخير يا شباب حد عنده تسريبات ل ال مجري مبادى القانون التجاري ولا تلخيص ولا اي شيء اختبارات سابقا ف يرسلها ولاعليه امر والله يوفقه",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/35174",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_35174",
+        "political_or_madhabi_signal": "",
+        "reason": "طلب طلابي عابر لملخصات أو تسريبات اختبارات لمادة القانون التجاري لا يمثل محتوى قانونياً موضوعياً.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "قانون تجاري"
+      }
+    },
+    {
+      "record_number": 31,
+      "id": "najran_art_52092",
+      "title": "إيه أدرسه عند د.غادة،نفس شكل الكتاب بس هذا مواضيعه من داخل مختلفة كليًا يتكلم عن القانون الجنائي مب الدولي",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/52092",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_52092",
+        "political_or_madhabi_signal": "",
+        "reason": "رسالة دردشة عابرة بين طلاب حول كتاب دراسي ولا تتضمن محتوى قانونياً أو قضائياً مباشراً.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الجنائي"
+      }
+    },
+    {
+      "record_number": 32,
+      "id": "najran_art_54322",
+      "title": "احد يبي كتب القواعد الفقهية مبادئ الاقتصاد علم اصول الفقه النظام السياسي والدستوري القانون التجاري المدخل لدراسة الانظمة المدخل للفقه الاسلامي السياسه...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/54322",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_54322",
+        "political_or_madhabi_signal": "",
+        "reason": "العنوان يتضمن مراجع أكاديمية في صلب القانون والأنظمة مثل القانون التجاري والنظام الدستوري.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "مراجع أكاديمية قانونية وأنظمة"
+      }
+    },
+    {
+      "record_number": 36,
+      "id": "najran_art_62421",
+      "title": "احد يبغا الكتب هذي؟ القواعد الفقهيه مهارات لغويه مهارات الإتصال مبادئ الإقتصاد القانون التجاري القانون الدستوري",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/62421",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_62421",
+        "political_or_madhabi_signal": "",
+        "reason": "إعلان عابر عن تداول كتب دراسية لا يتضمن محتوى قانونياً أو تنظيمياً موضوعياً.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "كتب ومراجع قانونية"
+      }
+    },
+    {
+      "record_number": 37,
+      "id": "najran_art_62426",
+      "title": "أصول الفقه كويس بس دكتورتنا سيئه جدًا د/ مريم مكي مبادى القانون التجاري مرا سهل وممتع درسته عند أ/ نوره المطيري",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/62426",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_62426",
+        "political_or_madhabi_signal": "",
+        "reason": "دردشة طلابية وانطباعات شخصية حول أعضاء هيئة التدريس لا تتضمن أي محتوى قانوني أو قضائي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "شؤون أكاديمية طلابية"
+      }
+    },
+    {
+      "record_number": 47,
+      "id": "najran_art_65656",
+      "title": "ي شباب كيف الدكاتره ذولا د. صالح بن محمد الهمامي مقرر القانون الدستوري أنيس حسيب السيد المحلاوي مقرر القانون الجنائي العام",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/65656",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_65656",
+        "political_or_madhabi_signal": "",
+        "reason": "استفسار طلابي عابر عن أعضاء هيئة التدريس يفتقر للمحتوى القانوني المباشر.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "تعليم قانوني"
+      }
+    },
+    {
+      "record_number": 49,
+      "id": "najran_art_65958",
+      "title": "صباح الخير اللي عنده القانون الاداري والقانون الدستوري ومبادي القانون التجاري pdf يرسلها لاهنتوا",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/65958",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_65958",
+        "political_or_madhabi_signal": "",
+        "reason": "رسالة محادثة عابرة لطلب كتب دراسية لا تمثل مادة قانونية أو قضائية موضوعية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "طلب مراجع دراسية"
+      }
+    },
+    {
+      "record_number": 56,
+      "id": "najran_art_72236",
+      "title": "اللي اختبر عند المحلاوي الاحكام العامة للنظام الجزائي ( القانون الجنائي) يجي خاص ضروري ضروري ضروري ضروري",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/72236",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_72236",
+        "political_or_madhabi_signal": "",
+        "reason": "استفسار طلابي عابر حول اختبار أكاديمي لا يتضمن مادة قانونية أو قضائية موضوعية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الجنائي"
+      }
+    }
+  ]
+}

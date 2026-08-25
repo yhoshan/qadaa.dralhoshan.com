@@ -1,0 +1,149 @@
+{
+  "generated_at": "2026-08-25T15:10:33.777Z",
+  "total_items": 11295,
+  "iirmll_count": 510,
+  "removals": [
+    {
+      "id": "legal_lib_12307",
+      "exists": true,
+      "title": "نظام مكافحة جرائم المعلوماتية",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1485",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_12308",
+      "exists": true,
+      "title": "نظام مكافحة جرائم المعلوماتية(1)",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1486",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_12492",
+      "exists": true,
+      "title": "نظام مكافحة جرائم المعلوماتية 1",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1803",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_12332",
+      "exists": true,
+      "title": "القضاء الإداري",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1519",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_12312",
+      "exists": true,
+      "title": "اللائحة التنفيذية لنظام المرافعات",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1491",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_13449",
+      "exists": true,
+      "title": "‎⁨الدليل الإرشادي للتقاضي⁩",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/3055",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_12800",
+      "exists": true,
+      "title": "الجديد في نظام الاجراءات الجزائية",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/2226",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_12633",
+      "exists": true,
+      "title": "نظام+المرافعات+أمام+ديوان+المظالم",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1990",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_13435",
+      "exists": true,
+      "title": "‎⁨مجلة قضاء العدد 27 التعويض عن الضرر المعنوي⁩",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/3026",
+      "matches_source": true
+    }
+  ],
+  "protected": [
+    {
+      "id": "legal_lib_11384",
+      "exists": true,
+      "title": "نظام مكافحة جرائم المعلوماتية",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/133",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_11532",
+      "exists": true,
+      "title": "القضاء الإداري",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/390",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_11661",
+      "exists": true,
+      "title": "اللائحة التنفيذية لنظام المرافعات",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/548",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_11997",
+      "exists": true,
+      "title": "الدليل الإرشادي للتقاضي",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1027",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_12259",
+      "exists": true,
+      "title": "الجديد في نظام الإجراءات الجزائية",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1433",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_12630",
+      "exists": true,
+      "title": "نظام المرافعات امام ديوان المظالم",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1987",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_13324",
+      "exists": true,
+      "title": "مجلة قضاء العدد 27 التعويض عن الضرر المعنوي",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/2876",
+      "matches_source": true
+    },
+    {
+      "id": "legal_lib_12629",
+      "exists": true,
+      "title": "نظام المرافعات أمام ديوان المظالم 2013",
+      "source": "المكتبة القانونية ⚖️",
+      "link_telegram": "https://t.me/iirmll/1986",
+      "matches_source": true
+    }
+  ],
+  "missing_removal_ids": [],
+  "wrong_source_removal_ids": [],
+  "missing_protected_ids": [],
+  "wrong_source_protected_ids": []
+}

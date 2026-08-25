@@ -1,0 +1,33 @@
+{
+  "generated_at": "2026-08-25T15:10:33.607Z",
+  "source": "المكتبة القانونية ⚖️",
+  "required_telegram_fragment": "t.me/iirmll/",
+  "removal_ids": [
+    "legal_lib_12307",
+    "legal_lib_12308",
+    "legal_lib_12492",
+    "legal_lib_12332",
+    "legal_lib_12312",
+    "legal_lib_13449",
+    "legal_lib_12800",
+    "legal_lib_12633",
+    "legal_lib_13435"
+  ],
+  "protected_ids": [
+    "legal_lib_11384",
+    "legal_lib_11532",
+    "legal_lib_11661",
+    "legal_lib_11997",
+    "legal_lib_12259",
+    "legal_lib_12630",
+    "legal_lib_13324",
+    "legal_lib_12629"
+  ],
+  "expected": {
+    "total_before": 11295,
+    "remove_count": 9,
+    "total_after": 11286,
+    "source_before": 510,
+    "source_after": 501
+  }
+}

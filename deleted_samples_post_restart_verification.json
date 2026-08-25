@@ -1,0 +1,144 @@
+{
+  "generated_at": "2026-08-25T13:57:19.781Z",
+  "samples": {
+    "great_law": [
+      "great_law_1888",
+      "great_law_4949",
+      "great_law_4952",
+      "great_law_5091",
+      "great_law_16770"
+    ],
+    "academic_theses": [
+      "risail_25652",
+      "risail_35582",
+      "risail_25519",
+      "risail_25951",
+      "risail_59962"
+    ],
+    "alexandria": [
+      "alexandria_cbz_9566",
+      "alexandria_cbz_30657",
+      "alexandria_cbz_64598",
+      "alexandria_cbz_24605",
+      "alexandria_cbz_63753"
+    ],
+    "sanaa_block": [
+      "legal_mag_196",
+      "legal_mag_201",
+      "legal_mag_202",
+      "legal_mag_203",
+      "legal_mag_204"
+    ]
+  },
+  "results": {
+    "great_law": [
+      {
+        "id": "great_law_1888",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "great_law_4949",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "great_law_4952",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "great_law_5091",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "great_law_16770",
+        "absent_main": true,
+        "absent_published": true
+      }
+    ],
+    "academic_theses": [
+      {
+        "id": "risail_25652",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "risail_35582",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "risail_25519",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "risail_25951",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "risail_59962",
+        "absent_main": true,
+        "absent_published": true
+      }
+    ],
+    "alexandria": [
+      {
+        "id": "alexandria_cbz_9566",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "alexandria_cbz_30657",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "alexandria_cbz_64598",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "alexandria_cbz_24605",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "alexandria_cbz_63753",
+        "absent_main": true,
+        "absent_published": true
+      }
+    ],
+    "sanaa_block": [
+      {
+        "id": "legal_mag_196",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "legal_mag_201",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "legal_mag_202",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "legal_mag_203",
+        "absent_main": true,
+        "absent_published": true
+      },
+      {
+        "id": "legal_mag_204",
+        "absent_main": true,
+        "absent_published": true
+      }
+    ]
+  },
+  "all_absent": true
+}

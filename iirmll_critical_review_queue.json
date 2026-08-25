@@ -1,0 +1,3482 @@
+{
+  "total_source_records": 510,
+  "queue_count": 82,
+  "queue": [
+    {
+      "record": {
+        "audit_index": 3,
+        "id": "legal_lib_11298",
+        "title": "نظام العمل",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "أنظمة العمل",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "322 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/10",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11298",
+        "title": "نظام العمل",
+        "decision": "KEEP",
+        "reason": "العنوان 'نظام العمل' مع الفئة 'أنظمة العمل' ونوع المادة 'نظام' يدل بوضوح على أنه نص نظامي/قانوني مباشر ينطبق على اختصاص المكنز (قوانين وأنظمة العمل والتنظيمات العمالية). لذلك يجب الاحتفاظ به.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: 'نظام العمل'",
+          "الفئة: 'أنظمة العمل'",
+          "نوع المادة: 'نظام'",
+          "المصدر: 'المكتبة القانونية ⚖️'",
+          "صيغة الملف: PDF"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 9,
+        "id": "legal_lib_11318",
+        "title": "قانون التحكيم السعودي",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "DOC",
+        "file_size": "36 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/32",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11318",
+        "title": "قانون التحكيم السعودي",
+        "decision": "KEEP",
+        "reason": "العنوان صريح ومباشر: كتاب عن \"قانون التحكيم السعودي\"، وهو مادة قانونية وتنظيمية تتعلق بالتحكيم والوساطة ضمن اختصاص المحاماة والتحكيم، لذا يجب الاحتفاظ بها.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على كلمة \"قانون\"",
+          "الموضوع \"التحكيم السعودي\" يدل على محتوى تنظيمي/قانوني مباشر",
+          "الفئة المصنفة \"المحاماة والتحكيم\"",
+          "نوع المادة: كتاب قانوني",
+          "مصدر من مكتبة قانونية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 15,
+        "id": "legal_lib_11346",
+        "title": "نظام التنفيذ",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "4.8 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/91",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11346",
+        "title": "نظام التنفيذ",
+        "decision": "KEEP",
+        "reason": "العنوان 'نظام التنفيذ' يشير إلى نص تشريعي/نظامي مباشر متعلق بآليات التنفيذ القضائي والتنفيذ على الأحكام والقرارات، ويقع ضمن فئة الأنظمة والتشريعات، لذلك يجب الاحتفاظ به.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: نظام التنفيذ",
+          "الفئة: الأنظمة والتشريعات",
+          "نوع المادة: نظام",
+          "مصدر: المكتبة القانونية",
+          "وجود رابط Telegram متاح"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 22,
+        "id": "legal_lib_11365",
+        "title": "واجبات المحامي وحقوقه",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "733 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/114",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11365",
+        "title": "واجبات المحامي وحقوقه",
+        "decision": "KEEP",
+        "reason": "العنوان والمصنّف يوضّحان أن المادة تتناول حقوق وواجبات المحامي، وهي مادة قانونية ومهنية مباشرة تندرج تحت المحاماة والتحكيم والأنظمة المهنية؛ لذلك تندرج ضمن المحتوى القانوني المقبول (KEEP). نقص مؤلف أو رابط لا يمنع التصنيف لأنها مادة واضحة الاختصاص.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على كلمات مفتاحية قانونية: 'المحامي'، 'واجبات'، 'حقوق'",
+          "الفئة: المحاماة والتحكيم",
+          "نوع المادة: كتاب (محتوى قانوني/مهني)",
+          "المصدر: المكتبة القانونية",
+          "المحتوى يتعلق بأخلاقيات وشؤون مهنية قانونية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 29,
+        "id": "legal_lib_11373",
+        "title": "نظام الشركات المهنية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "58 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/122",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11373",
+        "title": "نظام الشركات المهنية",
+        "decision": "KEEP",
+        "reason": "العنوان صريح بأنه \"نظام الشركات المهنية\" وهو نظام تشريعي/تنظيمي يختص بتنظيم شكل وامتثال الشركات المهنية ضمن الأنظمة التجارية — يندرج بوضوح ضمن المواد القانونية/اللوائح القضائية والتجارية التي يجب الاحتفاظ بها.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على كلمة \"نظام\" وموضوع واضح (الشركات المهنية)",
+          "الفئة المصنفة: الأنظمة التجارية",
+          "نوع المادة: نظام (قانوني/تنظيمي)",
+          "مصدر من المكتبة القانونية ⚖️",
+          "يتناول تنظيماً قانونياً مباشراً للكيانات التجارية المهنية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 32,
+        "id": "legal_lib_11376",
+        "title": "نظام المحاماة",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "195 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/125",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11376",
+        "title": "نظام المحاماة",
+        "decision": "KEEP",
+        "reason": "العنوان 'نظام المحاماة' وكونه مصنّف تحت 'المحاماة والتحكيم' وبنمط المادة 'نظام' يدل بوضوح أنه نص تنظيمي/قانوني ينظم مهنة المحاماة، وهو ضمن اختصاص المكنز القانوني لذا يجب الاحتفاظ به.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على كلمة 'نظام'",
+          "مصنف تحت 'المحاماة والتحكيم'",
+          "نوع المادة: 'نظام' (نص تشريعي/تنظيمي)",
+          "المصدر: 'المكتبة القانونية'",
+          "صيغة الملف: PDF"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 45,
+        "id": "legal_lib_11424",
+        "title": "محاكم الاحوال الشخصية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء والأنظمة العامة",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "1.1 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/182",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11424",
+        "title": "محاكم الاحوال الشخصية",
+        "decision": "KEEP",
+        "reason": "العنوان 'محاكم الأحوال الشخصية' والفئة 'القضاء والأنظمة العامة' تشير بوضوح إلى مادة قانونية قضائية تتعلق بالأحوال الشخصية والمحاكم، وهو ضمن نطاق الاختصاص القانوني (قضاء، قوانين وإجراءات الأحوال الشخصية).",
+        "confidence": 95,
+        "signals": [
+          "عنوان: محاكم الاحوال الشخصية",
+          "الفئة: القضاء والأنظمة العامة",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية ⚖️",
+          "مادة مباشرة عن القضاء/الأحوال الشخصية",
+          "وجود رابط نشر (Telegram)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 46,
+        "id": "legal_lib_11426",
+        "title": "شروط المحامي",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "467 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/185",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11426",
+        "title": "شروط المحامي",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر ويتناول شروط مزاولة مهنة المحاماة والتنظيم المتعلق بها، وهو ضمن اختصاص المحاماة والتحكيم وبالتالي مادة قانونية/تنظيمية صريحة.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: شروط المحامي",
+          "الفئة: المحاماة والتحكيم",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية",
+          "وجود رابط إلى منشور (تلغرام)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 53,
+        "id": "legal_lib_11441",
+        "title": "أتعاب المحاماة",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "540 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/213",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11441",
+        "title": "أتعاب المحاماة",
+        "decision": "KEEP",
+        "reason": "العنوان والمصنّف واضحان: مادة تتناول أتعاب المحاماة وهو موضوع عملي وقانوني مباشر يندرج تحت أحكام المحاماة والتنظيمات المهنية والمالية المتعلقة بعمل المحامين، ويخدم مكنز القضاء والأنظمة والمحاماة. عدم وجود مؤلف أو سنة لا يمنع القبول لأن العنوان والمصدر كافيان للحكم.",
+        "confidence": 95,
+        "signals": [
+          "عنوان واضح: \"أتعاب المحاماة\"",
+          "الفئة: \"المحاماة والتحكيم\"",
+          "نوع المادة: كتاب (محتوى قانوني/مهني)",
+          "المصدر: المكتبة القانونية ⚖️",
+          "موضوع مباشر مرتبط بتنظيم وممارسة المحاماة وأحكام الأتعاب"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 54,
+        "id": "legal_lib_11444",
+        "title": "خطة اقتصادية لمكتب المحاماة",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "DOCX",
+        "file_size": "142 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/217",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11444",
+        "title": "خطة اقتصادية لمكتب المحاماة",
+        "decision": "REMOVE",
+        "reason": "العنوان 'خطة اقتصادية لمكتب المحاماة' يشير بوضوح إلى مادة إدارية/اقتصادية (خطة عمل/إدارة مالية لمكتب محاماة) والتي تندرج ضمن الموضوعات الاقتصادية أو الإدارية الخارجة عن اختصاص المكنز. التصنيف إلى 'المحاماة والتحكيم' لا يوفر دليلاً على معالجة قانونية أو تنظيمية للموضوع، ولا توجد بيانات وصفية أو وصف إضافي يبرر اعتبارها مادة قانونية/قضائية.",
+        "confidence": 90,
+        "signals": [
+          "العنوان يشير إلى خطة اقتصادية/خطة عمل لمكتب محاماة (موضوع إداري/اقتصادي).",
+          "قائمة الاستثناءات تنص على استبعاد المواد الاقتصادية أو الإدارية غير القانونية.",
+          "التصنيف 'المحاماة والتحكيم' وحده لا يضمن محتوى قانوني/قضائي.",
+          "لا يوجد وصف أو مؤلف أو روابط توضح معالجة قانونية أو تنظيمية.",
+          "نوع الملف (DOCX) والمصدر ('المكتبة القانونية') لا يغيران الطبيعة المحتملة الإدارية للمادة."
+        ],
+        "error": null
+      },
+      "triggers": [
+        "initial_remove"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 62,
+        "id": "legal_lib_11473",
+        "title": "- القانون التجاري السعودي",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "12.5 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/285",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11473",
+        "title": "- القانون التجاري السعودي",
+        "decision": "KEEP",
+        "reason": "العنوان والتصنيف يشيران بوضوح إلى مادة قانونية مباشرة متعلقة بالقانون التجاري السعودي، وهو يدخل ضمن نطاق الأنظمة واللوائح التجارية والمواد القضائية/الفقهية القانونية المقبولة للحفظ. كونها كتاباً بصيغة PDF من 'المكتبة القانونية' يؤكد طابعها القانوني ولا يستلزم مراجعة إضافية.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على 'القانون التجاري السعودي'",
+          "التصنيف 'الأنظمة التجارية'",
+          "نوع المادة: كتاب (PDF)",
+          "المصدر: المكتبة القانونية ⚖️"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 70,
+        "id": "legal_lib_11503",
+        "title": "المذكرة الشاملة للمرافعات",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "5.2 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/345",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11503",
+        "title": "المذكرة الشاملة للمرافعات",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر («المذكرة الشاملة للمرافعات») ويشير إلى مادة قانونية وقضائية تخص المرافعات وإجراءات المحاكم. التصنيف المرفق (المحاكم والمرافعات) ونوع المادة (كتاب) يؤكدان أنها مادة قانونية متخصصة تندرج ضمن اختصاص المكنز (قانون الإجراءات والمرافعات/الممارسة القضائية).",
+        "confidence": 95,
+        "signals": [
+          "العنوان يشير إلى المرافعات القضائية",
+          "تصنيف: المحاكم والمرافعات",
+          "نوع المادة: كتاب قانوني",
+          "مصدر: المكتبة القانونية",
+          "وجود رابط تليجرام مؤشّر لتوفر المحتوى",
+          "غياب مؤلف/ناشر لكن لا يمنع التصنيف كمواد قانونية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 72,
+        "id": "legal_lib_11528",
+        "title": "القانون التجاري",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "8.3 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/386",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11528",
+        "title": "القانون التجاري",
+        "decision": "KEEP",
+        "reason": "العنوان 'القانون التجاري' والفئة 'الأنظمة التجارية' تشير إلى مادة قانونية مباشرة تتعلق بالتشريعات والأنظمة التجارية، وهي ضمن اختصاص المكنز. غياب اسم المؤلف أو تفاصيل إضافية لا يمنع الاحتفاظ لأن العنوان والمصدر يكفيان للحكم بأنها مادة قانونية ذات صلة.",
+        "confidence": 92,
+        "signals": [
+          "العنوان: القانون التجاري",
+          "الفئة: الأنظمة التجارية",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية ⚖️",
+          "صيغة الملف: PDF",
+          "وجود رابط تليجرام"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 74,
+        "id": "legal_lib_11532",
+        "title": "القضاء الإداري",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "5.5 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/390",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11532",
+        "title": "القضاء الإداري",
+        "decision": "KEEP",
+        "reason": "العنوان والبيانات التصنيفية واضحة ومباشرة: مادة عن القضاء الإداري تقع ضمن فئة 'المحاكم والمرافعات' ومصدرها 'المكتبة القانونية'. الموضوع قانوني وقضائي بحت ويندرج ضمن اختصاص المكنز، وعدم وجود مؤلف أو رابط مباشر لا يمنع الحفظ.",
+        "confidence": 95,
+        "signals": [
+          "عنوان واضح ومباشر: 'القضاء الإداري'",
+          "فئة: المحاكم والمرافعات (موضوع قضائي)",
+          "مصدر: المكتبة القانونية (مصدر قانوني)",
+          "نوع المادة: كتاب (محتوى قانوني/قضائي)",
+          "لا دلائل على طابع سياسي/إيديولوجي/تاريخي خارج الإطار القانوني"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 76,
+        "id": "legal_lib_11551",
+        "title": "قانون الشركات",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "3.4 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/410",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11551",
+        "title": "قانون الشركات",
+        "decision": "KEEP",
+        "reason": "العنوان صريح: «قانون الشركات» ويقع ضمن الفئة المسماة «الأنظمة التجارية». المادة عبارة عن كتاب/نص قانوني تنظيمي يتعلق بقانون الشركات، وهو من ضمن مواضيع الاختصاص المباشرة للمكنز (الأنظمة والقوانين، الشركات، المعاملات التجارية). غياب مؤلف أو سنة لا يعيق التصنيف وفق تعليمات الحكم.",
+        "confidence": 98,
+        "signals": [
+          "عنوان يتضمن 'قانون الشركات'",
+          "الفئة: الأنظمة التجارية",
+          "نوع المادة: كتاب",
+          "مصدر: المكتبة القانونية ⚖️",
+          "نوع الملف: PDF",
+          "رابط تليغرام متوفر"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 77,
+        "id": "legal_lib_11552",
+        "title": "قانون العمل",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "156 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/411",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11552",
+        "title": "قانون العمل",
+        "decision": "KEEP",
+        "reason": "العنوان يشير بوضوح إلى مادة تشريعية وقانونية (قانون العمل)، والفئة المسندة هي «الأنظمة والتشريعات»، مما يجعله مناسباً لمحتوى المكنز القانوني المتعلق بالتشريعات ولوائح العمل.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على 'قانون العمل'",
+          "الفئة: الأنظمة والتشريعات",
+          "نوع المادة: كتاب (مادة قانونية)",
+          "المكتبة المصدرية: المكتبة القانونية ⚖️",
+          "الموضوع يقع ضمن اختصاصات مقبولة: التشريعات وقانون العمل"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 84,
+        "id": "legal_lib_11582",
+        "title": "حقيبة الدعوى العقارية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "1.4 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/443",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11582",
+        "title": "حقيبة الدعوى العقارية",
+        "decision": "KEEP",
+        "reason": "العنوان والمصنفان (المحاكم والمرافعات) يشيران إلى مادة قانونية مباشرة متخصصة في دعاوى العقار وإجراءات التقاضي، ما يندرج صراحة ضمن اختصاص المكنز (قانون مدني وإجراءات مدنية/محاكمية).",
+        "confidence": 95,
+        "signals": [
+          "عنوان: حقيبة الدعوى العقارية (دعاوى عقارية/إجراءات)",
+          "الفئة: المحاكم والمرافعات",
+          "مصدر: المكتبة القانونية ⚖️ (مصدر قانوني)",
+          "نوع المادة: كتاب (محتوى تفصيلي قانوني محتمل)",
+          "صيغة ملف: PDF (مستند مكتوب)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 86,
+        "id": "legal_lib_11588",
+        "title": "مصطلحات مرافعات",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "414 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/452",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11588",
+        "title": "مصطلحات مرافعات",
+        "decision": "KEEP",
+        "reason": "العنوان 'مصطلحات مرافعات' والتصنيف 'المحاكم والمرافعات' يوضّحان أن المحتوى مرجع قانوني في إجراءات المحاكم والمرافعات (مصطلحات ومفاهيم قانونية وإجرائية)، مما يجعله مادة قانونية/قضائية مباشرة وذات صلة بالحفظ.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يشير إلى مرافعات وإجراءات قضائية",
+          "التصنيف: المحاكم والمرافعات",
+          "المصدر: المكتبة القانونية (مرجع قانوني)",
+          "نوع المادة: كتاب (مرجع أو دليل قانوني)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 94,
+        "id": "legal_lib_11652",
+        "title": "نظام العمل السعودي",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "أنظمة العمل",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "791 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/539",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11652",
+        "title": "نظام العمل السعودي",
+        "decision": "KEEP",
+        "reason": "العنوان يشير صراحةً إلى نص تشريعي/نظامي (نظام العمل السعودي)، والفئة المحددة 'أنظمة العمل' ونوع المادة 'نظام' يؤكدان أنه مادة قانونية مباشرة ومنوطة بالمكنز القانوني. الوثيقة ذات صفة تنظيمية واضحة وتندرج ضمن نطاق المواد القانونية المقبولة (قوانين وأنظمة العمل).",
+        "confidence": 95,
+        "signals": [
+          "عنوان يشير إلى نص تشريعي: نظام العمل السعودي",
+          "الفئة: أنظمة العمل",
+          "نوع المادة: نظام",
+          "مصدر: المكتبة القانونية",
+          "صيغة الملف: PDF"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 111,
+        "id": "legal_lib_11754",
+        "title": "مبادئ المحكمة العليا",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "7.8 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/670",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11754",
+        "title": "مبادئ المحكمة العليا",
+        "decision": "KEEP",
+        "reason": "العنوان يشير صراحةً إلى مبادئ المحكمة العليا وهو موضوع قضائي وقانوني مباشر ضمن اختصاص المحاكم والمرافعات؛ المادة مصنفة ككتاب في المكتبة القانونية ويُحتمل أن يتناول الأحكام والإجراءات والفقه القضائي، لذلك تندرج كمادة قانونية محافظة.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على 'المحكمة العليا' ودلالة قضائية واضحة",
+          "التصنيف: المحاكم والمرافعات",
+          "نوع المادة: كتاب قانوني",
+          "مصدر: المكتبة القانونية ⚖️",
+          "صيغة الملف: PDF",
+          "وجود رابط تليجرام للمصدر"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 114,
+        "id": "legal_lib_11762",
+        "title": "فهرس المرافعات ١٤٣٥هـ",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "DOCX",
+        "file_size": "31 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/680",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11762",
+        "title": "فهرس المرافعات ١٤٣٥هـ",
+        "decision": "KEEP",
+        "reason": "العنوان ('فهرس المرافعات ١٤٣٥هـ') والتصنيف ('المحاكم والمرافعات') ونوع المادة ('كتاب') تشير بوضوح إلى مادة قانونية مباشرة متعلقة بالمرافعات والإجراءات القضائية، وبالتالي تُحتفظ بالمادة. نقص بيانات المؤلف أو الوصف لا يستدعي الإزالة أو المراجعة وفقاً للإرشادات.",
+        "confidence": 90,
+        "signals": [
+          "العنوان يحتوي على 'المرافعات'، ما يدل على صبغة قانونية/إجرائية",
+          "التصنيف: 'المحاكم والمرافعات' يطابق فئات قانونية محفوظة",
+          "نوع المادة: كتاب (مادة مرجعية قانونية محتملة)",
+          "المصدر: المكتبة القانونية ⚖️ (مصدر قانوني متوقع)",
+          "ذكر السنة الهجرية ١٤٣٥هـ يشير لنشر أو فهرس قانوني",
+          "غياب مؤلف/وصف لا يمنع التصنيف كبند قانوني وفق التعليمات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 115,
+        "id": "legal_lib_11763",
+        "title": "نظام المرافعات",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "4.2 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/681",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11763",
+        "title": "نظام المرافعات",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر لنظام المرافعات (قانون/نظام إجراءات) والمادة مصنفة ضمن فئة المحاكم والمرافعات وبصفتها 'نظام' فهي مادة تنظيمية/قانونية مباشرة تستدعي الاحتفاظ بها.",
+        "confidence": 95,
+        "signals": [
+          "العنوان 'نظام المرافعات' يشير إلى نص تشريعي/نظامي",
+          "الفئة 'المحاكم والمرافعات' تناسب المواد القانونية القضائية",
+          "نوع المادة 'نظام' يؤكد طابع تنظيمي/قانوني",
+          "المصدر 'المكتبة القانونية' مناسب لمحتوى قانوني",
+          "غياب المؤلف أو الرابط لا يمنع اتخاذ قرار وفق التعليمات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 117,
+        "id": "legal_lib_11784",
+        "title": "التحكيم والحضانة والنفقة",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "DOCX",
+        "file_size": "240 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/702",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11784",
+        "title": "التحكيم والحضانة والنفقة",
+        "decision": "KEEP",
+        "reason": "العنوان يتضمن مواضيع قانونية مباشرة وواضحة: التحكيم (قانون المنازعات) والحضانة والنفقة (قانون الأسرة). التصنيف ('المحاماة والتحكيم') ومصدر السجل ('المكتبة القانونية') ونوع المادة ('كتاب') يتوافقون مع حفظ مواد قانونية وقضائية. لا توجد دلائل على أنها مادة سياسية أو دعائية أو تاريخية خارج الاختصاص القانوني، ولا يتطلب الغموض حكم REVIEW.",
+        "confidence": 92,
+        "signals": [
+          "عنوان يتضمن مواضيع قانونية مباشرة: التحكيم، الحضانة، النفقة",
+          "التصنيف: المحاماة والتحكيم — ملائم للاحتفاظ",
+          "مصدر: المكتبة القانونية — مصدر قانوني متخصص",
+          "نوع المادة: كتاب — ملائم لمحتوى قانوني",
+          "لا توجد إشارات إلى محتوى سياسي/دعائي/تاريخي خارج الاختصاص"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 121,
+        "id": "legal_lib_11815",
+        "title": "تحرير الدعوى",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "DOC",
+        "file_size": "20 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/735",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11815",
+        "title": "تحرير الدعوى",
+        "decision": "KEEP",
+        "reason": "العنوان 'تحرير الدعوى' والفئة 'المحاكم والمرافعات' تشير بوضوح إلى مادة عملية في ميدان المرافعات وصياغة المذكرات والطلبات القضائية، وهي ضمن اختصاص القضاء والإجراءات والمحاماة وبالتالي يجب حفظها.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: تحرير الدعوى",
+          "الفئة: المحاكم والمرافعات",
+          "نوع المادة: كتاب",
+          "المحتوى المتوقع: المرافعات والإجراءات وصياغة الدعاوى",
+          "المصدر: المكتبة القانونية ⚖️",
+          "امتداد الملف: DOC",
+          "وجود رابط إشاعة (Telegram) للمادة"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 122,
+        "id": "legal_lib_11838",
+        "title": "قضاء التحكيم",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "DOC",
+        "file_size": "35 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/758",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11838",
+        "title": "قضاء التحكيم",
+        "decision": "KEEP",
+        "reason": "العنوان والتصنيف يشيران بوضوح إلى مادة قانونية متعلقة بالتحكيم (قضاء التحكيم) وهي ضمن اختصاص المكنز في المحاماة والتحكيم وتعد مادة قانونية/قضائية مباشرة.",
+        "confidence": 92,
+        "signals": [
+          "العنوان: \"قضاء التحكيم\" يشير إلى موضوع تحكيمي قضائي",
+          "التصنيف: \"المحاماة والتحكيم\" يطابق محتوى قانوني متخصص",
+          "نوع المادة: كتاب (مادة قانونية معمقة متوقعة)",
+          "المصدر: المكتبة القانونية ⚖️ (مصدر قانوني)",
+          "لا توجد إشارات إلى طابع سياسي أو دعائي أو غير قانوني"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 128,
+        "id": "legal_lib_11876",
+        "title": "نظام ديوان المظالم",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء الإداري",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "1.2 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/818",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11876",
+        "title": "نظام ديوان المظالم",
+        "decision": "KEEP",
+        "reason": "العنوان 'نظام ديوان المظالم' يحدد أنه نص تنظيمي/قانوني مباشر ويتعلق بمجال القضاء الإداري؛ نوع المادة 'نظام' والفئة 'القضاء الإداري' تؤكد أنه ضمن اختصاص المكنز (قوانين وأنظمة وقضاء إداري).",
+        "confidence": 95,
+        "signals": [
+          "عنوان يتضمن كلمة 'نظام'",
+          "مذكور 'ديوان المظالم' (جهة قضائية إدارية)",
+          "الفئة: القضاء الإداري",
+          "نوع المادة: نظام",
+          "المصدر: المكتبة القانونية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 154,
+        "id": "legal_lib_11943",
+        "title": "إجراءات التحكيم",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "566 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/944",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11943",
+        "title": "إجراءات التحكيم",
+        "decision": "KEEP",
+        "reason": "المادة عنوانها ومصنفة ضمن المحاماة والتحكيم وهي كتاب عن إجراءات التحكيم، أي مادة قانونية متخصصة مباشرة في التحكيم والوساطة والإجراءات القضائية؛ تندرج بوضوح ضمن نطاق الاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على كلمة 'التحكيم'",
+          "الفئة 'المحاماة والتحكيم'",
+          "نوع المادة: كتاب (PDF)",
+          "المصدر: المكتبة القانونية",
+          "وجود رابط نشر (Telegram)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 165,
+        "id": "legal_lib_11954",
+        "title": "قواعد التحكيم والوساطة",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "795 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/956",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11954",
+        "title": "قواعد التحكيم والوساطة",
+        "decision": "KEEP",
+        "reason": "العنوان 'قواعد التحكيم والوساطة' وفئتها 'المحاماة والتحكيم' تشير إلى مادة قانونية وإجرائية مباشرة تتناول آليات وقواعد التحكيم والوساطة — موضوع يندرج صراحة تحت اختصاص القضاء والأنظمة والمحاماة. غياب مؤلف أو وصف تفصيلي لا يغيّر التصنيف لأن العنوان والمصدر كافيان لتحديد طبيعته القانونية.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يتضمن مصطلحات قانونية/إجرائية: تحكيم، وساطة",
+          "الفئة: المحاماة والتحكيم",
+          "نوع المادة: كتاب (مادة قانونية/مهنية)",
+          "مصدر: المكتبة القانونية",
+          "صيغة الملف: PDF ووجود رابط تيليجرام",
+          "غياب اسم المؤلف لا يمنع التصنيف وفق التعليمات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 176,
+        "id": "legal_lib_11988",
+        "title": "الدعوى العقارية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "1.4 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1008",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11988",
+        "title": "الدعوى العقارية",
+        "decision": "KEEP",
+        "reason": "عنوان العمل 'الدعوى العقارية' وتصنيفه 'المحاكم والمرافعات' يشيران بوضوح إلى مادة قانونية موضوعية تتناول القضايا والإجراءات القضائية المتعلقة بالعقارات (قانون مدني وإجراءات مدنية)، مما يندرج صراحة تحت المواد القانونية والقضائية التي يجب الاحتفاظ بها.",
+        "confidence": 95,
+        "signals": [
+          "عنوان صريح عن دعوى عقارية (قضية قانونية)",
+          "تصنيف المحتوى: المحاكم والمرافعات",
+          "نوع المادة: كتاب (ملف PDF)",
+          "المصدر: المكتبة القانونية ⚖️"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 177,
+        "id": "legal_lib_11989",
+        "title": "القضاء في التحكيم",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "638 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1010",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_11989",
+        "title": "القضاء في التحكيم",
+        "decision": "KEEP",
+        "reason": "العنوان 'القضاء في التحكيم' واضح ومباشر ويتناول علاقة القضاء بالتحكيم، وهو موضوع قانوني بحت يندرج ضمن المحاماة والتحكيم والفقه القضائي. الفئة 'المحاماة والتحكيم' ونوع المادة (كتاب) يدعمان كونه مادة قانونية مباشرة قابلة للاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يشير صراحة إلى القضاء والتحكيم",
+          "الفئة 'المحاماة والتحكيم' متوافقة مع محتوى قانوني",
+          "نوع المادة: كتاب قانوني",
+          "المصدر: المكتبة القانونية ⚖️",
+          "غياب بيانات المؤلف أو الرابط لا يلزم إجراء مراجعة بحسب الإرشادات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 181,
+        "id": "legal_lib_12001",
+        "title": "الشخصية القانونية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "191 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1034",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12001",
+        "title": "الشخصية القانونية",
+        "decision": "KEEP",
+        "reason": "العنوان 'الشخصية القانونية' يشير إلى موضوع قانوني مباشر وأساسي يتعلق بالقانون المدني/التجاري وبنية الأشخاص الاعتبارية والطبيعية. السجل مصنَّف ضمن 'الأنظمة والتشريعات' ومصدره 'المكتبة القانونية' ونوعه 'كتاب'، ما يطابق المواد القانونية والقضائية التي يجب الاحتفاظ بها. نقص معلومات المؤلف أو الوصف لا يمنع التصنيف على أنه مادة قانونية محافِظة.",
+        "confidence": 92,
+        "signals": [
+          "عنوان قانوني مباشر: 'الشخصية القانونية'",
+          "تصنيف: الأنظمة والتشريعات",
+          "مصدر: المكتبة القانونية ⚖️",
+          "نوع المادة: كتاب",
+          "موضوع مرتبط بالقانون المدني/التجاري والأحوال الشخصية/الكيانات القانونية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 186,
+        "id": "legal_lib_12052",
+        "title": "نظام العمل 3",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "أنظمة العمل",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "1.5 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1093",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12052",
+        "title": "نظام العمل 3",
+        "decision": "KEEP",
+        "reason": "العنوان والتصنيف ونوع المادة تشير بوضوح إلى نص تنظيمي في مجال قانون العمل (نظام عمل)، وهو ضمن اختصاص المكنز وفقًا للقواعد (أنظمة وقوانين العمل).",
+        "confidence": 90,
+        "signals": [
+          "category: أنظمة العمل",
+          "material_type: نظام",
+          "title contains 'نظام العمل'",
+          "source: المكتبة القانونية ⚖️",
+          "file_type: PDF",
+          "وجود رابط في Telegram"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 192,
+        "id": "legal_lib_12090",
+        "title": "نظام الشركات و العقود",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "940 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1145",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12090",
+        "title": "نظام الشركات و العقود",
+        "decision": "KEEP",
+        "reason": "العنوان والمجال يشيران إلى نص تنظيمي مباشر: 'نظام الشركات و العقود' مصنف ضمن 'الأنظمة التجارية' ونوع المادة 'نظام'، مما يجعله مادة قانونية/نظامية ذات صلة بالتشريع التجاري والشركات والعقود، ولذلك تُحفظ.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على كلمات دالة: 'نظام'، 'الشركات'، 'العقود'",
+          "التصنيف: الأنظمة التجارية",
+          "material_type: نظام",
+          "المصدر: المكتبة القانونية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "sensitive_or_false_match_terms"
+      ],
+      "matched_terms": [
+        "العقود"
+      ]
+    },
+    {
+      "record": {
+        "audit_index": 193,
+        "id": "legal_lib_12091",
+        "title": "نظام الشركات الجديد",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "1.0 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1146",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12091",
+        "title": "نظام الشركات الجديد",
+        "decision": "KEEP",
+        "reason": "العنوان والفئة ونوع المادة تشير بوضوح إلى نص تشريعي/تنظيمي مباشر: 'نظام الشركات الجديد' مصنّف ضمن الأنظمة التجارية وبمادة نوعها 'نظام'، ما يجعله مادة قانونية/تنظيمية مناسبة للحفظ في المكنز.",
+        "confidence": 98,
+        "signals": [
+          "العنوان: 'نظام الشركات الجديد' (يشير إلى تشريع/نظام)",
+          "الفئة: الأنظمة التجارية",
+          "نوع المادة: نظام (تشريعي/تنظيمي)",
+          "المصدر: المكتبة القانونية (مصدر مختص بالقانون)",
+          "صيغة الملف: PDF",
+          "وجود رابط نشر (تليجرام)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 197,
+        "id": "legal_lib_12107",
+        "title": "صديق المحامي",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "2.6 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1177",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12107",
+        "title": "صديق المحامي",
+        "decision": "KEEP",
+        "reason": "العنوان والتصنيف واضحان بأن المادة تنتمي إلى نطاق المحاماة/التحكيم (مرجع أو كتاب مهني أو عملي في واجبات/مساعدة المحامين)، وبالتالي مادة قانونية مباشرة تستحق الاحتفاظ.",
+        "confidence": 85,
+        "signals": [
+          "عنوان يحتوي على كلمة 'المحامي'",
+          "تصنيف: المحاماة والتحكيم",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية",
+          "صيغة الملف: PDF",
+          "غياب مؤلف أو وصف إضافي موجود لكنه ليس سبباً للحذف"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 200,
+        "id": "legal_lib_12121",
+        "title": "في اروقة المحاكم",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "2.8 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1240",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12121",
+        "title": "في اروقة المحاكم",
+        "decision": "KEEP",
+        "reason": "العنوان 'في اروقة المحاكم' والفئة 'المحاكم والمرافعات' والمصدر 'المكتبة القانونية' تشير بوضوح إلى مادة قانونية/قضائية متعلقة بالمحاكم والإجراءات. نقص اسم المؤلف والوصف لا يكفيان لرفض أو لمراجعة السجل، إذ توجد إشارات كافية لتصنيفه كمادة قانونية ذات صلة.",
+        "confidence": 90,
+        "signals": [
+          "العنوان يتضمن كلمة 'المحاكم'",
+          "الفئة مصنفة كـ 'المحاكم والمرافعات'",
+          "المصدر: المكتبة القانونية ⚖️",
+          "نوع المادة: كتاب (مادة معرفية/قانونية محتملة)",
+          "تنسيق الملف: PDF",
+          "غياب المؤلف والوصف متوفر لكن لا يمنع التصنيف كقانوني"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 202,
+        "id": "legal_lib_12131",
+        "title": "دعوى احتساب",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "491 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1251",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12131",
+        "title": "دعوى احتساب",
+        "decision": "KEEP",
+        "reason": "العنوان 'دعوى احتساب' وتصنيفها 'المحاكم والمرافعات' يشيران بوضوح إلى مادة قانونية متعلقة بالإجراءات والدعاوى القضائية. تُعد مادة مباشرة ضمن اختصاص المكنز القضائي؛ نقص بيانات المؤلف أو الوصف لا يمنع الاحتفاظ.",
+        "confidence": 90,
+        "signals": [
+          "العنوان: دعوى احتساب",
+          "الفئة: المحاكم والمرافعات",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية ⚖️",
+          "وجود رابط تلغرام كمؤشر لمصدر مكتبي/رقمي",
+          "الموضوع مرتبط بالإجراءات القضائية والدعاوى"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 203,
+        "id": "legal_lib_12132",
+        "title": "مصطلحات القانون التجاري",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "406 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1252",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12132",
+        "title": "مصطلحات القانون التجاري",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر ويتعلق بالقانون التجاري ('مصطلحات القانون التجاري')، المصنّف تحت 'الأنظمة التجارية' ونوعه 'كتاب'، مما يجعله مادة قانونية مباشرة وذات صلة بالمكنز.",
+        "confidence": 95,
+        "signals": [
+          "Title includes 'القانون التجاري'",
+          "Category: الأنظمة التجارية",
+          "Material type: كتاب",
+          "Source: المكتبة القانونية ⚖️",
+          "File type: PDF",
+          "Link present: Telegram"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 204,
+        "id": "legal_lib_12133",
+        "title": "مصطلحات القانون الاداري",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "477 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1253",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12133",
+        "title": "مصطلحات القانون الاداري",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر: 'مصطلحات القانون الإداري' يندرج ضمن مادة قانونية متخصصة في القانون الإداري، وهو ضمن نطاق الأنظمة والتشريعات والمواد القانونية المسموح بها. نقص المؤلف أو السنة لا يغير الطبيعة القانونية للمصدر.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على 'القانون الإداري' ويشير إلى مصطلحات قانونية متخصصة",
+          "التصنيف: الأنظمة والتشريعات",
+          "نوع المادة: كتاب (مادة قانونية مرجعية)",
+          "المصدر: المكتبة القانونية ⚖️ (مصدر قانوني واضح)",
+          "غياب مؤلف/سنة موجود لكنه لا يستدعي REVIEW حسب التعليمات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 205,
+        "id": "legal_lib_12144",
+        "title": "حقوق المحامي",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "2.1 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1269",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12144",
+        "title": "حقوق المحامي",
+        "decision": "KEEP",
+        "reason": "العنوان 'حقوق المحامي' والتصنيف 'المحاماة والتحكيم' ونوع المادة (كتاب، PDF) تشير بوضوح إلى مادة قانونية مباشرة تتعلق بحقوق وممارسة مهنة المحاماة، وبالتالي تدخل ضمن المحتوى القانوني المقبول للحفظ.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: حقوق المحامي",
+          "التصنيف: المحاماة والتحكيم",
+          "نوع المادة: كتاب",
+          "صيغة الملف: PDF",
+          "مصدر: المكتبة القانونية ⚖️"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 209,
+        "id": "legal_lib_12152",
+        "title": "1.نظام القضاء (1)",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "619 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1280",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12152",
+        "title": "1.نظام القضاء (1)",
+        "decision": "KEEP",
+        "reason": "العنوان 'نظام القضاء'، التصنيف 'المحاكم والمرافعات' ونوع المادة 'نظام' تشير بوضوح إلى نص نظامي/قانوني يندرج ضمن الاختصاص القضائي والتنظيمي للمكنز، لذا يجب الاحتفاظ به.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يتضمن 'نظام القضاء'",
+          "التصنيف: المحاكم والمرافعات",
+          "نوع المادة: نظام (لوائح/قوانين)",
+          "المصدر: المكتبة القانونية (مصدر قانوني)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 216,
+        "id": "legal_lib_12171",
+        "title": "تهذيب مذكرة المرافعات",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "1.9 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1301",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12171",
+        "title": "تهذيب مذكرة المرافعات",
+        "decision": "KEEP",
+        "reason": "العنوان واضح بأنه دليل/كتاب عملي حول 'مذكرة المرافعات' وهو موضوع إداري-قضائي وإجرائي مباشر ضمن اختصاص المحاكم والمرافعات. التصنيف المرفق ('المحاكم والمرافعات') ونوع المادة (كتاب) يدعمان أنه مادة قانونية وقضائية بحتة تستوفي معايير الاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "عنوان يشير إلى مذكرة المرافعات (إجراءات وكتابة مذكرات)",
+          "التصنيف: المحاكم والمرافعات",
+          "نوع المادة: كتاب (مادة قانونية/إجرائية)",
+          "مصدر: المكتبة القانونية ⚖️",
+          "توافر رابط تيليجرام يدل على إمكانية الوصول إلى الملف"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 217,
+        "id": "legal_lib_12172",
+        "title": "أحكام الملازمة القضائية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء والأنظمة العامة",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "1.7 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1302",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12172",
+        "title": "أحكام الملازمة القضائية",
+        "decision": "KEEP",
+        "reason": "العنوان 'أحكام الملازمة القضائية' يشير بوضوح إلى موضوع قانوني/قضائي متعلق بأحكام القضاء أو مبدأ الملازمة القضائية، والفئة المسجلة 'القضاء والأنظمة العامة' والمصدر 'المكتبة القانونية' يؤكدان أنها مادة قانونية مباشرة. لا يوجد ما يشير إلى أنها سياسية أو دعائية أو تاريخية خارج النطاق القانوني، لذلك تُحفظ.",
+        "confidence": 90,
+        "signals": [
+          "العنوان يشير إلى موضوع قضائي (أحكام الملازمة القضائية)",
+          "الفئة: القضاء والأنظمة العامة",
+          "المصدر: المكتبة القانونية ⚖️",
+          "نوع المادة: كتاب (مادة قانونية مطبوعة)",
+          "وجود رابط نشر عبر قناة تيليجرام للمكتبة القانونية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 218,
+        "id": "legal_lib_12175",
+        "title": "1.نظام القضاء",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "619 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1307",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12175",
+        "title": "1.نظام القضاء",
+        "decision": "KEEP",
+        "reason": "المادة ظاهرة كنظام تنظيمي يتعلق بالقضاء والمحاكم (عنوان واضح: \"نظام القضاء\" وفئة \"المحاكم والمرافعات\")، وبصفتها \"نظام\" فهي نص قانوني/تنظيمي مباشر يندرج ضمن المحتوى القانوني المقبول للاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "عنوان يذكر \"نظام القضاء\"",
+          "الفئة: المحاكم والمرافعات",
+          "نوع المادة: نظام (قانوني/تشريعي)",
+          "مصدر: المكتبة القانونية (محتوى قانوني)",
+          "صيغة الملف: PDF",
+          "لا دلائل على كونها مادة سياسية/دعائية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 219,
+        "id": "legal_lib_12176",
+        "title": "- الأوراق التجارية-1",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "8.6 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1308",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12176",
+        "title": "- الأوراق التجارية-1",
+        "decision": "KEEP",
+        "reason": "العنوان 'الأوراق التجارية' والتصنيف 'الأنظمة التجارية' يشيران بوضوح إلى مادة قانونية متعلقة بالأوراق التجارية (الشيكات، السندات، الحوالات وغيرها) وهي ضمن اختصاص المكنز؛ الكتاب مناسب للاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "عنوان: الأوراق التجارية",
+          "تصنيف: الأنظمة التجارية",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية",
+          "شكل ملف: PDF (محتوى نصي قانوني متوقع)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 228,
+        "id": "legal_lib_12207",
+        "title": "الاوراق التجارية المعاصرة",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "544 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1369",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12207",
+        "title": "الاوراق التجارية المعاصرة",
+        "decision": "KEEP",
+        "reason": "العنوان يشير بوضوح إلى موضوع قانوني متخصص (الأوراق التجارية) وهو ضمن نطاق الأنظمة التجارية والفقه القضائي؛ المادة عبارة عن كتاب قانوني بالمكتبة القانونية مما يجعلها ملائمة للاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: الأوراق التجارية المعاصرة",
+          "الفئة: الأنظمة التجارية",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية ⚖️",
+          "موضوع مرتبط بالقانون التجاري والأوراق التجارية (قانونية/تنظيمية)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 235,
+        "id": "legal_lib_12223",
+        "title": "خصوصية الجرائم المعلوماتية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الجنايات والحدود",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "1.3 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1389",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12223",
+        "title": "خصوصية الجرائم المعلوماتية",
+        "decision": "KEEP",
+        "reason": "العنوان يشير بوضوح إلى موضوع قانوني جنائي (الجرائم المعلوماتية) ويدخل ضمن اختصاص المكنز (قوانين جزائية وقانون تقنية المعلومات). التصنيف المرفق 'الجنايات والحدود' ونوع المادة 'كتاب' ومصدرها 'المكتبة القانونية' يؤكد أنها مادة قانونية/قضائية مباشرة ذات صلة ولا تبدو سياسية أو دعائية.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: 'الجرائم المعلوماتية' (موضوع قانوني جنائي/تقني واضح)",
+          "الكلمة 'خصوصية' في السياق تبدو مرتبطة بالجانب القانوني أو التمييز الخاص للجرائم وليس دعائياً",
+          "التصنيف المرفق: 'الجنايات والحدود' (مجال جنائي)",
+          "نوع المادة: 'كتاب' — على الأرجح دراسة قانونية",
+          "المصدر: 'المكتبة القانونية ⚖️' يدل على طابع قانوني",
+          "وجود رابط (قناة تلغرام) لا يغيّر الطابع القانوني",
+          "غياب اسم المؤلف أو الناشر ليس سبباً للرفض وفق التعليمات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 244,
+        "id": "legal_lib_12234",
+        "title": "جرائم التزوير",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء والأنظمة العامة",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "376 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1401",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12234",
+        "title": "جرائم التزوير",
+        "decision": "KEEP",
+        "reason": "العنوان يشير بوضوح إلى موضوع قانوني جنائي مباشر (جرائم التزوير) وهو من اختصاص القانون الجنائي والإجراءات القضائية. التصنيف المصدر (المكتبة القانونية) ونوع المادة (كتاب) يؤكدان الطابع القانوني. لا يوجد غموض يستدعي REVIEW.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: 'جرائم التزوير' (موضوع جنائي/قانوني واضح)",
+          "الفئة: 'القضاء والأنظمة العامة' (تصنيف قانوني)",
+          "نوع المادة: كتاب (مادة قانونية محتملة)",
+          "المصدر: المكتبة القانونية ⚖️ (مصدر قانوني)",
+          "غياب مؤلف/ناشر غير كافٍ للمراجعة وفق التعليمات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 246,
+        "id": "legal_lib_12237",
+        "title": "جرائم التزوير الالكترونية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء والأنظمة العامة",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "3.0 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1404",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12237",
+        "title": "جرائم التزوير الالكترونية",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر ويتعلق بجانب جنائي وتقني في القانون (جرائم التزوير الإلكتروني)، وهو ضمن اختصاص القضاء والأنظمة العامة والقوانين الجنائية والرقمية، وبالتالي مادة قانونية مباشرة ملائمة للمكنز.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: جرائم التزوير الالكترونية (موضوع جنائي/قانوني مباشر)",
+          "الفئة: القضاء والأنظمة العامة (مطابقة تصنيف قانوني)",
+          "نوع المادة: كتاب (مادة معرفية قانونية)",
+          "مصدر: المكتبة القانونية ⚖️ (مخزن قانوني مخصص)",
+          "صيغة الملف: PDF (مستند محتمل للمراجعة القانونية)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 249,
+        "id": "legal_lib_12248",
+        "title": "لغة الحكم القضائي",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "11.3 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1417",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12248",
+        "title": "لغة الحكم القضائي",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر («لغة الحكم القضائي») ويشير إلى مادة متخصصة في صياغة الأحكام وأساليبها؛ التصنيف «المحاكم والمرافعات» يؤكد الطابع القضائي والإجرائي. المادة من المكتبة القانونية ونوعها كتاب—مضمون قانوني مباشر ذي صلة بالقضاء والإجراءات، ولا تشير أي دلائل إلى كونها سياسية أو دعائية.",
+        "confidence": 90,
+        "signals": [
+          "عنوان يذكر صراحة «الحكم القضائي» و«اللغة»",
+          "التصنيف: المحاكم والمرافعات (قضائي/إجرائي)",
+          "مصدر: المكتبة القانونية",
+          "نوع المادة: كتاب",
+          "غياب مؤشرات على طابع سياسي أو دعائي"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 253,
+        "id": "legal_lib_12256",
+        "title": "الاجراءات الجزائية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء والأنظمة العامة",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "1.9 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1430",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12256",
+        "title": "الاجراءات الجزائية",
+        "decision": "KEEP",
+        "reason": "العنوان 'الإجراءات الجزائية' مصنّف ضمن 'القضاء والأنظمة العامة' وبوضوح يغطي موضوعات قانونية مباشرة متعلقة بقانون الإجراءات الجنائية والمحاكم والإجراءات الجنائية والادلة — يندرج صراحة ضمن اختصاص المكنز. غياب مؤلف أو تاريخ لا يستدعي REVIEW وفق التعليمات.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي مصطلح قانوني مباشر: 'الإجراءات الجزائية'",
+          "الفئة: القضاء والأنظمة العامة",
+          "نوع المادة: كتاب (مادة قانونية/فنية)",
+          "المصدر: المكتبة القانونية ⚖️ (مصدر قانوني)",
+          "وجود رابط نشر (تليغرام) يدل على توفر الملف"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 254,
+        "id": "legal_lib_12258",
+        "title": "التنظيم القضائي للمملكة",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "كتاب",
+        "file_type": "DOC",
+        "file_size": "172 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1432",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12258",
+        "title": "التنظيم القضائي للمملكة",
+        "decision": "KEEP",
+        "reason": "العنوان صريح ويشير إلى موضوع قانوني مباشر (التنظيم القضائي للمملكة) وهو داخل نطاق الأنظمة والتشريعات والقضاء، ما يجعله مادة قانونية محورية ومؤهلة للاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يشير صراحة إلى التنظيم القضائي",
+          "الفئة: الأنظمة والتشريعات",
+          "مصدر: المكتبة القانونية (مصدر قانوني)",
+          "نوع المادة: كتاب قانوني/تخصصي",
+          "وجود رابط نشر (تلغرام)",
+          "لا توجد إشارات لأغراض حزبية أو دعائية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 261,
+        "id": "legal_lib_12275",
+        "title": "نظام الشركات السعودي",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "251 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1451",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12275",
+        "title": "نظام الشركات السعودي",
+        "decision": "KEEP",
+        "reason": "العنوان والمصنف ونوع المادة واضحان: وثيقة تشريعية مباشرة (نظام الشركات السعودي) تندرج ضمن الأنظمة التجارية، مما يجعلها مادة قانونية قضائية/تنظيمية قابلة للاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على كلمة 'نظام' و'الشركات'",
+          "الفئة 'الأنظمة التجارية'",
+          "نوع المادة 'نظام'",
+          "مصدر 'المكتبة القانونية'",
+          "صيغة الملف PDF",
+          "وجود رابط نشر (Telegram)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 263,
+        "id": "legal_lib_12277",
+        "title": "نظام السوق المالية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "602 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1454",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12277",
+        "title": "نظام السوق المالية",
+        "decision": "KEEP",
+        "reason": "عنوان ووصف المادة يشيران إلى نص تشريعي مباشر ('نظام السوق المالية') وخاضع للفئة 'الأنظمة والتشريعات'، ونوع المادة محدد كـ 'نظام' — يدخل صراحة في نطاق المواد القانونية والتنظيمية التي يجب الاحتفاظ بها.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: نظام السوق المالية",
+          "الفئة: الأنظمة والتشريعات",
+          "نوع المادة: نظام",
+          "مصدر: المكتبة القانونية ⚖️",
+          "امتداد الملف: PDF",
+          "غياب اسم المؤلف/الناشر لا يؤثر على الحكم"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 274,
+        "id": "legal_lib_12318",
+        "title": "مجموعة الاحكام القضائية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء والأنظمة العامة",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "27.8 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1500",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12318",
+        "title": "مجموعة الاحكام القضائية",
+        "decision": "KEEP",
+        "reason": "العنوان صريح وواضح ('مجموعة الأحكام القضائية') ويشير إلى تجميع لأحكام قضائية أو اجتهادات؛ الفئة المعطاة 'القضاء والأنظمة العامة' ونوع المادة 'كتاب' يؤكدان كونها مادة قانونية/قضائية مباشرة تندرج ضمن نطاق الاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: مجموعة الاحكام القضائية",
+          "الفئة: القضاء والأنظمة العامة",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية",
+          "المحتوى المتوقع: أحكام قضائية/اجتهادات (مادة قانونية مباشرة)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 275,
+        "id": "legal_lib_12319",
+        "title": "نظام المرافعات الشرعية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "12.4 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1501",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12319",
+        "title": "نظام المرافعات الشرعية",
+        "decision": "KEEP",
+        "reason": "وثيقة تنظيمية وقانونية مباشرة تختص بإجراءات التقاضي أمام المحاكم الشرعية (نظام المرافعات)، وتندرج بوضوح ضمن المواد القانونية والقضائية التي ينبغي الاحتفاظ بها.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: 'نظام المرافعات الشرعية' يشير إلى نص تشريعي/نظامي",
+          "الفئة: المحاكم والمرافعات",
+          "نوع المادة: نظام (قانوني/تنظيمي)",
+          "المصدر: المكتبة القانونية (مصدر قانوني)",
+          "المحتوى المتوقع: قواعد وإجراءات قضائية ومرافعات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 277,
+        "id": "legal_lib_12326",
+        "title": "الأوراق التجارية والإفلاس",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "1.6 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1509",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12326",
+        "title": "الأوراق التجارية والإفلاس",
+        "decision": "KEEP",
+        "reason": "العنوان يغطي موضوعين قانونيين مباشرين (الأوراق التجارية والإفلاس) وهما من اختصاص الأنظمة التجارية والإفلاس والخصومة التنفيذية؛ المادة مصنفة ككتاب في 'الأنظمة التجارية' مما يطابق بدقة معايير الاحتفاظ بالمكنز.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يتضمن مصطلحات قانونية مباشرة: 'الأوراق التجارية' و'الإفلاس'",
+          "الفئة المعطاة: الأنظمة التجارية (موضوع قانوني واضح)",
+          "نوع المادة: كتاب (مادة قانونية مرجعية)",
+          "مصدر: المكتبة القانونية ⚖️ (مكتبة متخصصة)",
+          "صيغة الملف: PDF",
+          "وجود رابط تيليغرام كمصدر وصول"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 278,
+        "id": "legal_lib_12328",
+        "title": "القانون الإداري 2",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء الإداري",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "6.3 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1512",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12328",
+        "title": "القانون الإداري 2",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر (القانون الإداري 2) والفئة المصنفة 'القضاء الإداري' تشير إلى مادة قانونية/قضائية مباشرة تتعلق بالقانون والإجراءات الإدارية، ما يندرج ضمن نطاق المكنز القانوني المطلوب الاحتفاظ به.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يشير إلى موضوع قانوني: 'القانون الإداري'",
+          "الفئة المصنفة: 'القضاء الإداري'",
+          "نوع المادة: كتاب (مادة قانونية)",
+          "مصدر: المكتبة القانونية ⚖️",
+          "وجود رابط نشر (تلغرام) يدل على توفر الملف)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 279,
+        "id": "legal_lib_12332",
+        "title": "القضاء الإداري",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "5.5 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1519",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12332",
+        "title": "القضاء الإداري",
+        "decision": "KEEP",
+        "reason": "العنوان \"القضاء الإداري\" واضح ومباشر كمحتوى قانوني يتعلق بالنظام القضائي والإجراءات الإدارية، المصنّف ضمن \"المحاكم والمرافعات\" ومنشور في \"المكتبة القانونية\"، لذا يندرج ضمن المواد القانونية والقضائية التي يجب الاحتفاظ بها.",
+        "confidence": 95,
+        "signals": [
+          "عنوان صريح ومباشر: \"القضاء الإداري\"",
+          "تصنيف مناسب: المحاكم والمرافعات",
+          "مصدر قانوني: المكتبة القانونية",
+          "نوع المادة: كتاب (محتوى قانوني متوقع)",
+          "وجود رابط نشر (تلغرام)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 282,
+        "id": "legal_lib_12419",
+        "title": "نظام مكافحة التستر",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "نظام",
+        "file_type": "DOC",
+        "file_size": "36 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1622",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12419",
+        "title": "نظام مكافحة التستر",
+        "decision": "KEEP",
+        "reason": "العنوان والمعلومات المصاحبة تشير بوضوح إلى نظام تشريعي (نظام مكافحة التستر) وهو مادة قانونية وتنظيمية مباشرة تدخل ضمن الأنظمة والتشريعات المرتبطة بالقانون التجاري/الجنائي والتنفيذ. يندرج بوضوح تحت اختصاص المكنز القانوني ولا يندرج ضمن مواد سياسية أو أيديولوجية.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: نظام مكافحة التستر",
+          "التصنيف: الأنظمة والتشريعات",
+          "نوع المادة: نظام",
+          "مصدر: المكتبة القانونية",
+          "مادة قانونية تنظيمية واضحة ذات صلة بتنظيم ومكافحة ممارسات تجارية مخالفة"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 301,
+        "id": "legal_lib_12528",
+        "title": "تخفيض الموثقين للمحامين",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "328 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1877",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12528",
+        "title": "تخفيض الموثقين للمحامين",
+        "decision": "KEEP",
+        "reason": "العنوان والفئة يشيران إلى مادة قانونية/مهنية مباشرة تتعلق بالمحاماة والموثقين — موضوع ضمن نطاق المكنز (قواعد مزاولة المهنة/العلاقة المهنية/أتعاب الموثقين والمحامين). عدم وجود مؤلف أو وصف إضافي لا يغيّر الطبيعة القانونية الواضحة للمادة، لذا تبقى للاحتفاظ.",
+        "confidence": 92,
+        "signals": [
+          "الفئة: المحاماة والتحكيم",
+          "العنوان يحتوي على 'الموثقين' و'المحامين'",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية",
+          "غياب مؤلف/وصف لكنه لا يغيّر الطابع القانوني الواضح"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 310,
+        "id": "legal_lib_12589",
+        "title": "فهرسة نظام التنفيذ",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "195 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1941",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12589",
+        "title": "فهرسة نظام التنفيذ",
+        "decision": "KEEP",
+        "reason": "العنوان ومعلومات التصنيف تشير إلى مادة نظامية مباشرة تتعلق بـ\"نظام التنفيذ\"، وهو نص تشريعي/تنظيمي يقع تماماً ضمن اختصاص المكنز (الأنظمة والتشريعات والقوانين). نقص الوصف والمؤلف لا يغيران أن العنوان ونوع المادة كافيان للحكم بالاحتفاظ.",
+        "confidence": 95,
+        "signals": [
+          "عنوان يحتوي على 'نظام التنفيذ'",
+          "الفئة: الأنظمة والتشريعات",
+          "نوع المادة: نظام",
+          "المصدر: المكتبة القانونية",
+          "ملف بصيغة PDF",
+          "غياب وصف/مؤلف لكنه لا يعيّن حذف أو مراجعة"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 311,
+        "id": "legal_lib_12592",
+        "title": "نظام التنفيذ مفهرس",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "1.2 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/1944",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12592",
+        "title": "نظام التنفيذ مفهرس",
+        "decision": "KEEP",
+        "reason": "العنوان 'نظام التنفيذ' معطى كتسمية واضحة لنص نظامي/تشريعي، والتصنيف 'الأنظمة والتشريعات' ونوع المادة 'نظام' يؤكد أن المحتوى قانوني/نظامي متصل بإنفاذ الأحكام، وهو ضمن اختصاص المكنز.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي 'نظام التنفيذ'",
+          "الفئة: الأنظمة والتشريعات",
+          "نوع المادة: نظام",
+          "مصدر: المكتبة القانونية",
+          "صيغة الملف: PDF",
+          "وجود رابط تيليجرام"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 340,
+        "id": "legal_lib_12649",
+        "title": "اختصاصات المحاكم",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "205 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2010",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12649",
+        "title": "اختصاصات المحاكم",
+        "decision": "KEEP",
+        "reason": "عنوان ووصف المادة يدلّ بوضوح على مادة قانونية قضائية مباشرة تتعلق بصلاحيات واختصاصات المحاكم، ومصنفة ضمن «المحاكم والمرافعات» مما يجعلها ضمن نطاق المواد القانونية والقضائية التي تُحفظ.",
+        "confidence": 95,
+        "signals": [
+          "عنوان واضح ودال: \"اختصاصات المحاكم\"",
+          "التصنيف: المحاكم والمرافعات (مادة قضائية وإجرائية)",
+          "نوع المادة: كتاب (مادة قانونية متوقعة)",
+          "المصدر: المكتبة القانونية (مصدر قانوني ذي صلة)",
+          "توافر رابط (تلغرام) يسهّل الوصول إلى المحتوى",
+          "غياب المؤلف أو الوصف لا يمنع التحديد وفق التعليمات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 345,
+        "id": "legal_lib_12680",
+        "title": "روابط لخدمات المحاكم",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "231 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2043",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12680",
+        "title": "روابط لخدمات المحاكم",
+        "decision": "KEEP",
+        "reason": "العنوان \"روابط لخدمات المحاكم\" مع الفئة \"المحاكم والمرافعات\" والمصدر \"المكتبة القانونية\" يشيران بوضوح إلى مادة ذات صلة مباشرة بأعمال المحاكم والخدمات والإجراءات القضائية (دليل/روابط خدمات محاكمية). هذا يندرج ضمن المحتوى القانوني/الإجرائي المباشر لذا يوجب الاحتفاظ به. غياب مؤلف أو وصف تفصيلي أو روابط إضافية لا يغير الطابع القانوني للمادة ولا يستدعي قرار REVIEW وفق التعليمات.",
+        "confidence": 90,
+        "signals": [
+          "عنوان يذكر \"خدمات المحاكم\"",
+          "فئة: المحاكم والمرافعات",
+          "مصدر: المكتبة القانونية ⚖️",
+          "نوع المادة: كتاب",
+          "وجود رابط نشر (Telegram)",
+          "غياب مؤلف/وصف لكن التعليمات تمنع جعل ذلك سبباً للمراجعة"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 349,
+        "id": "legal_lib_12719",
+        "title": "تفهيم نظام التحكيم",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "2.9 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2099",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12719",
+        "title": "تفهيم نظام التحكيم",
+        "decision": "KEEP",
+        "reason": "المادة عبارة عن شرح/تفهيم لنظام التحكيم، ومن ثم تدخل مباشرة ضمن مواد التحكيم والقضاء والأنظمة القانونية ذات العلاقة بالمحاماة والتحكيم، وبالتالي تندرج ضمن فئة KEEP.",
+        "confidence": 90,
+        "signals": [
+          "العنوان: 'تفهيم نظام التحكيم' يشير صراحة إلى مادة قانونية عن التحكيم",
+          "الفئة المسجلة: 'المحاماة والتحكيم'",
+          "نوع المادة: 'نظام' (قانون/لوائح)",
+          "مصدر: المكتبة القانونية ⚖️",
+          "صيغة ملف: PDF — نمط شائع للمواد القانونية الرسمية أو التفسيرية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 351,
+        "id": "legal_lib_12724",
+        "title": "أسس المحاماة والاستشارات وصياغة العقود",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "7.8 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2108",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12724",
+        "title": "أسس المحاماة والاستشارات وصياغة العقود",
+        "decision": "KEEP",
+        "reason": "العنوان والمصنف (المحاماة والتحكيم) يشيران بوضوح إلى مادة عملية وقانونية مباشرة تتناول أساسيات المحاماة والاستشارات وصياغة العقود، وهو داخل نطاق اختصاص المكنز القضائي والقانوني؛ لذا يجب الاحتفاظ به.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على كلمات قانونية واضحة: المحاماة، الاستشارات، صياغة العقود",
+          "الفئة المصنفة: المحاماة والتحكيم",
+          "نوع المادة: كتاب قانوني/تطبيق عملي",
+          "مصدر: المكتبة القانونية ⚖️"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "sensitive_or_false_match_terms"
+      ],
+      "matched_terms": [
+        "العقود"
+      ]
+    },
+    {
+      "record": {
+        "audit_index": 361,
+        "id": "legal_lib_12753",
+        "title": "المحاماة فن رفيع",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "1.1 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2174",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12753",
+        "title": "المحاماة فن رفيع",
+        "decision": "KEEP",
+        "reason": "العنوان والتصنيف يشيران بوضوح إلى مادة مهنية قانونية في نطاق المحاماة والمرافعات (موضوع وارد صراحة ضمن قائمة المواد المقبولة). الكتاب يندرج ضمن المحتوى القضائي/المهني لذلك يجب حفظه (KEEP).",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على كلمة 'المحاماة'",
+          "التصنيف: المحاماة والتحكيم",
+          "نوع المادة: كتاب (قانوني)",
+          "المصدر: المكتبة القانونية",
+          "توافر رابط في تيليغرام",
+          "غياب اسم المؤلف (غير مبرر للحذف حسب الإرشادات)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 362,
+        "id": "legal_lib_12755",
+        "title": "مسائل في التحكيم",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "269 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2178",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12755",
+        "title": "مسائل في التحكيم",
+        "decision": "KEEP",
+        "reason": "العنوان 'مسائل في التحكيم' والتصنيف 'المحاماة والتحكيم' يوضحان أن المادة تتناول موضوع التحكيم والوساطة، وهو موضوع قانوني مباشر ويقع داخل نطاق المحتوى القانوني المقبول (KEEP). عدم وجود مؤلف أو وصف إضافي لا يغيّر الطابع القانوني للعنوان والتصنيف.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على 'التحكيم'",
+          "التصنيف: 'المحاماة والتحكيم'",
+          "نوع المادة: كتاب (PDF)",
+          "المصدر: المكتبة القانونية ⚖️",
+          "وجود رابط قناة المكتبة (Telegram)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 366,
+        "id": "legal_lib_12777",
+        "title": "اصول قانون العقوبات",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الجنايات والحدود",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "27.3 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2202",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12777",
+        "title": "اصول قانون العقوبات",
+        "decision": "KEEP",
+        "reason": "العنوان 'أصول قانون العقوبات' واضح ومباشر ويشير إلى مادة فقهية/قانونية متعلقة بقانون العقوبات (القانون الجنائي). التصنيف 'الجنايات والحدود' ونوع المادة 'كتاب' ومصدرها 'المكتبة القانونية' يؤكدان أنها مادة قانونية موضوعية تندرج ضمن المحتويات القانونية المقبولة (قوانين، فقه جنائي، دراسات تشريعية وقضائية).",
+        "confidence": 95,
+        "signals": [
+          "العنوان يشير إلى قانون العقوبات (موضوع جنائي)",
+          "التصنيف: الجنايات والحدود",
+          "نوع المادة: كتاب (فقه/قانون)",
+          "المصدر: المكتبة القانونية",
+          "صيغة الملف: PDF",
+          "وجود رابط نشر/مشاركة (Telegram)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 390,
+        "id": "legal_lib_12897",
+        "title": "مكافحة الاتجار بالبشر",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء والأنظمة العامة",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "157 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2329",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_12897",
+        "title": "مكافحة الاتجار بالبشر",
+        "decision": "KEEP",
+        "reason": "المصدر يمثل مادة قانونية مباشرة حول مكافحة الاتجار بالبشر، وهو موضوع يندرج ضمن الجرائم والقوانين الجزائية وحقوق الإنسان والتنظيمات القانونية ذات الصلة؛ لذلك يجب الاحتفاظ به كمراجع قانونية/قضائية.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: 'مكافحة الاتجار بالبشر' يشير لموضوع جنائي وحقوقي تنظيمي واضح",
+          "الفئة: 'القضاء والأنظمة العامة' تُطابق محتوى قانوني/نظامي",
+          "نوع المادة: كتاب (مرجع قانوني محتمل)",
+          "المصدر: المكتبة القانونية ⚖️ (قاعدة قانونية)",
+          "غياب مؤلف أو رابط لا يُفقد الطبيعة القانونية للعنوان"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 419,
+        "id": "legal_lib_13063",
+        "title": "كتاب القضاء الاداري",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "37.9 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2517",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13063",
+        "title": "كتاب القضاء الاداري",
+        "decision": "KEEP",
+        "reason": "العنوان والتصنيف يشيران بوضوح إلى مادة قانونية ومحاضِرة في القضاء الإداري ضمن موضوعات المحاكم والمرافعات والفقه القضائي. يدخل ضمن المواد القانونية المباشرة المقبولة في المكنز، وغياب اسم المؤلف ليس سبباً للرفض وفق التعليمات.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: كتاب القضاء الاداري",
+          "التصنيف: المحاكم والمرافعات",
+          "موضوع مباشر: القضاء الإداري/الفقه القضائي",
+          "نوع المادة: كتاب",
+          "المصدر: المكتبة القانونية ⚖️",
+          "وجود رابط نشر (Telegram)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 425,
+        "id": "legal_lib_13138",
+        "title": "دعوى عقد",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "288 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2604",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13138",
+        "title": "دعوى عقد",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ('دعوى عقد') والفئة مصنفة ضمن المحاكم والمرافعات، مما يشير إلى مادة قانونية مباشرة تتناول دعاوى العقود وإجراءات التقاضي (قانون مدني وإجراءات مدنية). لذلك تندرج ضمن المواد القانونية ذات الصلة ويجب الاحتفاظ بها. غياب بيانات المؤلف أو السنة ليس سبباً للحذف أو المراجعة وفق القواعد المعطاة.",
+        "confidence": 90,
+        "signals": [
+          "العنوان يحتوي على كلمة 'دعوى' وموضوع 'عقد'",
+          "الفئة: المحاكم والمرافعات (قضاء/مرافعات)",
+          "نوع المادة: كتاب (مادة قانونية مفترضة)",
+          "المصدر: المكتبة القانونية (مصدر قانوني)",
+          "الموضوع مرتبط مباشرة بالقانون المدني وإجراءات التقاضي"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 428,
+        "id": "legal_lib_13173",
+        "title": "في مدارج القضاء",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "11.6 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2641",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13173",
+        "title": "في مدارج القضاء",
+        "decision": "KEEP",
+        "reason": "العنوان ('في مدارج القضاء') مع التصنيف 'المحاكم والمرافعات' والمصدر 'المكتبة القانونية' يشيران بوضوح إلى مادة قانونية وقضائية مباشرة تتعلق بالقضاء والإجراءات، فتندرج ضمن المواد التي يجب الاحتفاظ بها.",
+        "confidence": 90,
+        "signals": [
+          "العنوان: في مدارج القضاء",
+          "التصنيف: المحاكم والمرافعات",
+          "المصدر: المكتبة القانونية",
+          "نوع المادة: كتاب",
+          "صيغة الملف: PDF",
+          "وجود رابط نشر على قناة تليغرام للمكتبة القانونية"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 433,
+        "id": "legal_lib_13189",
+        "title": "‎⁨نظام الاثبات⁩",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "2.1 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2666",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13189",
+        "title": "‎⁨نظام الاثبات⁩",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر 'نظام الإثبات' ويشير إلى نص تشريعي/نظامي يتناول قواعد الإثبات في الإجراءات القضائية. يصنف كمادة قانونية/تشريعية ذات صلة مباشرة بالقضاء والإجراءات والأدلة، ويطابق معايير الاحتفاظ بالمكنز.",
+        "confidence": 95,
+        "signals": [
+          "عنوان صريح: 'نظام الإثبات' (قانون/نظام)",
+          "تصنيف المصدر: الأنظمة والتشريعات",
+          "نوع المادة: نظام",
+          "مصدر موثوق: المكتبة القانونية",
+          "صيغة الملف: PDF"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 437,
+        "id": "legal_lib_13200",
+        "title": "دليل المحامي المتدرب",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاماة والتحكيم",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "69.1 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2691",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13200",
+        "title": "دليل المحامي المتدرب",
+        "decision": "KEEP",
+        "reason": "العنوان 'دليل المحامي المتدرب' وبند الفهرسة 'المحاماة والتحكيم' يشيران بوضوح إلى مادة قانونية ومهنية مباشرة تتعلق بمهنة المحاماة والإجراءات العملية؛ تندرج ضمن المواد المقبولة (محاماة، مرافعات، إجراءات، تحكيم). عدم وجود مؤلف أو وصف إضافي لا يغير الطبيعة القانونية للمصدر.",
+        "confidence": 95,
+        "signals": [
+          "العنوان يحتوي على 'المحامي' و'دليل'",
+          "الفئة: المحاماة والتحكيم",
+          "نوع المادة: كتاب (مادة تعليمية/مهنية)",
+          "المصدر: المكتبة القانونية ⚖️",
+          "غياب مؤلف/تفاصيل إضافية (غير مسبب للحذف)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 456,
+        "id": "legal_lib_13261",
+        "title": "العقود والشركات التجارية فقهاً وقضاءً",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "4.0 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2775",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13261",
+        "title": "العقود والشركات التجارية فقهاً وقضاءً",
+        "decision": "KEEP",
+        "reason": "العنوان والفئة والصفة تشير بوضوح إلى مادة قانونية مباشرة في القانون التجاري (العقود والشركات) مع معالجة فقهية وقضائية؛ تندرج ضمن اختصاص المكنز القانوني.",
+        "confidence": 95,
+        "signals": [
+          "العنوان: 'العقود والشركات التجارية' يدل على موضوع قانوني تجاري مباشر",
+          "تعبير 'فقهاً وقضاءً' يشير إلى عرض فقه قانوني وقرارات قضائية/اجتهادات",
+          "الفئة: 'الأنظمة التجارية' تتطابق مع محتوى قانوني تنظيمي/قضائي",
+          "نوع المادة: كتاب قانوني مناسب للأرشفة القانونية",
+          "المصدر: 'المكتبة القانونية' مؤشر على محتوى قانوني؛ غياب مؤلف/رابط لا يمنع البقاء"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "sensitive_or_false_match_terms"
+      ],
+      "matched_terms": [
+        "العقود"
+      ]
+    },
+    {
+      "record": {
+        "audit_index": 485,
+        "id": "legal_lib_13380",
+        "title": "‎⁨نظام التوثيق المعتمد⁩",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة والتشريعات",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "799 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2948",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13380",
+        "title": "‎⁨نظام التوثيق المعتمد⁩",
+        "decision": "KEEP",
+        "reason": "العنوان والنوع يحددان أنها مادة تشريعية/تنظيمية (نظام) تتعلق بالتوثيق، وتندرج صراحة تحت الأنظمة والتشريعات؛ لذا تظل في المكنز كمادة قانونية مباشرة.",
+        "confidence": 92,
+        "signals": [
+          "عنوان يحتوي كلمة 'نظام'",
+          "الفئة: الأنظمة والتشريعات",
+          "نوع المادة: نظام",
+          "مصدر: المكتبة القانونية",
+          "صيغة الملف: PDF",
+          "رابط متوفر في التليجرام",
+          "غياب مؤلف/سنة ليس سبباً للاستبعاد"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 490,
+        "id": "legal_lib_13395",
+        "title": "جميع محاكم الرياض",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "القضاء والأنظمة العامة",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "996 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/2966",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13395",
+        "title": "جميع محاكم الرياض",
+        "decision": "KEEP",
+        "reason": "العنوان واضح ومباشر يتعلق بالمحاكم (\"جميع محاكم الرياض\") ويتطابق مع الفئة المصنفة (القضاء والأنظمة العامة). المادة تبدو كتاباً قانونياً/دليلاً قضائياً متعلقاً بالقضاء، وهو ضمن نطاق المحتوى الذي يجب الاحتفاظ به.",
+        "confidence": 90,
+        "signals": [
+          "العنوان يحتوي على كلمة 'محاكم' صريحة ودلالة جغرافية (الرياض)",
+          "التصنيف المدرج: 'القضاء والأنظمة العامة'",
+          "نوع المادة: كتاب (مادة مرجعية قانونية محتملة)",
+          "المصدر: المكتبة القانونية ⚖️ (مصدر قانوني متماثل)",
+          "غياب المؤلف أو روابط مباشرة غير مبرر لعدم الاحتفاظ حسب التعليمات"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 495,
+        "id": "legal_lib_13418",
+        "title": "مشروع نظام العقوبات",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الجنايات والحدود",
+        "material_type": "نظام",
+        "file_type": "PDF",
+        "file_size": "26.9 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/3005",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13418",
+        "title": "مشروع نظام العقوبات",
+        "decision": "KEEP",
+        "reason": "المادة عبارة عن مشروع نظام للعقوبات (قانون جنائي) وهو نص قانوني/نظامي مباشر يدخل بوضوح في اختصاص المكنز (قوانين وأنظمة، جنايات وعقوبات).",
+        "confidence": 95,
+        "signals": [
+          "العنوان: 'مشروع نظام العقوبات' يدل على قانون جنائي/نظامي",
+          "نوع المادة: نظام (تشريعي/قانوني)",
+          "الفئة: الجنايات والحدود (قانون جنائي)",
+          "مصدر: المكتبة القانونية ⚖️ (قاعدة قانونية)",
+          "وجود رابط مرجعي (تلغرام)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 496,
+        "id": "legal_lib_13423",
+        "title": "اللحن في مجالس القضاء",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "المحاكم والمرافعات",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "28.9 MB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/3010",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13423",
+        "title": "اللحن في مجالس القضاء",
+        "decision": "REVIEW",
+        "reason": "العنوان غامض وغير كافٍ للحكم القطعي: كلمة «اللحن» قد تشير إلى موضوع موسيقي/أدبي (والتي تكون خارجة عن نطاق المكنز) أو إلى معنى فقهي/قضائي مثل 'اللّحن' بمعنى الخطأ أو العلة في مجالس القضاء (وبذلك يكون مادة قانونية مباشرة). الفئة المعطاة 'المحاكم والمرافعات' تميل إلى كونها مادة قانونية، لكن غياب المؤلف والوصف والروابط المباشرة يمنع التأكيد. مطلوب فتح الملف أو وصف تفصيلي لتحديد ما إذا كان المحتوى قانونياً أم تجريدياً/فنيًا.",
+        "confidence": 65,
+        "signals": [
+          "العنوان غامض: 'اللحن' قد تعني لحن موسيقي أو خطأ/علة قضائية",
+          "الفئة المسجلة 'المحاكم والمرافعات' تشير إلى محتوى قانوني محتمل",
+          "لا يوجد مؤلف أو وصف أو رابط مباشر للتحقق من المحتوى",
+          "الملف بصيغة PDF والمصدر 'المكتبة القانونية' متوفر لكنه غير كافٍ للحسم"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "initial_review",
+        "low_confidence"
+      ],
+      "matched_terms": []
+    },
+    {
+      "record": {
+        "audit_index": 502,
+        "id": "legal_lib_13439",
+        "title": "بريد المحاكم التجارية",
+        "author": "",
+        "investigator": "",
+        "source": "المكتبة القانونية ⚖️",
+        "category": "الأنظمة التجارية",
+        "material_type": "كتاب",
+        "file_type": "PDF",
+        "file_size": "519 KB",
+        "pages_count": "",
+        "description": "",
+        "links": {
+          "link_telegram": "https://t.me/iirmll/3034",
+          "link_direct": "",
+          "link_drive": "",
+          "link": ""
+        },
+        "has_structurally_valid_link": true
+      },
+      "initial": {
+        "id": "legal_lib_13439",
+        "title": "بريد المحاكم التجارية",
+        "decision": "KEEP",
+        "reason": "العنوان يشير صراحةً إلى موضوع قضائي/قانوني (المحاكم التجارية) وتصنيفه 'الأنظمة التجارية' ومصدره 'المكتبة القانونية' يدعمان كونه مادة قانونية مباشرة تتعلق بالقانون التجاري والفقه القضائي؛ غياب المؤلف غير مبرر لرفض الأثر.",
+        "confidence": 90,
+        "signals": [
+          "عنوان يحتوي على 'المحاكم التجارية'",
+          "الفئة 'الأنظمة التجارية'",
+          "نوع المادة 'كتاب'",
+          "المصدر 'المكتبة القانونية'",
+          "وجود رابط إلى قناة قانونية (تلغرام)"
+        ],
+        "error": null
+      },
+      "triggers": [
+        "very_short_title"
+      ],
+      "matched_terms": []
+    }
+  ]
+}

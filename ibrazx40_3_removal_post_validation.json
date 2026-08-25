@@ -1,0 +1,19 @@
+{
+  "passed": true,
+  "total_items": 11283,
+  "ibraz_count": 130,
+  "removed_ids_remaining_main": [],
+  "removed_ids_remaining_published": [],
+  "protected_ids_missing_main": [],
+  "protected_ids_missing_published": [],
+  "main_published_same_ids": true,
+  "no_duplicate_ids_main": true,
+  "no_duplicate_ids_published": true,
+  "no_external_loss": true,
+  "hashes": {
+    "items_main": "4fa968c7e46ba894043f0a09e77fc760eb990867c4282387cbb018a60bf0e459",
+    "items_published": "4fa968c7e46ba894043f0a09e77fc760eb990867c4282387cbb018a60bf0e459",
+    "stats_main": "5de6147649dae592481ba2e93ba7991109ea832acddc849b4c4a9da55daf4297",
+    "stats_published": "5de6147649dae592481ba2e93ba7991109ea832acddc849b4c4a9da55daf4297"
+  }
+}

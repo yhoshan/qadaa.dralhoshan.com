@@ -1,0 +1,3424 @@
+{
+  "generated_at": "2026-08-25T19:21:07.412Z",
+  "total_records": 96,
+  "final_counts": {
+    "KEEP": 86,
+    "REMOVE": 10,
+    "REVIEW": 0
+  },
+  "source_counts": {
+    "تسهيل الأنظمة": {
+      "total": 9,
+      "KEEP": 9,
+      "REMOVE": 0,
+      "REVIEW": 0
+    },
+    "قسم الأنظمة - جامعة نجران": {
+      "total": 47,
+      "KEEP": 37,
+      "REMOVE": 10,
+      "REVIEW": 0
+    },
+    "قناة الأنظمة": {
+      "total": 34,
+      "KEEP": 34,
+      "REMOVE": 0,
+      "REVIEW": 0
+    },
+    "قناة المحاماة والقانون السعودي": {
+      "total": 6,
+      "KEEP": 6,
+      "REMOVE": 0,
+      "REVIEW": 0
+    }
+  },
+  "reviewed_ids": [
+    "najran_23056",
+    "najran_art_12337",
+    "najran_art_27190",
+    "najran_art_35174",
+    "najran_art_52092",
+    "najran_art_54322",
+    "najran_art_62421",
+    "najran_art_62426",
+    "najran_art_65656",
+    "najran_art_65958",
+    "najran_art_72236"
+  ],
+  "confirmed_duplicate_groups": [
+    {
+      "source": "قسم الأنظمة - جامعة نجران",
+      "basis": "عنوان مطابق بعد التطبيع",
+      "key": "bdf",
+      "records": [
+        {
+          "id": "najran_art_65817",
+          "title": "ابي bdf للمقررات ذي القانون الجنائي العام علم الإجرام والعقاب الهويه الوطنيه مبادى القانون التجاري",
+          "link": "https://t.me/c/1876374106/65817"
+        },
+        {
+          "id": "najran_art_67668",
+          "title": "لو سمحتو ابغا المدخل إلى الفقه والمدخل إلى القانون و القانون التجاري bdf ضررروووررييييييي",
+          "link": "https://t.me/c/1876374106/67668"
+        }
+      ]
+    },
+    {
+      "source": "قسم الأنظمة - جامعة نجران",
+      "basis": "عنوان مطابق بعد التطبيع",
+      "key": "pdf",
+      "records": [
+        {
+          "id": "najran_art_65958",
+          "title": "صباح الخير اللي عنده القانون الاداري والقانون الدستوري ومبادي القانون التجاري pdf يرسلها لاهنتوا",
+          "link": "https://t.me/c/1876374106/65958"
+        },
+        {
+          "id": "najran_art_67290",
+          "title": "اللي يبغا هالمواد pdf يرسل أصول الفقه القانون الدولي العام الحدود والقصاص ثقافه ٢",
+          "link": "https://t.me/c/1876374106/67290"
+        }
+      ]
+    }
+  ],
+  "final": [
+    {
+      "record_number": 1,
+      "id": "muath_10",
+      "title": "هذه نُسخ متميزة لعدد من الأنظمة السعودية مضافا لها ما يتعلق بها من لوائح تنفيذية أو أدلة إجرائية أو قرارات ونحو ذلك",
+      "author": "م. معاذ اليحيى",
+      "category": "الأنظمة واللوائح",
+      "source": "تسهيل الأنظمة",
+      "channels": [
+        "muath_alyahya"
+      ],
+      "channel_summary": "muath_alyahya",
+      "link_telegram": "https://t.me/muath_alyahya/10",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 9,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_10",
+        "political_or_madhabi_signal": "",
+        "reason": "محتوى قانوني مباشر يتعلق بالأنظمة السعودية ولوائحها التنفيذية وأدلتها الإجرائية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الأنظمة واللوائح السعودية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_10",
+        "political_or_madhabi_signal": "",
+        "reason": "محتوى قانوني مباشر يتعلق بالأنظمة السعودية ولوائحها التنفيذية وأدلتها الإجرائية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الأنظمة واللوائح السعودية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 2,
+      "id": "muath_290",
+      "title": "قرار النائب العام باعتبار جميع الأوصاف الجرمية المتصلة بمادة الشبو من الجرائم الكبرى الموجبة للتوقيف",
+      "author": "م. معاذ اليحيى",
+      "category": "الأنظمة واللوائح",
+      "source": "تسهيل الأنظمة",
+      "channels": [
+        "muath_alyahya"
+      ],
+      "channel_summary": "muath_alyahya",
+      "link_telegram": "https://t.me/muath_alyahya/290",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 9,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_290",
+        "political_or_madhabi_signal": "",
+        "reason": "قرار قضائي مباشر من النائب العام يتعلق بتصنيف الجرائم الجنائية الموجبة للتوقيف.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "قانون جنائي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_290",
+        "political_or_madhabi_signal": "",
+        "reason": "قرار قضائي مباشر من النائب العام يتعلق بتصنيف الجرائم الجنائية الموجبة للتوقيف.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "قانون جنائي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 3,
+      "id": "muath_38",
+      "title": "ملف يحوي أبرز الأخطاء في فهم التعميم، مع بيان المقصود به، مع الإشارة لأهم الآثار الناتجة عن عدم إكساب عقد الشركة الوارد ...",
+      "author": "م. معاذ اليحيى",
+      "category": "الأنظمة واللوائح",
+      "source": "تسهيل الأنظمة",
+      "channels": [
+        "muath_alyahya"
+      ],
+      "channel_summary": "muath_alyahya",
+      "link_telegram": "https://t.me/muath_alyahya/38",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 9,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_38",
+        "political_or_madhabi_signal": "",
+        "reason": "يتعلق بتفسير تعميم إداري وآثار قانونية لعقود الشركات مما يجعله موضوعاً نظامياً مباشراً.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الأنظمة واللوائح / عقود الشركات"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_38",
+        "political_or_madhabi_signal": "",
+        "reason": "يتعلق بتفسير تعميم إداري وآثار قانونية لعقود الشركات مما يجعله موضوعاً نظامياً مباشراً.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الأنظمة واللوائح / عقود الشركات",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 4,
+      "id": "muath_41",
+      "title": "ما ألقاب مخاطبة المسؤولين الحكوميين؟ وما عبارات تحيتهم؟ إن من أكثر المسائل المُشكلة لدى أكثر الناس -ووجدتها ظاهرة في تعا...",
+      "author": "م. معاذ اليحيى",
+      "category": "المحاماة",
+      "source": "تسهيل الأنظمة",
+      "channels": [
+        "muath_alyahya"
+      ],
+      "channel_summary": "muath_alyahya",
+      "link_telegram": "https://t.me/muath_alyahya/41",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 9,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_41",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول قواعد البروتوكول والمخاطبات الرسمية للمسؤولين الحكوميين وهي جزء من الإجراءات الإدارية التنظيمية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الإجراءات الإدارية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_41",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول قواعد البروتوكول والمخاطبات الرسمية للمسؤولين الحكوميين وهي جزء من الإجراءات الإدارية التنظيمية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الإجراءات الإدارية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 5,
+      "id": "muath_5",
+      "title": "استنادا على قرار مجلس الوزراء رقم (476) وتاريخ 15/07/1441هـ نشرت وزارة العدل مشروع اللائحة التنفيذية الجديدة لنظام المحا...",
+      "author": "م. معاذ اليحيى",
+      "category": "المحاماة",
+      "source": "تسهيل الأنظمة",
+      "channels": [
+        "muath_alyahya"
+      ],
+      "channel_summary": "muath_alyahya",
+      "link_telegram": "https://t.me/muath_alyahya/5",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 9,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_5",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بقرار مجلس الوزراء ومشروع اللائحة التنفيذية لوزارة العدل.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "المحاماة والأنظمة القضائية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_5",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بقرار مجلس الوزراء ومشروع اللائحة التنفيذية لوزارة العدل.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "المحاماة والأنظمة القضائية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 6,
+      "id": "muath_55",
+      "title": "جميع ملفات دورة الملكية الفكرية في المملكة العربية السعودية المقدمة من المنظمة العالمية للملكية الفكرية (wipo)",
+      "author": "م. معاذ اليحيى",
+      "category": "القانون المدني والتجاري",
+      "source": "تسهيل الأنظمة",
+      "channels": [
+        "muath_alyahya"
+      ],
+      "channel_summary": "muath_alyahya",
+      "link_telegram": "https://t.me/muath_alyahya/55",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 9,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_55",
+        "political_or_madhabi_signal": "",
+        "reason": "موضوع قانوني مباشر يتعلق بالملكية الفكرية والمنظمة العالمية للملكية الفكرية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الملكية الفكرية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_55",
+        "political_or_madhabi_signal": "",
+        "reason": "موضوع قانوني مباشر يتعلق بالملكية الفكرية والمنظمة العالمية للملكية الفكرية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الملكية الفكرية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 7,
+      "id": "muath_69",
+      "title": "كتب مثرية في مختلف الفروع القانونية",
+      "author": "م. معاذ اليحيى",
+      "category": "عام",
+      "source": "تسهيل الأنظمة",
+      "channels": [
+        "muath_alyahya"
+      ],
+      "channel_summary": "muath_alyahya",
+      "link_telegram": "https://t.me/muath_alyahya/69",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 9,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_69",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان السجل يشير بوضوح إلى كتب في مختلف الفروع القانونية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "كتب قانونية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_69",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان السجل يشير بوضوح إلى كتب في مختلف الفروع القانونية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "كتب قانونية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 8,
+      "id": "muath_86",
+      "title": "جميع أجزاء كتاب الوسيط للسنهوري (يمكن للمتمكن الإفادة منه لفهم نظام المعاملات المدنية مع ملاحظة الاختلافات في نصوص الموا...",
+      "author": "م. معاذ اليحيى",
+      "category": "الأنظمة واللوائح",
+      "source": "تسهيل الأنظمة",
+      "channels": [
+        "muath_alyahya"
+      ],
+      "channel_summary": "muath_alyahya",
+      "link_telegram": "https://t.me/muath_alyahya/86",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 9,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_86",
+        "political_or_madhabi_signal": "",
+        "reason": "مرجع قانوني أساسي (كتاب الوسيط للسنهوري) متعلق بفهم نظام المعاملات المدنية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "القانون المدني"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_86",
+        "political_or_madhabi_signal": "",
+        "reason": "مرجع قانوني أساسي (كتاب الوسيط للسنهوري) متعلق بفهم نظام المعاملات المدنية.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "القانون المدني",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 9,
+      "id": "muath_9",
+      "title": "كل ما يتعلق بمبادرة تخفيض سداد غرامات المخالفات المرورية المتراكمة على مرتكبيها قبل تاريخ 09/ 10/ 1445 هـ الموافق 18/ 04...",
+      "author": "م. معاذ اليحيى",
+      "category": "الأنظمة واللوائح",
+      "source": "تسهيل الأنظمة",
+      "channels": [
+        "muath_alyahya"
+      ],
+      "channel_summary": "muath_alyahya",
+      "link_telegram": "https://t.me/muath_alyahya/9",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 9,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_9",
+        "political_or_madhabi_signal": "",
+        "reason": "مبادرة تنظيمية تتعلق بتخفيض سداد الغرامات المرورية وإجراءاتها.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الأنظمة المرورية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "muath_9",
+        "political_or_madhabi_signal": "",
+        "reason": "مبادرة تنظيمية تتعلق بتخفيض سداد الغرامات المرورية وإجراءاتها.",
+        "source": "تسهيل الأنظمة",
+        "subject_area": "الأنظمة المرورية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 10,
+      "id": "najran_23056",
+      "title": "ملخص المذاهب الاربعة واسباب اختلاف الفقهاء دعواتكم",
+      "author": "",
+      "category": "الأنظمة واللوائح",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/23056",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_23056",
+        "political_or_madhabi_signal": true,
+        "reason": "موضوع فقهي ديني يتناول المذاهب الأربعة وأسباب اختلاف الفقهاء دون صلة قانونية مباشرة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "الفقه الإسلامي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_23056",
+        "reason": "ملخص فقهي أكاديمي عام لا يتضمن مادة قانونية أو نظامية مباشرة.",
+        "subject_area": "الفقه الإسلامي",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 11,
+      "id": "najran_68504",
+      "title": "‎كتاب اصول علمي الاجرام والعقاب001",
+      "author": "",
+      "category": "الأنظمة واللوائح",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/68504",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_68504",
+        "political_or_madhabi_signal": "",
+        "reason": "كتاب أكاديمي متخصص في أصول علمي الإجرام والعقاب يتبع قسماً أكاديمياً قانونياً.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "علم الإجرام والعقاب"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_68504",
+        "political_or_madhabi_signal": "",
+        "reason": "كتاب أكاديمي متخصص في أصول علمي الإجرام والعقاب يتبع قسماً أكاديمياً قانونياً.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "علم الإجرام والعقاب",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 12,
+      "id": "najran_68599",
+      "title": "‎القانون التجاري السعودي عبدالهادي الغامدي",
+      "author": "",
+      "category": "الأنظمة واللوائح",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/68599",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_68599",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر في القانون التجاري السعودي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_68599",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر في القانون التجاري السعودي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 13,
+      "id": "najran_art_12337",
+      "title": "مدخل دراسه الانظمه قواعد فقهيه ثقافه 2 سياسه شرعيه مبادى الاداره العامه القانون التجاري السعودي",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/12337",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_12337",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان يتضمن موضوعات قانونية ونظامية مباشرة كالقانون التجاري ودراسة الأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "دراسات وبحوث قانونية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_12337",
+        "reason": "يتضمن السجل موضوعات أكاديمية وقانونية صريحة مثل القانون التجاري السعودي ودراسة الأنظمة والقواعد الفقهية.",
+        "subject_area": "دراسات وبحوث قانونية",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 14,
+      "id": "najran_art_12432",
+      "title": "اطلع على نظام الشركات، وعلى حسب نوعها وفيه في قوقل نماذج لعقود شركات يعطيك انطباع",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/12432",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_12432",
+        "political_or_madhabi_signal": "",
+        "reason": "العنوان يتضمن إشارة مباشرة لنظام الشركات ونماذج عقود الشركات.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الشركات"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_12432",
+        "political_or_madhabi_signal": "",
+        "reason": "العنوان يتضمن إشارة مباشرة لنظام الشركات ونماذج عقود الشركات.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الشركات",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 15,
+      "id": "najran_art_14509",
+      "title": "قواعد القانون التجاري الاعمال التجاريه والتجار في ذي الفقره نحتاج ناخذ منها شي؟؟؟",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/14509",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_14509",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بقواعد القانون التجاري والأعمال التجارية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_14509",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بقواعد القانون التجاري والأعمال التجارية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 16,
+      "id": "najran_art_14518",
+      "title": "القانون الجنائي د. القانون الدولي من الألفاظ المستخدمة في صياغة القاعدة المكملة أ. ينبغي ب. يحق ج. لا يجوز د. يجب من الألفاظ المستخدمة في صياغة القاعد...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/14518",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_14518",
+        "political_or_madhabi_signal": "",
+        "reason": "محتوى أكاديمي قانوني يتناول صياغة القواعد القانونية في القانون الجنائي والدولي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "صياغة القواعد القانونية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_14518",
+        "political_or_madhabi_signal": "",
+        "reason": "محتوى أكاديمي قانوني يتناول صياغة القواعد القانونية في القانون الجنائي والدولي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "صياغة القواعد القانونية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 17,
+      "id": "najran_art_14622",
+      "title": "لا يجوز توقيع عقوبة جزائية على أي شخص, إلا بعد ثبوت إدانته بأمر محظور شرعاً أو نظاماً بعد محاكمة تُجْرى وفقاً للمقتضى الشرعي. المادة الثالثة من نظام ا...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/14622",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_14622",
+        "political_or_madhabi_signal": "",
+        "reason": "اقتباس مباشر لمادة قانونية من نظام الإجراءات الجزائية تتعلق بضوابط العقوبة الجنائية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الإجراءات الجزائية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_14622",
+        "political_or_madhabi_signal": "",
+        "reason": "اقتباس مباشر لمادة قانونية من نظام الإجراءات الجزائية تتعلق بضوابط العقوبة الجنائية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الإجراءات الجزائية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 18,
+      "id": "najran_art_17529",
+      "title": "الذي على وشك تخرج أو في المستويات المتقدمة، وأراد الاطلاع على السوابق القضائية، وكيف يربطها بمواد نظام المرافعات الشرعية؛ أحد الأخوات في تطبيق اكس (تو...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/17529",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_17529",
+        "political_or_madhabi_signal": "",
+        "reason": "إرشاد تعليمي قانوني حول السوابق القضائية ونظام المرافعات الشرعية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام المرافعات الشرعية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_17529",
+        "political_or_madhabi_signal": "",
+        "reason": "إرشاد تعليمي قانوني حول السوابق القضائية ونظام المرافعات الشرعية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام المرافعات الشرعية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 19,
+      "id": "najran_art_17609",
+      "title": "انواعه ومن كل نوع تعريف اول سطر ما عدا القانون المدني فهو اصل واساس فروع القانون الخاص وقانون العمل هو احدث فروع القانون الخاص . فقط .",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/17609",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_17609",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول السجل تصنيف فروع القانون الخاص مع الإشارة للقانون المدني وقانون العمل.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "فروع القانون الخاص"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_17609",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول السجل تصنيف فروع القانون الخاص مع الإشارة للقانون المدني وقانون العمل.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "فروع القانون الخاص",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 20,
+      "id": "najran_art_17611",
+      "title": "القانون المدني. القانون التجاري. القانون البحري. القانون الجوي. قانون العمل. قانون المرافعات المدنية والتجارية. القانون الدولي الخاص.",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/17611",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_17611",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يسرد مجموعة من فروع القوانين والأنظمة الأساسية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "فروع القانون والأنظمة"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_17611",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يسرد مجموعة من فروع القوانين والأنظمة الأساسية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "فروع القانون والأنظمة",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 21,
+      "id": "najran_art_27190",
+      "title": "كتب للبيع مطبوعه ( تخصص ) قانون نظام الإجراءات الجزائية احكام الالتزام الجزء الثاني مصادر الالتزام الملكيه الصناعيه نظام العمل والتأمنيتات الاجتماعيه ...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/27190",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_27190",
+        "political_or_madhabi_signal": "",
+        "reason": "إعلان تجاري لبيع كتب قانونية يفتقر للمحتوى القانوني أو القضائي المباشر.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "كتب وأنظمة قانونية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_27190",
+        "reason": "إعلان تجاري لبيع كتب قانونية لا يتضمن مادة قانونية أو قضائية موضوعية.",
+        "subject_area": "إعلان تجاري لكتب قانونية",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 22,
+      "id": "najran_art_3367",
+      "title": "سؤال قانوني ما الفرق بين النظام الأساسي للحكم، ونظام المرافعات الشرعية من حيث صدوره؟",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/3367",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_3367",
+        "political_or_madhabi_signal": "",
+        "reason": "سؤال قانوني يقارن بين النظام الأساسي للحكم ونظام المرافعات الشرعية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الدستوري والإجراءات القضائية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_3367",
+        "political_or_madhabi_signal": "",
+        "reason": "سؤال قانوني يقارن بين النظام الأساسي للحكم ونظام المرافعات الشرعية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الدستوري والإجراءات القضائية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 23,
+      "id": "najran_art_35174",
+      "title": "صباح الخير يا شباب حد عنده تسريبات ل ال مجري مبادى القانون التجاري ولا تلخيص ولا اي شيء اختبارات سابقا ف يرسلها ولاعليه امر والله يوفقه",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/35174",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_35174",
+        "political_or_madhabi_signal": "",
+        "reason": "طلب طلابي عابر لملخصات أو تسريبات اختبارات لمادة القانون التجاري لا يمثل محتوى قانونياً موضوعياً.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "قانون تجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_35174",
+        "reason": "محادثة طلابية لطلب ملخصات واختبارات سابقة لا تتضمن مادة قانونية أو قضائية.",
+        "subject_area": "شؤون طلابية أكاديمية",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 24,
+      "id": "najran_art_3855",
+      "title": "هذه أنواع الإلغاء ولكن ما قصدته ما هي الإجراءات المتبعة لإجراء التعديل على مادة من مواد نظام الإجراءات الجزائية مثلاً أو غيره من الأنظمة؟ قلنا في سؤال...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/3855",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_3855",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول الإجراءات القانونية المتبعة لتعديل مواد نظام الإجراءات الجزائية والأنظمة الأخرى.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "تعديل الأنظمة القانونية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_3855",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول الإجراءات القانونية المتبعة لتعديل مواد نظام الإجراءات الجزائية والأنظمة الأخرى.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "تعديل الأنظمة القانونية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 25,
+      "id": "najran_art_3900",
+      "title": "القانون الجنائي قانون العقوبات، في حال ارتكاب الجرائم يطبق هذا القانون والنيابة هي المنوطة بإجراءات التحقيق وجمع الأدلة وتطبيق هذا النظام، وهو متمثل ف...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/3900",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_3900",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتناول القانون الجنائي وإجراءات التحقيق الجنائي من مصدر أكاديمي متخصص",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الجنائي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_3900",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتناول القانون الجنائي وإجراءات التحقيق الجنائي من مصدر أكاديمي متخصص",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الجنائي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 26,
+      "id": "najran_art_3905",
+      "title": "قصدك قدرات الخاصة بهم ما راح تطلع من نظام الإجراءات الجزائية والنظام القضائي والتنفيذ وبعض الأنظمة المرتبطة",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/3905",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_3905",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يشير إلى نظام الإجراءات الجزائية والنظام القضائي والتنفيذ.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "الأنظمة القضائية والجزائية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_3905",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يشير إلى نظام الإجراءات الجزائية والنظام القضائي والتنفيذ.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "الأنظمة القضائية والجزائية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 27,
+      "id": "najran_art_46632",
+      "title": "شخص يقوم بفعل محفوف بالمخاطر دون ان يتوقع او ان ينتبه للنتائج الضاره > في القانون الجنائي تحصلون امثله عليه ايضًا",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/46632",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_46632",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول موضوعاً قانونياً أكاديمياً حول الفعل المحفوف بالمخاطر في سياق القانون الجنائي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الجنائي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_46632",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول موضوعاً قانونياً أكاديمياً حول الفعل المحفوف بالمخاطر في سياق القانون الجنائي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الجنائي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 28,
+      "id": "najran_art_48535",
+      "title": "القواعد العامه ل النظام الجزائي مناهج البحث العلمي نظام العمل و التأمينات الاجتماعية وش اسهل مادتين ؟",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/48535",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_48535",
+        "political_or_madhabi_signal": "",
+        "reason": "سؤال أكاديمي يتناول مواد قانونية متخصصة تشمل النظام الجزائي ونظام العمل والتأمينات.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_48535",
+        "political_or_madhabi_signal": "",
+        "reason": "سؤال أكاديمي يتناول مواد قانونية متخصصة تشمل النظام الجزائي ونظام العمل والتأمينات.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 29,
+      "id": "najran_art_51134",
+      "title": "لا ندرس مادة الأحوال الشخصية على ضوء الشريعة الإسلامية ووفق ما جاء في نظام الأحوال الشخصية المتوافق والمنبعث منها… ربما تدرسون مادة الأحوال الشخصية لغ...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/51134",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_51134",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول تدريس مادة ونظام الأحوال الشخصية في سياق أكاديمي قانوني.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "قانون الأحوال الشخصية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_51134",
+        "political_or_madhabi_signal": "",
+        "reason": "يتناول تدريس مادة ونظام الأحوال الشخصية في سياق أكاديمي قانوني.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "قانون الأحوال الشخصية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 30,
+      "id": "najran_art_51402",
+      "title": "المادة السابعة والأربعون من نظام الإجراءات الجزائية تنص على أن تفتيش المسكن يجب أن يتم بحضور صاحبه أو من ينوب عنه من أفراد أسرته البالغين المقيمين معه...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/51402",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_51402",
+        "political_or_madhabi_signal": "",
+        "reason": "نص قانوني مباشر يتناول المادة 47 من نظام الإجراءات الجزائية المتعلقة بضوابط تفتيش المساكن.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الإجراءات الجزائية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_51402",
+        "political_or_madhabi_signal": "",
+        "reason": "نص قانوني مباشر يتناول المادة 47 من نظام الإجراءات الجزائية المتعلقة بضوابط تفتيش المساكن.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الإجراءات الجزائية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 31,
+      "id": "najran_art_52092",
+      "title": "إيه أدرسه عند د.غادة،نفس شكل الكتاب بس هذا مواضيعه من داخل مختلفة كليًا يتكلم عن القانون الجنائي مب الدولي",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/52092",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_52092",
+        "political_or_madhabi_signal": "",
+        "reason": "رسالة دردشة عابرة بين طلاب حول كتاب دراسي ولا تتضمن محتوى قانونياً أو قضائياً مباشراً.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الجنائي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_52092",
+        "reason": "محادثة جانبية بين طلاب حول كتاب دراسي ولا تتضمن مادة قانونية أو قضائية.",
+        "subject_area": "دردشة طلابية أكاديمية",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 32,
+      "id": "najran_art_54322",
+      "title": "احد يبي كتب القواعد الفقهية مبادئ الاقتصاد علم اصول الفقه النظام السياسي والدستوري القانون التجاري المدخل لدراسة الانظمة المدخل للفقه الاسلامي السياسه...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/54322",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_54322",
+        "political_or_madhabi_signal": "",
+        "reason": "العنوان يتضمن مراجع أكاديمية في صلب القانون والأنظمة مثل القانون التجاري والنظام الدستوري.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "مراجع أكاديمية قانونية وأنظمة"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_54322",
+        "reason": "منشور إعلاني لتبادل كتب دراسية وليس مادة قانونية أو نظامية.",
+        "subject_area": "تبادل كتب أكاديمية",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 33,
+      "id": "najran_art_59582",
+      "title": "الحين المواد ذي سهله . اصول فقة . منهاج البحث. القانون الدستوري. مبادئ القانون التجاري. الهوية الوطنية . مهارات الاتصال.",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/59582",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_59582",
+        "political_or_madhabi_signal": "",
+        "reason": "السجل يتضمن أسماء مواد قانونية ونظامية متخصصة ضمن سياق أكاديمي في قسم الأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "دراسة الأنظمة والقانون"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_59582",
+        "political_or_madhabi_signal": "",
+        "reason": "السجل يتضمن أسماء مواد قانونية ونظامية متخصصة ضمن سياق أكاديمي في قسم الأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "دراسة الأنظمة والقانون",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 34,
+      "id": "najran_art_60172",
+      "title": "القانون الاداري غالب الهمامي القانون الدستوري قمر الدين مبادى القانون التجاري سالم الهمامي اصول فقه صدام",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/60172",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_60172",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتضمن موضوعات القانون الإداري والدستوري والتجاري من مصدر أكاديمي متخصص.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "مواضيع قانونية أكاديمية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_60172",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتضمن موضوعات القانون الإداري والدستوري والتجاري من مصدر أكاديمي متخصص.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "مواضيع قانونية أكاديمية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 35,
+      "id": "najran_art_6209",
+      "title": "\"المهر هو المال الذي يدفعه الرجل للمرأة بسبب عقد الزواج.\" المادة (٣٦) من نظام الأحوال الشخصية.",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/6209",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_6209",
+        "political_or_madhabi_signal": "",
+        "reason": "اقتباس مباشر لمادة قانونية من نظام الأحوال الشخصية تتعلق بالمهر في عقد الزواج",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الأحوال الشخصية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_6209",
+        "political_or_madhabi_signal": "",
+        "reason": "اقتباس مباشر لمادة قانونية من نظام الأحوال الشخصية تتعلق بالمهر في عقد الزواج",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الأحوال الشخصية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 36,
+      "id": "najran_art_62421",
+      "title": "احد يبغا الكتب هذي؟ القواعد الفقهيه مهارات لغويه مهارات الإتصال مبادئ الإقتصاد القانون التجاري القانون الدستوري",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/62421",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_62421",
+        "political_or_madhabi_signal": "",
+        "reason": "إعلان عابر عن تداول كتب دراسية لا يتضمن محتوى قانونياً أو تنظيمياً موضوعياً.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "كتب ومراجع قانونية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_62421",
+        "reason": "إعلان شخصي لتداول كتب دراسية لا يتضمن أي مادة قانونية أو قضائية موضوعية.",
+        "subject_area": "إعلانات ومواد دراسية",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 37,
+      "id": "najran_art_62426",
+      "title": "أصول الفقه كويس بس دكتورتنا سيئه جدًا د/ مريم مكي مبادى القانون التجاري مرا سهل وممتع درسته عند أ/ نوره المطيري",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/62426",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_62426",
+        "political_or_madhabi_signal": "",
+        "reason": "دردشة طلابية وانطباعات شخصية حول أعضاء هيئة التدريس لا تتضمن أي محتوى قانوني أو قضائي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "شؤون أكاديمية طلابية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_62426",
+        "reason": "دردشة طلابية وانطباعات شخصية عن أعضاء هيئة التدريس لا تمثل مادة قانونية أو قضائية.",
+        "subject_area": "شؤون أكاديمية طلابية",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 38,
+      "id": "najran_art_63245",
+      "title": "القانون الدستوري مبادى القانون التجاري القانون الدولي العام فيه حد درس هذي المواد؟",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/63245",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_63245",
+        "political_or_madhabi_signal": "",
+        "reason": "استفسار عن مواد أكاديمية قانونية تخصصية (الدستوري، التجاري، الدولي العام) في مصدر قانوني.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني الأكاديمي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_63245",
+        "political_or_madhabi_signal": "",
+        "reason": "استفسار عن مواد أكاديمية قانونية تخصصية (الدستوري، التجاري، الدولي العام) في مصدر قانوني.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني الأكاديمي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 39,
+      "id": "najran_art_63382",
+      "title": "الرياده في الأعمال تاريخ وفلسفة القانون القانون الجنائي العام أصول الفقه فقة المعاملات مبادئ القانون التجاري الهويه الوطنيه طيب هذي المواد تشوفينها صع...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/63382",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_63382",
+        "political_or_madhabi_signal": "",
+        "reason": "قائمة مواد أكاديمية متخصصة في القانون والأنظمة",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني الأكاديمي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_63382",
+        "political_or_madhabi_signal": "",
+        "reason": "قائمة مواد أكاديمية متخصصة في القانون والأنظمة",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني الأكاديمي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 40,
+      "id": "najran_art_63421",
+      "title": "أصول الفقه القانون الجنائي العام علم الإجرام والعقاب الهويه الوطنيه القانون الدستوري مبادى القانون التجاري المواد ذي سهله مع بعض ولا",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/63421",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_63421",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان يتضمن قائمة بمواد ومصطلحات قانونية ونظامية أكاديمية من مصدر حقوقي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الأكاديمي والأنظمة"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_63421",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان يتضمن قائمة بمواد ومصطلحات قانونية ونظامية أكاديمية من مصدر حقوقي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الأكاديمي والأنظمة",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 41,
+      "id": "najran_art_64019",
+      "title": "عندي كتب اللي يبغى منها شي يتواصل معي : - القانون الدستوري - ⁠المدخل الى الفقه - ⁠المدخل الى القانون - ⁠مبادئ القانون التجاري - ⁠القانون الجنائي العام...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/64019",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_64019",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان يتضمن مراجع أكاديمية متخصصة في فروع القانون المختلفة ضمن بيئة تعليمية قانونية",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "كتب ومراجع قانونية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_64019",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان يتضمن مراجع أكاديمية متخصصة في فروع القانون المختلفة ضمن بيئة تعليمية قانونية",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "كتب ومراجع قانونية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 42,
+      "id": "najran_art_64498",
+      "title": "اخلاقيات المهنه 506 المدخل الا الفقه 30 .: المدخل الا القانون 58 المهويه الوطنيه 373 : القانون الدستوي 53 : مبادئ القانون التجاري 28 تاريخ وفلسفه القا...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/64498",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_64498",
+        "political_or_madhabi_signal": "",
+        "reason": "عناوين مقررات دراسية أكاديمية في القانون والأنظمة من قسم أكاديمي متخصص.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني الأكاديمي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_64498",
+        "political_or_madhabi_signal": "",
+        "reason": "عناوين مقررات دراسية أكاديمية في القانون والأنظمة من قسم أكاديمي متخصص.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني الأكاديمي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 43,
+      "id": "najran_art_6475",
+      "title": "⁉️ متى يحق للخاطب أو المخطوبة المطالبة بالهدايا التي أعطيت وقت الخطبة في حال فسخ الخطوبة؟ أم لا يجوز الرجوع فيها؟ جوابها في نظام الأحوال الشخصية.",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/6475",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_6475",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتناول أحكام استرداد هدايا الخطبة في نظام الأحوال الشخصية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الأحوال الشخصية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_6475",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتناول أحكام استرداد هدايا الخطبة في نظام الأحوال الشخصية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "نظام الأحوال الشخصية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 44,
+      "id": "najran_art_64944",
+      "title": "عندي المقررات هذي الي يبغا منها شي يتواصل خاص مبادئ الاقتصاد القواعد الفقهيه القانون الدستوري مناهج البحث القانون الجنائي القانون التجاري اصول فقه١",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/64944",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_64944",
+        "political_or_madhabi_signal": "",
+        "reason": "يتضمن السجل أسماء مقررات دراسية قانونية ونظامية تخصصية تابعة لقسم الأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_64944",
+        "political_or_madhabi_signal": "",
+        "reason": "يتضمن السجل أسماء مقررات دراسية قانونية ونظامية تخصصية تابعة لقسم الأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 45,
+      "id": "najran_art_65135",
+      "title": "عندي كتب قانون فقه معاملات اصلي الجزائي الاصلي المرافعات الأصلي مصادر الالتزام الإرادية وغير اراديه اصلي والفرائض واحكام الاسره القانون الجنائي الساسي...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/65135",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_65135",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان يتضمن مسميات فروع قانونية وأنظمة قضائية مباشرة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "الأنظمة والقانون"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_65135",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان يتضمن مسميات فروع قانونية وأنظمة قضائية مباشرة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "الأنظمة والقانون",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 46,
+      "id": "najran_art_65514",
+      "title": "قانون دستوري المدخل للفقة الاسلامي الهوية الوطنية مبادى القانون التجاري المدخل الى القانون",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/65514",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_65514",
+        "political_or_madhabi_signal": "",
+        "reason": "العنوان يتضمن موضوعات قانونية أكاديمية مباشرة مثل القانون الدستوري والتجاري والمدخل للقانون.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "قانون أكاديمي وأنظمة"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_65514",
+        "political_or_madhabi_signal": "",
+        "reason": "العنوان يتضمن موضوعات قانونية أكاديمية مباشرة مثل القانون الدستوري والتجاري والمدخل للقانون.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "قانون أكاديمي وأنظمة",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 47,
+      "id": "najran_art_65656",
+      "title": "ي شباب كيف الدكاتره ذولا د. صالح بن محمد الهمامي مقرر القانون الدستوري أنيس حسيب السيد المحلاوي مقرر القانون الجنائي العام",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/65656",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_65656",
+        "political_or_madhabi_signal": "",
+        "reason": "استفسار طلابي عابر عن أعضاء هيئة التدريس يفتقر للمحتوى القانوني المباشر.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "تعليم قانوني"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_65656",
+        "reason": "استفسار طلابي شخصي عن أعضاء هيئة التدريس يفتقر للمادة القانونية أو القضائية.",
+        "subject_area": "شؤون طلابية أكاديمية",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 48,
+      "id": "najran_art_65817",
+      "title": "ابي bdf للمقررات ذي القانون الجنائي العام علم الإجرام والعقاب الهويه الوطنيه مبادى القانون التجاري",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/65817",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_65817",
+        "political_or_madhabi_signal": "",
+        "reason": "طلب لمقررات دراسية قانونية متخصصة في القانون الجنائي والتجاري.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_65817",
+        "political_or_madhabi_signal": "",
+        "reason": "طلب لمقررات دراسية قانونية متخصصة في القانون الجنائي والتجاري.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 49,
+      "id": "najran_art_65958",
+      "title": "صباح الخير اللي عنده القانون الاداري والقانون الدستوري ومبادي القانون التجاري pdf يرسلها لاهنتوا",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/65958",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_65958",
+        "political_or_madhabi_signal": "",
+        "reason": "رسالة محادثة عابرة لطلب كتب دراسية لا تمثل مادة قانونية أو قضائية موضوعية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "طلب مراجع دراسية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_65958",
+        "reason": "طلب ملفات دراسية عبر محادثة وليس مادة قانونية أو قضائية موضوعية.",
+        "subject_area": "طلب مراجع دراسية",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 50,
+      "id": "najran_art_66424",
+      "title": "المهارات الرقمية ١٠١نال-٢ القانون الأداري١٣٢-قان-٣ الهوية الوطنية١٠٢-وطن-٢ القانون الدستوري١٣١-قان-٣ مبادئ القانون التجاري١٦١-قان-٢ أصول فقة ١٩٣-قان-٣...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/66424",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_66424",
+        "political_or_madhabi_signal": "",
+        "reason": "عناوين مواد دراسية قانونية متخصصة من قسم الأنظمة بجامعة نجران.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_66424",
+        "political_or_madhabi_signal": "",
+        "reason": "عناوين مواد دراسية قانونية متخصصة من قسم الأنظمة بجامعة نجران.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 51,
+      "id": "najran_art_66521",
+      "title": "العقود الادارية - احكام الاسرة - احكام الالتزام - الجرائم التعزيريه - القانون الجنائي الخاص - ⁠ أصول فقه ٢ - آيات و احاديث الاحكام - مصادر الالتزام ال...",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/66521",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_66521",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني أكاديمي مباشر يتناول موضوعات متنوعة في العقود والجنائي والالتزام.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "موضوعات قانونية أكاديمية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_66521",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني أكاديمي مباشر يتناول موضوعات متنوعة في العقود والجنائي والالتزام.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "موضوعات قانونية أكاديمية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 52,
+      "id": "najran_art_67290",
+      "title": "اللي يبغا هالمواد pdf يرسل أصول الفقه القانون الدولي العام الحدود والقصاص ثقافه ٢",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/67290",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_67290",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان لمواد دراسية أكاديمية في تخصص الأنظمة تشمل القانون الدولي والجنائي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "تعليم قانوني"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_67290",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان لمواد دراسية أكاديمية في تخصص الأنظمة تشمل القانون الدولي والجنائي.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "تعليم قانوني",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 53,
+      "id": "najran_art_67295",
+      "title": "اللي يبي هذي الكتب يتواصل معي خاص مناهج البحث القانون الدستوري المدخل إلى الفقه الإسلامي المدخل إلى القانون ثقافه 1 الاداره الاستراتيجية",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/67295",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_67295",
+        "political_or_madhabi_signal": "",
+        "reason": "يتضمن السجل إشارة لمراجع أكاديمية متخصصة في القانون الدستوري والأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الدستوري والأنظمة"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_67295",
+        "political_or_madhabi_signal": "",
+        "reason": "يتضمن السجل إشارة لمراجع أكاديمية متخصصة في القانون الدستوري والأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الدستوري والأنظمة",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 54,
+      "id": "najran_art_67668",
+      "title": "لو سمحتو ابغا المدخل إلى الفقه والمدخل إلى القانون و القانون التجاري bdf ضررروووررييييييي",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/67668",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_67668",
+        "political_or_madhabi_signal": "",
+        "reason": "طلب مراجع أكاديمية قانونية متخصصة في القانون التجاري والأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_67668",
+        "political_or_madhabi_signal": "",
+        "reason": "طلب مراجع أكاديمية قانونية متخصصة في القانون التجاري والأنظمة.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "التعليم القانوني",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 55,
+      "id": "najran_art_71327",
+      "title": "سؤال للعيال كيف القانون التجاري معكم هل فيه تحديد او ملخصات وهل يشرحون لكم من الاساس ؟؟؟؟؟؟",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/71327",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_71327",
+        "political_or_madhabi_signal": "",
+        "reason": "استفسار أكاديمي مباشر حول دراسة مادة القانون التجاري.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "najran_art_71327",
+        "political_or_madhabi_signal": "",
+        "reason": "استفسار أكاديمي مباشر حول دراسة مادة القانون التجاري.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 56,
+      "id": "najran_art_72236",
+      "title": "اللي اختبر عند المحلاوي الاحكام العامة للنظام الجزائي ( القانون الجنائي) يجي خاص ضروري ضروري ضروري ضروري",
+      "author": "",
+      "category": "المقالات والأوراق القانونية",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "channels": [
+        "c/1876374106"
+      ],
+      "channel_summary": "c/1876374106",
+      "link_telegram": "https://t.me/c/1876374106/72236",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 47,
+      "initial": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_72236",
+        "political_or_madhabi_signal": "",
+        "reason": "استفسار طلابي عابر حول اختبار أكاديمي لا يتضمن مادة قانونية أو قضائية موضوعية.",
+        "source": "قسم الأنظمة - جامعة نجران",
+        "subject_area": "القانون الجنائي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "REMOVE",
+        "id": "najran_art_72236",
+        "reason": "استفسار طلابي للتنسيق حول اختبار أكاديمي لا يتضمن أي مادة قانونية أو قضائية موضوعية.",
+        "subject_area": "تنسيق أكاديمي طلابي",
+        "reviewed": true
+      }
+    },
+    {
+      "record_number": 57,
+      "id": "systems_channel_1739",
+      "title": "نظام مهنة المحاسبة والمراجعة",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/1739",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_1739",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان نظامي مباشر يتعلق بتنظيم مهنة المحاسبة والمراجعة.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة المهنية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_1739",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان نظامي مباشر يتعلق بتنظيم مهنة المحاسبة والمراجعة.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة المهنية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 58,
+      "id": "systems_channel_52724",
+      "title": "اللائحة التنفيذية لنظام الشركات 1444 2023",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52724",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52724",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر للائحة التنفيذية لنظام الشركات السعودي الصادر عام 2023",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون الشركات"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52724",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر للائحة التنفيذية لنظام الشركات السعودي الصادر عام 2023",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون الشركات",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 59,
+      "id": "systems_channel_52728",
+      "title": "اللائحة التنفيذية لنظام التجارة الإلكترونية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52728",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52728",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام التجارة الإلكترونية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "التجارة الإلكترونية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52728",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام التجارة الإلكترونية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "التجارة الإلكترونية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 60,
+      "id": "systems_channel_52729",
+      "title": "نظام التجارة الإلكترونية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52729",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52729",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام التجارة الإلكترونية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام التجارة الإلكترونية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52729",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام التجارة الإلكترونية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام التجارة الإلكترونية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 61,
+      "id": "systems_channel_52730",
+      "title": "نظام المقيّمين المعتمدين",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52730",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52730",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام تشريعي ينظم مهنة التقييم.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة والتشريعات المهنية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52730",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام تشريعي ينظم مهنة التقييم.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة والتشريعات المهنية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 62,
+      "id": "systems_channel_52731",
+      "title": "اللائحة التنفيذية لنظام مكافحة الغش التجاري",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52731",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52731",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام مكافحة الغش التجاري.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52731",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام مكافحة الغش التجاري.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 63,
+      "id": "systems_channel_52732",
+      "title": "نظام مكافحة الغش التجاري",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52732",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52732",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام مكافحة الغش التجاري.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52732",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام مكافحة الغش التجاري.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 64,
+      "id": "systems_channel_52733",
+      "title": "نظام الرهن التجاري 1439",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52733",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52733",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الرهن التجاري السعودي.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الرهن التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52733",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الرهن التجاري السعودي.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الرهن التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 65,
+      "id": "systems_channel_52734",
+      "title": "اللائحة التنفيذية لنظام الدفاتر التجارية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52734",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52734",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام الدفاتر التجارية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52734",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام الدفاتر التجارية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 66,
+      "id": "systems_channel_52735",
+      "title": "نظام الدفاتر التجارية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52735",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52735",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام الدفاتر التجارية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52735",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام الدفاتر التجارية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 67,
+      "id": "systems_channel_52736",
+      "title": "نظام وزارة التجارة",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52736",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52736",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام وزارة التجارة ضمن تصنيف الأنظمة والتشريعات",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية والإدارية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52736",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام وزارة التجارة ضمن تصنيف الأنظمة والتشريعات",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية والإدارية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 68,
+      "id": "systems_channel_52739",
+      "title": "نظام البيانات التجارية 1423",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52739",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52739",
+        "political_or_madhabi_signal": "",
+        "reason": "نص نظامي مباشر يتعلق بنظام البيانات التجارية السعودي.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52739",
+        "political_or_madhabi_signal": "",
+        "reason": "نص نظامي مباشر يتعلق بنظام البيانات التجارية السعودي.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 69,
+      "id": "systems_channel_52740",
+      "title": "اللائحة التنفيئية لنظام مهنة المحاسبة و المراجعة",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52740",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52740",
+        "political_or_madhabi_signal": "",
+        "reason": "لائحة تنفيذية لنظام مهنة المحاسبة والمراجعة مما يجعله موضوعاً قانونياً ونظامياً مباشراً.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة المهنية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52740",
+        "political_or_madhabi_signal": "",
+        "reason": "لائحة تنفيذية لنظام مهنة المحاسبة والمراجعة مما يجعله موضوعاً قانونياً ونظامياً مباشراً.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة المهنية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 70,
+      "id": "systems_channel_52742",
+      "title": "نظام الغرف التجارية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52742",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52742",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام الغرف التجارية ضمن تصنيف الأنظمة والتشريعات",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52742",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام الغرف التجارية ضمن تصنيف الأنظمة والتشريعات",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 71,
+      "id": "systems_channel_52745",
+      "title": "نظام السجل التجاري",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52745",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52745",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام السجل التجاري ضمن تصنيف الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52745",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام السجل التجاري ضمن تصنيف الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 72,
+      "id": "systems_channel_52746",
+      "title": "اللائحة التنفيذية لنظام الامتياز التجاري",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52746",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52746",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام الامتياز التجاري.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الامتياز التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52746",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام الامتياز التجاري.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الامتياز التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 73,
+      "id": "systems_channel_52747",
+      "title": "نظام الامتياز التجاري",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52747",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52747",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الامتياز التجاري.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الامتياز التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52747",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الامتياز التجاري.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الامتياز التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 74,
+      "id": "systems_channel_52749",
+      "title": "نظام الاسماء التجارية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52749",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52749",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام الأسماء التجارية ضمن الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأسماء التجارية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52749",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام الأسماء التجارية ضمن الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأسماء التجارية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 75,
+      "id": "systems_channel_52750",
+      "title": "اللائحة التنفيذية لنظام الوكالات التجارية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52750",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52750",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني ونظامي مباشر يتعلق باللائحة التنفيذية لنظام الوكالات التجارية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52750",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني ونظامي مباشر يتعلق باللائحة التنفيذية لنظام الوكالات التجارية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "الأنظمة التجارية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 76,
+      "id": "systems_channel_52751",
+      "title": "نظام الوكالات التجارية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52751",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52751",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام الوكالات التجارية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون تجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52751",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام الوكالات التجارية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون تجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 77,
+      "id": "systems_channel_52752",
+      "title": "نظام الاوراق التجارية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52752",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52752",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الأوراق التجارية ضمن الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التجاري (نظام الأوراق التجارية)"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52752",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الأوراق التجارية ضمن الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التجاري (نظام الأوراق التجارية)",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 78,
+      "id": "systems_channel_52753",
+      "title": "اللائحة التنفيذية لنظام الإفلاس",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52753",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52753",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام الإفلاس.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الإفلاس"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52753",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق باللائحة التنفيذية لنظام الإفلاس.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الإفلاس",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 79,
+      "id": "systems_channel_52754",
+      "title": "نظام الافلاس 1440-2019",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/52754",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52754",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الإفلاس السعودي.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الإفلاس"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_52754",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الإفلاس السعودي.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الإفلاس",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 80,
+      "id": "systems_channel_528",
+      "title": "نظام مراقبة البنوك",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/528",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_528",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام مراقبة البنوك ضمن فئة الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون المصرفي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_528",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام مراقبة البنوك ضمن فئة الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون المصرفي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 81,
+      "id": "systems_channel_55259",
+      "title": "تنظيم الهيئة السعودية للمراجعين والمحاسبين",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/55259",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55259",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بتنظيم هيئة مهنية رسمية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التنظيمي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55259",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بتنظيم هيئة مهنية رسمية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "القانون التنظيمي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 82,
+      "id": "systems_channel_55260",
+      "title": "نظام الاستثمار الاجنبي",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/55260",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55260",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الاستثمار الأجنبي ضمن فئة الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون الاستثمار"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55260",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الاستثمار الأجنبي ضمن فئة الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون الاستثمار",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 83,
+      "id": "systems_channel_55263",
+      "title": "نظام التأمينات الاجتماعية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/55263",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55263",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام التأمينات الاجتماعية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "التأمينات الاجتماعية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55263",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام التأمينات الاجتماعية.",
+        "source": "قناة الأنظمة",
+        "subject_area": "التأمينات الاجتماعية",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 84,
+      "id": "systems_channel_55268",
+      "title": "نظام الشركات المهنية",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/55268",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55268",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الشركات المهنية ضمن فئة الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون الشركات"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55268",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الشركات المهنية ضمن فئة الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون الشركات",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 85,
+      "id": "systems_channel_55273",
+      "title": "نظام المنافسة",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/55273",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55273",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام المنافسة ضمن الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون المنافسة"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55273",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام المنافسة ضمن الأنظمة والتشريعات.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون المنافسة",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 86,
+      "id": "systems_channel_55276",
+      "title": "نظام مكافحة جرائم الإرهاب وتمويله",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/55276",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55276",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام تشريعي في مكافحة الإرهاب وتمويله",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون مكافحة الإرهاب"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55276",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام تشريعي في مكافحة الإرهاب وتمويله",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون مكافحة الإرهاب",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 87,
+      "id": "systems_channel_55277",
+      "title": "نظام مكافحة غسل الأموال",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/55277",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55277",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام مكافحة غسل الأموال",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون مكافحة غسل الأموال"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_55277",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام مكافحة غسل الأموال",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون مكافحة غسل الأموال",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 88,
+      "id": "systems_channel_70234",
+      "title": "نظام مراقبة شركات التأمين التعاوني",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/70234",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_70234",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام رقابي في قطاع التأمين",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون التأمين"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_70234",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لنظام رقابي في قطاع التأمين",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون التأمين",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 89,
+      "id": "systems_channel_70241",
+      "title": "نظام مراقبة شركات التمويل",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/70241",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_70241",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام مراقبة شركات التمويل.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون التمويل"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_70241",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام مراقبة شركات التمويل.",
+        "source": "قناة الأنظمة",
+        "subject_area": "قانون التمويل",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 90,
+      "id": "systems_channel_71345",
+      "title": "نظام الايجار التمويلي",
+      "author": "",
+      "category": "الأنظمة والتشريعات",
+      "source": "قناة الأنظمة",
+      "channels": [
+        "c/1197187841"
+      ],
+      "channel_summary": "c/1197187841",
+      "link_telegram": "https://t.me/c/1197187841/71345",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 34,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_71345",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الإيجار التمويلي.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الإيجار التمويلي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "systems_channel_71345",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بنظام الإيجار التمويلي.",
+        "source": "قناة الأنظمة",
+        "subject_area": "نظام الإيجار التمويلي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 91,
+      "id": "saudi_law_group_112299",
+      "title": "مجموعة المبادئ الشرعية والنظامية التي قررتها لجنة تدقيق القضايا خلال عام ١٤٠٠ - ديوان المظالم إدارة تصنيف ونشر الأحكام - ٤١٦ صفحة.",
+      "author": "",
+      "category": "القضاء الإداري",
+      "source": "قناة المحاماة والقانون السعودي",
+      "channels": [
+        "Lawyers_saudi"
+      ],
+      "channel_summary": "Lawyers_saudi",
+      "link_telegram": "https://t.me/Lawyers_saudi/112299",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 6,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_112299",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لمجموعة مبادئ قضائية صادرة عن ديوان المظالم.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "القضاء الإداري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_112299",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر لمجموعة مبادئ قضائية صادرة عن ديوان المظالم.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "القضاء الإداري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 92,
+      "id": "saudi_law_group_112300",
+      "title": "مجموعة المبادئ الشرعية والنظامية التي قررتها هيئات ولجان ودوائر الديوان خلال عام ١٣٩٧_١٣٩٩ - ديوان المظالم إدارة تصنيف ونشر الأحكام - الجزء الثاني - ٦٩٦ صفحة.",
+      "author": "",
+      "category": "القضاء الإداري",
+      "source": "قناة المحاماة والقانون السعودي",
+      "channels": [
+        "Lawyers_saudi"
+      ],
+      "channel_summary": "Lawyers_saudi",
+      "link_telegram": "https://t.me/Lawyers_saudi/112300",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 6,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_112300",
+        "political_or_madhabi_signal": "",
+        "reason": "مجموعة مبادئ قضائية صادرة عن ديوان المظالم في القضاء الإداري.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "القضاء الإداري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_112300",
+        "political_or_madhabi_signal": "",
+        "reason": "مجموعة مبادئ قضائية صادرة عن ديوان المظالم في القضاء الإداري.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "القضاء الإداري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 93,
+      "id": "saudi_law_group_112301",
+      "title": "مجموعة المبادئ الشرعية والنظامية التي قررتها لجنة تدقيق القضايا خلال عام ١٣٩٧_١٣٩٩ - ديوان المظالم إدارة تصنيف ونشر الأحكام - الجزء الاول - ٦٢٤ صفحة.",
+      "author": "",
+      "category": "القضاء الإداري",
+      "source": "قناة المحاماة والقانون السعودي",
+      "channels": [
+        "Lawyers_saudi"
+      ],
+      "channel_summary": "Lawyers_saudi",
+      "link_telegram": "https://t.me/Lawyers_saudi/112301",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 6,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_112301",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بمبادئ قضائية صادرة عن ديوان المظالم.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "القضاء الإداري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_112301",
+        "political_or_madhabi_signal": "",
+        "reason": "عنوان قانوني مباشر يتعلق بمبادئ قضائية صادرة عن ديوان المظالم.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "القضاء الإداري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 94,
+      "id": "saudi_law_group_112908",
+      "title": "قرار هيئة التدقيق مجتمعة رقم 87 لعام 1432هـبشأن الفصل في دعاوى التعويض عن أعمال الضبطية الجنائية الموجهة ضد جهات الضبط الجنائي(هيئة التحقيق والادعاء العام، أجهزة الشرط، إدارات المباحث، المكافح..الخ)",
+      "author": "",
+      "category": "القضاء والمحاكم",
+      "source": "قناة المحاماة والقانون السعودي",
+      "channels": [
+        "Lawyers_saudi"
+      ],
+      "channel_summary": "Lawyers_saudi",
+      "link_telegram": "https://t.me/Lawyers_saudi/112908",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 6,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_112908",
+        "political_or_madhabi_signal": "",
+        "reason": "قرار قضائي يتعلق بدعاوى التعويض عن أعمال الضبط الجنائي.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "التعويض عن أعمال الضبط الجنائي"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_112908",
+        "political_or_madhabi_signal": "",
+        "reason": "قرار قضائي يتعلق بدعاوى التعويض عن أعمال الضبط الجنائي.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "التعويض عن أعمال الضبط الجنائي",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 95,
+      "id": "saudi_law_group_118665",
+      "title": "دليل المستخدم لتقديم دعوى تجارية عبر نظام ناجز",
+      "author": "",
+      "category": "القانون التجاري",
+      "source": "قناة المحاماة والقانون السعودي",
+      "channels": [
+        "Lawyers_saudi"
+      ],
+      "channel_summary": "Lawyers_saudi",
+      "link_telegram": "https://t.me/Lawyers_saudi/118665",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 6,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_118665",
+        "political_or_madhabi_signal": "",
+        "reason": "دليل إجرائي قضائي لتقديم دعوى تجارية عبر منصة ناجز الحكومية.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "القانون التجاري"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_118665",
+        "political_or_madhabi_signal": "",
+        "reason": "دليل إجرائي قضائي لتقديم دعوى تجارية عبر منصة ناجز الحكومية.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "القانون التجاري",
+        "reviewed": false
+      }
+    },
+    {
+      "record_number": 96,
+      "id": "saudi_law_group_138003",
+      "title": "قرار معالي النائب العام رقم ١ وتاريخ ١٤٤٢/١/١ بشأن بشأن تحديد الجرائم الكبيرة الموجبة للتوقيف بالصيغة المرفقة للقرار pdf",
+      "author": "",
+      "category": "القضاء والمحاكم",
+      "source": "قناة المحاماة والقانون السعودي",
+      "channels": [
+        "Lawyers_saudi"
+      ],
+      "channel_summary": "Lawyers_saudi",
+      "link_telegram": "https://t.me/Lawyers_saudi/138003",
+      "link_drive": "",
+      "link_direct": "",
+      "source_item_count": 6,
+      "initial": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_138003",
+        "political_or_madhabi_signal": "",
+        "reason": "قرار تنظيمي مباشر من النائب العام يتعلق بتحديد الجرائم الكبيرة الموجبة للتوقيف.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "الإجراءات الجزائية"
+      },
+      "final": {
+        "confidence": "high",
+        "decision": "KEEP",
+        "id": "saudi_law_group_138003",
+        "political_or_madhabi_signal": "",
+        "reason": "قرار تنظيمي مباشر من النائب العام يتعلق بتحديد الجرائم الكبيرة الموجبة للتوقيف.",
+        "source": "قناة المحاماة والقانون السعودي",
+        "subject_area": "الإجراءات الجزائية",
+        "reviewed": false
+      }
+    }
+  ]
+}

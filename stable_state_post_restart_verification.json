@@ -1,0 +1,28 @@
+{
+  "generated_at": "2026-08-25T13:56:09.051Z",
+  "total_items": 11295,
+  "public_total_items": 11295,
+  "source_count_academic_theses": 430,
+  "stats_total": 11295,
+  "public_stats_total": 11295,
+  "hashes_before": {
+    "items.json": "e8465841d36aa5d461485b3444b6623f4c3fbca1c7588f03e23067599bf5f8b8",
+    "client/public/items.json": "e8465841d36aa5d461485b3444b6623f4c3fbca1c7588f03e23067599bf5f8b8",
+    "stats.json": "e9630e1ba3aeff5362ccc24d3c964b73d590cc3a2400691c031aed623b1c2787",
+    "client/public/stats.json": "e9630e1ba3aeff5362ccc24d3c964b73d590cc3a2400691c031aed623b1c2787"
+  },
+  "hashes_after": {
+    "items.json": "e8465841d36aa5d461485b3444b6623f4c3fbca1c7588f03e23067599bf5f8b8",
+    "client/public/items.json": "e8465841d36aa5d461485b3444b6623f4c3fbca1c7588f03e23067599bf5f8b8",
+    "stats.json": "e9630e1ba3aeff5362ccc24d3c964b73d590cc3a2400691c031aed623b1c2787",
+    "client/public/stats.json": "e9630e1ba3aeff5362ccc24d3c964b73d590cc3a2400691c031aed623b1c2787"
+  },
+  "hash_matches": {
+    "items.json": true,
+    "client/public/items.json": true,
+    "stats.json": true,
+    "client/public/stats.json": true
+  },
+  "branch_head": null,
+  "passed": true
+}

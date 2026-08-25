@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-08-25T19:22:48.902Z",
+  "telegram_item_count": 7043,
+  "total_source_groups": 15,
+  "remaining_source_count": 4,
+  "remaining_records": 96,
+  "final_counts": {
+    "KEEP": 86,
+    "REMOVE": 10,
+    "REVIEW": 0
+  },
+  "source_counts": {
+    "تسهيل الأنظمة": {
+      "total": 9,
+      "KEEP": 9,
+      "REMOVE": 0,
+      "REVIEW": 0
+    },
+    "قسم الأنظمة - جامعة نجران": {
+      "total": 47,
+      "KEEP": 37,
+      "REMOVE": 10,
+      "REVIEW": 0
+    },
+    "قناة الأنظمة": {
+      "total": 34,
+      "KEEP": 34,
+      "REMOVE": 0,
+      "REVIEW": 0
+    },
+    "قناة المحاماة والقانون السعودي": {
+      "total": 6,
+      "KEEP": 6,
+      "REMOVE": 0,
+      "REVIEW": 0
+    }
+  },
+  "duplicate_extra_count": 2,
+  "invalid_links": 0,
+  "coverage_valid": true,
+  "source_arithmetic_valid": true,
+  "reference_hashes_match": true,
+  "head": "1e12fd7",
+  "tag": "2a6745e",
+  "hashes": {
+    "items_main": "4fa968c7e46ba894043f0a09e77fc760eb990867c4282387cbb018a60bf0e459",
+    "items_published": "4fa968c7e46ba894043f0a09e77fc760eb990867c4282387cbb018a60bf0e459",
+    "stats_main": "5de6147649dae592481ba2e93ba7991109ea832acddc849b4c4a9da55daf4297",
+    "stats_published": "5de6147649dae592481ba2e93ba7991109ea832acddc849b4c4a9da55daf4297"
+  }
+}

@@ -1,0 +1,721 @@
+{
+  "generated_at": "2026-08-25T19:13:57.685Z",
+  "total_records": 96,
+  "sources": [
+    {
+      "source": "تسهيل الأنظمة",
+      "item_count": 9,
+      "channels": [
+        {
+          "channel": "muath_alyahya",
+          "count": 9
+        }
+      ]
+    },
+    {
+      "source": "قسم الأنظمة - جامعة نجران",
+      "item_count": 47,
+      "channels": [
+        {
+          "channel": "c/1876374106",
+          "count": 47
+        }
+      ]
+    },
+    {
+      "source": "قناة الأنظمة",
+      "item_count": 34,
+      "channels": [
+        {
+          "channel": "c/1197187841",
+          "count": 34
+        }
+      ]
+    },
+    {
+      "source": "قناة المحاماة والقانون السعودي",
+      "item_count": 6,
+      "channels": [
+        {
+          "channel": "Lawyers_saudi",
+          "count": 6
+        }
+      ]
+    }
+  ],
+  "chunk_dir": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks",
+  "records": [
+    {
+      "record_number": 1,
+      "id": "muath_10",
+      "source": "تسهيل الأنظمة",
+      "title": "هذه نُسخ متميزة لعدد من الأنظمة السعودية مضافا لها ما يتعلق بها من لوائح تنفيذية أو أدلة إجرائية أو قرارات ونحو ذلك",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_001.json"
+    },
+    {
+      "record_number": 2,
+      "id": "muath_290",
+      "source": "تسهيل الأنظمة",
+      "title": "قرار النائب العام باعتبار جميع الأوصاف الجرمية المتصلة بمادة الشبو من الجرائم الكبرى الموجبة للتوقيف",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_002.json"
+    },
+    {
+      "record_number": 3,
+      "id": "muath_38",
+      "source": "تسهيل الأنظمة",
+      "title": "ملف يحوي أبرز الأخطاء في فهم التعميم، مع بيان المقصود به، مع الإشارة لأهم الآثار الناتجة عن عدم إكساب عقد الشركة الوارد ...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_003.json"
+    },
+    {
+      "record_number": 4,
+      "id": "muath_41",
+      "source": "تسهيل الأنظمة",
+      "title": "ما ألقاب مخاطبة المسؤولين الحكوميين؟ وما عبارات تحيتهم؟ إن من أكثر المسائل المُشكلة لدى أكثر الناس -ووجدتها ظاهرة في تعا...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_004.json"
+    },
+    {
+      "record_number": 5,
+      "id": "muath_5",
+      "source": "تسهيل الأنظمة",
+      "title": "استنادا على قرار مجلس الوزراء رقم (476) وتاريخ 15/07/1441هـ نشرت وزارة العدل مشروع اللائحة التنفيذية الجديدة لنظام المحا...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_005.json"
+    },
+    {
+      "record_number": 6,
+      "id": "muath_55",
+      "source": "تسهيل الأنظمة",
+      "title": "جميع ملفات دورة الملكية الفكرية في المملكة العربية السعودية المقدمة من المنظمة العالمية للملكية الفكرية (wipo)",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_006.json"
+    },
+    {
+      "record_number": 7,
+      "id": "muath_69",
+      "source": "تسهيل الأنظمة",
+      "title": "كتب مثرية في مختلف الفروع القانونية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_007.json"
+    },
+    {
+      "record_number": 8,
+      "id": "muath_86",
+      "source": "تسهيل الأنظمة",
+      "title": "جميع أجزاء كتاب الوسيط للسنهوري (يمكن للمتمكن الإفادة منه لفهم نظام المعاملات المدنية مع ملاحظة الاختلافات في نصوص الموا...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_008.json"
+    },
+    {
+      "record_number": 9,
+      "id": "muath_9",
+      "source": "تسهيل الأنظمة",
+      "title": "كل ما يتعلق بمبادرة تخفيض سداد غرامات المخالفات المرورية المتراكمة على مرتكبيها قبل تاريخ 09/ 10/ 1445 هـ الموافق 18/ 04...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_009.json"
+    },
+    {
+      "record_number": 10,
+      "id": "najran_23056",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "ملخص المذاهب الاربعة واسباب اختلاف الفقهاء دعواتكم",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_010.json"
+    },
+    {
+      "record_number": 11,
+      "id": "najran_68504",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "‎كتاب اصول علمي الاجرام والعقاب001",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_011.json"
+    },
+    {
+      "record_number": 12,
+      "id": "najran_68599",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "‎القانون التجاري السعودي عبدالهادي الغامدي",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_012.json"
+    },
+    {
+      "record_number": 13,
+      "id": "najran_art_12337",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "مدخل دراسه الانظمه قواعد فقهيه ثقافه 2 سياسه شرعيه مبادى الاداره العامه القانون التجاري السعودي",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_013.json"
+    },
+    {
+      "record_number": 14,
+      "id": "najran_art_12432",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "اطلع على نظام الشركات، وعلى حسب نوعها وفيه في قوقل نماذج لعقود شركات يعطيك انطباع",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_014.json"
+    },
+    {
+      "record_number": 15,
+      "id": "najran_art_14509",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "قواعد القانون التجاري الاعمال التجاريه والتجار في ذي الفقره نحتاج ناخذ منها شي؟؟؟",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_015.json"
+    },
+    {
+      "record_number": 16,
+      "id": "najran_art_14518",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "القانون الجنائي د. القانون الدولي من الألفاظ المستخدمة في صياغة القاعدة المكملة أ. ينبغي ب. يحق ج. لا يجوز د. يجب من الألفاظ المستخدمة في صياغة القاعد...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_016.json"
+    },
+    {
+      "record_number": 17,
+      "id": "najran_art_14622",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "لا يجوز توقيع عقوبة جزائية على أي شخص, إلا بعد ثبوت إدانته بأمر محظور شرعاً أو نظاماً بعد محاكمة تُجْرى وفقاً للمقتضى الشرعي. المادة الثالثة من نظام ا...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_017.json"
+    },
+    {
+      "record_number": 18,
+      "id": "najran_art_17529",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "الذي على وشك تخرج أو في المستويات المتقدمة، وأراد الاطلاع على السوابق القضائية، وكيف يربطها بمواد نظام المرافعات الشرعية؛ أحد الأخوات في تطبيق اكس (تو...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_018.json"
+    },
+    {
+      "record_number": 19,
+      "id": "najran_art_17609",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "انواعه ومن كل نوع تعريف اول سطر ما عدا القانون المدني فهو اصل واساس فروع القانون الخاص وقانون العمل هو احدث فروع القانون الخاص . فقط .",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_019.json"
+    },
+    {
+      "record_number": 20,
+      "id": "najran_art_17611",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "القانون المدني. القانون التجاري. القانون البحري. القانون الجوي. قانون العمل. قانون المرافعات المدنية والتجارية. القانون الدولي الخاص.",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_020.json"
+    },
+    {
+      "record_number": 21,
+      "id": "najran_art_27190",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "كتب للبيع مطبوعه ( تخصص ) قانون نظام الإجراءات الجزائية احكام الالتزام الجزء الثاني مصادر الالتزام الملكيه الصناعيه نظام العمل والتأمنيتات الاجتماعيه ...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_021.json"
+    },
+    {
+      "record_number": 22,
+      "id": "najran_art_3367",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "سؤال قانوني ما الفرق بين النظام الأساسي للحكم، ونظام المرافعات الشرعية من حيث صدوره؟",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_022.json"
+    },
+    {
+      "record_number": 23,
+      "id": "najran_art_35174",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "صباح الخير يا شباب حد عنده تسريبات ل ال مجري مبادى القانون التجاري ولا تلخيص ولا اي شيء اختبارات سابقا ف يرسلها ولاعليه امر والله يوفقه",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_023.json"
+    },
+    {
+      "record_number": 24,
+      "id": "najran_art_3855",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "هذه أنواع الإلغاء ولكن ما قصدته ما هي الإجراءات المتبعة لإجراء التعديل على مادة من مواد نظام الإجراءات الجزائية مثلاً أو غيره من الأنظمة؟ قلنا في سؤال...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_024.json"
+    },
+    {
+      "record_number": 25,
+      "id": "najran_art_3900",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "القانون الجنائي قانون العقوبات، في حال ارتكاب الجرائم يطبق هذا القانون والنيابة هي المنوطة بإجراءات التحقيق وجمع الأدلة وتطبيق هذا النظام، وهو متمثل ف...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_025.json"
+    },
+    {
+      "record_number": 26,
+      "id": "najran_art_3905",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "قصدك قدرات الخاصة بهم ما راح تطلع من نظام الإجراءات الجزائية والنظام القضائي والتنفيذ وبعض الأنظمة المرتبطة",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_026.json"
+    },
+    {
+      "record_number": 27,
+      "id": "najran_art_46632",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "شخص يقوم بفعل محفوف بالمخاطر دون ان يتوقع او ان ينتبه للنتائج الضاره > في القانون الجنائي تحصلون امثله عليه ايضًا",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_027.json"
+    },
+    {
+      "record_number": 28,
+      "id": "najran_art_48535",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "القواعد العامه ل النظام الجزائي مناهج البحث العلمي نظام العمل و التأمينات الاجتماعية وش اسهل مادتين ؟",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_028.json"
+    },
+    {
+      "record_number": 29,
+      "id": "najran_art_51134",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "لا ندرس مادة الأحوال الشخصية على ضوء الشريعة الإسلامية ووفق ما جاء في نظام الأحوال الشخصية المتوافق والمنبعث منها… ربما تدرسون مادة الأحوال الشخصية لغ...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_029.json"
+    },
+    {
+      "record_number": 30,
+      "id": "najran_art_51402",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "المادة السابعة والأربعون من نظام الإجراءات الجزائية تنص على أن تفتيش المسكن يجب أن يتم بحضور صاحبه أو من ينوب عنه من أفراد أسرته البالغين المقيمين معه...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_030.json"
+    },
+    {
+      "record_number": 31,
+      "id": "najran_art_52092",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "إيه أدرسه عند د.غادة،نفس شكل الكتاب بس هذا مواضيعه من داخل مختلفة كليًا يتكلم عن القانون الجنائي مب الدولي",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_031.json"
+    },
+    {
+      "record_number": 32,
+      "id": "najran_art_54322",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "احد يبي كتب القواعد الفقهية مبادئ الاقتصاد علم اصول الفقه النظام السياسي والدستوري القانون التجاري المدخل لدراسة الانظمة المدخل للفقه الاسلامي السياسه...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_032.json"
+    },
+    {
+      "record_number": 33,
+      "id": "najran_art_59582",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "الحين المواد ذي سهله . اصول فقة . منهاج البحث. القانون الدستوري. مبادئ القانون التجاري. الهوية الوطنية . مهارات الاتصال.",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_033.json"
+    },
+    {
+      "record_number": 34,
+      "id": "najran_art_60172",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "القانون الاداري غالب الهمامي القانون الدستوري قمر الدين مبادى القانون التجاري سالم الهمامي اصول فقه صدام",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_034.json"
+    },
+    {
+      "record_number": 35,
+      "id": "najran_art_6209",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "\"المهر هو المال الذي يدفعه الرجل للمرأة بسبب عقد الزواج.\" المادة (٣٦) من نظام الأحوال الشخصية.",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_035.json"
+    },
+    {
+      "record_number": 36,
+      "id": "najran_art_62421",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "احد يبغا الكتب هذي؟ القواعد الفقهيه مهارات لغويه مهارات الإتصال مبادئ الإقتصاد القانون التجاري القانون الدستوري",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_036.json"
+    },
+    {
+      "record_number": 37,
+      "id": "najran_art_62426",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "أصول الفقه كويس بس دكتورتنا سيئه جدًا د/ مريم مكي مبادى القانون التجاري مرا سهل وممتع درسته عند أ/ نوره المطيري",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_037.json"
+    },
+    {
+      "record_number": 38,
+      "id": "najran_art_63245",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "القانون الدستوري مبادى القانون التجاري القانون الدولي العام فيه حد درس هذي المواد؟",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_038.json"
+    },
+    {
+      "record_number": 39,
+      "id": "najran_art_63382",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "الرياده في الأعمال تاريخ وفلسفة القانون القانون الجنائي العام أصول الفقه فقة المعاملات مبادئ القانون التجاري الهويه الوطنيه طيب هذي المواد تشوفينها صع...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_039.json"
+    },
+    {
+      "record_number": 40,
+      "id": "najran_art_63421",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "أصول الفقه القانون الجنائي العام علم الإجرام والعقاب الهويه الوطنيه القانون الدستوري مبادى القانون التجاري المواد ذي سهله مع بعض ولا",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_040.json"
+    },
+    {
+      "record_number": 41,
+      "id": "najran_art_64019",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "عندي كتب اللي يبغى منها شي يتواصل معي : - القانون الدستوري - ⁠المدخل الى الفقه - ⁠المدخل الى القانون - ⁠مبادئ القانون التجاري - ⁠القانون الجنائي العام...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_041.json"
+    },
+    {
+      "record_number": 42,
+      "id": "najran_art_64498",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "اخلاقيات المهنه 506 المدخل الا الفقه 30 .: المدخل الا القانون 58 المهويه الوطنيه 373 : القانون الدستوي 53 : مبادئ القانون التجاري 28 تاريخ وفلسفه القا...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_042.json"
+    },
+    {
+      "record_number": 43,
+      "id": "najran_art_6475",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "⁉️ متى يحق للخاطب أو المخطوبة المطالبة بالهدايا التي أعطيت وقت الخطبة في حال فسخ الخطوبة؟ أم لا يجوز الرجوع فيها؟ جوابها في نظام الأحوال الشخصية.",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_043.json"
+    },
+    {
+      "record_number": 44,
+      "id": "najran_art_64944",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "عندي المقررات هذي الي يبغا منها شي يتواصل خاص مبادئ الاقتصاد القواعد الفقهيه القانون الدستوري مناهج البحث القانون الجنائي القانون التجاري اصول فقه١",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_044.json"
+    },
+    {
+      "record_number": 45,
+      "id": "najran_art_65135",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "عندي كتب قانون فقه معاملات اصلي الجزائي الاصلي المرافعات الأصلي مصادر الالتزام الإرادية وغير اراديه اصلي والفرائض واحكام الاسره القانون الجنائي الساسي...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_045.json"
+    },
+    {
+      "record_number": 46,
+      "id": "najran_art_65514",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "قانون دستوري المدخل للفقة الاسلامي الهوية الوطنية مبادى القانون التجاري المدخل الى القانون",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_046.json"
+    },
+    {
+      "record_number": 47,
+      "id": "najran_art_65656",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "ي شباب كيف الدكاتره ذولا د. صالح بن محمد الهمامي مقرر القانون الدستوري أنيس حسيب السيد المحلاوي مقرر القانون الجنائي العام",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_047.json"
+    },
+    {
+      "record_number": 48,
+      "id": "najran_art_65817",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "ابي bdf للمقررات ذي القانون الجنائي العام علم الإجرام والعقاب الهويه الوطنيه مبادى القانون التجاري",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_048.json"
+    },
+    {
+      "record_number": 49,
+      "id": "najran_art_65958",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "صباح الخير اللي عنده القانون الاداري والقانون الدستوري ومبادي القانون التجاري pdf يرسلها لاهنتوا",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_049.json"
+    },
+    {
+      "record_number": 50,
+      "id": "najran_art_66424",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "المهارات الرقمية ١٠١نال-٢ القانون الأداري١٣٢-قان-٣ الهوية الوطنية١٠٢-وطن-٢ القانون الدستوري١٣١-قان-٣ مبادئ القانون التجاري١٦١-قان-٢ أصول فقة ١٩٣-قان-٣...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_050.json"
+    },
+    {
+      "record_number": 51,
+      "id": "najran_art_66521",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "العقود الادارية - احكام الاسرة - احكام الالتزام - الجرائم التعزيريه - القانون الجنائي الخاص - ⁠ أصول فقه ٢ - آيات و احاديث الاحكام - مصادر الالتزام ال...",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_051.json"
+    },
+    {
+      "record_number": 52,
+      "id": "najran_art_67290",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "اللي يبغا هالمواد pdf يرسل أصول الفقه القانون الدولي العام الحدود والقصاص ثقافه ٢",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_052.json"
+    },
+    {
+      "record_number": 53,
+      "id": "najran_art_67295",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "اللي يبي هذي الكتب يتواصل معي خاص مناهج البحث القانون الدستوري المدخل إلى الفقه الإسلامي المدخل إلى القانون ثقافه 1 الاداره الاستراتيجية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_053.json"
+    },
+    {
+      "record_number": 54,
+      "id": "najran_art_67668",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "لو سمحتو ابغا المدخل إلى الفقه والمدخل إلى القانون و القانون التجاري bdf ضررروووررييييييي",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_054.json"
+    },
+    {
+      "record_number": 55,
+      "id": "najran_art_71327",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "سؤال للعيال كيف القانون التجاري معكم هل فيه تحديد او ملخصات وهل يشرحون لكم من الاساس ؟؟؟؟؟؟",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_055.json"
+    },
+    {
+      "record_number": 56,
+      "id": "najran_art_72236",
+      "source": "قسم الأنظمة - جامعة نجران",
+      "title": "اللي اختبر عند المحلاوي الاحكام العامة للنظام الجزائي ( القانون الجنائي) يجي خاص ضروري ضروري ضروري ضروري",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_056.json"
+    },
+    {
+      "record_number": 57,
+      "id": "systems_channel_1739",
+      "source": "قناة الأنظمة",
+      "title": "نظام مهنة المحاسبة والمراجعة",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_057.json"
+    },
+    {
+      "record_number": 58,
+      "id": "systems_channel_52724",
+      "source": "قناة الأنظمة",
+      "title": "اللائحة التنفيذية لنظام الشركات 1444 2023",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_058.json"
+    },
+    {
+      "record_number": 59,
+      "id": "systems_channel_52728",
+      "source": "قناة الأنظمة",
+      "title": "اللائحة التنفيذية لنظام التجارة الإلكترونية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_059.json"
+    },
+    {
+      "record_number": 60,
+      "id": "systems_channel_52729",
+      "source": "قناة الأنظمة",
+      "title": "نظام التجارة الإلكترونية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_060.json"
+    },
+    {
+      "record_number": 61,
+      "id": "systems_channel_52730",
+      "source": "قناة الأنظمة",
+      "title": "نظام المقيّمين المعتمدين",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_061.json"
+    },
+    {
+      "record_number": 62,
+      "id": "systems_channel_52731",
+      "source": "قناة الأنظمة",
+      "title": "اللائحة التنفيذية لنظام مكافحة الغش التجاري",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_062.json"
+    },
+    {
+      "record_number": 63,
+      "id": "systems_channel_52732",
+      "source": "قناة الأنظمة",
+      "title": "نظام مكافحة الغش التجاري",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_063.json"
+    },
+    {
+      "record_number": 64,
+      "id": "systems_channel_52733",
+      "source": "قناة الأنظمة",
+      "title": "نظام الرهن التجاري 1439",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_064.json"
+    },
+    {
+      "record_number": 65,
+      "id": "systems_channel_52734",
+      "source": "قناة الأنظمة",
+      "title": "اللائحة التنفيذية لنظام الدفاتر التجارية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_065.json"
+    },
+    {
+      "record_number": 66,
+      "id": "systems_channel_52735",
+      "source": "قناة الأنظمة",
+      "title": "نظام الدفاتر التجارية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_066.json"
+    },
+    {
+      "record_number": 67,
+      "id": "systems_channel_52736",
+      "source": "قناة الأنظمة",
+      "title": "نظام وزارة التجارة",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_067.json"
+    },
+    {
+      "record_number": 68,
+      "id": "systems_channel_52739",
+      "source": "قناة الأنظمة",
+      "title": "نظام البيانات التجارية 1423",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_068.json"
+    },
+    {
+      "record_number": 69,
+      "id": "systems_channel_52740",
+      "source": "قناة الأنظمة",
+      "title": "اللائحة التنفيئية لنظام مهنة المحاسبة و المراجعة",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_069.json"
+    },
+    {
+      "record_number": 70,
+      "id": "systems_channel_52742",
+      "source": "قناة الأنظمة",
+      "title": "نظام الغرف التجارية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_070.json"
+    },
+    {
+      "record_number": 71,
+      "id": "systems_channel_52745",
+      "source": "قناة الأنظمة",
+      "title": "نظام السجل التجاري",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_071.json"
+    },
+    {
+      "record_number": 72,
+      "id": "systems_channel_52746",
+      "source": "قناة الأنظمة",
+      "title": "اللائحة التنفيذية لنظام الامتياز التجاري",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_072.json"
+    },
+    {
+      "record_number": 73,
+      "id": "systems_channel_52747",
+      "source": "قناة الأنظمة",
+      "title": "نظام الامتياز التجاري",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_073.json"
+    },
+    {
+      "record_number": 74,
+      "id": "systems_channel_52749",
+      "source": "قناة الأنظمة",
+      "title": "نظام الاسماء التجارية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_074.json"
+    },
+    {
+      "record_number": 75,
+      "id": "systems_channel_52750",
+      "source": "قناة الأنظمة",
+      "title": "اللائحة التنفيذية لنظام الوكالات التجارية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_075.json"
+    },
+    {
+      "record_number": 76,
+      "id": "systems_channel_52751",
+      "source": "قناة الأنظمة",
+      "title": "نظام الوكالات التجارية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_076.json"
+    },
+    {
+      "record_number": 77,
+      "id": "systems_channel_52752",
+      "source": "قناة الأنظمة",
+      "title": "نظام الاوراق التجارية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_077.json"
+    },
+    {
+      "record_number": 78,
+      "id": "systems_channel_52753",
+      "source": "قناة الأنظمة",
+      "title": "اللائحة التنفيذية لنظام الإفلاس",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_078.json"
+    },
+    {
+      "record_number": 79,
+      "id": "systems_channel_52754",
+      "source": "قناة الأنظمة",
+      "title": "نظام الافلاس 1440-2019",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_079.json"
+    },
+    {
+      "record_number": 80,
+      "id": "systems_channel_528",
+      "source": "قناة الأنظمة",
+      "title": "نظام مراقبة البنوك",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_080.json"
+    },
+    {
+      "record_number": 81,
+      "id": "systems_channel_55259",
+      "source": "قناة الأنظمة",
+      "title": "تنظيم الهيئة السعودية للمراجعين والمحاسبين",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_081.json"
+    },
+    {
+      "record_number": 82,
+      "id": "systems_channel_55260",
+      "source": "قناة الأنظمة",
+      "title": "نظام الاستثمار الاجنبي",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_082.json"
+    },
+    {
+      "record_number": 83,
+      "id": "systems_channel_55263",
+      "source": "قناة الأنظمة",
+      "title": "نظام التأمينات الاجتماعية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_083.json"
+    },
+    {
+      "record_number": 84,
+      "id": "systems_channel_55268",
+      "source": "قناة الأنظمة",
+      "title": "نظام الشركات المهنية",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_084.json"
+    },
+    {
+      "record_number": 85,
+      "id": "systems_channel_55273",
+      "source": "قناة الأنظمة",
+      "title": "نظام المنافسة",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_085.json"
+    },
+    {
+      "record_number": 86,
+      "id": "systems_channel_55276",
+      "source": "قناة الأنظمة",
+      "title": "نظام مكافحة جرائم الإرهاب وتمويله",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_086.json"
+    },
+    {
+      "record_number": 87,
+      "id": "systems_channel_55277",
+      "source": "قناة الأنظمة",
+      "title": "نظام مكافحة غسل الأموال",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_087.json"
+    },
+    {
+      "record_number": 88,
+      "id": "systems_channel_70234",
+      "source": "قناة الأنظمة",
+      "title": "نظام مراقبة شركات التأمين التعاوني",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_088.json"
+    },
+    {
+      "record_number": 89,
+      "id": "systems_channel_70241",
+      "source": "قناة الأنظمة",
+      "title": "نظام مراقبة شركات التمويل",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_089.json"
+    },
+    {
+      "record_number": 90,
+      "id": "systems_channel_71345",
+      "source": "قناة الأنظمة",
+      "title": "نظام الايجار التمويلي",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_090.json"
+    },
+    {
+      "record_number": 91,
+      "id": "saudi_law_group_112299",
+      "source": "قناة المحاماة والقانون السعودي",
+      "title": "مجموعة المبادئ الشرعية والنظامية التي قررتها لجنة تدقيق القضايا خلال عام ١٤٠٠ - ديوان المظالم إدارة تصنيف ونشر الأحكام - ٤١٦ صفحة.",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_091.json"
+    },
+    {
+      "record_number": 92,
+      "id": "saudi_law_group_112300",
+      "source": "قناة المحاماة والقانون السعودي",
+      "title": "مجموعة المبادئ الشرعية والنظامية التي قررتها هيئات ولجان ودوائر الديوان خلال عام ١٣٩٧_١٣٩٩ - ديوان المظالم إدارة تصنيف ونشر الأحكام - الجزء الثاني - ٦٩٦ صفحة.",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_092.json"
+    },
+    {
+      "record_number": 93,
+      "id": "saudi_law_group_112301",
+      "source": "قناة المحاماة والقانون السعودي",
+      "title": "مجموعة المبادئ الشرعية والنظامية التي قررتها لجنة تدقيق القضايا خلال عام ١٣٩٧_١٣٩٩ - ديوان المظالم إدارة تصنيف ونشر الأحكام - الجزء الاول - ٦٢٤ صفحة.",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_093.json"
+    },
+    {
+      "record_number": 94,
+      "id": "saudi_law_group_112908",
+      "source": "قناة المحاماة والقانون السعودي",
+      "title": "قرار هيئة التدقيق مجتمعة رقم 87 لعام 1432هـبشأن الفصل في دعاوى التعويض عن أعمال الضبطية الجنائية الموجهة ضد جهات الضبط الجنائي(هيئة التحقيق والادعاء العام، أجهزة الشرط، إدارات المباحث، المكافح..الخ)",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_094.json"
+    },
+    {
+      "record_number": 95,
+      "id": "saudi_law_group_118665",
+      "source": "قناة المحاماة والقانون السعودي",
+      "title": "دليل المستخدم لتقديم دعوى تجارية عبر نظام ناجز",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_095.json"
+    },
+    {
+      "record_number": 96,
+      "id": "saudi_law_group_138003",
+      "source": "قناة المحاماة والقانون السعودي",
+      "title": "قرار معالي النائب العام رقم ١ وتاريخ ١٤٤٢/١/١ بشأن بشأن تحديد الجرائم الكبيرة الموجبة للتوقيف بالصيغة المرفقة للقرار pdf",
+      "chunk": "/home/ubuntu/makanez-qadaa/remaining_telegram_source_audit_chunks/record_096.json"
+    }
+  ]
+}

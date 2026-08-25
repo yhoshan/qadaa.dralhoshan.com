@@ -1,0 +1,26 @@
+{
+  "total_main": 11286,
+  "total_published": 11286,
+  "expected_total": 11286,
+  "iirmll_count": 501,
+  "expected_iirmll_count": 501,
+  "removed_ids_remaining_main": [],
+  "removed_ids_remaining_published": [],
+  "protected_ids_missing_main": [],
+  "protected_ids_missing_published": [],
+  "protected_12629_present_main": true,
+  "protected_12629_present_published": true,
+  "no_duplicate_ids_main": true,
+  "no_duplicate_ids_published": true,
+  "primary_published_same_ids": true,
+  "stats_total_matches": true,
+  "stats_source_matches": true,
+  "stats_files_match": true,
+  "hashes": {
+    "items_main": "29427420c6ac8f7c730e6d00a65556f338306282a505de1ff7045274d5eddc00",
+    "items_published": "29427420c6ac8f7c730e6d00a65556f338306282a505de1ff7045274d5eddc00",
+    "stats_main": "79b853b2538a14f0f031f6485c3df7a5028cf662c72f3962f8535739ee3a4588",
+    "stats_published": "79b853b2538a14f0f031f6485c3df7a5028cf662c72f3962f8535739ee3a4588"
+  },
+  "passed": true
+}

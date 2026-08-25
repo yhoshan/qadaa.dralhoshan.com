@@ -1,0 +1,43 @@
+{
+  "generated_at": "2026-08-25T18:51:07.220Z",
+  "total_before": 11286,
+  "total_after": 11283,
+  "ibraz_before": 133,
+  "ibraz_after": 130,
+  "removed_count": 3,
+  "removed": [
+    {
+      "id": "intlaw_145",
+      "title": "اسعد الله اوقاتكم بكل خير حبايبي .. من كان مهتم بفروع القانون الدولي ولديه موضوع معين او فكرة يريد يطرحها بالقناة يتواصل معي @ibrazx41 تحياتي لكم ..",
+      "source": "القانون الدولي العام",
+      "category": "القانون الدولي",
+      "link_telegram": "https://t.me/ibrazx40/145"
+    },
+    {
+      "id": "intlaw_154",
+      "title": "‏“تكريم الإنسان”، “وحدة الإنسانية”، “المساواة العادلة”.. رسالة، والتزام، وأول مادة من ⁧ وثيقة مكة المكرمة ⁩ التي أعلنتها رابطة العالم الإسلامي ⁩ دستور...",
+      "source": "القانون الدولي العام",
+      "category": "الأنظمة واللوائح",
+      "link_telegram": "https://t.me/ibrazx40/154"
+    },
+    {
+      "id": "intlaw_269",
+      "title": "بعد فناء أربعة ملايين نسمة في الحرب العالمية الأولى، أوجدت الولايات المتحدة الامريكية ومعها القوى العظمى في أوروبا، نظاماً عالمياً جديد، حتى يسود⁧ الق...",
+      "source": "القانون الدولي العام",
+      "category": "القانون الدولي",
+      "link_telegram": "https://t.me/ibrazx40/269"
+    }
+  ],
+  "protected_ids_verified": [
+    "intlaw_57",
+    "intlaw_58",
+    "intlaw_59",
+    "intlaw_87",
+    "intlaw_138",
+    "intlaw_37",
+    "intlaw_65"
+  ],
+  "stats_before_total": 11286,
+  "cache_before": "iirmll-duplicate-removal-9-2026-08-25",
+  "cache_after": "ibrazx40-targeted-removal-3-2026-08-25"
+}
