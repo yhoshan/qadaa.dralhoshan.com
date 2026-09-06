@@ -216,7 +216,7 @@ const plugins = [
       description: "مكنز القضاء والأنظمة والمحاماة",
       lang: "ar",
       dir: "rtl",
-      start_url: "/pwa",
+      start_url: "/",
       scope: "/",
       display: "standalone",
       background_color: "#006C35",
