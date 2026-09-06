@@ -51,8 +51,8 @@ export function useItems() {
 
   useEffect(() => {
     Promise.all([
-      fetch(`/items.json?v=hero-stats-filter-controls-2026-09-06`).then((r) => r.json()),
-      fetch(`/stats.json?v=hero-stats-filter-controls-2026-09-06`).then((r) => r.json()),
+      fetch(`/items.json?v=qadaa-manifest-188-removal-2026-09-06`).then((r) => r.json()),
+      fetch(`/stats.json?v=qadaa-manifest-188-removal-2026-09-06`).then((r) => r.json()),
     ])
       .then(([itemsData, statsData]) => {
         setItems(itemsData);

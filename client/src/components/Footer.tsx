@@ -8,7 +8,7 @@ import { Mail, Copy, ExternalLink } from "lucide-react";
 import { toast } from "sonner";
 
 const SHARE_URL = typeof window !== "undefined" ? window.location.href : "https://qadaa.dralhoshan.com";
-const SHARE_TEXT = "مكنز القضاء والأنظمة والمحاماة — فهرس علمي شامل يضم أكثر من 11,000 مادة";
+const SHARE_TEXT = "مكنز القضاء والأنظمة والمحاماة — فهرس بحثي";
 
 const FOOTER_BG = "oklch(0.95 0.02 80)";
 const BORDER_COLOR = "oklch(0.88 0.04 78)";
@@ -137,7 +137,7 @@ export default function Footer() {
                 مكنز القضاء والأنظمة والمحاماة
               </h3>
               <p className="text-xs leading-relaxed mb-3" style={{ fontFamily: "Cairo, sans-serif", color: TEXT_MUTED }}>
-                فهرس علمي شامل يجمع مصادر فقه القضاء والأنظمة والمحاماة الشرعية والقانونية.
+                فهرس بحثي يجمع مصادر فقه القضاء والأنظمة والمحاماة الشرعية والقانونية.
                 تم تصنيف هذا الفهرس آلياً وتصحيحه يدوياً بناءً على أسماء الملفات والأوصاف المرفقة بها.
               </p>
               <p className="text-xs" style={{ fontFamily: "Cairo, sans-serif", color: TEXT_LIGHT }}>

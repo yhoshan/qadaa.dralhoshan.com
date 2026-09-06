@@ -78,7 +78,7 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
               color: SNOW,
             }}
           >
-            فهرس يجمع غالب العناوين والروابط التي تخدم القضاء والأنظمة والمحاماة
+            فهرس بحثي يجمع العناوين والروابط في القضاء والأنظمة والمحاماة، ويشمل مواد سعودية وعربية ومقارنة.
           </p>
         </header>
 

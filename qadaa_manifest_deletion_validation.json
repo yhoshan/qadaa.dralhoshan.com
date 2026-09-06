@@ -1,0 +1,40 @@
+{
+  "validated_at": "2026-09-06T13:09:57.023Z",
+  "before_count": 17360,
+  "requested_removal_count": 188,
+  "after_count": 17172,
+  "removed_count": 188,
+  "remaining_target_ids": [],
+  "duplicate_ids": [],
+  "hero_counts": {
+    "qadaa": 8848,
+    "nizam": 7152,
+    "mohama": 1172
+  },
+  "checks": {
+    "manifest_count_is_188": true,
+    "final_main_count_is_17172": true,
+    "final_public_count_is_17172": true,
+    "no_manifest_id_remains": true,
+    "main_and_public_items_match": true,
+    "all_non_target_records_preserved": true,
+    "no_duplicate_ids": true,
+    "main_stats_total_matches": true,
+    "public_stats_match_main": true,
+    "stats_categories_match": true,
+    "stats_sources_match": true,
+    "stats_material_types_match": true,
+    "stats_file_types_match": true,
+    "stats_featured_match": true,
+    "stats_download_links_match": true,
+    "hero_counts_match": true,
+    "hero_description_updated": true,
+    "index_description_updated": true,
+    "disclaimer_updated": true,
+    "old_scientific_label_removed": true,
+    "old_fixed_share_number_removed": true,
+    "share_text_is_research_index": true,
+    "cache_buster_updated": true
+  },
+  "success": true
+}

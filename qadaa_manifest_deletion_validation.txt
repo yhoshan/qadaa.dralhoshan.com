@@ -1,0 +1,32 @@
+فحص ما بعد تنفيذ قائمة الحذف المحددة
+تاريخ الفحص: 2026-09-06T13:09:57.023Z
+قبل الحذف: 17,360
+المطلوب حذفه: 188
+المحذوف فعلياً: 188
+بعد الحذف: 17,172
+المعرّفات المتبقية من القائمة: 0
+نجاح الفحص: نعم
+
+[PASS] manifest_count_is_188
+[PASS] final_main_count_is_17172
+[PASS] final_public_count_is_17172
+[PASS] no_manifest_id_remains
+[PASS] main_and_public_items_match
+[PASS] all_non_target_records_preserved
+[PASS] no_duplicate_ids
+[PASS] main_stats_total_matches
+[PASS] public_stats_match_main
+[PASS] stats_categories_match
+[PASS] stats_sources_match
+[PASS] stats_material_types_match
+[PASS] stats_file_types_match
+[PASS] stats_featured_match
+[PASS] stats_download_links_match
+[PASS] hero_counts_match
+[PASS] hero_description_updated
+[PASS] index_description_updated
+[PASS] disclaimer_updated
+[PASS] old_scientific_label_removed
+[PASS] old_fixed_share_number_removed
+[PASS] share_text_is_research_index
+[PASS] cache_buster_updated
