@@ -1,0 +1,33 @@
+تحليل تداخل ملفات استعادة مكتبة القانون مع الحالة المستعادة
+إجمالي الصفوف الخام: 542
+صفوف تطابق عنواناً قائماً: 26
+صفوف بلا تطابق عنواني: 16
+صفوف بعناوين فارغة: 500
+
+مصادر السجلات المطابقة في الحالة الحالية:
+- المكتبة القانونية ⚖️: 6
+- أرشيف الإنترنت: 6
+- مكتبة الاسكندرية: 4
+- القانون الدولي العام: 3
+- المكتبة القانونية — موقع المحامي نواف بن عواض الحربي: 3
+- جامعة الرسائل العلمية: 2
+- المكتبة القانونية الكبرى: 1
+- موقع بحوث: 1
+
+أمثلة من الصفوف غير المطابقة:
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_resource_f1319cb042 | The Law Dictionary
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_resource_ecae7fc033 | Legal Dictionary - FindLaw
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_resource_0a23922e7c | Legal Dictionary - Law.com
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_qadha_176 | Judicial Review of Administrative Actions: A Case Study of Saudi Arabia.
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_uncitral_model_law_arbitration | قانون الأونسيترال النموذجي للتحكيم التجاري الدولي (1985)، مع تعديلات 2006
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_uncitral_new_york_convention | اتفاقية الاعتراف بقرارات التحكيم الأجنبية وتنفيذها (نيويورك، 1958) - اتفاقية نيويورك
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_uncitral_arbitration_notes | ملحوظات الأونسيترال عن تنظيم إجراءات التحكيم (2016، مع ملحوظة محدثة 2023)
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_bog_principles_1439_1441 | المبادئ التي قررتها المحكمة الإدارية العليا للأعوام 1439-1440-1441هـ
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_bog_pre1402 | المبادئ والأحكام القضائية لديوان المظالم لما قبل عام 1402هـ
+- pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | lawlib_meu_iraq_admin_judiciary | مدى استقلال القضاء الإداري في العراق على ضوء قانون مجلس الدولة العراقي رقم 71 لسنة 2017 وتعديلاته - دراسة مقارنة
+- pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json | lawlib_resource_f1319cb042 | The Law Dictionary
+- pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json | lawlib_resource_ecae7fc033 | Legal Dictionary - FindLaw
+- pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json | lawlib_resource_0a23922e7c | Legal Dictionary - Law.com
+- pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json | lawlib_qadha_176 | Judicial Review of Administrative Actions: A Case Study of Saudi Arabia.
+- pasted_file_OsPkHo_ajsrp_saudi_legal_new_titles_24_2026-08-28.json | lawlib_ajsrp_9218 | عقد العمل للعامل الأجنبي في النظام السعودي - دراسة قانونية لنظام العمل السعودي 2025م/1446هـ
+- pasted_file_7JojVM_majmaah_imam_legal_new_titles_2026-08-28.json | lawlib_mu_vol26_28 | الخضوع الاختياري للقضاء السعودي - دراسة تحليلية للمادة (28) من نظام المرافعات

@@ -1,0 +1,34 @@
+تحقق روابط الدفعة الأسبق من موقع مكتبة القانون
+- ERROR: 20
+- UNAVAILABLE: 1
+- ACCESSIBLE: 5
+- TIMEOUT: 2
+
+- ERROR | - | مجموعة المبادئ والقرارات القضائية (1391هـ - 1437هـ) | https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/DecisionsRC.pdf
+- ERROR | - | الأحكام التجارية لعام 1439هـ | https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Pages/Documents.aspx
+- ERROR | - | مجموعة الأحكام القضائية لعام 1434هـ | https://www.moj.gov.sa/ar/SystemsAndRegulations/Pages/System1434.aspx
+- ERROR | - | مجموعة الأحكام القضائية لعام 1435هـ | https://www.moj.gov.sa/ar/SystemsAndRegulations/Pages/System1435.aspx
+- ERROR | - | مدونة الأحكام القضائية - الإصدار الأول 1428هـ | https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/Modawana_1428_FirstVersion.pdf
+- ERROR | - | مدونة الأحكام القضائية - الإصدار الثاني 1428هـ | https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/Modawana_1428_SecondVersion.pdf
+- ERROR | - | مدونة الأحكام القضائية - الإصدار الثالث 1429هـ | https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/Modawana_1429_ThirdVersion.pdf
+- ERROR | - | مدونة التفتيش القضائي | https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/Tafteesh.pdf
+- ERROR | - | المدونات القضائية في ديوان المظالم | http://www.bog.gov.sa/ScientificContent/JudicialBlogs/Pages/default.aspx
+- ERROR | - | قرارات هيئة التدقيق بديوان المظالم | http://www.bog.gov.sa/ScientificContent/decisions/Pages/default.aspx
+- UNAVAILABLE | 206 | قرارات اللجان الضريبية | https://www.gstc.gov.sa/decision.xhtml
+- ACCESSIBLE | 200 | قرارات اللجان الجمركية | https://www.mof.gov.sa/docslibrary/RegulationsInstructions/Pages/default.aspx?RootFolder=%2Fdocslibrary%2FRegulationsInstructions%2FDocuments%2F%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA%2F%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D9%84%D8%AC%D8%A7%D9%86%20%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9
+- ACCESSIBLE | 200 | مبادئ لجنة النظر في مخالفات نظام المعلومات الائتمانية | http://www.bfc.gov.sa/ar-sa/Aboutus/IrregularitiesandSeparation/Pages/Principles.aspx
+- ACCESSIBLE | 200 | مبادئ لجان المنازعات المصرفية | http://www.bfc.gov.sa/ar-sa/Aboutus/BankingDisputesCommittees/Pages/Principles.aspx
+- ERROR | - | قرارات لجان الفصل في المنازعات والمخالفات التأمينية | http://www.idc.gov.sa/ar-sa/CommitteesDecisions/Pages/Riyadh.aspx
+- TIMEOUT | - | قرارات لجنة الفصل في منازعات الأوراق المالية | https://crsd.org.sa/ar/ResolutionsCommittee/Decisions/Pages/default.aspx
+- ACCESSIBLE | 200 | قرارات لجنة الاستئناف في منازعات الأوراق المالية | https://crsd.org.sa/ar/AppealsCommittee/Decisions/Pages/default.aspx
+- ERROR | - | مجموعة الأنظمة السعودية - هيئة الخبراء | http://www.boe.gov.sa/mainlaws.aspx?lang=ar
+- ERROR | - | إصدارات شعبة الترجمة - هيئة الخبراء | https://www.boe.gov.sa/TargmaEditions.aspx?lang=ar
+- ERROR | - | نماذج من القواعد القانونية في النظام السعودي | http://www.boe.gov.sa/ViewStaticPage.aspx?lang=ar&PageID=23
+- ERROR | - | نماذج من الإجراءات النظامية | http://www.boe.gov.sa/TemplatePage.aspx?lang=ar
+- TIMEOUT | - | اللوائح التنفيذية - هيئة السوق المالية | http://www.cma.org.sa/Ar/Pages/Implementing_Regulations.aspx
+- ERROR | - | تنظيم الهيئة السعودية للمحامين | https://www.boe.gov.sa/ViewSystemDetails.aspx?lang=ar&SystemID=359&VersionID=336
+- ERROR | - | الأنظمة واللوائح - الهيئة العامة للطيران المدني | https://gaca.gov.sa/web/ar-sa/page/laws-regulation
+- ACCESSIBLE | 200 | الأنظمة والتعليمات والتعاميم المصرفية | http://www.sama.gov.sa/ar-sa/Laws/Pages/Banking.aspx
+- ERROR | - | الأنظمة القضائية - ديوان المظالم | http://www.bog.gov.sa/ScientificContent/JudicialSystems/Pages/default.aspx
+- ERROR | - | الأنظمة العدلية - وزارة العدل | https://www.moj.gov.sa/ar/SystemsAndRegulations/Pages/SystemsAndRegulations.aspx
+- ERROR | - | القانون والقضاء - الأمانة العامة لمجلس التعاون | http://sites.gcc-sg.org/DLibrary/index.php?action=ShowBooks&SID=16

@@ -1,0 +1,30 @@
+جرد أصول استعادة إضافات مكتبة القانون
+إجمالي المكنز في الحالة المستعادة: 11270
+
+المجموعة: five_batches
+- السجلات الخام: 491
+- المرشحات الجديدة الأولية: 10
+- المستبعد أولياً: 481
+- الملفات: pasted_file_Ccz0Dd_moj_official_journals_new_titles_2026-08-28.json | pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json | pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json | pasted_file_iRj0dd_kku_uqu_legal_new_titles_2026-08-28.json | pasted_file_VzsweO_ksu_law_political_science_new_titles_2026-08-28.json
+
+المجموعة: kau_qassim
+- السجلات الخام: 17
+- المرشحات الجديدة الأولية: 0
+- المستبعد أولياً: 17
+- الملفات: pasted_file_RMtfOF_kau_qassim_legal_new_titles_2026-08-28.json
+
+المجموعة: ajsrp
+- السجلات الخام: 24
+- المرشحات الجديدة الأولية: 1
+- المستبعد أولياً: 23
+- الملفات: pasted_file_OsPkHo_ajsrp_saudi_legal_new_titles_24_2026-08-28.json
+
+المجموعة: majmaah_imam
+- السجلات الخام: 10
+- المرشحات الجديدة الأولية: 1
+- المستبعد أولياً: 9
+- الملفات: pasted_file_7JojVM_majmaah_imam_legal_new_titles_2026-08-28.json
+
+الاستعادة الأسبق من موقع مكتبة القانون:
+- سجل متوقع: 79
+- الحالة: يلزم إعادة استخراج والتحقق من موقع المكتبة، ولا يعاد بناؤها بالتخمين.

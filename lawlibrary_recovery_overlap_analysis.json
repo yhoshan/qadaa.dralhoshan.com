@@ -1,0 +1,115 @@
+{
+  "generated_at": "2026-09-06T07:41:35.319Z",
+  "raw_total": 542,
+  "title_matches": 26,
+  "title_unmatched": 16,
+  "blank_input_titles": 500,
+  "matching_existing_sources": {
+    "المكتبة القانونية ⚖️": 6,
+    "أرشيف الإنترنت": 6,
+    "مكتبة الاسكندرية": 4,
+    "القانون الدولي العام": 3,
+    "المكتبة القانونية — موقع المحامي نواف بن عواض الحربي": 3,
+    "جامعة الرسائل العلمية": 2,
+    "المكتبة القانونية الكبرى": 1,
+    "موقع بحوث": 1
+  },
+  "unmatched_examples": [
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_resource_f1319cb042",
+      "title": "The Law Dictionary",
+      "input_url": "https://thelawdictionary.org/"
+    },
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_resource_ecae7fc033",
+      "title": "Legal Dictionary - FindLaw",
+      "input_url": "https://dictionary.findlaw.com/"
+    },
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_resource_0a23922e7c",
+      "title": "Legal Dictionary - Law.com",
+      "input_url": "https://dictionary.law.com/"
+    },
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_qadha_176",
+      "title": "Judicial Review of Administrative Actions: A Case Study of Saudi Arabia.",
+      "input_url": "https://qadha.org.sa/ar/books/176"
+    },
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_uncitral_model_law_arbitration",
+      "title": "قانون الأونسيترال النموذجي للتحكيم التجاري الدولي (1985)، مع تعديلات 2006",
+      "input_url": "https://uncitral.un.org/ar/texts/arbitration/modellaw/commercial_arbitration"
+    },
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_uncitral_new_york_convention",
+      "title": "اتفاقية الاعتراف بقرارات التحكيم الأجنبية وتنفيذها (نيويورك، 1958) - اتفاقية نيويورك",
+      "input_url": "https://uncitral.un.org/ar/texts/arbitration/conventions/foreign_arbitral_awards"
+    },
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_uncitral_arbitration_notes",
+      "title": "ملحوظات الأونسيترال عن تنظيم إجراءات التحكيم (2016، مع ملحوظة محدثة 2023)",
+      "input_url": "https://uncitral.un.org/ar/texts/arbitration/explanatorytexts/organizing_arbitral_proceedings"
+    },
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_bog_principles_1439_1441",
+      "title": "المبادئ التي قررتها المحكمة الإدارية العليا للأعوام 1439-1440-1441هـ",
+      "input_url": "https://www.bog.gov.sa/knowledge-center/PrinciplesBlogs/Pages/default.aspx"
+    },
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_bog_pre1402",
+      "title": "المبادئ والأحكام القضائية لديوان المظالم لما قبل عام 1402هـ",
+      "input_url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1402/Pages/default.aspx"
+    },
+    {
+      "file": "pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json",
+      "input_id": "lawlib_meu_iraq_admin_judiciary",
+      "title": "مدى استقلال القضاء الإداري في العراق على ضوء قانون مجلس الدولة العراقي رقم 71 لسنة 2017 وتعديلاته - دراسة مقارنة",
+      "input_url": "https://www.meu.edu.jo/libraryTheses/24part2/%D9%85%D8%AF%D9%89%20%D8%A7%D8%B3%D8%AA%D9%82%D9%84%D8%A7%D9%84%20%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1%20%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A%20%D9%81%D9%8A%20%D8%A7%D9%84%D8%B9%D8%B1%D8%A7%D9%82%20%D8%B9%D9%84%D9%89%20%D8%B6%D9%88%D8%A1%20%D9%82%D8%A7%D9%86%D9%88%D9%86%20.pdf"
+    },
+    {
+      "file": "pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json",
+      "input_id": "lawlib_resource_f1319cb042",
+      "title": "The Law Dictionary",
+      "input_url": "https://thelawdictionary.org/"
+    },
+    {
+      "file": "pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json",
+      "input_id": "lawlib_resource_ecae7fc033",
+      "title": "Legal Dictionary - FindLaw",
+      "input_url": "https://dictionary.findlaw.com/"
+    },
+    {
+      "file": "pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json",
+      "input_id": "lawlib_resource_0a23922e7c",
+      "title": "Legal Dictionary - Law.com",
+      "input_url": "https://dictionary.law.com/"
+    },
+    {
+      "file": "pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json",
+      "input_id": "lawlib_qadha_176",
+      "title": "Judicial Review of Administrative Actions: A Case Study of Saudi Arabia.",
+      "input_url": "https://qadha.org.sa/ar/books/176"
+    },
+    {
+      "file": "pasted_file_OsPkHo_ajsrp_saudi_legal_new_titles_24_2026-08-28.json",
+      "input_id": "lawlib_ajsrp_9218",
+      "title": "عقد العمل للعامل الأجنبي في النظام السعودي - دراسة قانونية لنظام العمل السعودي 2025م/1446هـ",
+      "input_url": "https://journals.ajsrp.com/index.php/jeals/article/view/9218"
+    },
+    {
+      "file": "pasted_file_7JojVM_majmaah_imam_legal_new_titles_2026-08-28.json",
+      "input_id": "lawlib_mu_vol26_28",
+      "title": "الخضوع الاختياري للقضاء السعودي - دراسة تحليلية للمادة (28) من نظام المرافعات",
+      "input_url": "https://doi.org/10.56760/RJIC7579"
+    }
+  ]
+}

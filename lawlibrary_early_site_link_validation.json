@@ -1,0 +1,313 @@
+{
+  "verified_at": "2026-09-06T07:56:52.394Z",
+  "summary": {
+    "ERROR": 20,
+    "UNAVAILABLE": 1,
+    "ACCESSIBLE": 5,
+    "TIMEOUT": 2
+  },
+  "results": [
+    {
+      "title": "مجموعة المبادئ والقرارات القضائية (1391هـ - 1437هـ)",
+      "link_direct": "https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/DecisionsRC.pdf",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10608
+    },
+    {
+      "title": "الأحكام التجارية لعام 1439هـ",
+      "link_direct": "https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Pages/Documents.aspx",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10507
+    },
+    {
+      "title": "مجموعة الأحكام القضائية لعام 1434هـ",
+      "link_direct": "https://www.moj.gov.sa/ar/SystemsAndRegulations/Pages/System1434.aspx",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10506
+    },
+    {
+      "title": "مجموعة الأحكام القضائية لعام 1435هـ",
+      "link_direct": "https://www.moj.gov.sa/ar/SystemsAndRegulations/Pages/System1435.aspx",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10504
+    },
+    {
+      "title": "مدونة الأحكام القضائية - الإصدار الأول 1428هـ",
+      "link_direct": "https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/Modawana_1428_FirstVersion.pdf",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10502
+    },
+    {
+      "title": "مدونة الأحكام القضائية - الإصدار الثاني 1428هـ",
+      "link_direct": "https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/Modawana_1428_SecondVersion.pdf",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10497
+    },
+    {
+      "title": "مدونة الأحكام القضائية - الإصدار الثالث 1429هـ",
+      "link_direct": "https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/Modawana_1429_ThirdVersion.pdf",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10494
+    },
+    {
+      "title": "مدونة التفتيش القضائي",
+      "link_direct": "https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Documents/ResearchPDF/Tafteesh.pdf",
+      "category": "القضاء والمحاكم",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10491
+    },
+    {
+      "title": "المدونات القضائية في ديوان المظالم",
+      "link_direct": "http://www.bog.gov.sa/ScientificContent/JudicialBlogs/Pages/default.aspx",
+      "category": "القضاء الإداري",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 12034
+    },
+    {
+      "title": "قرارات هيئة التدقيق بديوان المظالم",
+      "link_direct": "http://www.bog.gov.sa/ScientificContent/decisions/Pages/default.aspx",
+      "category": "القضاء الإداري",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 11395
+    },
+    {
+      "title": "قرارات اللجان الضريبية",
+      "link_direct": "https://www.gstc.gov.sa/decision.xhtml",
+      "category": "القضاء الإداري",
+      "material_type": "رابط مرجعي",
+      "http_status": 206,
+      "final_url": "https://www.gstc.gov.sa/_layouts/15/GSTC.Portal/404/404.html",
+      "status": "UNAVAILABLE",
+      "duration_ms": 6905
+    },
+    {
+      "title": "قرارات اللجان الجمركية",
+      "link_direct": "https://www.mof.gov.sa/docslibrary/RegulationsInstructions/Pages/default.aspx?RootFolder=%2Fdocslibrary%2FRegulationsInstructions%2FDocuments%2F%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA%2F%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D9%84%D8%AC%D8%A7%D9%86%20%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9",
+      "category": "القضاء الإداري",
+      "material_type": "رابط مرجعي",
+      "http_status": 200,
+      "final_url": "https://www.mof.gov.sa/docslibrary/RegulationsInstructions/Pages/default.aspx?RootFolder=%2Fdocslibrary%2FRegulationsInstructions%2FDocuments%2F%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA%2F%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA%20%D8%A7%D9%84%D9%84%D8%AC%D8%A7%D9%86%20%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9",
+      "status": "ACCESSIBLE",
+      "duration_ms": 7580
+    },
+    {
+      "title": "مبادئ لجنة النظر في مخالفات نظام المعلومات الائتمانية",
+      "link_direct": "http://www.bfc.gov.sa/ar-sa/Aboutus/IrregularitiesandSeparation/Pages/Principles.aspx",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": 200,
+      "final_url": "https://www.bfc.gov.sa/ar-sa/Aboutus/IrregularitiesandSeparation/Pages/Principles.aspx",
+      "status": "ACCESSIBLE",
+      "duration_ms": 8880
+    },
+    {
+      "title": "مبادئ لجان المنازعات المصرفية",
+      "link_direct": "http://www.bfc.gov.sa/ar-sa/Aboutus/BankingDisputesCommittees/Pages/Principles.aspx",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": 200,
+      "final_url": "https://www.bfc.gov.sa/ar-sa/Aboutus/BankingDisputesCommittees/Pages/Principles.aspx",
+      "status": "ACCESSIBLE",
+      "duration_ms": 9056
+    },
+    {
+      "title": "قرارات لجان الفصل في المنازعات والمخالفات التأمينية",
+      "link_direct": "http://www.idc.gov.sa/ar-sa/CommitteesDecisions/Pages/Riyadh.aspx",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 14225
+    },
+    {
+      "title": "قرارات لجنة الفصل في منازعات الأوراق المالية",
+      "link_direct": "https://crsd.org.sa/ar/ResolutionsCommittee/Decisions/Pages/default.aspx",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted",
+      "duration_ms": 15003
+    },
+    {
+      "title": "قرارات لجنة الاستئناف في منازعات الأوراق المالية",
+      "link_direct": "https://crsd.org.sa/ar/AppealsCommittee/Decisions/Pages/default.aspx",
+      "category": "المبادئ والقرارات القضائية",
+      "material_type": "رابط مرجعي",
+      "http_status": 200,
+      "final_url": "https://crsd.gov.sa/ar/AppealsCommittee/Decisions/Pages/default.aspx",
+      "status": "ACCESSIBLE",
+      "duration_ms": 9915
+    },
+    {
+      "title": "مجموعة الأنظمة السعودية - هيئة الخبراء",
+      "link_direct": "http://www.boe.gov.sa/mainlaws.aspx?lang=ar",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 13239
+    },
+    {
+      "title": "إصدارات شعبة الترجمة - هيئة الخبراء",
+      "link_direct": "https://www.boe.gov.sa/TargmaEditions.aspx?lang=ar",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10088
+    },
+    {
+      "title": "نماذج من القواعد القانونية في النظام السعودي",
+      "link_direct": "http://www.boe.gov.sa/ViewStaticPage.aspx?lang=ar&PageID=23",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 12681
+    },
+    {
+      "title": "نماذج من الإجراءات النظامية",
+      "link_direct": "http://www.boe.gov.sa/TemplatePage.aspx?lang=ar",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 12020
+    },
+    {
+      "title": "اللوائح التنفيذية - هيئة السوق المالية",
+      "link_direct": "http://www.cma.org.sa/Ar/Pages/Implementing_Regulations.aspx",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "TIMEOUT",
+      "error": "This operation was aborted",
+      "duration_ms": 15001
+    },
+    {
+      "title": "تنظيم الهيئة السعودية للمحامين",
+      "link_direct": "https://www.boe.gov.sa/ViewSystemDetails.aspx?lang=ar&SystemID=359&VersionID=336",
+      "category": "المحاماة",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10236
+    },
+    {
+      "title": "الأنظمة واللوائح - الهيئة العامة للطيران المدني",
+      "link_direct": "https://gaca.gov.sa/web/ar-sa/page/laws-regulation",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10458
+    },
+    {
+      "title": "الأنظمة والتعليمات والتعاميم المصرفية",
+      "link_direct": "http://www.sama.gov.sa/ar-sa/Laws/Pages/Banking.aspx",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "رابط مرجعي",
+      "http_status": 200,
+      "final_url": "https://www.sama.gov.sa/ar-sa/Laws/Pages/Banking.aspx",
+      "status": "ACCESSIBLE",
+      "duration_ms": 6449
+    },
+    {
+      "title": "الأنظمة القضائية - ديوان المظالم",
+      "link_direct": "http://www.bog.gov.sa/ScientificContent/JudicialSystems/Pages/default.aspx",
+      "category": "القضاء الإداري",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 11462
+    },
+    {
+      "title": "الأنظمة العدلية - وزارة العدل",
+      "link_direct": "https://www.moj.gov.sa/ar/SystemsAndRegulations/Pages/SystemsAndRegulations.aspx",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 10140
+    },
+    {
+      "title": "القانون والقضاء - الأمانة العامة لمجلس التعاون",
+      "link_direct": "http://sites.gcc-sg.org/DLibrary/index.php?action=ShowBooks&SID=16",
+      "category": "القانون الدولي",
+      "material_type": "رابط مرجعي",
+      "http_status": null,
+      "final_url": "",
+      "status": "ERROR",
+      "error": "fetch failed",
+      "duration_ms": 12531
+    }
+  ]
+}

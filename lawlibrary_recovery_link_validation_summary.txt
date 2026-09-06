@@ -1,0 +1,18 @@
+تحقق فتح روابط استعادة مكتبة القانون
+إجمالي المرشحات: 504
+- ERROR: 91
+- ACCESSIBLE: 290
+- UNAVAILABLE: 65
+- NEEDS_REVIEW: 5
+- TIMEOUT: 53
+
+التوزيع بحسب المجموعة:
+- دفعة المصادر الخمسة: ERROR 25 | ACCESSIBLE 254 | UNAVAILABLE 64 | NEEDS_REVIEW 1
+- جامعة الملك عبدالعزيز والقصيم: ERROR 17
+- مجلة العلوم الاقتصادية والإدارية والقانونية: ACCESSIBLE 24
+- جامعة المجمعة والإمام: NEEDS_REVIEW 4 | UNAVAILABLE 1 | ACCESSIBLE 4
+- جامعة طيبة للحقوق: TIMEOUT 37 | ACCESSIBLE 4
+- أعداد مجلة جامعة طيبة للحقوق: TIMEOUT 16 | ACCESSIBLE 4
+- أبحاث قانونية سعودية: ERROR 15
+- أبحاث قانونية سعودية 2024-2025: ERROR 20
+- أنظمة عقارية: ERROR 14

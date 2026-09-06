@@ -1,0 +1,15 @@
+{
+  "total": 14746,
+  "public_matches": true,
+  "stats_match": true,
+  "stats_total": 14746,
+  "lawlibrary_count": 3476,
+  "title_only_count": 3181,
+  "ids_duplicate": 0,
+  "historical_titles_duplicate": 871,
+  "new_title_collisions_with_prior": 0,
+  "new_title_duplicates_within_batch": 0,
+  "sources_bar_hidden": true,
+  "items_sha256": "62827ec4b0ee7dae706720a94c8cbb16ca411dbeaa066f14dda823044fb819af",
+  "checks_passed": true
+}

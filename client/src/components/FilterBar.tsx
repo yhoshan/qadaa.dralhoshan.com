@@ -93,25 +93,6 @@ export default function FilterBar(props: FilterBarProps) {
             <span className="mr-1">مادة</span>
           </div>
 
-          {/* Quick source tabs - desktop */}
-          <div className="hidden lg:flex items-center gap-1 overflow-x-auto flex-1 mx-4">
-            {["all", ...props.sources.slice(0, 8)].map((src) => (
-              <button
-                key={src}
-                onClick={() => onFiltersChange({ source: src })}
-                className="px-3 py-1.5 rounded-lg text-xs whitespace-nowrap transition-all"
-                style={{
-                  fontFamily: "Cairo, sans-serif",
-                  background: filters.source === src ? "rgb(139, 105, 20)" : "transparent",
-                  color: filters.source === src ? "white" : "oklch(0.52 0.06 60)",
-                  fontWeight: filters.source === src ? "bold" : "normal",
-                }}
-              >
-                {src === "all" ? "جميع المصادر" : src}
-              </button>
-            ))}
-          </div>
-
           {/* Sort + Filter buttons */}
           <div className="flex items-center gap-2">
             {/* Sort - desktop */}

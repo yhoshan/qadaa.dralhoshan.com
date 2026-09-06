@@ -1,5 +1,6 @@
 /* =============================================
    Footer — مكنز القضاء والأنظمة والمحاماة
+   تذكير التصميم: الحفاظ على هوية المكنز القائمة وعدم إظهار شريط المصادر في الواجهة.
    ألوان مطابقة لـ osool.dralhoshan.com
    خلفية بيج دافئ + ذهبي بني
    ============================================= */
@@ -16,6 +17,7 @@ const TEXT_MUTED = "oklch(0.52 0.06 60)";
 const TEXT_LIGHT = "oklch(0.65 0.03 60)";
 const GOLD = "rgb(139, 105, 20)";
 const TEXT_DARK = "oklch(0.18 0.04 50)";
+const SHOW_SOURCES_BAR = false;
 
 // مصادر المواد المعتمدة في المكنز — تحفظ الإحالة إلى المنصة أو القناة الأصلية.
 const MAKANEZ_SOURCES = [
@@ -259,7 +261,8 @@ export default function Footer() {
             </p>
           </div>
 
-          {/* Sources list — يحفظ الإحالة إلى كل منصة أو قناة استُخدمت منها مواد */}
+          {/* Sources list — بيانات المصادر محفوظة، لكن الشريط مخفي بطلب المستخدم. */}
+          {SHOW_SOURCES_BAR && (
           <div className="mb-6 max-w-3xl mx-auto">
             <Accordion type="single" collapsible dir="rtl">
               <AccordionItem
@@ -299,6 +302,7 @@ export default function Footer() {
               </AccordionItem>
             </Accordion>
           </div>
+          )}
 
           {/* Bottom bar: Copyright (right) | Logo (center) | Signature (left) */}
           <div

@@ -51,8 +51,8 @@ export function useItems() {
 
   useEffect(() => {
     Promise.all([
-      fetch(`/items.json?v=philosophy-iirmll-titles-719-2026-09-06`).then((r) => r.json()),
-      fetch(`/stats.json?v=philosophy-iirmll-titles-719-2026-09-06`).then((r) => r.json()),
+      fetch(`/items.json?v=lawlibrary-channel-titles-3181-2026-09-06`).then((r) => r.json()),
+      fetch(`/stats.json?v=lawlibrary-channel-titles-3181-2026-09-06`).then((r) => r.json()),
     ])
       .then(([itemsData, statsData]) => {
         setItems(itemsData);

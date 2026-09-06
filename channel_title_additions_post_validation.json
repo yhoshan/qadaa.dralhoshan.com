@@ -1,0 +1,19 @@
+{
+  "total": 15569,
+  "data_match": true,
+  "stats_match": true,
+  "stats_total": 15569,
+  "duplicate_ids": 0,
+  "title_reference_counts": {
+    "ملخصات القانون (مكتبة السنهوري)": 104,
+    "مكتبة فلسفة القانون": 179,
+    "المكتبة القانونية ⚖️": 540
+  },
+  "total_title_references": 823,
+  "title_reference_duplicate_prior": 0,
+  "title_reference_shape_valid": true,
+  "expected_sanhouri": 104,
+  "expected_philosophy": 179,
+  "expected_legal_library": 540,
+  "passed": true
+}

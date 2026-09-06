@@ -1,0 +1,47 @@
+pasted_file_Ccz0Dd_moj_official_journals_new_titles_2026-08-28.json
+- السجلات: 14
+- حقل العنوان: 14؛ عناوين غير فارغة: 14
+- روابط مباشرة: 14
+- الحقول: id، title، author، investigator، publisher، year، link_telegram، link_drive، link_direct، source، category، material_type، file_type، file_size، pages_count، is_featured، download_links_count
+
+pasted_file_DsF63l_lawlibrarysa_MASTER_v6_merge_ready_310.json
+- السجلات: 310
+- حقل العنوان: 310؛ عناوين غير فارغة: 310
+- روابط مباشرة: 310
+- الحقول: id، title، author، investigator، publisher، year، link_telegram، link_drive، link_direct، source، category، material_type، file_type، file_size، pages_count، is_featured، download_links_count
+
+pasted_file_SvnUyP_lawlibrarysa_merge_ready_140.json
+- السجلات: 140
+- حقل العنوان: 140؛ عناوين غير فارغة: 140
+- روابط مباشرة: 140
+- الحقول: id، title، author، investigator، publisher، year، link_telegram، link_drive، link_direct، source، category، material_type، file_type، file_size، pages_count، is_featured، download_links_count
+
+pasted_file_iRj0dd_kku_uqu_legal_new_titles_2026-08-28.json
+- السجلات: 6
+- حقل العنوان: 6؛ عناوين غير فارغة: 6
+- روابط مباشرة: 6
+- الحقول: id، title، author، investigator، publisher، year، link_telegram، link_drive، link_direct، source، category، material_type، file_type، file_size، pages_count، is_featured، download_links_count
+
+pasted_file_VzsweO_ksu_law_political_science_new_titles_2026-08-28.json
+- السجلات: 21
+- حقل العنوان: 21؛ عناوين غير فارغة: 21
+- روابط مباشرة: 21
+- الحقول: id، title، author، investigator، publisher، year، link_telegram، link_drive، link_direct، source، category، material_type، file_type، file_size، pages_count، is_featured، download_links_count
+
+pasted_file_RMtfOF_kau_qassim_legal_new_titles_2026-08-28.json
+- السجلات: 17
+- حقل العنوان: 17؛ عناوين غير فارغة: 17
+- روابط مباشرة: 17
+- الحقول: id، title، author، investigator، publisher، year، link_telegram، link_drive، link_direct، source، category، material_type، file_type، file_size، pages_count، is_featured، download_links_count
+
+pasted_file_OsPkHo_ajsrp_saudi_legal_new_titles_24_2026-08-28.json
+- السجلات: 24
+- حقل العنوان: 24؛ عناوين غير فارغة: 24
+- روابط مباشرة: 24
+- الحقول: id، title، author، investigator، publisher، year، link_telegram، link_drive، link_direct، source، category، material_type، file_type، file_size، pages_count، is_featured، download_links_count
+
+pasted_file_7JojVM_majmaah_imam_legal_new_titles_2026-08-28.json
+- السجلات: 10
+- حقل العنوان: 10؛ عناوين غير فارغة: 10
+- روابط مباشرة: 10
+- الحقول: id، title، author، investigator، publisher، year، link_telegram، link_drive، link_direct، source، category، material_type، file_type، file_size، pages_count، is_featured، download_links_count
