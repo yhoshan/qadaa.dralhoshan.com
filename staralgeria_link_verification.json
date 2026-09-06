@@ -1,0 +1,2538 @@
+{
+  "generated_at": "2026-09-06T11:00:33.760Z",
+  "source_page": "https://www.staralgeria.net/t1950-topic/",
+  "totals": {
+    "initial_candidates": 282,
+    "direct_urls_to_verify": 278,
+    "publicly_open": 0,
+    "unavailable": 278,
+    "skipped": 4
+  },
+  "open": [],
+  "closed": [
+    {
+      "title": "حماية المحل التجاري",
+      "source_url": "http://www.mediafire.com/download.php?n393z85b5u7ca7p",
+      "final_url": "https://www.mediafire.com/file/n393z85b5u7ca7p/%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D8%AD%D9%84+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A.PDF",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حماية براءة الاختراع",
+      "source_url": "http://www.mediafire.com/download.php?0sis9nee233s3tl",
+      "final_url": "https://www.mediafire.com/file/0sis9nee233s3tl/%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A8%D8%B1%D8%A7%D8%A1%D8%A9+%D8%A7%D9%84%D8%A7%D8%AE%D8%AA%D8%B1%D8%A7%D8%B9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حماية حقوق الانسان بين التشريع و الواقع",
+      "source_url": "http://www.mediafire.com/download.php?ecjatpwu0wk0umm",
+      "final_url": "https://www.mediafire.com/file/ecjatpwu0wk0umm/%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%AD%D9%82%D9%88%D9%82+%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86+%D8%A8%D9%8A%D9%86+%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9+%D9%88+%D8%A7%D9%84%D9%88%D8%A7%D9%82%D8%B9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "خصوصية الإجراءات الجزائية المتبعة امام قضاء الاحداث",
+      "source_url": "http://www.mediafire.com/download.php?m63ncmpot9mvrdy",
+      "final_url": "https://www.mediafire.com/file/m63ncmpot9mvrdy/%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9+%D8%A7%D9%84%D8%A5%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D8%AA%D8%A8%D8%B9%D8%A9+%D8%A7%D9%85%D8%A7%D9%85+%D9%82%D8%B6%D8%A7%D8%A1+%D8%A7%D9%84%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دراسات في الحماية الاقليمية لحقوق الانسان",
+      "source_url": "http://www.mediafire.com/download.php?h5r85zrn51wibbt",
+      "final_url": "https://www.mediafire.com/file/h5r85zrn51wibbt/%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA+%D9%81%D9%8A+%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%A7%D9%82%D9%84%D9%8A%D9%85%D9%8A%D8%A9+%D9%84%D8%AD%D9%82%D9%88%D9%82+%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دعاوى الحيازة",
+      "source_url": "http://www.mediafire.com/download.php?2ip9lz4r2de0ejl",
+      "final_url": "https://www.mediafire.com/file/2ip9lz4r2de0ejl/%D8%AF%D8%B9%D8%A7%D9%88%D9%89+%D8%A7%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دعوى التزوير الفرعية في ظل قانون الاجراءات المدنية 1",
+      "source_url": "http://www.mediafire.com/download.php?i7puvi1wbminuw9",
+      "final_url": "https://www.mediafire.com/file/i7puvi1wbminuw9/%D8%AF%D8%B9%D9%88%D9%89+%D8%A7%D9%84%D8%AA%D8%B2%D9%88%D9%8A%D8%B1+%D8%A7%D9%84%D9%81%D8%B1%D8%B9%D9%8A%D8%A9+%D9%81%D9%8A+%D8%B8%D9%84+%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9+1.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دعوى التزوير الفرعية في ظل قانون الاجراءات المدنية",
+      "source_url": "http://www.mediafire.com/download.php?f0c3log6btc3w8z",
+      "final_url": "https://www.mediafire.com/file/f0c3log6btc3w8z/%D8%AF%D8%B9%D9%88%D9%89+%D8%A7%D9%84%D8%AA%D8%B2%D9%88%D9%8A%D8%B1+%D8%A7%D9%84%D9%81%D8%B1%D8%B9%D9%8A%D8%A9+%D9%81%D9%8A+%D8%B8%D9%84+%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دور إدارة الجمارك في متابعة الجرائم الجمركية",
+      "source_url": "http://www.mediafire.com/download.php?80z0nz3iw9sl0a3",
+      "final_url": "https://www.mediafire.com/file/80z0nz3iw9sl0a3/%D8%AF%D9%88%D8%B1+%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9+%D8%A7%D9%84%D8%AC%D9%85%D8%A7%D8%B1%D9%83+%D9%81%D9%8A+%D9%85%D8%AA%D8%A7%D8%A8%D8%B9%D8%A9+%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%A6%D9%85+%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دور الإرادة في إنشاء العقد",
+      "source_url": "http://www.mediafire.com/download.php?0t67q5kqvyn60gy",
+      "final_url": "https://www.mediafire.com/file/0t67q5kqvyn60gy/%D8%AF%D9%88%D8%B1+%D8%A7%D9%84%D8%A5%D8%B1%D8%A7%D8%AF%D8%A9+%D9%81%D9%8A+%D8%A5%D9%86%D8%B4%D8%A7%D8%A1+%D8%A7%D9%84%D8%B9%D9%82%D8%AF+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دور القاضي الجزائي في المنازعات الجمركية الاثبات و تقدير الجزاءات",
+      "source_url": "http://www.mediafire.com/download.php?lova95vrq33amb2",
+      "final_url": "https://www.mediafire.com/file/lova95vrq33amb2/%D8%AF%D9%88%D8%B1+%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D9%8A+%D9%81%D9%8A+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA+%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9+%D8%A7%D9%84%D8%A7%D8%AB%D8%A8%D8%A7%D8%AA+%D9%88+%D8%AA%D9%82%D8%AF%D9%8A%D8%B1+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A1%D8%A7%D8%AA.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دور القاضي الجزائي في المنازعات الجمركية",
+      "source_url": "http://www.mediafire.com/download.php?0kda9cqwr7yn8nf",
+      "final_url": "https://www.mediafire.com/file/0kda9cqwr7yn8nf/%D8%AF%D9%88%D8%B1+%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D9%8A+%D9%81%D9%8A+%D8%A7%D9%84%D9%85%D9%86%D8%A7%D8%B2%D8%B9%D8%A7%D8%AA+%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دور القاضي الداخلي في حماية حقوق الانسان دراسة تطبيقية",
+      "source_url": "http://www.mediafire.com/download.php?je26rz9htzmmpli",
+      "final_url": "https://www.mediafire.com/file/je26rz9htzmmpli/%D8%AF%D9%88%D8%B1+%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A+%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84%D9%8A+%D9%81%D9%8A+%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%AD%D9%82%D9%88%D9%82+%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86+%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D9%8A%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دور القاضي و الخصوم في توزيع عبء الإثبـات في المسائل المدنيـة",
+      "source_url": "http://www.mediafire.com/download.php?wb3rjbd7tckoq8e",
+      "final_url": "https://www.mediafire.com/file/wb3rjbd7tckoq8e/%D8%AF%D9%88%D8%B1+%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A+%D9%88+%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D9%85+%D9%81%D9%8A+%D8%AA%D9%88%D8%B2%D9%8A%D8%B9+%D8%B9%D8%A8%D8%A1+%D8%A7%D9%84%D8%A5%D8%AB%D8%A8%D9%80%D8%A7%D8%AA+%D9%81%D9%8A+%D8%A7%D9%84%D9%85%D8%B3%D8%A7%D8%A6%D9%84+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D9%80%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دور القضاء في تطبيق العقوبات",
+      "source_url": "http://www.mediafire.com/download.php?y1hcob0occ16rn4",
+      "final_url": "https://www.mediafire.com/file/y1hcob0occ16rn4/%D8%AF%D9%88%D8%B1+%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1+%D9%81%D9%8A+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82+%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "دور مراكز حماية الطفولة في اصلاح الاحداث الجانحين",
+      "source_url": "http://www.mediafire.com/download.php?onkckcno5cm8gci",
+      "final_url": "https://www.mediafire.com/file/onkckcno5cm8gci/%D8%AF%D9%88%D8%B1+%D9%85%D8%B1%D8%A7%D9%83%D8%B2+%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%B7%D9%81%D9%88%D9%84%D8%A9+%D9%81%D9%8A+%D8%A7%D8%B5%D9%84%D8%A7%D8%AD+%D8%A7%D9%84%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB+%D8%A7%D9%84%D8%AC%D8%A7%D9%86%D8%AD%D9%8A%D9%86",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "رد الاعتبار في التشريع الجزائي الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?wabad6m83o81q9d",
+      "final_url": "https://www.mediafire.com/file/wabad6m83o81q9d/%D8%B1%D8%AF+%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1+%D9%81%D9%8A+%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D9%8A+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "رد الاعتبار",
+      "source_url": "http://www.mediafire.com/download.php?851f98l7z9tdnx5",
+      "final_url": "https://www.mediafire.com/file/851f98l7z9tdnx5/%D8%B1%D8%AF+%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%A8%D8%A7%D8%B1.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "سلطات الإدارة في الصفقات العمومية",
+      "source_url": "http://www.mediafire.com/download.php?1yevx9i64ec526t",
+      "final_url": "https://www.mediafire.com/file/1yevx9i64ec526t/%D8%B3%D9%84%D8%B7%D8%A7%D8%AA+%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D8%B5%D9%81%D9%82%D8%A7%D8%AA+%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9+.doc",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قاضي الاحداث في اتخاذ و مراجعة التدابير المقررة في حق الحدث الجانح و",
+      "source_url": "http://www.mediafire.com/download.php?p0x45ta5fqyd0cn",
+      "final_url": "https://www.mediafire.com/file/p0x45ta5fqyd0cn/%D8%B3%D9%84%D8%B7%D8%A7%D8%AA+%D9%82%D8%A7%D8%B6%D9%8A+%D8%A7%D9%84%D8%A7%D8%AD%D8%AF%D8%A7%D8%AB+%D9%81%D9%8A+%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0+%D9%88+%D9%85%D8%B1%D8%A7%D8%AC%D8%B9%D8%A9+%D8%A7%D9%84%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1+%D8%A7%D9%84%D9%85%D9%82%D8%B1%D8%B1%D8%A9+%D9%81%D9%8A+%D8%AD%D9%82+%D8%A7%D9%84%D8%AD%D8%AF%D8%AB+%D8%A7%D9%84%D8%AC%D8%A7%D9%86%D8%AD+%D9%88+%D8%A7%D9%84%D8%AD%D8%AF%D8%AB+%D9%81%D9%8A+%D8%AE%D8%B7%D8%B1+%D9%85%D8%B9%D9%86%D9%88%D9%8A+%D9%88%D9%81%D9%82%D8%A7+%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%A7%D8%AC%D8%B1%D8%A7%D8%A1%D8%A7%D8%AA+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A+%D9%88+%D8%A7%D9%84%D8%A7%D9%85%D8%B1+72.03.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "سلطة المبادرة بالتشريع في النظام السياسي الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?216v1bzb7wwv1h9",
+      "final_url": "https://www.mediafire.com/file/216v1bzb7wwv1h9/%D8%B3%D9%84%D8%B7%D8%A9+%D8%A7%D9%84%D9%85%D8%A8%D8%A7%D8%AF%D8%B1%D8%A9+%D8%A8%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9+%D9%81%D9%8A+%D8%A7%D9%84%D9%86%D8%B8%D8%A7%D9%85+%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A+.PDF",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "سلطة النيابة العامة في تحريك الدعوى العمومية",
+      "source_url": "http://www.mediafire.com/download.php?06zq57xr3jmzei1",
+      "final_url": "https://www.mediafire.com/file/06zq57xr3jmzei1/%D8%B3%D9%84%D8%B7%D8%A9+%D8%A7%D9%84%D9%86%D9%8A%D8%A7%D8%A8%D8%A9+%D8%A7%D9%84%D8%B9%D8%A7%D9%85%D8%A9+%D9%81%D9%8A+%D8%AA%D8%AD%D8%B1%D9%8A%D9%83+%D8%A7%D9%84%D8%AF%D8%B9%D9%88%D9%89+%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9.PDF",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "سلطة محكمة العدل الدولية في اتخاذ تدابير تحفظية",
+      "source_url": "http://www.mediafire.com/download.php?jh6d3nn9mc9nnfz",
+      "final_url": "https://www.mediafire.com/file/jh6d3nn9mc9nnfz/%D8%B3%D9%84%D8%B7%D8%A9+%D9%85%D8%AD%D9%83%D9%85%D8%A9+%D8%A7%D9%84%D8%B9%D8%AF%D9%84+%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9+%D9%81%D9%8A+%D8%A7%D8%AA%D8%AE%D8%A7%D8%B0+%D8%AA%D8%AF%D8%A7%D8%A8%D9%8A%D8%B1+%D8%AA%D8%AD%D9%81%D8%B8%D9%8A%D8%A9+.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "شرط الاحتفاظ بالملكية",
+      "source_url": "http://www.mediafire.com/download.php?x0w3m801vxqv4ge",
+      "final_url": "https://www.mediafire.com/file/x0w3m801vxqv4ge/%D8%B4%D8%B1%D8%B7+%D8%A7%D9%84%D8%A7%D8%AD%D8%AA%D9%81%D8%A7%D8%B8+%D8%A8%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "شروط المتعاقدين",
+      "source_url": "http://www.mediafire.com/download.php?0kycm44cj35g6w1",
+      "final_url": "https://www.mediafire.com/file/0kycm44cj35g6w1/%D8%B4%D8%B1%D9%88%D8%B7+%D8%A7%D9%84%D9%85%D8%AA%D8%B9%D8%A7%D9%82%D8%AF%D9%8A%D9%86.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "ضمان التعرض والاستحقاق في عقد البيع .. ماجستير القانون الخاص .. جامعة النجاح الفلسطينية",
+      "source_url": "http://www.mediafire.com/download.php?jeir2bj6ckjwwf9",
+      "final_url": "https://www.mediafire.com/file/jeir2bj6ckjwwf9/%D8%B6%D9%85%D8%A7%D9%86+%D8%A7%D9%84%D8%AA%D8%B9%D8%B1%D8%B6+%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AD%D9%82%D8%A7%D9%82+%D9%81%D9%8A+%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D8%A8%D9%8A%D8%B9+..+++%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%AE%D8%A7%D8%B5++++..+++%D8%AC%D8%A7%D9%85%D8%B9%D8%A9+%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%AD+%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9+++.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "ضمانات المتهم في مرحلة التحقيق",
+      "source_url": "http://www.mediafire.com/download.php?4q3xdt0rb459hyw",
+      "final_url": "https://www.mediafire.com/file/4q3xdt0rb459hyw/%D8%B6%D9%85%D8%A7%D9%86%D8%A7%D8%AA+%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85+%D9%81%D9%8A+%D9%85%D8%B1%D8%AD%D9%84%D8%A9+%D8%A7%D9%84%D8%AA%D8%AD%D9%82%D9%8A%D9%82+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "طرق احالة الدعوى العمومية امام محكمة الجنح",
+      "source_url": "http://www.mediafire.com/download.php?55rdymnpn9uz54j",
+      "final_url": "https://www.mediafire.com/file/55rdymnpn9uz54j/%D8%B7%D8%B1%D9%82+%D8%A7%D8%AD%D8%A7%D9%84%D8%A9+%D8%A7%D9%84%D8%AF%D8%B9%D9%88%D9%89+%D8%A7%D9%84%D8%B9%D9%85%D9%88%D9%85%D9%8A%D8%A9+%D8%A7%D9%85%D8%A7%D9%85+%D9%85%D8%AD%D9%83%D9%85%D8%A9+%D8%A7%D9%84%D8%AC%D9%86%D8%AD.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "طرق الطعن العادية في الاحكام المدنية",
+      "source_url": "http://www.mediafire.com/download.php?4ax85kcz1pe3ww1",
+      "final_url": "https://www.mediafire.com/file/4ax85kcz1pe3ww1/%D8%B7%D8%B1%D9%82+%D8%A7%D9%84%D8%B7%D8%B9%D9%86+%D8%A7%D9%84%D8%B9%D8%A7%D8%AF%D9%8A%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D8%A7%D8%AD%D9%83%D8%A7%D9%85+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "عقد الإمتياز ودوره في تطوير العلاقة بين الإدارة المحلية والقطاع الخاص",
+      "source_url": "http://www.mediafire.com/download.php?5yivzyxzo47yxiv",
+      "final_url": "https://www.mediafire.com/file/5yivzyxzo47yxiv/%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D8%A5%D9%85%D8%AA%D9%8A%D8%A7%D8%B2+%D9%88%D8%AF%D9%88%D8%B1%D9%87+%D9%81%D9%8A+%D8%AA%D8%B7%D9%88%D9%8A%D8%B1+%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9+%D8%A8%D9%8A%D9%86+%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D8%A9+%D8%A7%D9%84%D9%85%D8%AD%D9%84%D9%8A%D8%A9+%D9%88%D8%A7%D9%84%D9%82%D8%B7%D8%A7%D8%B9+%D8%A7%D9%84%D8%AE%D8%A7%D8%B5+.doc",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "عقد البيع وبيان خصائصه",
+      "source_url": "http://www.mediafire.com/download.php?mv8bel25zbwfwxz",
+      "final_url": "https://www.mediafire.com/file/mv8bel25zbwfwxz/%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D8%A8%D9%8A%D8%B9+%D9%88%D8%A8%D9%8A%D8%A7%D9%86+%D8%AE%D8%B5%D8%A7%D8%A6%D8%B5%D9%87+.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "عقد البيع وحماية المستهلك",
+      "source_url": "http://www.mediafire.com/download.php?6i5l1mjigml6i6z",
+      "final_url": "https://www.mediafire.com/?6i5l1mjigml6i6z",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الكفالة المدنية والآثار المترتبة عليه دراسة مقارنة بين مجلة الأحكام",
+      "source_url": "http://www.mediafire.com/download.php?x4jl1pv6r6o39k3",
+      "final_url": "https://www.mediafire.com/file/x4jl1pv6r6o39k3/%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D9%83%D9%81%D8%A7%D9%84%D8%A9+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9+%D9%88%D8%A7%D9%84%D8%A2%D8%AB%D8%A7%D8%B1+%D8%A7%D9%84%D9%85%D8%AA%D8%B1%D8%AA%D8%A8%D8%A9+%D8%B9%D9%84%D9%8A%D9%87+%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9+%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9+%D8%A8%D9%8A%D9%86+%D9%85%D8%AC%D9%84%D8%A9+%D8%A7%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85+%D8%A7%D9%84%D8%B9%D8%AF%D9%84%D9%8A%D8%A9+%D9%88%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A+%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A+..+++%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%AE%D8%A7%D8%B5++++..+++%D8%AC%D8%A7%D9%85%D8%B9%D8%A9",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "عقد الكفالة في القانون المدني الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?xorh6cn2ch71c6a",
+      "final_url": "https://www.mediafire.com/file/xorh6cn2ch71c6a/%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D9%83%D9%81%D8%A7%D9%84%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "عقد المقاولة الدولي",
+      "source_url": "http://www.mediafire.com/download.php?fbvjbtmh1eck8jd",
+      "final_url": "https://www.mediafire.com/file/fbvjbtmh1eck8jd/%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D9%85%D9%82%D8%A7%D9%88%D9%84%D8%A9+%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A+.PDF",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "عقد النقل البحري للبضائع في ظل التشريع الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?4t4ztcsavrci4a9",
+      "final_url": "https://www.mediafire.com/?4t4ztcsavrci4a9",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "عقد النقل في التشريع الجزائري (عقد نقل الاشخاص",
+      "source_url": "http://www.mediafire.com/download.php?mcrxob7s269fe8e",
+      "final_url": "https://www.mediafire.com/?mcrxob7s269fe8e",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "غسيل الأموال – اطروحة",
+      "source_url": "http://www.mediafire.com/download.php?aqza1ams7f99r18",
+      "final_url": "https://www.mediafire.com/?aqza1ams7f99r18",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "غسيل الأموال – جامعة باتنة",
+      "source_url": "http://www.mediafire.com/download.php?zio1u2mcavf1otb",
+      "final_url": "https://www.mediafire.com/?zio1u2mcavf1otb",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "فعالية قانون المرور الجزائري الجديد",
+      "source_url": "http://www.mediafire.com/download.php?nphlh556n1e6zgl",
+      "final_url": "https://www.mediafire.com/?nphlh556n1e6zgl",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قاعدة الرسمية والشهر العقاري في القانون الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?pthhyh8z5l3kpt2",
+      "final_url": "https://www.mediafire.com/file/pthhyh8z5l3kpt2/%D9%82%D8%A7%D8%B9%D8%AF%D8%A9+%D8%A7%D9%84%D8%B1%D8%B3%D9%85%D9%8A%D8%A9+%D9%88%D8%A7%D9%84%D8%B4%D9%87%D8%B1+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1%D9%8A+%D9%81%D9%8A+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قانون الأسرة",
+      "source_url": "http://www.mediafire.com/download.php?z3fjtwm4mjc",
+      "final_url": "https://www.mediafire.com/?z3fjtwm4mjc",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قانون الأوراق التجارية .. كتاب صوتى",
+      "source_url": "http://www.mediafire.com/download.php?h4hknd781bfdulc",
+      "final_url": "https://www.mediafire.com/?h4hknd781bfdulc",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قانون الصفقات العمومية 2010",
+      "source_url": "http://www.mediafire.com/download.php?i99ycxn6fyz6blb",
+      "final_url": "https://www.mediafire.com/?i99ycxn6fyz6blb",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قانون الضرائب العقاريه",
+      "source_url": "http://www.mediafire.com/download.php?cnhqmtcwtj3dfl9",
+      "final_url": "https://www.mediafire.com/?cnhqmtcwtj3dfl9",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قانون جنائي",
+      "source_url": "http://www.mediafire.com/download.php?xklaxed2m9u1sog",
+      "final_url": "https://www.mediafire.com/?xklaxed2m9u1sog",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قانون عقد البيع فى القانون المدنى ..كتاب صوتى",
+      "source_url": "http://www.mediafire.com/download.php?nncu9bt7txe7j8i",
+      "final_url": "https://www.mediafire.com/?nncu9bt7txe7j8i",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قانون مكافحة الدعارة",
+      "source_url": "http://www.mediafire.com/download.php?awmuoltkum86mrn",
+      "final_url": "https://www.mediafire.com/?awmuoltkum86mrn",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قراءة في الإعلان العالمي لحقوق الإنسان",
+      "source_url": "http://www.mediafire.com/download.php?92vuxr99xplpzi4",
+      "final_url": "https://www.mediafire.com/?92vuxr99xplpzi4",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قراءة قانونيـة في سورة يوسف",
+      "source_url": "http://www.mediafire.com/download.php?bmm76eit3b6iemu",
+      "final_url": "https://www.mediafire.com/file/bmm76eit3b6iemu/%D9%82%D8%B1%D8%A7%D8%A1%D8%A9+%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A%D9%80%D8%A9+%D9%81%D9%8A+%D8%B3%D9%88%D8%B1%D8%A9+%D9%8A%D9%88%D8%B3%D9%81.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قرينة البراءة في القانون الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?3bp77wt0btr27iw",
+      "final_url": "https://www.mediafire.com/?3bp77wt0btr27iw",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قرينة البراءة",
+      "source_url": "http://www.mediafire.com/download.php?akabxezfwqe1w1v",
+      "final_url": "https://www.mediafire.com/?akabxezfwqe1w1v",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قواعد الاثبات الجنائي و مدى تطبيقها على جريمتي الزنا و السياقة في حالة سكر",
+      "source_url": "http://www.mediafire.com/download.php?a693b97g4gmskkx",
+      "final_url": "https://www.mediafire.com/?a693b97g4gmskkx",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "قواعد الاثبات الجنائي ومدى تطبيقها في جريمتي",
+      "source_url": "http://www.mediafire.com/download.php?g5cs92ou319c2z5",
+      "final_url": "https://www.mediafire.com/?g5cs92ou319c2z5",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "كتب عربية: قانون وحقوق الانسان",
+      "source_url": "http://www.mediafire.com/download.php?w5x55l2a7z05j5v",
+      "final_url": "https://www.mediafire.com/?w5x55l2a7z05j5v",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "كتب قانون",
+      "source_url": "http://www.mediafire.com/download.php?187w9mfff86dm70",
+      "final_url": "https://www.mediafire.com/?187w9mfff86dm70",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مبدأ خضوع الدولة للقانون وتطبيقاته",
+      "source_url": "http://www.mediafire.com/download.php?4d2236694g2c6l5",
+      "final_url": "https://www.mediafire.com/file/4d2236694g2c6l5/%D9%85%D8%A8%D8%AF%D8%A3+%D8%AE%D8%B6%D9%88%D8%B9+%D8%A7%D9%84%D8%AF%D9%88%D9%84%D8%A9+%D9%84%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%D9%87+.PDF",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مجلس العقد الالكتروني",
+      "source_url": "http://www.mediafire.com/download.php?t229gqe1p2f2cyz",
+      "final_url": "https://www.mediafire.com/?t229gqe1p2f2cyz",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "محاضرات في القانون البحري – هاني محمد صالح عبد الكريم الحديثي",
+      "source_url": "http://www.mediafire.com/download.php?zty1kk277vb4b56",
+      "final_url": "https://www.mediafire.com/?zty1kk277vb4b56",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "محاضرات في القانون المدني. جامعة البليدة",
+      "source_url": "http://www.mediafire.com/download.php?glzysyma68vq2zv",
+      "final_url": "https://www.mediafire.com/file/glzysyma68vq2zv/%D9%85%D8%AD%D8%A7%D8%B6%D8%B1%D8%A7%D8%AA+%D9%81%D9%8A+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A.+%D8%AC%D8%A7%D9%85%D8%B9%D8%A9+%D8%A7%D9%84%D8%A8%D9%84%D9%8A%D8%AF%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "محاضرة الحجز التنفيذي على العقارات و الحقوق العينة على ضوء قانون الإجراءات المدنية والإدارية",
+      "source_url": "http://www.mediafire.com/download.php?sojxgt8jn7mud81",
+      "final_url": "https://www.mediafire.com/?sojxgt8jn7mud81",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "محاكمة الأحداث",
+      "source_url": "http://www.mediafire.com/download.php?buy3e275dn9k2hk",
+      "final_url": "https://www.mediafire.com/?buy3e275dn9k2hk",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "محتوى حق المؤلف في الأمر رقم 03-05",
+      "source_url": "http://www.mediafire.com/download.php?3d154847umsesn2",
+      "final_url": "https://www.mediafire.com/?3d154847umsesn2",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مدخل لدراسة القانون الإداري",
+      "source_url": "http://www.mediafire.com/download.php?hx47iqrhenbddqt",
+      "final_url": "https://www.mediafire.com/?hx47iqrhenbddqt",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مرض الموت – دراسة مقارنة بين القانون الجزائري و الشريعة الاسلامية",
+      "source_url": "http://www.mediafire.com/download.php?229vygl7y6m4net",
+      "final_url": "https://www.mediafire.com/?229vygl7y6m4net",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مرض الموت",
+      "source_url": "http://www.mediafire.com/download.php?qwb39l55ut3m3xw",
+      "final_url": "https://www.mediafire.com/?qwb39l55ut3m3xw",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مسألة المحضون في القوانين المغاربية للاسرة دراسة مقارنة",
+      "source_url": "http://www.mediafire.com/download.php?lad1eb65aqaoajo",
+      "final_url": "https://www.mediafire.com/file/lad1eb65aqaoajo/%D9%85%D8%B3%D8%A3%D9%84%D8%A9+%D8%A7%D9%84%D9%85%D8%AD%D8%B6%D9%88%D9%86+%D9%81%D9%8A+%D8%A7%D9%84%D9%82%D9%88%D8%A7%D9%86%D9%8A%D9%86+%D8%A7%D9%84%D9%85%D8%BA%D8%A7%D8%B1%D8%A8%D9%8A%D8%A9+%D9%84%D9%84%D8%A7%D8%B3%D8%B1%D8%A9+%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9+%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A9+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مسؤولية المقاول والمهندس عن ضمان متانة البناء في القانون المدني الأردني .. ماجستير القانون الخاص .. جامعة النجاح الفلسطينية",
+      "source_url": "http://www.mediafire.com/download.php?rab164ewflcra3v",
+      "final_url": "https://www.mediafire.com/?rab164ewflcra3v",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مسؤولية دولية",
+      "source_url": "http://www.mediafire.com/download.php?7o43d4qlobk89qo",
+      "final_url": "https://www.mediafire.com/?7o43d4qlobk89qo",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مسؤولية توظيف الاموال بطرق غير مشروعة",
+      "source_url": "http://www.mediafire.com/download.php?c1kttywhx3xcj1k",
+      "final_url": "https://www.mediafire.com/?c1kttywhx3xcj1k",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "معجم مصطلحات حقوق الانسان",
+      "source_url": "http://www.mediafire.com/download.php?368camg8owk1c6j",
+      "final_url": "https://www.mediafire.com/file/368camg8owk1c6j/%D9%85%D8%B9%D8%AC%D9%85+%D9%85%D8%B5%D8%B7%D9%84%D8%AD%D8%A7%D8%AA+%D8%AD%D9%82%D9%88%D9%82+%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مقدمه عن طرق الحجز + اثار الحجز",
+      "source_url": "http://www.mediafire.com/download.php?doox3afy2x9vp06",
+      "final_url": "https://www.mediafire.com/?doox3afy2x9vp06",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "مكافحة الجريمة الجمركية",
+      "source_url": "http://www.mediafire.com/download.php?pr8359nioe95bab",
+      "final_url": "https://www.mediafire.com/?pr8359nioe95bab",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "موسوعة الإجتهاد القضائي .PAR01",
+      "source_url": "http://www.mediafire.com/download.php?nx3dgz6l6a47sdk",
+      "final_url": "https://www.mediafire.com/?nx3dgz6l6a47sdk",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "موسوعة الإجتهاد القضائي .PAR02",
+      "source_url": "http://www.mediafire.com/download.php?4b49ilid1cf43iv",
+      "final_url": "https://www.mediafire.com/file/4b49ilid1cf43iv/%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%A5%D8%AC%D8%AA%D9%87%D8%A7%D8%AF+%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A+.PAR02.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "موسوعة الإجتهاد القضائي .PAR03",
+      "source_url": "http://www.mediafire.com/download.php?l7v8z9nqlyg3vzc",
+      "final_url": "https://www.mediafire.com/?l7v8z9nqlyg3vzc",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "موسوعة الإجتهاد القضائي .PAR04",
+      "source_url": "http://www.mediafire.com/download.php?mleu6d2ljm3icrz",
+      "final_url": "https://www.mediafire.com/?mleu6d2ljm3icrz",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "موسوعة الإجتهاد القضائي .PAR05",
+      "source_url": "http://www.mediafire.com/download.php?olai24b7pa2pas5",
+      "final_url": "https://www.mediafire.com/?olai24b7pa2pas5",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "موسوعة العقوبات",
+      "source_url": "http://www.mediafire.com/download.php?2ki2jcxrvnpx9p0",
+      "final_url": "https://www.mediafire.com/file/2ki2jcxrvnpx9p0/%D9%85%D9%88%D8%B3%D9%88%D8%B9%D8%A9+%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "موسوعة القانون الجنائي للارهاب.. المواجهه الجنائية للارهاب.. الجزء الاول",
+      "source_url": "http://www.mediafire.com/download.php?vm7hjyw57m5um10",
+      "final_url": "https://www.mediafire.com/?vm7hjyw57m5um10",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "موسوعة المخدرات",
+      "source_url": "http://www.mediafire.com/download.php?7092t2z7l3o3w4l",
+      "final_url": "https://www.mediafire.com/?7092t2z7l3o3w4l",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "موسوعه القوانين: الدعاوى- العقود – الدفوع – والمذكرات القانونيه",
+      "source_url": "http://www.mediafire.com/download.php?61k0sz0lh5sh6mo",
+      "final_url": "https://www.mediafire.com/?61k0sz0lh5sh6mo",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "ميراث المرأة في الإسلام",
+      "source_url": "http://www.mediafire.com/download.php?wqotny5uyyt",
+      "final_url": "https://www.mediafire.com/?wqotny5uyyt",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "نظام تسليم المجرمين",
+      "source_url": "http://www.mediafire.com/download.php?ojb4u96jfagynr7",
+      "final_url": "https://www.mediafire.com/file/ojb4u96jfagynr7/%D9%86%D8%B8%D8%A7%D9%85+%D8%AA%D8%B3%D9%84%D9%8A%D9%85+%D8%A7%D9%84%D9%85%D8%AC%D8%B1%D9%85%D9%8A%D9%86.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "نظام تعويض الاضرار الجسمانية الناشئة عن حوادث المرور في الجزائر",
+      "source_url": "http://www.mediafire.com/download.php?u7q9mgc2fazac6n",
+      "final_url": "https://www.mediafire.com/file/u7q9mgc2fazac6n/%D9%86%D8%B8%D8%A7%D9%85+%D8%AA%D8%B9%D9%88%D9%8A%D8%B6+%D8%A7%D9%84%D8%A7%D8%B6%D8%B1%D8%A7%D8%B1+%D8%A7%D9%84%D8%AC%D8%B3%D9%85%D8%A7%D9%86%D9%8A%D8%A9+%D8%A7%D9%84%D9%86%D8%A7%D8%B4%D8%A6%D8%A9+%D8%B9%D9%86+%D8%AD%D9%88%D8%A7%D8%AF%D8%AB+%D8%A7%D9%84%D9%85%D8%B1%D9%88%D8%B1+%D9%81%D9%8A+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "نظرية الشرط الجزائي بين الفقه والقانون",
+      "source_url": "http://www.mediafire.com/download.php?jy8zh66bgjv31p8",
+      "final_url": "https://www.mediafire.com/file/jy8zh66bgjv31p8/%D9%86%D8%B8%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%B4%D8%B1%D8%B7+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D9%8A+%D8%A8%D9%8A%D9%86+%D8%A7%D9%84%D9%81%D9%82%D9%87+%D9%88%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "نظرية العلم اليقين و تطبيقاتها في القضاء الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?2rj7b6737jtef6o",
+      "final_url": "https://www.mediafire.com/file/2rj7b6737jtef6o/%D9%86%D8%B8%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%B9%D9%84%D9%85+%D8%A7%D9%84%D9%8A%D9%82%D9%8A%D9%86+%D9%88+%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%D9%87%D8%A7+%D9%81%D9%8A+%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A1+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاشتراط في عقد الزواج في قانون الأسرة الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?jsac6mxbifefw9c",
+      "final_url": "https://www.mediafire.com/file/jsac6mxbifefw9c/-%D9%85%D8%B0%D9%83%D8%B1%D8%A9+%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1+%D8%A7%D9%84%D8%A7%D8%B4%D8%AA%D8%B1%D8%A7%D8%B7+%D9%81%D9%8A+%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC+%D9%81%D9%8A+%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "ضمان التعويض والاسعاف في عقد البيع في القانون المدني الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?mt0wap85r93n7a8",
+      "final_url": "https://www.mediafire.com/file/mt0wap85r93n7a8/_%D8%B6%D9%85%D8%A7%D9%86+%D8%A7%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D8%B6+%D9%88%D8%A7%D9%84%D8%A7%D8%B3%D8%B9%D8%A7%D9%81+%D9%81%D9%8A+%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D8%A8%D9%8A%D8%B9+%D9%81%D9%8A+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "آثار حكم شهر الافلاس بالنسبة لجماعة الدائنين",
+      "source_url": "http://www.mediafire.com/download.php?q4cuz666v55qa4a",
+      "final_url": "https://www.mediafire.com/?q4cuz666v55qa4a",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "آثار عقد الحوالة المدنية",
+      "source_url": "http://www.mediafire.com/download.php?68bl567mdjut5vm",
+      "final_url": "https://www.mediafire.com/?68bl567mdjut5vm",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "أبعاد الجريمة ونظم العدالة الجنائية في الوطن العربي",
+      "source_url": "http://www.mediafire.com/download.php?hxko3cb7s2vckkh",
+      "final_url": "https://www.mediafire.com/file/hxko3cb7s2vckkh/%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF+%D8%A7%D9%84%D8%AC%D8%B1%D9%8A%D9%85%D8%A9+%D9%88%D9%86%D8%B8%D9%85+%D8%A7%D9%84%D8%B9%D8%AF%D8%A7%D9%84%D8%A9+%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D9%88%D8%B7%D9%86+%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "أثر الحكم الجنائي على الحقوق السياسية",
+      "source_url": "http://www.mediafire.com/download.php?zlmhpzqtd07cq3o",
+      "final_url": "https://www.mediafire.com/file/zlmhpzqtd07cq3o/%D8%A3%D8%AB%D8%B1+%D8%A7%D9%84%D8%AD%D9%83%D9%85+%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82+%D8%A7%D9%84%D8%B3%D9%8A%D8%A7%D8%B3%D9%8A%D8%A9.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "أثر الموت على حق الدائنية",
+      "source_url": "http://www.mediafire.com/download.php?410gmspldjjxg52",
+      "final_url": "https://www.mediafire.com/?410gmspldjjxg52",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "أحكام المواريث في الشريعة الإسلامية",
+      "source_url": "http://www.mediafire.com/download.php?kdwlfy9qz932hyy",
+      "final_url": "https://www.mediafire.com/file/kdwlfy9qz932hyy/%D8%A3%D8%AD%D9%83%D8%A7%D9%85+%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%B1%D9%8A%D8%AB+%D9%81%D9%8A+%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B9%D8%A9+%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9+.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "أحكام رخصة البناء و المنازعات المتعلقة بها 2",
+      "source_url": "http://www.mediafire.com/download.php?dcbv3mm5lhu1rep",
+      "final_url": "https://www.mediafire.com/?dcbv3mm5lhu1rep",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "أحكام رخصة البناء و المنازعات المتعلقة بها",
+      "source_url": "http://www.mediafire.com/download.php?vmxa4gwcbtb7kzv",
+      "final_url": "https://www.mediafire.com/?vmxa4gwcbtb7kzv",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "أدلة الاثبات ذات الحجية المطلقة أمام القاضي المدني",
+      "source_url": "http://www.mediafire.com/download.php?25pgizjwj9lcz2u",
+      "final_url": "https://www.mediafire.com/file/25pgizjwj9lcz2u/%D8%A3%D8%AF%D9%84%D8%A9+%D8%A7%D9%84%D8%A7%D8%AB%D8%A8%D8%A7%D8%AA+%D8%B0%D8%A7%D8%AA+%D8%A7%D9%84%D8%AD%D8%AC%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D8%B7%D9%84%D9%82%D8%A9+%D8%A3%D9%85%D8%A7%D9%85+%D8%A7%D9%84%D9%82%D8%A7%D8%B6%D9%8A+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "أصول علم الاجرام",
+      "source_url": "http://www.mediafire.com/download.php?vg30lutydgjlo2h",
+      "final_url": "https://www.mediafire.com/file/vg30lutydgjlo2h/%D8%A3%D8%B5%D9%88%D9%84+%D8%B9%D9%84%D9%85+%D8%A7%D9%84%D8%A7%D8%AC%D8%B1%D8%A7%D9%85+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "إبرام العقد الإلكتروني (القانون الإماراتي والقانون المقارن)",
+      "source_url": "http://www.mediafire.com/?26tbs6bwr7rhcmd",
+      "final_url": "https://www.mediafire.com/file/26tbs6bwr7rhcmd/%D8%A5%D8%A8%D8%B1%D8%A7%D9%85+%D8%A7%D9%84%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D8%A5%D9%84%D9%83%D8%AA%D8%B1%D9%88%D9%86%D9%8A+%28%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%A5%D9%85%D8%A7%D8%B1%D8%A7%D8%AA%D9%8A+%D9%88%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D9%85%D9%82%D8%A7%D8%B1%D9%86+%29+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "إثبات النسب ونفيه وفقا لتعديلات قانون الأسرة",
+      "source_url": "http://www.mediafire.com/download.php?upeqnmj4u3evldk",
+      "final_url": "https://www.mediafire.com/?upeqnmj4u3evldk",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "إشكالات التنفيذ في المواد الإدارية",
+      "source_url": "http://www.mediafire.com/download.php?3a813825effbm4g",
+      "final_url": "https://www.mediafire.com/?3a813825effbm4g",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "إشكالات الحالة المدنية في الجنوب الكبير",
+      "source_url": "http://www.mediafire.com/download.php?8c99z7c6fb91ha9",
+      "final_url": "https://www.mediafire.com/?8c99z7c6fb91ha9",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اثبات النسب في ظل القانون الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?8482oc03a52l4sv",
+      "final_url": "https://www.mediafire.com/?8482oc03a52l4sv",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اثبات النسب و تأثير التعديل الجديد بالطرق العلمية الحديثة",
+      "source_url": "http://www.mediafire.com/download.php?pgu91tc7mth",
+      "final_url": "https://www.mediafire.com/file/pgu91tc7mth/%D8%A7%D8%AB%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D9%86%D8%B3%D8%A8+%D9%88+%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1+%D8%A7%D9%84%D8%AA%D8%B9%D8%AF%D9%8A%D9%84+%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF+%D8%A8%D8%A7%D9%84%D8%B7%D8%B1%D9%82+%D8%A7%D9%84%D8%B9%D9%84%D9%85%D9%8A%D8%A9+%D8%A7%D9%84%D8%AD%D8%AF%D9%8A%D8%AB%D8%A9.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اجراءات سير الدعوى أمام المحكمة الجنائية الدولية",
+      "source_url": "http://www.mediafire.com/download.php?0us0kt941emsdlz",
+      "final_url": "https://www.mediafire.com/?0us0kt941emsdlz",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اجل تنفيذ الالتزام",
+      "source_url": "http://www.mediafire.com/download.php?wylud9zbqb1ocoi",
+      "final_url": "https://www.mediafire.com/?wylud9zbqb1ocoi",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "احكام رفض تجديد الايجار التجاري",
+      "source_url": "http://www.mediafire.com/download.php?4wgjhkzoas72zvn",
+      "final_url": "https://www.mediafire.com/file/4wgjhkzoas72zvn/%D8%A7%D8%AD%D9%83%D8%A7%D9%85+%D8%B1%D9%81%D8%B6+%D8%AA%D8%AC%D8%AF%D9%8A%D8%AF+%D8%A7%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A.PDF",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اشكالات انعقاد الزواج",
+      "source_url": "http://www.mediafire.com/download.php?021105usq4h4ekj",
+      "final_url": "https://www.mediafire.com/?021105usq4h4ekj",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اصدار شيك بدون رصيد",
+      "source_url": "http://www.mediafire.com/download.php?8c9f31mc4bwzor3",
+      "final_url": "https://www.mediafire.com/file/8c9f31mc4bwzor3/%D8%A7%D8%B5%D8%AF%D8%A7%D8%B1+%D8%B4%D9%8A%D9%83+%D8%A8%D8%AF%D9%88%D9%86+%D8%B1%D8%B5%D9%8A%D8%AF.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اصول سماع الشهادة في المواد المدنية والتجارية",
+      "source_url": "http://www.mediafire.com/download.php?3938lbpxlfzx78b",
+      "final_url": "https://www.mediafire.com/?3938lbpxlfzx78b",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الأحكام العامة للصلح",
+      "source_url": "http://www.mediafire.com/download.php?f935utblbsnhzfd",
+      "final_url": "https://www.mediafire.com/?f935utblbsnhzfd",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الأسس العامة للتنظيم الإداري – الدكتور عمار بوضياف",
+      "source_url": "http://www.mediafire.com/download.php?hdfzwajmfblbale",
+      "final_url": "https://www.mediafire.com/?hdfzwajmfblbale",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الأوراق التجارية في القانون الجزائري – نادية فوضيل",
+      "source_url": "http://www.mediafire.com/download.php?vck0itcekr3nd5j",
+      "final_url": "https://www.mediafire.com/?vck0itcekr3nd5j",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاثبات بالكتابة في الشكل الالكتروني",
+      "source_url": "http://www.mediafire.com/download.php?v56eel1a271598u",
+      "final_url": "https://www.mediafire.com/?v56eel1a271598u",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاثبات في المواد الجمركية",
+      "source_url": "http://www.mediafire.com/download.php?d9rywejiv9h280b",
+      "final_url": "https://www.mediafire.com/?d9rywejiv9h280b",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاثبات و ماهية البصمة الوراثية",
+      "source_url": "http://www.mediafire.com/download.php?7mizbyl953ddtvy",
+      "final_url": "https://www.mediafire.com/?7mizbyl953ddtvy",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاثراء بلا سبب وفق القانون المغربي_مذكرة",
+      "source_url": "http://www.mediafire.com/download.php?j7sht0mh4ftp4mb",
+      "final_url": "https://www.mediafire.com/?j7sht0mh4ftp4mb",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاحكام القانونية للمزايدة_د.نصر الدين ابو شيبة",
+      "source_url": "http://www.mediafire.com/download.php?99d8rv24xairc26",
+      "final_url": "https://www.mediafire.com/error.php?errno=320&origin=download",
+      "http_status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 404"
+    },
+    {
+      "title": "الاستثمارات",
+      "source_url": "http://www.mediafire.com/download.php?5db49htzr3zzv3j",
+      "final_url": "https://www.mediafire.com/?5db49htzr3zzv3j",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاعذار في المواد المدنية والتجارية",
+      "source_url": "http://www.mediafire.com/download.php?72rxnu91bikuit1",
+      "final_url": "https://www.mediafire.com/?72rxnu91bikuit1",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاعمال التجارية المنفردة",
+      "source_url": "http://www.mediafire.com/download.php?699pw5snws7j6ty",
+      "final_url": "https://www.mediafire.com/file/699pw5snws7j6ty/%D8%A7%D9%84%D8%A7%D8%B9%D9%85%D8%A7%D9%84+%D8%A7%D9%84%D8%AA%D8%AC%D8%A7%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D9%86%D9%81%D8%B1%D8%AF%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الافلاس والتسوية القضائية في القانون الجزائري – نادية فوضيل القضائية",
+      "source_url": "http://www.mediafire.com/download.php?65f2ebgvohjfot5",
+      "final_url": "https://www.mediafire.com/?65f2ebgvohjfot5",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاقتراع النسبي والتمثيلية حالة الجزائر – بيطام أحمد",
+      "source_url": "http://www.mediafire.com/download.php?kwgdv8dd2bj5jd8",
+      "final_url": "https://www.mediafire.com/file/kwgdv8dd2bj5jd8/%D8%A7%D9%84%D8%A7%D9%82%D8%AA%D8%B1%D8%A7%D8%B9+%D8%A7%D9%84%D9%86%D8%B3%D8%A8%D9%8A+%D9%88%D8%A7%D9%84%D8%AA%D9%85%D8%AB%D9%8A%D9%84%D9%8A%D8%A9+%D8%AD%D8%A7%D9%84%D8%A9+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1+-+%D8%A8%D9%8A%D8%B7%D8%A7%D9%85+%D8%A3%D8%AD%D9%85%D8%AF+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الالتزام",
+      "source_url": "http://www.mediafire.com/download.php?0zeb25lzpk4qzpn",
+      "final_url": "https://www.mediafire.com/?0zeb25lzpk4qzpn",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الالتصاق",
+      "source_url": "http://www.mediafire.com/download.php?jjefyo8a2aj8if8",
+      "final_url": "https://www.mediafire.com/file/jjefyo8a2aj8if8/%D8%A7%D9%84%D8%A7%D9%84%D8%AA%D8%B5%D8%A7%D9%82.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الانحراف في استعمــال السلطة كسبب في إلغاء القرار الإداري",
+      "source_url": "http://www.mediafire.com/download.php?242khvs4fib72o3",
+      "final_url": "https://www.mediafire.com/file/242khvs4fib72o3/%D8%A7%D9%84%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81+%D9%81%D9%8A+%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D9%80%D9%80%D8%A7%D9%84+%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A9+%D9%83%D8%B3%D8%A8%D8%A8+%D9%81%D9%8A+%D8%A5%D9%84%D8%BA%D8%A7%D8%A1+%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1+%D8%A7%D9%84%D8%A5%D8%AF%D8%A7%D8%B1%D9%8A+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الاهمال العائلي",
+      "source_url": "http://www.mediafire.com/download.php?9hj7c1k0quephyy",
+      "final_url": "https://www.mediafire.com/file/9hj7c1k0quephyy/%D8%A7%D9%84%D8%A7%D9%87%D9%85%D8%A7%D9%84+%D8%A7%D9%84%D8%B9%D8%A7%D8%A6%D9%84%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الايجاب والقبول في القانون المدني الأردني والمقارن",
+      "source_url": "http://www.mediafire.com/download.php?6afdxxeh0t30rqe",
+      "final_url": "https://www.mediafire.com/?6afdxxeh0t30rqe",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "البداية والنهاية",
+      "source_url": "http://www.mediafire.com/download.php?indzfzmtlm3",
+      "final_url": "https://www.mediafire.com/file/indzfzmtlm3/%D8%A7%D9%84%D8%A8%D8%AF%D8%A7%D9%8A%D8%A9+%D9%88%D8%A7%D9%84%D9%86%D9%87%D8%A7%D9%8A%D8%A9.zip",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "البناء الفوضوي في الجزائر من وجهة نظر قانونية",
+      "source_url": "http://www.mediafire.com/download.php?4exkvkajsrwq299",
+      "final_url": "https://www.mediafire.com/?4exkvkajsrwq299",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "البناء الموحد 2008",
+      "source_url": "http://www.mediafire.com/download.php?q34n0sve6lrqxlk",
+      "final_url": "https://www.mediafire.com/file/q34n0sve6lrqxlk/%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%A1+%D8%A7%D9%84%D9%85%D9%88%D8%AD%D8%AF+2008.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التأمين الاجتماعى فى ضوء الشريعه الاسلاميه",
+      "source_url": "http://www.mediafire.com/download.php?b5umd0cmdmsmlrw",
+      "final_url": "https://www.mediafire.com/?b5umd0cmdmsmlrw",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التزامات البائع في القانون المدني الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?v964m9ctu88haoe",
+      "final_url": "https://www.mediafire.com/?v964m9ctu88haoe",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التشريع الجنائي الاسلامي مقارنا بالقانون الوضعي ج 1",
+      "source_url": "http://www.mediafire.com/download.php?5nzurmyffnz341h",
+      "final_url": "https://www.mediafire.com/?5nzurmyffnz341h",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التشريع الجنائي الاسلامي مقارنا بالقانون الوضعي ج 2",
+      "source_url": "http://www.mediafire.com/download.php?5xa89axrh10912m",
+      "final_url": "https://www.mediafire.com/file/5xa89axrh10912m/%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9+%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A+%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A+%D9%85%D9%82%D8%A7%D8%B1%D9%86%D8%A7+%D8%A8%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D9%88%D8%B6%D8%B9%D9%8A+%D8%AC+2+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التعسف في استعمال الحق وتطبيقاته",
+      "source_url": "http://www.mediafire.com/download.php?9pnr6egatdo87x6",
+      "final_url": "https://www.mediafire.com/file/9pnr6egatdo87x6/%D8%A7%D9%84%D8%AA%D8%B9%D8%B3%D9%81+%D9%81%D9%8A+%D8%A7%D8%B3%D8%AA%D8%B9%D9%85%D8%A7%D9%84+%D8%A7%D9%84%D8%AD%D9%82+%D9%88%D8%AA%D8%B7%D8%A8%D9%8A%D9%82%D8%A7%D8%AA%D9%87+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التعويض العيني",
+      "source_url": "http://www.mediafire.com/download.php?6nhqf6w4b983otx",
+      "final_url": "https://www.mediafire.com/?6nhqf6w4b983otx",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التقدير القانوني للتعويض في المسؤولية المدنية",
+      "source_url": "http://www.mediafire.com/download.php?onckfyy3xemyjjl",
+      "final_url": "https://www.mediafire.com/file/onckfyy3xemyjjl/%D8%A7%D9%84%D8%AA%D9%82%D8%AF%D9%8A%D8%B1+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A+%D9%84%D9%84%D8%AA%D8%B9%D9%88%D9%8A%D8%B6+%D9%81%D9%8A+%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التمتع بالجنسية الجزائرية في ظل الامر 70-86",
+      "source_url": "http://www.mediafire.com/download.php?1nxhy5x7yn3j132",
+      "final_url": "https://www.mediafire.com/?1nxhy5x7yn3j132",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التنظيم الدولي – د محمد السعيد الدقاق",
+      "source_url": "http://www.mediafire.com/download.php?ro6571b7k4dkcsz",
+      "final_url": "https://www.mediafire.com/?ro6571b7k4dkcsz",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التنفيذ القضائى",
+      "source_url": "http://www.mediafire.com/download.php?05yz77rbnm1h50g",
+      "final_url": "https://www.mediafire.com/?05yz77rbnm1h50g",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التهرب الضريبي",
+      "source_url": "http://www.mediafire.com/download.php?kh5mvs5v3hoqzar",
+      "final_url": "https://www.mediafire.com/file/kh5mvs5v3hoqzar/%D8%A7%D9%84%D8%AA%D9%87%D8%B1%D8%A8+%D8%A7%D9%84%D8%B6%D8%B1%D9%8A%D8%A8%D9%8A.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "التوقيف للنظر",
+      "source_url": "http://www.mediafire.com/download.php?b1rh3m6ezmfy6ag",
+      "final_url": "https://www.mediafire.com/?b1rh3m6ezmfy6ag",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الجرائم التي تختص بها المحكمة الجنائية الدولية",
+      "source_url": "http://www.mediafire.com/download.php?o7529z66adf6aya",
+      "final_url": "https://www.mediafire.com/?o7529z66adf6aya",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الجرائم العائلية",
+      "source_url": "http://www.mediafire.com/download.php?mhmra7cz6c9akyr",
+      "final_url": "https://www.mediafire.com/?mhmra7cz6c9akyr",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الجريمة الجنسية",
+      "source_url": "http://www.mediafire.com/download.php?hkp1jhx72lusbro",
+      "final_url": "https://www.mediafire.com/?hkp1jhx72lusbro",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الجريمة المنظمة",
+      "source_url": "http://www.mediafire.com/download.php?sxm3j98ymw9mf48",
+      "final_url": "https://www.mediafire.com/?sxm3j98ymw9mf48",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الجمركة الالية للبظائع ودورة التصريح المفصل",
+      "source_url": "http://www.mediafire.com/download.php?e5atlnej1ocesue",
+      "final_url": "https://www.mediafire.com/?e5atlnej1ocesue",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الجنسية الجزائرية",
+      "source_url": "http://www.mediafire.com/download.php?mirg9q6qr2f2i2v",
+      "final_url": "https://www.mediafire.com/error.php?errno=386&quickkey=mirg9q6qr2f2i2v&origin=download",
+      "http_status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 404"
+    },
+    {
+      "title": "الحبس المؤقت غير المبرر",
+      "source_url": "http://www.mediafire.com/download.php?7qq1iaqljjsq9om",
+      "final_url": "https://www.mediafire.com/?7qq1iaqljjsq9om",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الحبس المؤقت و الرقابة القضائية و الافراج",
+      "source_url": "http://www.mediafire.com/download.php?dpj043hacb7i1h3",
+      "final_url": "https://www.mediafire.com/?dpj043hacb7i1h3",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الحقوق المالية بعد الطلاق",
+      "source_url": "http://www.mediafire.com/download.php?6n1dntl927ae8c7",
+      "final_url": "https://www.mediafire.com/file/6n1dntl927ae8c7/%D8%A7%D9%84%D8%AD%D9%82%D9%88%D9%82+%D8%A7%D9%84%D9%85%D8%A7%D9%84%D9%8A%D8%A9+%D8%A8%D8%B9%D8%AF+%D9%84%D8%B7%D9%84%D8%A7%D9%82.doc",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الحماية الجنائية للشرف والاعتبار",
+      "source_url": "http://www.mediafire.com/download.php?gwkek5amb5iqnc8",
+      "final_url": "https://www.mediafire.com/?gwkek5amb5iqnc8",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الحماية الجنائية للطفل في مدونة الاسرة و القانون الجنائي",
+      "source_url": "http://www.mediafire.com/download.php?ga8jkqp6v8fqig6",
+      "final_url": "https://www.mediafire.com/file/ga8jkqp6v8fqig6/%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A%D8%A9+%D9%84%D9%84%D8%B7%D9%81%D9%84+%D9%81%D9%8A+%D9%85%D8%AF%D9%88%D9%86%D8%A9+%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A9+%D9%88+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A6%D9%8A.doc",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الحماية الجناية للطفل في التشريع الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?bhr1fnkdskddrz7",
+      "final_url": "https://www.mediafire.com/?bhr1fnkdskddrz7",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الحماية الدستورية لحرية التعبير في الجزائر",
+      "source_url": "http://www.mediafire.com/download.php?5204uqr8fubmi0c",
+      "final_url": "https://www.mediafire.com/file/5204uqr8fubmi0c/%D8%A7%D9%84%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%AF%D8%B3%D8%AA%D9%88%D8%B1%D9%8A%D8%A9+%D9%84%D8%AD%D8%B1%D9%8A%D8%A9+%D8%A7%D9%84%D8%AA%D8%B9%D8%A8%D9%8A%D8%B1+%D9%81%D9%8A+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الخدمة الاجتماعية وحقوق الانسان",
+      "source_url": "http://www.mediafire.com/download.php?3mzj2z6d339v9iz",
+      "final_url": "https://www.mediafire.com/?3mzj2z6d339v9iz",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الدفوع فى قانون المرافعات مدعمة بنصوص المواد",
+      "source_url": "http://www.mediafire.com/download.php?htg9dwvn4ko47t3",
+      "final_url": "https://www.mediafire.com/file/htg9dwvn4ko47t3/%D8%A7%D9%84%D8%AF%D9%81%D9%88%D8%B9+%D9%81%D9%89+%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D9%85%D8%B1%D8%A7%D9%81%D8%B9%D8%A7%D8%AA+%D9%85%D8%AF%D8%B9%D9%85%D8%A9+%D8%A8%D9%86%D8%B5%D9%88%D8%B5+%D8%A7%D9%84%D9%85%D9%88%D8%A7%D8%AF.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الرقابة القضائية على مشروعية القرارات الادارية",
+      "source_url": "http://www.mediafire.com/download.php?ovg7c4i56lw99bc",
+      "final_url": "https://www.mediafire.com/file/ovg7c4i56lw99bc/%D8%A7%D9%84%D8%B1%D9%82%D8%A7%D8%A8%D8%A9+%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9+%D8%B9%D9%84%D9%89+%D9%85%D8%B4%D8%B1%D9%88%D8%B9%D9%8A%D8%A9+%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%B1%D8%A7%D8%AA+%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الزواج العرفي",
+      "source_url": "http://www.mediafire.com/download.php?6a4rxexfi8jezgb",
+      "final_url": "https://www.mediafire.com/file/6a4rxexfi8jezgb/%D8%A7%D9%84%D8%B2%D9%88%D8%A7%D8%AC+%D8%A7%D9%84%D8%B9%D8%B1%D9%81%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "السجل التجاري",
+      "source_url": "http://www.mediafire.com/download.php?tlwbi7qp7hk44eb",
+      "final_url": "https://www.mediafire.com/?tlwbi7qp7hk44eb",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الشرعية الدولية لحقوق الانسان",
+      "source_url": "http://www.mediafire.com/download.php?e7jejxgcj0jyox7",
+      "final_url": "https://www.mediafire.com/file/e7jejxgcj0jyox7/%D8%A7%D9%84%D8%B4%D8%B1%D8%B9%D9%8A%D8%A9+%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A%D8%A9+%D9%84%D8%AD%D9%82%D9%88%D9%82+%D8%A7%D9%84%D8%A7%D9%86%D8%B3%D8%A7%D9%86+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الشفعة كسبب من اسباب كسب الملكية",
+      "source_url": "http://www.mediafire.com/download.php?v2uq1og3fl6g6k8",
+      "final_url": "https://www.mediafire.com/file/v2uq1og3fl6g6k8/%D8%A7%D9%84%D8%B4%D9%81%D8%B9%D8%A9+%D9%83%D8%B3%D8%A8%D8%A8+%D9%85%D9%86+%D8%A7%D8%B3%D8%A8%D8%A7%D8%A8+%D9%83%D8%B3%D8%A8+%D8%A7%D9%84%D9%85%D9%84%D9%83%D9%8A%D8%A9.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الصفقات العمومية و الجرائم المتعلقة بها في قانون الفساد",
+      "source_url": "http://www.mediafire.com/download.php?dbzjzw9wp3vf63p",
+      "final_url": "https://www.mediafire.com/?dbzjzw9wp3vf63p",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الصلح فى القانون الجزائرى",
+      "source_url": "http://www.mediafire.com/download.php?v8974cy74dfo281",
+      "final_url": "https://www.mediafire.com/?v8974cy74dfo281",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الصورية ودعوى الطعن بها",
+      "source_url": "http://www.mediafire.com/download.php?icfck33dwyqhmz7",
+      "final_url": "https://www.mediafire.com/?icfck33dwyqhmz7",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الضرائب على القيمة المضافة",
+      "source_url": "http://www.mediafire.com/download.php?32gaj3iwuawa2f7",
+      "final_url": "https://www.mediafire.com/file/32gaj3iwuawa2f7/%D8%A7%D9%84%D8%B6%D8%B1%D8%A7%D8%A6%D8%A8+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D9%82%D9%8A%D9%85%D8%A9+%D8%A7%D9%84%D9%85%D8%B6%D8%A7%D9%81%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الطبيعة القانونية للجنة المصرفية",
+      "source_url": "http://www.mediafire.com/download.php?cmpmhn67jk1vbac",
+      "final_url": "https://www.mediafire.com/error.php?errno=320&origin=download",
+      "http_status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 404"
+    },
+    {
+      "title": "الطلاق وأثره في الجريمة",
+      "source_url": "http://www.mediafire.com/download.php?69e28a30l49u6si",
+      "final_url": "https://www.mediafire.com/?69e28a30l49u6si",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الظروف المشددة و المخففة لجريمة القتل العمد في القانون الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?br5wd3slzdjq1br",
+      "final_url": "https://www.mediafire.com/?br5wd3slzdjq1br",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "العقــد الإلكتروني على ضوء القانون المدني الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?oqy4dlvcd0oqwdj",
+      "final_url": "https://www.mediafire.com/?oqy4dlvcd0oqwdj",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "العقود الادارية في التشربع الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?z2e9a9qlzj4flot",
+      "final_url": "https://www.mediafire.com/?z2e9a9qlzj4flot",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "العلاقة التعاقدية بين أطراف عقد الاعتماد المستندي .. ماجستير القانون الخاص",
+      "source_url": "http://www.mediafire.com/download.php?o1ccqmc6d1prdpa",
+      "final_url": "https://www.mediafire.com/file/o1ccqmc6d1prdpa/%D8%A7%D9%84%D8%B9%D9%84%D8%A7%D9%82%D8%A9+%D8%A7%D9%84%D8%AA%D8%B9%D8%A7%D9%82%D8%AF%D9%8A%D8%A9+%D8%A8%D9%8A%D9%86+%D8%A3%D8%B7%D8%B1%D8%A7%D9%81+%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%85%D8%A7%D8%AF+%D8%A7%D9%84%D9%85%D8%B3%D8%AA%D9%86%D8%AF%D9%8A+..+++%D9%85%D8%A7%D8%AC%D8%B3%D8%AA%D9%8A%D8%B1+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%AE%D8%A7%D8%B5++++..+++%D8%AC%D8%A7%D9%85%D8%B9%D8%A9+%D8%A7%D9%84%D9%86%D8%AC%D8%A7%D8%AD+%D8%A7%D9%84%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%D9%8A%D8%A9+++.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "العمل الاجرائي",
+      "source_url": "http://www.mediafire.com/download.php?m51s2estya417hx",
+      "final_url": "https://www.mediafire.com/?m51s2estya417hx",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "القانون الاجنبي امام القضاء الوطني",
+      "source_url": "http://www.mediafire.com/download.php?0q9chhtos3m175a",
+      "final_url": "https://www.mediafire.com/?0q9chhtos3m175a",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "القانون الانساني الدولي – محمود شريف بسيوني",
+      "source_url": "http://www.mediafire.com/download.php?itm2q5hw4p79vyr",
+      "final_url": "https://www.mediafire.com/?itm2q5hw4p79vyr",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "القانون التجاري – الدكتور باسم صالح .pdf",
+      "source_url": "http://www.mediafire.com/download.php?f3x7ktr4m8fsnab",
+      "final_url": "https://www.mediafire.com/?f3x7ktr4m8fsnab",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "القانون التجاري الجزائري – نادية فوضيل",
+      "source_url": "http://www.mediafire.com/download.php?3c0s1ob82ob9nye",
+      "final_url": "https://www.mediafire.com/?3c0s1ob82ob9nye",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "القانون الجنائي الدولي ماجستير",
+      "source_url": "http://www.mediafire.com/download.php?n79obbqsgsje30z",
+      "final_url": "https://www.mediafire.com/?n79obbqsgsje30z",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "القسمة الرضائية في العقار",
+      "source_url": "http://www.mediafire.com/download.php?efk17ic76qpvtxy",
+      "final_url": "https://www.mediafire.com/file/efk17ic76qpvtxy/%D8%A7%D9%84%D9%82%D8%B3%D9%85%D8%A9+%D8%A7%D9%84%D8%B1%D8%B6%D8%A7%D8%A6%D9%8A%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D8%B9%D9%82%D8%A7%D8%B1.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "القضاء الاداري في الجزائر",
+      "source_url": "http://www.mediafire.com/download.php?0cetb6fld9sycml",
+      "final_url": "https://www.mediafire.com/error.php?errno=320&origin=download",
+      "http_status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 404"
+    },
+    {
+      "title": "القضاء في الشريعة الإسلامية والقانون المغربي مذكرة",
+      "source_url": "http://www.mediafire.com/download.php?vh6am5d125yhuy5",
+      "final_url": "https://www.mediafire.com/?vh6am5d125yhuy5",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الكفالة في قانون الاسرة و الشريعة الاسلامية",
+      "source_url": "http://www.mediafire.com/download.php?z4ccnt1fb95rpu5",
+      "final_url": "https://www.mediafire.com/file/z4ccnt1fb95rpu5/%D8%A7%D9%84%D9%83%D9%81%D8%A7%D9%84%D8%A9+%D9%81%D9%8A+%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%A7%D8%B3%D8%B1%D8%A9+%D9%88+%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B9%D8%A9+%D8%A7%D9%84%D8%A7%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اللزوم والفسخ",
+      "source_url": "http://www.mediafire.com/download.php?491yd344bbd5tox",
+      "final_url": "https://www.mediafire.com/?491yd344bbd5tox",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المبادئ العامة في قانون العقوبات – الدكتور علي حسين خلف و الدكتور سلطان عبد القادر الشاوي",
+      "source_url": "http://www.mediafire.com/download.php?79sn20773b9mtbf",
+      "final_url": "https://www.mediafire.com/?79sn20773b9mtbf",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المباني المقامة على أرض الغير",
+      "source_url": "http://www.mediafire.com/download.php?d33yd3rbdk81dbx",
+      "final_url": "https://www.mediafire.com/?d33yd3rbdk81dbx",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المتابعة و التحقيق",
+      "source_url": "http://www.mediafire.com/download.php?rrjo96qlwclvboo",
+      "final_url": "https://www.mediafire.com/?rrjo96qlwclvboo",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المحاكمة العادلة في النظام الإسلامي والمواثيق الدولية",
+      "source_url": "http://www.mediafire.com/download.php?e9a8ma39msbfllo",
+      "final_url": "https://www.mediafire.com/?e9a8ma39msbfllo",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المحاولة في الفقه والشريعة والاجتهاد القضائي",
+      "source_url": "http://www.mediafire.com/download.php?vu615w0ug5cqqhc",
+      "final_url": "https://www.mediafire.com/file/vu615w0ug5cqqhc/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%88%D9%84%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D9%81%D9%82%D9%87+%D9%88%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B9%D8%A9+%D9%88%D8%A7%D9%84%D8%A7%D8%AC%D8%AA%D9%87%D8%A7%D8%AF+%D8%A7%D9%84%D9%82%D8%B6%D8%A7%D8%A6%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المحررات وحجيتها في الإثبات في الفقه الإسلامي",
+      "source_url": "http://www.mediafire.com/download.php?v8ik8dm4msd0ssf",
+      "final_url": "https://www.mediafire.com/?v8ik8dm4msd0ssf",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية الادارية 2",
+      "source_url": "http://www.mediafire.com/download.php?bxuw130uvv116na",
+      "final_url": "https://www.mediafire.com/file/bxuw130uvv116na/%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9+2.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية الادارية عن اعمال الشرطة",
+      "source_url": "http://www.mediafire.com/download.php?qii32p7ctdt8ikr",
+      "final_url": "https://www.mediafire.com/file/qii32p7ctdt8ikr/%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D8%A7%D8%AF%D8%A7%D8%B1%D9%8A%D8%A9+%D8%B9%D9%86+%D8%A7%D8%B9%D9%85%D8%A7%D9%84+%D8%A7%D9%84%D8%B4%D8%B1%D8%B7%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية الادارية",
+      "source_url": "http://www.mediafire.com/download.php?bfqmy5wbhug8mhy",
+      "final_url": "https://www.mediafire.com/?bfqmy5wbhug8mhy",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية الجزائية للشخص المعنوي على ضوء تعديل قانوني العقوبات و الإجراءات الجزائية",
+      "source_url": "http://www.mediafire.com/download.php?cg6k2a92agmfi6r",
+      "final_url": "https://www.mediafire.com/?cg6k2a92agmfi6r",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية الجزائية للشخص المعنوي",
+      "source_url": "http://www.mediafire.com/download.php?1c5p8bccjauda3j",
+      "final_url": "https://www.mediafire.com/?1c5p8bccjauda3j",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية الجزائية للموثق",
+      "source_url": "http://www.mediafire.com/download.php?w2rvbbxbb737ay9",
+      "final_url": "https://www.mediafire.com/?w2rvbbxbb737ay9",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية الجنائيبة الدولية لرئيس الدولة",
+      "source_url": "http://www.mediafire.com/download.php?5xo6iz1xrapnz91",
+      "final_url": "https://www.mediafire.com/?5xo6iz1xrapnz91",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية الجنائية الفردية عن الجرائم الدولية",
+      "source_url": "http://www.mediafire.com/download.php?w4afgj0e15raam3",
+      "final_url": "https://www.mediafire.com/error.php?errno=320&origin=download",
+      "http_status": 404,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 404"
+    },
+    {
+      "title": "المسؤولية المدنية في ضوء الفقه و القضاء",
+      "source_url": "http://www.mediafire.com/download.php?ffqy78h37bo8h55",
+      "final_url": "https://www.mediafire.com/?ffqy78h37bo8h55",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية المدنية للطبيب في الجراحة التجميلية",
+      "source_url": "http://www.mediafire.com/download.php?3bs3377t3af66jk",
+      "final_url": "https://www.mediafire.com/?3bs3377t3af66jk",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية المدنية للطبيب في مجال زراعة الأعضاء البشرية",
+      "source_url": "http://www.mediafire.com/download.php?iviudtbyz6mwmbw",
+      "final_url": "https://www.mediafire.com/file/iviudtbyz6mwmbw/%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9+%D9%84%D9%84%D8%B7%D8%A8%D9%8A%D8%A8+%D9%81%D9%8A+%D9%85%D8%AC%D8%A7%D9%84+%D8%B2%D8%B1%D8%A7%D8%B9%D8%A9+%D8%A7%D9%84%D8%A3%D8%B9%D8%B6%D8%A7%D8%A1+%D8%A7%D9%84%D8%A8%D8%B4%D8%B1%D9%8A%D8%A9.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية المدنية للطبيب",
+      "source_url": "http://www.mediafire.com/download.php?580co3mg324cbj4",
+      "final_url": "https://www.mediafire.com/?580co3mg324cbj4",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية المدنية للمنتج وفقا لأحكام القانون الجزائري المدني",
+      "source_url": "http://www.mediafire.com/download.php?4mnqutn748npzpy",
+      "final_url": "https://www.mediafire.com/?4mnqutn748npzpy",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية المدنية للنقال الجوي",
+      "source_url": "http://www.mediafire.com/download.php?uytn9uf8ua7zhnc",
+      "final_url": "https://www.mediafire.com/file/uytn9uf8ua7zhnc/%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9+%D9%84%D9%84%D9%86%D9%82%D8%A7%D9%84+%D8%A7%D9%84%D8%AC%D9%88%D9%8A.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية عن تهدم البناء",
+      "source_url": "http://www.mediafire.com/download.php?os6od1abysdzu4s",
+      "final_url": "https://www.mediafire.com/?os6od1abysdzu4s",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسؤولية",
+      "source_url": "http://www.mediafire.com/download.php?1r0905cuip11u3a",
+      "final_url": "https://www.mediafire.com/file/1r0905cuip11u3a/%D8%A7%D9%84%D9%85%D8%B3%D8%A4%D9%88%D9%84%D9%8A%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المسئولية الجنائية فى الفقه الاسلامى",
+      "source_url": "http://www.mediafire.com/download.php?t5lz2cftjz7i8ag",
+      "final_url": "https://www.mediafire.com/?t5lz2cftjz7i8ag",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المساعدة القضائية في التعبير عن الإرادة",
+      "source_url": "http://www.mediafire.com/download.php?p0ulib41bau8hmi",
+      "final_url": "https://www.mediafire.com/?p0ulib41bau8hmi",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المساهمة التبعية في ارتكاب الجريمة الارهابية",
+      "source_url": "http://www.mediafire.com/download.php?z68k7c6zqndi845",
+      "final_url": "https://www.mediafire.com/?z68k7c6zqndi845",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المصالحة في المادة الجمركية",
+      "source_url": "http://www.mediafire.com/download.php?l30ecl30k5n9nzw",
+      "final_url": "https://www.mediafire.com/file/l30ecl30k5n9nzw/%D8%A7%D9%84%D9%85%D8%B5%D8%A7%D9%84%D8%AD%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D9%85%D8%A7%D8%AF%D8%A9+%D8%A7%D9%84%D8%AC%D9%85%D8%B1%D9%83%D9%8A%D8%A9.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المعالجة الصحفية لقانون الأسرة الجديد_مذكرة",
+      "source_url": "http://www.mediafire.com/download.php?ko73ghvqbillmf6",
+      "final_url": "https://www.mediafire.com/?ko73ghvqbillmf6",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المفقود في القانون الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?usp56l5gis00cc7",
+      "final_url": "https://www.mediafire.com/?usp56l5gis00cc7",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المقدمة و الخاتمة",
+      "source_url": "http://www.mediafire.com/download.php?wndgmz3dogm",
+      "final_url": "https://www.mediafire.com/?wndgmz3dogm",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المنازعات الجبائية",
+      "source_url": "http://www.mediafire.com/download.php?bsxyjue11dbtt91",
+      "final_url": "https://www.mediafire.com/?bsxyjue11dbtt91",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المواعيد فى القانون المدنى",
+      "source_url": "http://www.mediafire.com/download.php?nngmo3ev872wgo1",
+      "final_url": "https://www.mediafire.com/?nngmo3ev872wgo1",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "المواعيد فى قانون البناء والهدم",
+      "source_url": "http://www.mediafire.com/download.php?oh41luqczevolu6",
+      "final_url": "https://www.mediafire.com/?oh41luqczevolu6",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الموسوعة القانونية الشامة",
+      "source_url": "http://www.mediafire.com/download.php?0thebj1jcmd",
+      "final_url": "https://www.mediafire.com/?0thebj1jcmd",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الميراث في الشريعة الإسلامية وقانون الأسرة الجزائري_مذكرة",
+      "source_url": "http://www.mediafire.com/download.php?99okkb7425cvpy9",
+      "final_url": "https://www.mediafire.com/file/99okkb7425cvpy9/%D8%A7%D9%84%D9%85%D9%8A%D8%B1%D8%A7%D8%AB+%D9%81%D9%8A+%D8%A7%D9%84%D8%B4%D8%B1%D9%8A%D8%B9%D8%A9+%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A%D8%A9+%D9%88%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%A3%D8%B3%D8%B1%D8%A9+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A_%D9%85%D8%B0%D9%83%D8%B1%D8%A9.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "النطاق القانوني للحيازة في التشريع الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?3c3436eooh3slnx",
+      "final_url": "https://www.mediafire.com/file/3c3436eooh3slnx/%D8%A7%D9%84%D9%86%D8%B7%D8%A7%D9%82+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86%D9%8A+%D9%84%D9%84%D8%AD%D9%8A%D8%A7%D8%B2%D8%A9+%D9%81%D9%8A+%D8%A7%D9%84%D8%AA%D8%B4%D8%B1%D9%8A%D8%B9+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "النظام القانوني لانقضاء الدعوى التأديبية في التشريع الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?5fdm5woic5nm4ss",
+      "final_url": "https://www.mediafire.com/?5fdm5woic5nm4ss",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "النظام القانوني لحق الارتفاق في التشريع الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?ut6d0xqxpbbgq8q",
+      "final_url": "https://www.mediafire.com/?ut6d0xqxpbbgq8q",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "النظام القانوني لعقد ترخيص براءة الاختراع في مجال نقل التكنولوجيا",
+      "source_url": "http://www.mediafire.com/download.php?dywzrc22bpi0v9d",
+      "final_url": "https://www.mediafire.com/?dywzrc22bpi0v9d",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "النظام القانوني لقواعد البيانات",
+      "source_url": "http://www.mediafire.com/download.php?yl2s9h57wlw0q90",
+      "final_url": "https://www.mediafire.com/?yl2s9h57wlw0q90",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "النظام القانوني للتأمين على القرض في القانون الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?vv4jbr9tpn2mlel",
+      "final_url": "https://www.mediafire.com/?vv4jbr9tpn2mlel",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "النظام القانوني لنزع الملكية للمنفعة العامة في التشريع الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?h60grrnyuv42r4d",
+      "final_url": "https://www.mediafire.com/?h60grrnyuv42r4d",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "النظام القضائي الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?ams6jq9bfa0vjt3",
+      "final_url": "https://www.mediafire.com/?ams6jq9bfa0vjt3",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الهجرة السرية",
+      "source_url": "http://www.mediafire.com/download.php?pxup3t6a55273e7",
+      "final_url": "https://www.mediafire.com/?pxup3t6a55273e7",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الهندسة الإقليدية و علاقتها بالجبر و المقابلة",
+      "source_url": "http://www.mediafire.com/download.php?9zszzfgjwyd",
+      "final_url": "https://www.mediafire.com/?9zszzfgjwyd",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الوجيز في القانون الجنائي العام",
+      "source_url": "http://www.mediafire.com/download.php?i6l99nspjxk7b49",
+      "final_url": "https://www.mediafire.com/?i6l99nspjxk7b49",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الوجيز في شرح قانون العمل الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?5aarn7rl9o351h8",
+      "final_url": "https://www.mediafire.com/?5aarn7rl9o351h8",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الوسيط في شرح القانون المدني الجزء الثالث نظرية الالتزام بوجه عام – عبد الرزاق السنهوري",
+      "source_url": "http://www.mediafire.com/download.php?3935kp75prbr9rv",
+      "final_url": "https://www.mediafire.com/?3935kp75prbr9rv",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الوسيط في شرح القانون المدني الجزء الثاني آثار االالتزام – عبد الرزاق السنهوري",
+      "source_url": "http://www.mediafire.com/download.php?44n945jinvte87w",
+      "final_url": "https://www.mediafire.com/?44n945jinvte87w",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الوسيط في شرح القانون المدني الجزء الرابع البيع و المقايضة – عبد الرزاق السنهوري",
+      "source_url": "http://www.mediafire.com/download.php?edydlq72bd5a75d",
+      "final_url": "https://www.mediafire.com/?edydlq72bd5a75d",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الوسيط في شرح القانون المدني جزء عقد الايجار و العارية – عبد الرزاق السنهوري",
+      "source_url": "http://www.mediafire.com/download.php?w2t44ccnbbws06n",
+      "final_url": "https://www.mediafire.com/file/w2t44ccnbbws06n/%D8%A7%D9%84%D9%88%D8%B3%D9%8A%D8%B7+%D9%81%D9%8A+%D8%B4%D8%B1%D8%AD+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A+%D8%AC%D8%B2%D8%A1+%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D8%A7%D9%8A%D8%AC%D8%A7%D8%B1+%D9%88+%D8%A7%D9%84%D8%B9%D8%A7%D8%B1%D9%8A%D8%A9+-+%D8%B9%D8%A8%D8%AF+%D8%A7%D9%84%D8%B1%D8%B2%D8%A7%D9%82+%D8%A7%D9%84%D8%B3%D9%86%D9%87%D9%88%D8%B1%D9%8A+.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الوسيط في شرح القانون المدني للسنهوري",
+      "source_url": "http://www.mediafire.com/download.php?jdc4tcf8ocw685s",
+      "final_url": "https://www.mediafire.com/?jdc4tcf8ocw685s",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "الوصية بين الشريعة والقانون",
+      "source_url": "http://www.mediafire.com/download.php?vquvghj7n7go51o",
+      "final_url": "https://www.mediafire.com/?vquvghj7n7go51o",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اليمين كطريق للإثبات طبقاً لنصوص القانون المدني و قانون الإجراءات المدنية الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?sfm0w20j6cd606c",
+      "final_url": "https://www.mediafire.com/?sfm0w20j6cd606c",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "اوامر التحقيق",
+      "source_url": "http://www.mediafire.com/download.php?n23fmb589n32nu3",
+      "final_url": "https://www.mediafire.com/?n23fmb589n32nu3",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "باقى الحجز على المنقول لدى المدين +الحجز على مال المدين لدى الغير",
+      "source_url": "http://www.mediafire.com/download.php?6bgypebdd9e5ch6",
+      "final_url": "https://www.mediafire.com/?6bgypebdd9e5ch6",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "بطلان الاجراء الجزائي",
+      "source_url": "http://www.mediafire.com/download.php?ix9g888zgtpqbh3",
+      "final_url": "https://www.mediafire.com/?ix9g888zgtpqbh3",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "بطلان العقد واجازة العقد الباطل",
+      "source_url": "http://www.mediafire.com/download.php?lgajwyaeqfqevsr",
+      "final_url": "https://www.mediafire.com/file/lgajwyaeqfqevsr/%D8%A8%D8%B7%D9%84%D8%A7%D9%86+%D8%A7%D9%84%D8%B9%D9%82%D8%AF+%D9%88%D8%A7%D8%AC%D8%A7%D8%B2%D8%A9+%D8%A7%D9%84%D8%B9%D9%82%D8%AF+%D8%A7%D9%84%D8%A8%D8%A7%D8%B7%D9%84.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "بيع ملك الغير",
+      "source_url": "http://www.mediafire.com/download.php?r53gpzrwr0yw9ty",
+      "final_url": "https://www.mediafire.com/?r53gpzrwr0yw9ty",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تأثير القرابة على الجرائم و العقوبات دراسة تحليلية لأحكام قانون العقوبات الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?b4ugb63737q8jao",
+      "final_url": "https://www.mediafire.com/file/b4ugb63737q8jao/%D8%AA%D8%A3%D8%AB%D9%8A%D8%B1+%D8%A7%D9%84%D9%82%D8%B1%D8%A7%D8%A8%D8%A9+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D8%AC%D8%B1%D8%A7%D8%A6%D9%85+%D9%88+%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA+%D8%AF%D8%B1%D8%A7%D8%B3%D8%A9+%D8%AA%D8%AD%D9%84%D9%8A%D9%84%D9%8A%D8%A9+%D9%84%D8%A3%D8%AD%D9%83%D8%A7%D9%85+%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%B9%D9%82%D9%88%D8%A8%D8%A7%D8%AA+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تبعية الدعوى المدنية للدعوى الجزائية",
+      "source_url": "http://www.mediafire.com/download.php?9p83uo4runx2p91",
+      "final_url": "https://www.mediafire.com/file/9p83uo4runx2p91/%D8%AA%D8%A8%D8%B9%D9%8A%D8%A9+%D8%A7%D9%84%D8%AF%D8%B9%D9%88%D9%89+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A%D8%A9+%D9%84%D9%84%D8%AF%D8%B9%D9%88%D9%89+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D9%8A%D8%A9.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تبيض الاموال",
+      "source_url": "http://www.mediafire.com/download.php?n92p8dnah923zhe",
+      "final_url": "https://www.mediafire.com/?n92p8dnah923zhe",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تجريم المنافسة التجارية غير المشروعة دراسة تأصيلية مقارنة",
+      "source_url": "http://www.mediafire.com/download.php?xkpuk7m4l1ho7lq",
+      "final_url": "https://www.mediafire.com/?xkpuk7m4l1ho7lq",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تحديد مسيرة الدليل الجنائى فى جرائم التزوير",
+      "source_url": "http://www.mediafire.com/download.php?hqhovk4xmszxas1",
+      "final_url": "https://www.mediafire.com/?hqhovk4xmszxas1",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تحويل الملكية العامة الى ملكية خاصة – دراسة فقهية مقارنة بالقانون",
+      "source_url": "http://www.mediafire.com/download.php?qe19l2byopi148n",
+      "final_url": "https://www.mediafire.com/?qe19l2byopi148n",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تسريح العمال لأسباب اقتصادية في القانون الجزائري-مذكرة تخرج",
+      "source_url": "http://www.mediafire.com/download.php?7dks4lcts2jf7ef",
+      "final_url": "https://www.mediafire.com/?7dks4lcts2jf7ef",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تصنيف الانظمة الليبرالية على اساس مبدأ الفصل بين السلطات دراسة حالة النظام الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?sowyh2cn2n0q0qk",
+      "final_url": "https://www.mediafire.com/?sowyh2cn2n0q0qk",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تعريف الصفقات العمومية",
+      "source_url": "http://www.mediafire.com/download.php?5ob9kyc7ibx1d1k",
+      "final_url": "https://www.mediafire.com/?5ob9kyc7ibx1d1k",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تفسير العقد على ضوء القانون المدني الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?tb2o2fofbzk2cli",
+      "final_url": "https://www.mediafire.com/file/tb2o2fofbzk2cli/%D8%AA%D9%81%D8%B3%D9%8A%D8%B1+%D8%A7%D9%84%D8%B9%D9%82%D8%AF+%D8%B9%D9%84%D9%89+%D8%B6%D9%88%D8%A1+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D9%85%D8%AF%D9%86%D9%8A+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A+.PDF",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تنفيذ الاحكام الجزائية في التشريع الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?m49vul69mmgihha",
+      "final_url": "https://www.mediafire.com/?m49vul69mmgihha",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "تنفيذ القرارات الادارية – ملخص",
+      "source_url": "http://www.mediafire.com/download.php?81nzmt02b2z43aw",
+      "final_url": "https://www.mediafire.com/?81nzmt02b2z43aw",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "توظيف البحث العلمي القانوني",
+      "source_url": "http://www.mediafire.com/download.php?u5rwildlw6ict4k",
+      "final_url": "https://www.mediafire.com/?u5rwildlw6ict4k",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جرائم الاخلال بالالتزامات العائلية",
+      "source_url": "http://www.mediafire.com/download.php?ebge1cjny3x3wgb",
+      "final_url": "https://www.mediafire.com/?ebge1cjny3x3wgb",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جرائم المساس بانظمة الكومبيوتر",
+      "source_url": "http://www.mediafire.com/download.php?m441bdo2v71z823",
+      "final_url": "https://www.mediafire.com/?m441bdo2v71z823",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جريمة إستئجار الأرحام",
+      "source_url": "http://www.mediafire.com/download.php?26w2zhmf27xi5ac",
+      "final_url": "https://www.mediafire.com/?26w2zhmf27xi5ac",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جريمة الاحتيال",
+      "source_url": "http://www.mediafire.com/download.php?hjmgm9hh1f5uovv",
+      "final_url": "https://www.mediafire.com/?hjmgm9hh1f5uovv",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جريمة الاهمال العائلي دراسة تحليلية مع حالة النشوز في القانون الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?ldidpz0ynl41y38",
+      "final_url": "https://www.mediafire.com/?ldidpz0ynl41y38",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جريمة الزنا",
+      "source_url": "http://www.mediafire.com/download.php?1mh5bs84ap4515u",
+      "final_url": "https://www.mediafire.com/?1mh5bs84ap4515u",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جريمة الغش الضريبي",
+      "source_url": "http://www.mediafire.com/download.php?7bu45mdl2884xo5",
+      "final_url": "https://www.mediafire.com/?7bu45mdl2884xo5",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جريمة المخدرات",
+      "source_url": "http://www.mediafire.com/download.php?t7jjj25d13fqt70",
+      "final_url": "https://www.mediafire.com/?t7jjj25d13fqt70",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جريمة تعذيب المتهم وحمله على الاعتراف",
+      "source_url": "http://www.mediafire.com/download.php?lcen6w8bgmat4xj",
+      "final_url": "https://www.mediafire.com/file/lcen6w8bgmat4xj/%D8%AC%D8%B1%D9%8A%D9%85%D8%A9+%D8%AA%D8%B9%D8%B0%D9%8A%D8%A8+%D8%A7%D9%84%D9%85%D8%AA%D9%87%D9%85+%D9%88%D8%AD%D9%85%D9%84%D9%87+%D8%B9%D9%84%D9%89+%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%B1%D8%A7%D9%81.pdf",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جريمة سب النبي محمد صلى الله عليه وسلم وعقوبتها بين الفقه الإسلامي والقانون الدولي",
+      "source_url": "http://www.mediafire.com/download.php?zl8ocvlcai2dduh",
+      "final_url": "https://www.mediafire.com/file/zl8ocvlcai2dduh/%D8%AC%D8%B1%D9%8A%D9%85%D8%A9+%D8%B3%D8%A8+%D8%A7%D9%84%D9%86%D8%A8%D9%8A+%D9%85%D8%AD%D9%85%D8%AF+%D8%B5%D9%84%D9%89+%D8%A7%D9%84%D9%84%D9%87+%D8%B9%D9%84%D9%8A%D9%87+%D9%88%D8%B3%D9%84%D9%85+%D9%88%D8%B9%D9%82%D9%88%D8%A8%D8%AA%D9%87%D8%A7+%D8%A8%D9%8A%D9%86+%D8%A7%D9%84%D9%81%D9%82%D9%87+%D8%A7%D9%84%D8%A5%D8%B3%D9%84%D8%A7%D9%85%D9%8A+%D9%88%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%AF%D9%88%D9%84%D9%8A.doc",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جريمـة تبييض الأموال وفقا لأحكام المادة 389 مكرر من قانون العقوبــات",
+      "source_url": "http://www.mediafire.com/download.php?i1m8mq03vpppmj4",
+      "final_url": "https://www.mediafire.com/?i1m8mq03vpppmj4",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "جنوح الالحداث",
+      "source_url": "http://www.mediafire.com/download.php?81yo4yztzqux8d5",
+      "final_url": "https://www.mediafire.com/?81yo4yztzqux8d5",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حدود الطابع الاستثنائي لقضاء القانون العسكري الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?tmyvg22mdh7lyut",
+      "final_url": "https://www.mediafire.com/?tmyvg22mdh7lyut",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حق الدفاع الشرعي",
+      "source_url": "http://www.mediafire.com/download.php?eb1io9co4gbsbw6",
+      "final_url": "https://www.mediafire.com/?eb1io9co4gbsbw6",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حق المطلقة الحاضنة في مسكن الزوجية و اشكالاته المثارة امام القضاء",
+      "source_url": "http://www.mediafire.com/download.php?xnyhpuly4ml4aa7",
+      "final_url": "https://www.mediafire.com/?xnyhpuly4ml4aa7",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حقوق الارتفاق في القانون الجزائري",
+      "source_url": "http://www.mediafire.com/download.php?ct4jxu2fs1r5594",
+      "final_url": "https://www.mediafire.com/file/ct4jxu2fs1r5594/%D8%AD%D9%82%D9%88%D9%82+%D8%A7%D9%84%D8%A7%D8%B1%D8%AA%D9%81%D8%A7%D9%82+%D9%81%D9%8A+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+%D8%A7%D9%84%D8%AC%D8%B2%D8%A7%D8%A6%D8%B1%D9%8A.PDF",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حقوق الانسان بين تعاليم الاسلام واعلان الامم المتحدة",
+      "source_url": "http://www.mediafire.com/download.php?txu3rb8rw9aaybq",
+      "final_url": "https://www.mediafire.com/?txu3rb8rw9aaybq",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حقوق الانسان قبل المحاكمة",
+      "source_url": "http://www.mediafire.com/download.php?xzxru6r3leogxmj",
+      "final_url": "https://www.mediafire.com/?xzxru6r3leogxmj",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حقوق صاحب براءة الاختراع",
+      "source_url": "http://www.mediafire.com/download.php?9zjthaz6m8vznyz",
+      "final_url": "https://www.mediafire.com/?9zjthaz6m8vznyz",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حماية الأطفال أثناء النزاعات المسلحة",
+      "source_url": "http://www.mediafire.com/download.php?6ocukjp1g4dw42z",
+      "final_url": "https://www.mediafire.com/?6ocukjp1g4dw42z",
+      "http_status": 429,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حماية البيئة البحرية",
+      "source_url": "http://www.mediafire.com/download.php?1buuyhyyw98bj0d",
+      "final_url": "https://www.mediafire.com/file/1buuyhyyw98bj0d/%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%A8%D9%8A%D8%A6%D8%A9+%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D8%A9.PDF",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    },
+    {
+      "title": "حماية السواحل في ظل القانون 02.02",
+      "source_url": "http://www.mediafire.com/download.php?vuq8y1uq79lvugm",
+      "final_url": "https://www.mediafire.com/file/vuq8y1uq79lvugm/%D8%AD%D9%85%D8%A7%D9%8A%D8%A9+%D8%A7%D9%84%D8%B3%D9%88%D8%A7%D8%AD%D9%84+%D9%81%D9%8A+%D8%B8%D9%84+%D8%A7%D9%84%D9%82%D8%A7%D9%86%D9%88%D9%86+02.02.rar",
+      "http_status": 200,
+      "content_type": "text/html; charset=UTF-8",
+      "is_publicly_open": false,
+      "reason": "صفحة خطأ أو حاجز وصول ظاهر"
+    }
+  ],
+  "skipped": [
+    {
+      "title": "رسائل ماجيستر 01",
+      "source_url": "http://www.mediafire.com/download.php?w611z9de8z0z97p",
+      "reason": "عنوان حزمة عامة لا يحدد مادة قانونية مستقلة"
+    },
+    {
+      "title": "رسائل ماجيستر 02",
+      "source_url": "http://www.mediafire.com/download.php?txdtqvnea1p7fp1",
+      "reason": "عنوان حزمة عامة لا يحدد مادة قانونية مستقلة"
+    },
+    {
+      "title": "الحدث في خطر معنوي وفقا لقانون الاجراءات الجزائري و الامر 72.03",
+      "source_url": "http://www.mediafire.com/download.php?p0x45ta5fqyd0cn",
+      "reason": "رابط مكرر مع: قاضي الاحداث في اتخاذ و مراجعة التدابير المقررة في حق الحدث الجانح و"
+    },
+    {
+      "title": "العدلية والقانون المدني المصري .. ماجستير القانون الخاص .",
+      "source_url": "http://www.mediafire.com/download.php?x4jl1pv6r6o39k3",
+      "reason": "رابط مكرر مع: الكفالة المدنية والآثار المترتبة عليه دراسة مقارنة بين مجلة الأحكام"
+    }
+  ]
+}

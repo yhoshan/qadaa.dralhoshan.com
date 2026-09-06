@@ -1,0 +1,48 @@
+{
+  "checked_at": "2026-09-06T11:04:33.515Z",
+  "totals": {
+    "before": 17299,
+    "after": 17360,
+    "added": 61,
+    "marqoom": 27,
+    "sadr": 34
+  },
+  "file_hashes": {
+    "items_main": "f6796acacae849779dc4a1e99102a5e6e8ea41aa5762731a8374f2c93908a2d2",
+    "items_public": "f6796acacae849779dc4a1e99102a5e6e8ea41aa5762731a8374f2c93908a2d2",
+    "stats_main": "39f1b2af3c86cfcae886d1c956ffb0588161e9476df6c2d7affc19403c9e92c5",
+    "stats_public": "39f1b2af3c86cfcae886d1c956ffb0588161e9476df6c2d7affc19403c9e92c5"
+  },
+  "checks": {
+    "items_files_byte_identical": true,
+    "stats_files_byte_identical": true,
+    "items_json_equal": true,
+    "stats_json_equal": true,
+    "total_matches_stats": true,
+    "stats_derived_fields_match": true,
+    "no_duplicate_ids": true,
+    "previous_records_preserved": true,
+    "expected_addition_count": true,
+    "all_new_records_complete": true,
+    "cache_buster_updated": true
+  },
+  "anomalies": {
+    "duplicate_ids": [],
+    "changed_prior_records": [],
+    "malformed_new_records": []
+  },
+  "new_sources": {
+    "شبكة مكتبة القانون": 27,
+    "المركز السعودي للتحكيم التجاري (صدر)": 34
+  },
+  "new_categories": {
+    "القانون الإداري والدستوري": 3,
+    "الأنظمة والتشريعات": 16,
+    "القانون التجاري والاستثمار": 5,
+    "المحاكم والمرافعات": 2,
+    "الإثبات والشهادة": 1,
+    "التحكيم وتسوية المنازعات": 14,
+    "الأحكام القضائية": 20
+  },
+  "success": true
+}

@@ -1,0 +1,27 @@
+526-                                                                                <div class="col-lg-4 ftco-animate fadeInUp ftco-animated mb-4"  data-category="-Arbitration Rules-">
+527-                                            <div class="blog-entry media-gallery-box position-relative text-center bulletin-main-box-cus h-100">
+528:                                                <a href="https://sadr.org/public/upload/pdf-files/6a6b393f031a0-Arbitration-Rules2-Ar-2023.pdf" target="_blank" class="block-22 m-auto" style="width:120px;height:120px;margin-top: 10px !important;background-image: url('https://sadr.org/public/assets/images/pdf-icon-red.webp');"></a>
+529-                                                    
+530-                                                <div class="text d-block">
+531-                                                    <div class="bulletin-date-cus" style="line-height: 10px;padding-bottom: 8px;">
+532-                                                        قواعد التحكيم
+533-                                                    </div>
+534-                                                    <div style="display:none">
+535-                                                        <span style="color:#ebebeb">-</span>Arbitration Rules<span style="color:#ebebeb">-</span>
+536-                                                    </div>
+537-                                                        
+538-                                                    <h3 class="heading-news heading-news-cus mt-2 mb-0">
+539-                                                        <a href="https://sadr.org/public/upload/pdf-files/6a6b393f031a0-Arbitration-Rules2-Ar-2023.pdf?key=1788692018" download target="_blank">قواعد التحكيم 2023 - مع قضايا الإجراءات الصغيرة</a>
+540-                                                        
+541-                                                                                                                <div class="text-center mt-1 d-block">
+542-                                                            <a href="https://sadr.org/arbitration-rules/2023-arbitration-rules" target="_blank" class="btn btn-primary pt-2">عرض تفاعلي</a>
+543-                                                        </div>
+544-                                                                                                            </h3>
+545-                                                    <div class="text-center mb-2 d-block">
+546-                                                        <a href="https://sadr.org/public/upload/pdf-files/6a6b393f031a0-Arbitration-Rules2-Ar-2023.pdf?key=1788692018" download target="_blank" class="btn btn-outline-primary w-48 mt-2 pb-2 btn-sm"><i class="fa fa-download"></i> تنزيل</a>
+547-                                                        <a href="https://sadr.org/public/upload/pdf-files/6a6b393f031a0-Arbitration-Rules2-Ar-2023.pdf?key=1788692018" target="_blank" class="btn btn-outline-primary w-48 mt-2 pb-2 btn-sm"><i class="fa fa-eye"></i> مشاهدة</a>
+548-                                                    </div>
+549-                                                </div>
+550-                                            </div>
+551-                                        </div>
+552-                                                                        

@@ -1,0 +1,17 @@
+{
+  "total_items": 16114,
+  "public_item_count": 16114,
+  "total_match": true,
+  "stats_match": true,
+  "stats_total_match": true,
+  "duplicate_ids": [],
+  "new_item_count": 545,
+  "source_counts": {
+    "شبكة قانونيون - الرسائل والأطاريح": 81,
+    "شبكة قانونيون": 464
+  },
+  "expected_source_counts_match": true,
+  "duplicate_new_titles": [],
+  "direct_link_violations": [],
+  "ok": true
+}

@@ -1,0 +1,22 @@
+نجح الفحص: نعم
+الإجمالي قبل الإضافة: 17299
+الإجمالي بعد الإضافة: 17360
+المضاف: 61
+- شبكة مكتبة القانون: 27
+- المركز السعودي للتحكيم التجاري (صدر): 34
+
+[PASS] items_files_byte_identical
+[PASS] stats_files_byte_identical
+[PASS] items_json_equal
+[PASS] stats_json_equal
+[PASS] total_matches_stats
+[PASS] stats_derived_fields_match
+[PASS] no_duplicate_ids
+[PASS] previous_records_preserved
+[PASS] expected_addition_count
+[PASS] all_new_records_complete
+[PASS] cache_buster_updated
+
+معرّفات مكررة: 0
+سجلات سابقة تغيّرت أو فُقدت: 0
+سجلات جديدة غير مكتملة: 0

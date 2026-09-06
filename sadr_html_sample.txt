@@ -1,0 +1,13 @@
+524-                                                                                                                                    
+525-                                                                            
+526-                                                                                <div class="col-lg-4 ftco-animate fadeInUp ftco-animated mb-4"  data-category="-Arbitration Rules-">
+527-                                            <div class="blog-entry media-gallery-box position-relative text-center bulletin-main-box-cus h-100">
+528:                                                <a href="https://sadr.org/public/upload/pdf-files/6a6b393f031a0-Arbitration-Rules2-Ar-2023.pdf" target="_blank" class="block-22 m-auto" style="width:120px;height:120px;margin-top: 10px !important;background-image: url('https://sadr.org/public/assets/images/pdf-icon-red.webp');"></a>
+529-                                                    
+530-                                                <div class="text d-block">
+531-                                                    <div class="bulletin-date-cus" style="line-height: 10px;padding-bottom: 8px;">
+532-                                                        قواعد التحكيم
+533-                                                    </div>
+534-                                                    <div style="display:none">
+535-                                                        <span style="color:#ebebeb">-</span>Arbitration Rules<span style="color:#ebebeb">-</span>
+536-                                                    </div>

@@ -1,0 +1,888 @@
+{
+  "generated_at": "2026-09-06T10:38:04.860Z",
+  "source_url": "https://www.m2r3.com/book/",
+  "totals": {
+    "raw_book_links": 111,
+    "candidates": 32,
+    "excluded": 79
+  },
+  "candidates": [
+    {
+      "title": "مذكرة القانون الإداري 1",
+      "url": "https://www.m2r3.com/book/book-1068.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون الإداري والدستوري",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "مذكرة النظرية العامة للالتزامات 1",
+      "url": "https://www.m2r3.com/book/book-1067.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص أحكام الملكية الفكرية والتجارية",
+      "url": "https://www.m2r3.com/book/book-1066.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون التجاري والاستثمار",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص قانون الاجراءات الجزائية",
+      "url": "https://www.m2r3.com/book/book-1064.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "مذكرة القانون الدولي الخاص",
+      "url": "https://www.m2r3.com/book/book-1063.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص أحكام الضمان العيني والشخصي",
+      "url": "https://www.m2r3.com/book/book-1062.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص قانون الأوراق التجارية والأفلاس",
+      "url": "https://www.m2r3.com/book/book-1061.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون التجاري والاستثمار",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص قانون الشركات",
+      "url": "https://www.m2r3.com/book/book-1060.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون التجاري والاستثمار",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص قوانين التأمينات والضمان الاجتماعي",
+      "url": "https://www.m2r3.com/book/book-1059.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص قانون التنفيذ",
+      "url": "https://www.m2r3.com/book/book-1057.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "المحاكم والمرافعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص القانون البحري",
+      "url": "https://www.m2r3.com/book/book-1054.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص العقود المدنية (431 نظم) - الجزئية الأولى",
+      "url": "https://www.m2r3.com/book/book-1053.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص العقود التجارية وعمليات البنوك",
+      "url": "https://www.m2r3.com/book/book-1048.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون التجاري والاستثمار",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص أحكام الملكية",
+      "url": "https://www.m2r3.com/book/book-1046.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الإثبات والشهادة",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص أحكام المواريث والوصايا والوقف",
+      "url": "https://www.m2r3.com/book/book-1045.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص القانون الدولي 2",
+      "url": "https://www.m2r3.com/book/book-1044.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص القانون التجاري",
+      "url": "https://www.m2r3.com/book/book-1042.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون التجاري والاستثمار",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص المعاملات المدنية",
+      "url": "https://www.m2r3.com/book/book-1041.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص القانون الدستوري (136حقق) - الجزئية الأولى",
+      "url": "https://www.m2r3.com/book/book-1040.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون الإداري والدستوري",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص النظرية العامة للالتزامات 2",
+      "url": "https://www.m2r3.com/book/book-1039.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص نظام العمل السعودي",
+      "url": "https://www.m2r3.com/book/book-1038.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص القانون الجوي",
+      "url": "https://www.m2r3.com/book/book-1037.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص العقود الإدارية",
+      "url": "https://www.m2r3.com/book/book-1025.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون الإداري والدستوري",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص القانون الدولي 1",
+      "url": "https://www.m2r3.com/book/book-1024.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص القانون الجزائي العام",
+      "url": "https://www.m2r3.com/book/book-1023.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص قانون المرافعات",
+      "url": "https://www.m2r3.com/book/book-1022.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "المحاكم والمرافعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص القانون الإداري 2",
+      "url": "https://www.m2r3.com/book/book-1021.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون الإداري والدستوري",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص نظام الزكاة والضرائب",
+      "url": "https://www.m2r3.com/book/book-1019.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون التجاري والاستثمار",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص النظرية العامة للالتزامات 1",
+      "url": "https://www.m2r3.com/book/book-1017.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص القانون الإداري 1",
+      "url": "https://www.m2r3.com/book/book-1015.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "القانون الإداري والدستوري",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص مبادئ القانون",
+      "url": "https://www.m2r3.com/book/book-1014.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    },
+    {
+      "title": "ملخص تاريخ القانون",
+      "url": "https://www.m2r3.com/book/book-1013.html",
+      "author": "",
+      "investigator": "",
+      "publisher": "شبكة مكتبة القانون",
+      "source": "شبكة مكتبة القانون",
+      "category": "الأنظمة والتشريعات",
+      "material_type": "ملخص",
+      "file_type": "رابط",
+      "file_size": "",
+      "pages_count": "",
+      "is_featured": false,
+      "download_links_count": 1
+    }
+  ],
+  "excluded": [
+    {
+      "title": "إضافة كتاب أومذكرة",
+      "url": "https://www.m2r3.com/book/?s=page&id=3",
+      "reason": "لا تظهر صلة قانونية أو قضائية كافية"
+    },
+    {
+      "title": "ملخص القانون الدولي الخاص",
+      "url": "https://www.m2r3.com/book/book-1065.html",
+      "reason": "عنوان موجود: great_law_6554"
+    },
+    {
+      "title": "ملخص أصول الفقة",
+      "url": "https://www.m2r3.com/book/book-1058.html",
+      "reason": "لا تظهر صلة قانونية أو قضائية كافية"
+    },
+    {
+      "title": "تفريغ محاضرات الجزائي الخاص",
+      "url": "https://www.m2r3.com/book/book-1052.html",
+      "reason": "لا تظهر صلة قانونية أو قضائية كافية"
+    },
+    {
+      "title": "ملخص القواعد الفقهية في الفقه الإسلامي",
+      "url": "https://www.m2r3.com/book/book-1051.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص القانون البحري",
+      "url": "https://www.m2r3.com/book/book-1050.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص قانون العمل",
+      "url": "https://www.m2r3.com/book/book-1049.html",
+      "reason": "عنوان موجود: qanoon_network_109"
+    },
+    {
+      "title": "ملخص الجزائي الخاص",
+      "url": "https://www.m2r3.com/book/book-1047.html",
+      "reason": "لا تظهر صلة قانونية أو قضائية كافية"
+    },
+    {
+      "title": "ملخص القضاء الاداري",
+      "url": "https://www.m2r3.com/book/book-1043.html",
+      "reason": "عنوان موجود: suwaid_title_205"
+    },
+    {
+      "title": "ملخص القانون الدولي الخاص",
+      "url": "https://www.m2r3.com/book/book-1036.html",
+      "reason": "عنوان موجود: great_law_6554"
+    },
+    {
+      "title": "ملخص القانون الدولي 2",
+      "url": "https://www.m2r3.com/book/book-1035.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "نموذج أسئلة الإجراءات الجزائية",
+      "url": "https://www.m2r3.com/book/book-1034.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص أحكام الضمان العيني والشخصي",
+      "url": "https://www.m2r3.com/book/book-1033.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الدولي 2",
+      "url": "https://www.m2r3.com/book/book-1032.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "نموذج أسئلة المدخل إلى الفقه الإسلامي",
+      "url": "https://www.m2r3.com/book/book-1031.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "نموذج أسئلة مبادئ القانون",
+      "url": "https://www.m2r3.com/book/book-1030.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص المدخل إلى الفقه الإسلامي",
+      "url": "https://www.m2r3.com/book/book-1029.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص القانون الدولي 2",
+      "url": "https://www.m2r3.com/book/book-1028.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون البحري",
+      "url": "https://www.m2r3.com/book/book-1027.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون التجاري",
+      "url": "https://www.m2r3.com/book/book-1026.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص النظرية العامة للالتزامات 2",
+      "url": "https://www.m2r3.com/book/book-1020.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الدستوري",
+      "url": "https://www.m2r3.com/book/book-1018.html",
+      "reason": "عنوان موجود: archive_bighossam_gmail"
+    },
+    {
+      "title": "ملخص القانون الدولي 1",
+      "url": "https://www.m2r3.com/book/book-1016.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص المدخل إلى الفقه الإسلامي",
+      "url": "https://www.m2r3.com/book/book-1012.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص مبادئ القانون",
+      "url": "https://www.m2r3.com/book/book-1014.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص العقود التجارية وعمليات البنوك",
+      "url": "https://www.m2r3.com/book/book-1048.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص أحكام الضمان العيني والشخصي",
+      "url": "https://www.m2r3.com/book/book-1033.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص تاريخ القانون",
+      "url": "https://www.m2r3.com/book/book-1013.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "نموذج أسئلة المدخل إلى الفقه الإسلامي",
+      "url": "https://www.m2r3.com/book/book-1031.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص القضاء الاداري",
+      "url": "https://www.m2r3.com/book/book-1043.html",
+      "reason": "عنوان موجود: suwaid_title_205"
+    },
+    {
+      "title": "نموذج أسئلة مبادئ القانون",
+      "url": "https://www.m2r3.com/book/book-1030.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص نظام العمل السعودي",
+      "url": "https://www.m2r3.com/book/book-1038.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص قانون المرافعات",
+      "url": "https://www.m2r3.com/book/book-1022.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص النظرية العامة للالتزامات 1",
+      "url": "https://www.m2r3.com/book/book-1017.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص أحكام الملكية",
+      "url": "https://www.m2r3.com/book/book-1046.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الجزائي العام",
+      "url": "https://www.m2r3.com/book/book-1023.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص قانون الأوراق التجارية والأفلاس",
+      "url": "https://www.m2r3.com/book/book-1061.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص أحكام المواريث والوصايا والوقف",
+      "url": "https://www.m2r3.com/book/book-1045.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص النظرية العامة للالتزامات 2",
+      "url": "https://www.m2r3.com/book/book-1039.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "نموذج أسئلة الإجراءات الجزائية",
+      "url": "https://www.m2r3.com/book/book-1034.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص المدخل إلى الفقه الإسلامي",
+      "url": "https://www.m2r3.com/book/book-1029.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص القانون الدولي الخاص",
+      "url": "https://www.m2r3.com/book/book-1036.html",
+      "reason": "عنوان موجود: great_law_6554"
+    },
+    {
+      "title": "ملخص النظرية العامة للالتزامات 2",
+      "url": "https://www.m2r3.com/book/book-1020.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الجوي",
+      "url": "https://www.m2r3.com/book/book-1037.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الإداري 1",
+      "url": "https://www.m2r3.com/book/book-1015.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص قانون العمل",
+      "url": "https://www.m2r3.com/book/book-1049.html",
+      "reason": "عنوان موجود: qanoon_network_109"
+    },
+    {
+      "title": "ملخص العقود المدنية (431 نظم) - الجزئية الأولى",
+      "url": "https://www.m2r3.com/book/book-1053.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون التجاري",
+      "url": "https://www.m2r3.com/book/book-1042.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص العقود الإدارية",
+      "url": "https://www.m2r3.com/book/book-1025.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص قانون الاجراءات الجزائية",
+      "url": "https://www.m2r3.com/book/book-1064.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الدولي 1",
+      "url": "https://www.m2r3.com/book/book-1016.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "مذكرة القانون الإداري 1",
+      "url": "https://www.m2r3.com/book/book-1068.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص نظام الزكاة والضرائب",
+      "url": "https://www.m2r3.com/book/book-1019.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون البحري",
+      "url": "https://www.m2r3.com/book/book-1054.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الدستوري",
+      "url": "https://www.m2r3.com/book/book-1018.html",
+      "reason": "عنوان موجود: archive_bighossam_gmail"
+    },
+    {
+      "title": "ملخص أحكام الملكية الفكرية والتجارية",
+      "url": "https://www.m2r3.com/book/book-1066.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الدولي 2",
+      "url": "https://www.m2r3.com/book/book-1035.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص قانون الشركات",
+      "url": "https://www.m2r3.com/book/book-1060.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص المعاملات المدنية",
+      "url": "https://www.m2r3.com/book/book-1041.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القواعد الفقهية في الفقه الإسلامي",
+      "url": "https://www.m2r3.com/book/book-1051.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص القانون البحري",
+      "url": "https://www.m2r3.com/book/book-1050.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الإداري 2",
+      "url": "https://www.m2r3.com/book/book-1021.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "تفريغ محاضرات الجزائي الخاص",
+      "url": "https://www.m2r3.com/book/book-1052.html",
+      "reason": "لا تظهر صلة قانونية أو قضائية كافية"
+    },
+    {
+      "title": "ملخص القانون الدولي 1",
+      "url": "https://www.m2r3.com/book/book-1024.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون التجاري",
+      "url": "https://www.m2r3.com/book/book-1026.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص الجزائي الخاص",
+      "url": "https://www.m2r3.com/book/book-1047.html",
+      "reason": "لا تظهر صلة قانونية أو قضائية كافية"
+    },
+    {
+      "title": "ملخص القانون البحري",
+      "url": "https://www.m2r3.com/book/book-1027.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص أصول الفقة",
+      "url": "https://www.m2r3.com/book/book-1058.html",
+      "reason": "لا تظهر صلة قانونية أو قضائية كافية"
+    },
+    {
+      "title": "ملخص قانون التنفيذ",
+      "url": "https://www.m2r3.com/book/book-1057.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "مذكرة النظرية العامة للالتزامات 1",
+      "url": "https://www.m2r3.com/book/book-1067.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص أحكام الضمان العيني والشخصي",
+      "url": "https://www.m2r3.com/book/book-1062.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الدولي 2",
+      "url": "https://www.m2r3.com/book/book-1028.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص المدخل إلى الفقه الإسلامي",
+      "url": "https://www.m2r3.com/book/book-1012.html",
+      "reason": "ملخص أو نموذج خارج النطاق القانوني المباشر"
+    },
+    {
+      "title": "ملخص القانون الدولي الخاص",
+      "url": "https://www.m2r3.com/book/book-1065.html",
+      "reason": "عنوان موجود: great_law_6554"
+    },
+    {
+      "title": "مذكرة القانون الدولي الخاص",
+      "url": "https://www.m2r3.com/book/book-1063.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الدولي 2",
+      "url": "https://www.m2r3.com/book/book-1032.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الدستوري (136حقق) - الجزئية الأولى",
+      "url": "https://www.m2r3.com/book/book-1040.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص القانون الدولي 2",
+      "url": "https://www.m2r3.com/book/book-1044.html",
+      "reason": "تكرار داخلي"
+    },
+    {
+      "title": "ملخص قوانين التأمينات والضمان الاجتماعي",
+      "url": "https://www.m2r3.com/book/book-1059.html",
+      "reason": "تكرار داخلي"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+generated_at: 2026-09-06T10:31:13.830Z
+total_items: 17299
+public_total_items: 17299
+main_public_hash_match: true
+stats_public_hash_match: true
+stats_total_match: true
+duplicate_ids: 
+alukah_count: 68
+alukah_all_accessible: true
+promahmoud_count: 13
+promahmoud_all_accessible: true
+passed: true

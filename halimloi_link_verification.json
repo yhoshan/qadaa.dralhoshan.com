@@ -1,0 +1,778 @@
+{
+  "generated_at": "2026-09-06T11:45:51.459Z",
+  "source": "كلية الحقوق (المكتبة القانونية)",
+  "source_page": "http://kenanaonline.com/users/HalimLoi/posts/324127",
+  "totals": {
+    "candidates": 85,
+    "publicly_open": 0,
+    "unavailable": 85
+  },
+  "open": [],
+  "unavailable": [
+    {
+      "title": "مراقبة البرلمان للعمل الحكومي بين التشريع والممارسة في التطبيق المغربي للأستاذ رشيد المدور",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=33721",
+      "final_url": "https://www.dahsha.com/web.html?id=33721",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الحجر على المدين المفلس فقها وقانونا - عبد الأمير زاهد و نبيل زوين -",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=33584",
+      "final_url": "https://www.dahsha.com/web.html?id=33584",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "النقود الإلكترونية .. دراسة قانونية - نبيل مهدي زوين",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=33446",
+      "final_url": "https://www.dahsha.com/web.html?id=33446",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الاستنساخ البشري من وجهة نظر قانونية",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32611",
+      "final_url": "https://www.dahsha.com/web.html?id=32611",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الصورية ودعوى الطعن بها",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32610",
+      "final_url": "https://www.dahsha.com/web.html?id=32610",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "أثر تغير الظروف القانونية والواقعية في القرارات الإدارية",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32609",
+      "final_url": "https://www.dahsha.com/web.html?id=32609",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "إشارة النص ومدى الاستدلال بها في النصوص الشرعية والقانونية",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32604",
+      "final_url": "https://www.dahsha.com/web.html?id=32604",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "هل يقضي القاضي بشهادة السماع",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32560",
+      "final_url": "https://www.dahsha.com/web.html?id=32560",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "حجية التوقيع الإلكتروني دراسة في التشريع الأردني",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32613",
+      "final_url": "https://www.dahsha.com/web.html?id=32613",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "موقف الإسلام والقانون والقضاء من أضرار التدخين كفعل ضار",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32614",
+      "final_url": "https://www.dahsha.com/web.html?id=32614",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "عقوبة الإعدام في القوانين الوضعية والشرائع السماوية نظرات واجتهادات في مسألة الإبقاء والإلغاء",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32618",
+      "final_url": "https://www.dahsha.com/web.html?id=32618",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "جراحة الخنوثة وتغيير الجنس في القانون السوري",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32619",
+      "final_url": "https://www.dahsha.com/web.html?id=32619",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "فكرة ضمان العقد في الفقه الإسلامي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32620",
+      "final_url": "https://www.dahsha.com/web.html?id=32620",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "المجلس العالي لتفسير الدستور هل هو محكمة دستورية ؟",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32621",
+      "final_url": "https://www.dahsha.com/web.html?id=32621",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "حكم التحكيم الأجنبي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32561",
+      "final_url": "https://www.dahsha.com/web.html?id=32561",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الطبيعة القانونية لإتفاق التحكيم",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32562",
+      "final_url": "https://www.dahsha.com/web.html?id=32562",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "وسائل الإثبات أمام القضاء الضريبي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32578",
+      "final_url": "https://www.dahsha.com/web.html?id=32578",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "المسؤولية الجزائية للشخص المعنوي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32579",
+      "final_url": "https://www.dahsha.com/web.html?id=32579",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "أعمال السيادة والاختصاص القضائي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32580",
+      "final_url": "https://www.dahsha.com/web.html?id=32580",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "مدى اعتبار \"الإيدز\" مرض موت وتأثيره في تصرفات المريض في القانون الأردني والفقه الإسلامي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32581",
+      "final_url": "https://www.dahsha.com/web.html?id=32581",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "المسؤولية المدنية للطبيب دراسة مقارنة في القانون السوري والفرنسي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32582",
+      "final_url": "https://www.dahsha.com/web.html?id=32582",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "النزاع الضريبي أمام القضاء السوري",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32588",
+      "final_url": "https://www.dahsha.com/web.html?id=32588",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "المسؤولية التقصيرية عن نقل العامل المسبب لمرض نقص المناعة المكتسب (فيروس الإيدز)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32591",
+      "final_url": "https://www.dahsha.com/web.html?id=32591",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "هل تحققت لدينا في الأردن إزدواجية القضاء ؟",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32593",
+      "final_url": "https://www.dahsha.com/web.html?id=32593",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الغبن في القانون الفرنسي والقانون الألماني (دراسة مقارنة تحليلية نقدية)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32594",
+      "final_url": "https://www.dahsha.com/web.html?id=32594",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "دور الضريبة في عملية التنمية الاقتصادية والاجتماعية مع حالات تطبيقية في التشريع الضريبي المقارن",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32622",
+      "final_url": "https://www.dahsha.com/web.html?id=32622",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "عقوبة النفي ( دراسة مقارنة في الفقه الإسلامي والقانون )",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32624",
+      "final_url": "https://www.dahsha.com/web.html?id=32624",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الرقابة على دستورية القوانين (دراسة مقارنة)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32649",
+      "final_url": "https://www.dahsha.com/web.html?id=32649",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "حول تفعيل دور المحكمة الدستورية العليا في سورية (دراسة مقارنة)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32650",
+      "final_url": "https://www.dahsha.com/web.html?id=32650",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "ملاحظات قانونية ومحاسبية على القانون رقم 20 لعام 1991م المتعلق بضريبة الدخل على الأرباح",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32656",
+      "final_url": "https://www.dahsha.com/web.html?id=32656",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الرسوم الجمركية في التشريع السوري",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32669",
+      "final_url": "https://www.dahsha.com/web.html?id=32669",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "إصدار شيك من دون رصيد",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32675",
+      "final_url": "https://www.dahsha.com/web.html?id=32675",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "المغزى القانوني الصحيح لاستدراج عروض الأسعار",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32677",
+      "final_url": "https://www.dahsha.com/web.html?id=32677",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "موعد الطعن في دعوى الإلغاء ودوره في توطيد سيادة القانون -",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32679",
+      "final_url": "https://www.dahsha.com/web.html?id=32679",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "قضية لوكربي بين السياسة والقانون العلاقة بين محكمة العدل الدولية ومجلس الأمن",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32646",
+      "final_url": "https://www.dahsha.com/web.html?id=32646",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "مسألة تعدد الجنسيات وموقف القانون السوري منها",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32627",
+      "final_url": "https://www.dahsha.com/web.html?id=32627",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "التوقيف الاحتياطي وإعادة تأهيل الحدث الجانح",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32628",
+      "final_url": "https://www.dahsha.com/web.html?id=32628",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الأوجه القانونية والاتفاقية لآلية الاستعمال والانتفاع في الأجزاء المشتركة ضمن الأبنية متعددة الطوابق دراسة مقارنة تحليلية في القانون المدني السوري والفرنسي ونظام ضابطة البناء في محافظة دمشق لعام 1997 وتعديلاته",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32629",
+      "final_url": "https://www.dahsha.com/web.html?id=32629",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "النظام القانوني للبيع الدولي للمنقولات العينية على ضوء اتفاقية فيينا 1980",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32631",
+      "final_url": "https://www.dahsha.com/web.html?id=32631",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "السرية المصرفية في القانون السوري",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32632",
+      "final_url": "https://www.dahsha.com/web.html?id=32632",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الاستنساخ البشري في الشريعة والقانون",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32633",
+      "final_url": "https://www.dahsha.com/web.html?id=32633",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "المحررات والأحكام المدنية التنفيذية (أنواعها - إشكالاتها - الاتفاقيات المتعلقة بها)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32641",
+      "final_url": "https://www.dahsha.com/web.html?id=32641",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "حجز ما للمدين لدى الغير",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32642",
+      "final_url": "https://www.dahsha.com/web.html?id=32642",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الرقابة القضائية على قناعة مصدر القرار الإداري",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32643",
+      "final_url": "https://www.dahsha.com/web.html?id=32643",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "البصمة الوراثية وقضايا النسب الشرعي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32559",
+      "final_url": "https://www.dahsha.com/web.html?id=32559",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الأثر العربي الشرقي في القانون الروماني – اللاتيني - المحامي أحمد غسان سبانو‏",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=26476",
+      "final_url": "https://www.dahsha.com/web.html?id=26476",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "القانون وقواعد الشرع الإسلامي (وجوه الشبه والاختلاف) - د.سمير عالية",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32251",
+      "final_url": "https://www.dahsha.com/web.html?id=32251",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "قراءة لأحوال عينة من السجناء ببعض الدول العربية (بصيغة أكروبات ريدر pdf)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32253",
+      "final_url": "https://www.dahsha.com/web.html?id=32253",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "جريمة بيع أعضاء جسد الإنسان (بصيغة أكروبات ريدر pdf)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32254",
+      "final_url": "https://www.dahsha.com/web.html?id=32254",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الاتجار بالأعضاء البشرية بين الحظر والإباحة في الشريعة والقانون (بصيغة أكروبات ريدر pdf)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32256",
+      "final_url": "https://www.dahsha.com/web.html?id=32256",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "غسيل الأموال من خلال التأمين (بصيغة أكروبات ريدر pdf)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32257",
+      "final_url": "https://www.dahsha.com/web.html?id=32257",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "جريمة غسيل الأموال (بصيغة أكروبات ريدر pdf)",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32260",
+      "final_url": "https://www.dahsha.com/web.html?id=32260",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "القانون الإلهي والوضعي ضرورة اجتماعية - د. سمير عالية",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32250",
+      "final_url": "https://www.dahsha.com/web.html?id=32250",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "دور التأريخ القانوني في التشريع الإسلامي - كولسون ترجمة: د. محمد سراج",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32249",
+      "final_url": "https://www.dahsha.com/web.html?id=32249",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "إنتهاء عقد الإيجار لإنتهاء مدته",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32239",
+      "final_url": "https://www.dahsha.com/web.html?id=32239",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "حق ورثة المستأجر فى الامتداد القانوني لعقد الإيجار",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32240",
+      "final_url": "https://www.dahsha.com/web.html?id=32240",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الطبيعة القانونية للتحكيم",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32241",
+      "final_url": "https://www.dahsha.com/web.html?id=32241",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "حصانات و ضمانات المحامي ما بين الشريعة و القانون",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32243",
+      "final_url": "https://www.dahsha.com/web.html?id=32243",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "قانون الأحوال الشخصية للطوائف المسيحية بين الواقع والمرتجى",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32244",
+      "final_url": "https://www.dahsha.com/web.html?id=32244",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الشرعية وسيادة القانون - ياسر قطيشات",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32245",
+      "final_url": "https://www.dahsha.com/web.html?id=32245",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الاحصان في التشريع الجنائي الاسلامي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32247",
+      "final_url": "https://www.dahsha.com/web.html?id=32247",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "المساواة أمام القانون في الإسلام - د. محمد فتحي عثمان",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32248",
+      "final_url": "https://www.dahsha.com/web.html?id=32248",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "التأمين الحكومي .. تأمين إجباري",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32262",
+      "final_url": "https://www.dahsha.com/web.html?id=32262",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "مفهوم القاصر والحدث في القانون العراقي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32263",
+      "final_url": "https://www.dahsha.com/web.html?id=32263",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "مفهوم البراءة والإفراج في القانون العراقي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32264",
+      "final_url": "https://www.dahsha.com/web.html?id=32264",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "حق المستأجر فى التنازل عن عقد الإيجار والإيجار من الباطن",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32544",
+      "final_url": "https://www.dahsha.com/web.html?id=32544",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "النظام القانوني للمنافسة غير المشروعة في الاتفاقيات الدولية",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32545",
+      "final_url": "https://www.dahsha.com/web.html?id=32545",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "السبب في القانون المدني ... نظر القضاء إليه",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32550",
+      "final_url": "https://www.dahsha.com/web.html?id=32550",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "البصمة الوراثية وإثبات النسب",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32552",
+      "final_url": "https://www.dahsha.com/web.html?id=32552",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "رقابة صحة اختصاص المحكمة الأجنبية عند الأمر بتنفيذ حكمها",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32553",
+      "final_url": "https://www.dahsha.com/web.html?id=32553",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "حقوق المحبوسين و المعتقلين و المتحفظ عليهم",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32555",
+      "final_url": "https://www.dahsha.com/web.html?id=32555",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "جريمة سرقة التيار الكهربائي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32557",
+      "final_url": "https://www.dahsha.com/web.html?id=32557",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "اعلان الحرب والآثار القانونية والسياسية المترتبة بعد اندلاعها",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32277",
+      "final_url": "https://www.dahsha.com/web.html?id=32277",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "استقلال القضاء في العراق ودور الدستور الدائم في حماية استقلال القضاء",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32265",
+      "final_url": "https://www.dahsha.com/web.html?id=32265",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "العوامل الاقتصادية والاجتماعية واثرها في الفقه والتشريع ( والفقيه المنحاز )",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32266",
+      "final_url": "https://www.dahsha.com/web.html?id=32266",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "قضاء الاحداث بين الواقع والقانون محكمة الاحداث في نينوى نموذجاً",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32267",
+      "final_url": "https://www.dahsha.com/web.html?id=32267",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "نظرية الظروف الطارئة وأثر اختلال التوازن الاقتصادي في تنفيذ العقود",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32268",
+      "final_url": "https://www.dahsha.com/web.html?id=32268",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "ضمانات الحرية الفردية في التوقيف",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32269",
+      "final_url": "https://www.dahsha.com/web.html?id=32269",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الحماية القانونية للطفل",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32270",
+      "final_url": "https://www.dahsha.com/web.html?id=32270",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "التعويض عن الطلاق التعسفي بين الشريعة الإسلامية والقانون العراقي",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32272",
+      "final_url": "https://www.dahsha.com/web.html?id=32272",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "نظرة الى قانون رسم الطابع",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32273",
+      "final_url": "https://www.dahsha.com/web.html?id=32273",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الرقابة القضائية على دستورية القوانين في مصر والإمارات",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32274",
+      "final_url": "https://www.dahsha.com/web.html?id=32274",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "نحو توحيد نظام العاملين المدنيين في الدول العربية",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32275",
+      "final_url": "https://www.dahsha.com/web.html?id=32275",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الحقوق المتفرعة عن حق الملكية",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32276",
+      "final_url": "https://www.dahsha.com/web.html?id=32276",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    },
+    {
+      "title": "الحبس الاحتياطي في القانون المصري",
+      "source_url": "http://www.dahsha.com/viewarticle.php?id=32558",
+      "final_url": "https://www.dahsha.com/web.html?id=32558",
+      "http_status": 500,
+      "content_type": "text/html",
+      "is_publicly_open": false,
+      "reason": "حالة HTTP 500"
+    }
+  ]
+}

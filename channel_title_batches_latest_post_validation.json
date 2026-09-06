@@ -1,0 +1,20 @@
+{
+  "total_items": 17218,
+  "public_item_count": 17218,
+  "total_matches_public": true,
+  "stats_match": true,
+  "stats_total_match": true,
+  "duplicate_ids": [],
+  "title_reference_count": 1649,
+  "source_counts": {
+    "شبكة قانونيون - الرسائل والأطاريح": 81,
+    "شبكة قانونيون": 464,
+    "شركة نوماس للمحاماة": 257,
+    "شركة السويد للمحاماة والاستشارات القانونية": 847
+  },
+  "expected_source_counts_match": true,
+  "title_duplicates_across_new_batches": [],
+  "direct_link_violations": [],
+  "invalid_file_kinds": [],
+  "ok": true
+}
