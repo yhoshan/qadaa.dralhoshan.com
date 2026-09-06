@@ -55,14 +55,6 @@ export default function Home() {
     () => Array.from(new Set(items.map((i) => i.material_type))).filter(Boolean),
     [items]
   );
-  const fileTypes = useMemo(
-    () => Array.from(new Set(items.map((i) => i.file_type))).filter(Boolean),
-    [items]
-  );
-  const sources = useMemo(
-    () => Array.from(new Set(items.map((i) => i.source))).filter(Boolean),
-    [items]
-  );
 
   const handleFiltersChange = useCallback((partial: Partial<FilterState>) => {
     setFilters((prev) => ({ ...prev, ...partial }));
@@ -184,8 +176,6 @@ export default function Home() {
           onFiltersChange={handleFiltersChange}
           categories={categories}
           materialTypes={materialTypes}
-          fileTypes={fileTypes}
-          sources={sources}
           totalResults={filteredItems.length}
           totalItems={items.length}
         />

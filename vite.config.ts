@@ -213,6 +213,7 @@ const plugins = [
     manifest: {
       name: "مكنز القضاء والأنظمة والمحاماة",
       short_name: "مكنز القضاء",
+      description: "مكنز القضاء والأنظمة والمحاماة",
       lang: "ar",
       dir: "rtl",
       start_url: "/pwa",
@@ -220,7 +221,7 @@ const plugins = [
       display: "standalone",
       background_color: "#006C35",
       theme_color: "#006C35",
-      icons: [{ src: "/pwa-icon.svg", sizes: "any", type: "image/svg+xml", purpose: "any maskable" }],
+      icons: [{ src: "/manus-storage/qadaa-pwa-icon_c0669801.png", sizes: "1024x1024", type: "image/png", purpose: "any maskable" }],
     },
     workbox: { navigateFallback: "index.html" },
   }),

@@ -1,0 +1,25 @@
+{
+  "checked_at": "2026-09-06T12:00:21.620Z",
+  "counts": {
+    "total_items": 17360,
+    "qadaa_count": 8971,
+    "nizam_count": 7214,
+    "mohama_count": 1175
+  },
+  "hashes": {
+    "items": "f6796acacae849779dc4a1e99102a5e6e8ea41aa5762731a8374f2c93908a2d2",
+    "stats": "9052d8a1b652d3602eaec5c2a1c70f2e50274e683495e612a80555abefe45a03"
+  },
+  "checks": {
+    "items_files_match": true,
+    "stats_files_match": true,
+    "hero_total_matches_data": true,
+    "hero_counts_exist": true,
+    "hero_counts_sum_to_total": true,
+    "hero_uses_actual_counts": true,
+    "no_file_or_source_props_in_filterbar": true,
+    "no_file_or_source_props_passed_from_home": true,
+    "cache_buster_updated": true
+  },
+  "success": true
+}

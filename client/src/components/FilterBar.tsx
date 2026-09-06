@@ -11,8 +11,6 @@ interface FilterBarProps {
   onFiltersChange: (f: Partial<FilterState>) => void;
   categories: string[];
   materialTypes: string[];
-  fileTypes: string[];
-  sources: string[];
   totalResults: number;
   totalItems: number;
 }

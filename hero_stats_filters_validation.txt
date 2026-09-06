@@ -1,0 +1,15 @@
+نجح الفحص: نعم
+إجمالي المواد: 17,360
+القضاء: 8,971
+الأنظمة: 7,214
+المحاماة: 1,175
+
+[PASS] items_files_match
+[PASS] stats_files_match
+[PASS] hero_total_matches_data
+[PASS] hero_counts_exist
+[PASS] hero_counts_sum_to_total
+[PASS] hero_uses_actual_counts
+[PASS] no_file_or_source_props_in_filterbar
+[PASS] no_file_or_source_props_passed_from_home
+[PASS] cache_buster_updated

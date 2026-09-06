@@ -38,9 +38,9 @@ export default function HeroSection({ stats, searchValue, onSearchChange, onSear
   }, []);
 
   const totalItems = stats?.total_items?.toLocaleString("en-US") ?? "...";
-  const qadaaCount = stats?.qadaa_count?.toLocaleString("en-US") ?? "...";
-  const nizamCount = stats?.nizam_count?.toLocaleString("en-US") ?? "...";
-  const mohamaCount = stats?.mohama_count?.toLocaleString("en-US") ?? "...";
+  const qadaaCount = stats?.qadaa_count?.toLocaleString("en-US") ?? "0";
+  const nizamCount = stats?.nizam_count?.toLocaleString("en-US") ?? "0";
+  const mohamaCount = stats?.mohama_count?.toLocaleString("en-US") ?? "0";
 
   return (
     <section
