@@ -51,16 +51,16 @@ export default function Navbar() {
                 color: "oklch(0.48 0.12 68)",
                 fontFamily: "Cairo, sans-serif",
               }}
-              title="حول المكنز"
+              title="شروط الاستخدام وإخلاء المسؤولية"
             >
               <ShieldCheck className="h-3.5 w-3.5" />
-              <span className="text-[10px] font-semibold">حول المكنز</span>
+              <span className="text-[10px] font-semibold">شروط الاستخدام وإخلاء المسؤولية</span>
             </button>
 
             <DialogContent
               dir="rtl"
               showCloseButton={false}
-              className="max-w-md text-right"
+              className="max-h-[calc(100dvh-2rem)] max-w-md overflow-y-auto text-right"
               style={{
                 background: "#006C35",
                 borderColor: "#F7FBFF",
@@ -72,20 +72,23 @@ export default function Navbar() {
                 <div className="flex items-center gap-2">
                   <ShieldCheck className="h-5 w-5" style={{ color: "#F7FBFF" }} />
                   <DialogTitle className="text-base" style={{ fontFamily: "Amiri, serif", color: "#F7FBFF" }}>
-                    حول المكنز
+                    شروط الاستخدام وإخلاء المسؤولية
                   </DialogTitle>
                 </div>
                 <DialogClose className="text-xl leading-none opacity-65 transition-opacity hover:opacity-100" aria-label="إغلاق">×</DialogClose>
               </div>
 
               <DialogDescription className="pt-1 text-right text-sm leading-8" style={{ color: "#F7FBFF", fontFamily: "Cairo, sans-serif" }}>
-                <span>مكنز القضاء والأنظمة والمحاماة فهرس بحثي للروابط والإحالات إلى مواد قانونية وقضائية منشورة في مصادر خارجية، أُعدّ لتيسير الوصول وخدمة الباحثين والقضاة والمحامين. لا يدّعي المكنز ملكية المواد ولا يضمن دقة محتواها أو استمرار روابطها، وتبقى الحقوق لأصحابها.</span>
+                <span>مكنز القضاء والأنظمة والمحاماة منصة بحثية غير ربحية تُعنى بفهرسة الروابط والإحالات إلى الأبحاث والمواد النظامية والقضائية المنشورة والمتاحة عبر مصادر ومواقع خارجية، وقد أُعدّت مبادرةً لتيسير البحث وخدمة الدارسين والممارسين في الحقل العدلي.</span>
                 <br />
                 <br />
-                <span>وتشمل مواد المكنز مصادر من دول وأنظمة قانونية متعددة، ويتحمل المستخدم مسؤولية التحقق من حداثة المادة وصحتها قبل الاعتماد عليها.</span>
+                <span><strong>إخلاء المسؤولية القانونية:</strong> لا يقدّم المكنز استشارات قانونية أو إفتاءً نظامياً، ولا يُغني عن الرجوع إلى الوثائق الصادرة عن الجهات القضائية والرسمية المختصة أو الجرائد الرسمية. وتتضمن المواد مصادر من ولايات وأنظمة قضائية متعددة؛ لذا تقع مسؤولية التحقق من سريان المواد وصحتها وحداثتها ومدى انطباقها على الاختصاص النوعي والمكاني على عاتق المستخدم وحده.</span>
                 <br />
                 <br />
-                <span>ومن له حق أو ملاحظة فليتواصل عبر البريد الإلكتروني.</span>
+                <span><strong>حقوق الملكية الفكرية:</strong> لا تدّعي المنصة ملكية أيٍّ من المواد المُحال إليها، وتظل جميع الحقوق الفكرية والأدبية محفوظةً لأصحاب الحقوق ومصادرها الأصلية، كما لا تضمن المنصة استمرار الروابط أو سلامة المحتوى الخارجي.</span>
+                <br />
+                <br />
+                <span><strong>الملاحظات وطلبات التعديل:</strong> لمن كان له حق أو استفسار أو طلب حذف أو تصحيح رابط، يُرجى التواصل عبر البريد الإلكتروني: <a href="mailto:yhoshan@gmail.com" className="underline underline-offset-2 hover:opacity-85">yhoshan@gmail.com</a>.</span>
               </DialogDescription>
 
               <div className="flex justify-center pt-2">
