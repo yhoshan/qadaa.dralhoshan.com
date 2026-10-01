@@ -1,0 +1,1331 @@
+{
+  "generated_at": "2026-10-01T20:03:02.403016+00:00",
+  "mode": "فحص روابط العرض العامة فقط؛ لم تُنزّل الملفات أو تُقرأ محتوياتها.",
+  "before_total": 17481,
+  "candidate_total": 143,
+  "existing_duplicates_excluded": 6,
+  "unavailable_excluded": 0,
+  "accepted_total": 137,
+  "expected_after_total": 17618,
+  "main_items_sha256_before": "2fe7ddee22d16f8b3bc09b8b6bcda03be8eb28e627d165a5a736655aa67d5772",
+  "public_items_sha256_before": "2fe7ddee22d16f8b3bc09b8b6bcda03be8eb28e627d165a5a736655aa67d5772",
+  "stats_sha256_before": "95e30a76a0a23ebd4675c421cfb3249ccc062cbc3c389318d79fea5a6771e0ee",
+  "public_stats_sha256_before": "95e30a76a0a23ebd4675c421cfb3249ccc062cbc3c389318d79fea5a6771e0ee",
+  "duplicates": [
+    {
+      "candidate_id": "drive_drug_rules_1oCYNS1kfAUCNzjyfLs90QGDjnkS2uQTC",
+      "candidate_title": "بعض قواعد سجن المخدرات",
+      "candidate_url": "https://drive.google.com/file/d/1oCYNS1kfAUCNzjyfLs90QGDjnkS2uQTC/view",
+      "matching_existing_records": [
+        {
+          "id": "lawlibrary_2452",
+          "title": "بعض قواعد سجن المخدرات",
+          "source": "مكتبة القانون"
+        }
+      ],
+      "reason": "تطابق العنوان بعد التطبيع أو رابط العرض مع سجل قائم؛ لا يضاف مرة ثانية"
+    },
+    {
+      "candidate_id": "drive_drug_systems_1oc-XM0XXFssh0gCX0sVqo28sEgOAFPpB",
+      "candidate_title": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية",
+      "candidate_url": "https://drive.google.com/file/d/1oc-XM0XXFssh0gCX0sVqo28sEgOAFPpB/view",
+      "matching_existing_records": [
+        {
+          "id": "boe_be479758-9a84-4e94-b1d3-a9a700f19454",
+          "title": "اللائحة التنفيذية لنظام مكافحة المخدرات والمؤثرات العقلية",
+          "source": "هيئة الخبراء بمجلس الوزراء"
+        }
+      ],
+      "reason": "تطابق العنوان بعد التطبيع أو رابط العرض مع سجل قائم؛ لا يضاف مرة ثانية"
+    },
+    {
+      "candidate_id": "drive_drug_systems_1JXzmhPAZarCqvpPEutmNwtsLjt0py1oE",
+      "candidate_title": "نظام الإجراءات الجزائية في حلّة قشيبة وإخراج رائع",
+      "candidate_url": "https://drive.google.com/file/d/1JXzmhPAZarCqvpPEutmNwtsLjt0py1oE/view",
+      "matching_existing_records": [
+        {
+          "id": "lawlibrary_1367",
+          "title": "نظام الإجراءات الجزائية في حلّة قشيبة وإخراج رائع",
+          "source": "مكتبة القانون"
+        }
+      ],
+      "reason": "تطابق العنوان بعد التطبيع أو رابط العرض مع سجل قائم؛ لا يضاف مرة ثانية"
+    },
+    {
+      "candidate_id": "drive_drug_systems_1J9xiJ_2nYYRHAEom3eqm0p-XEIAIhfci",
+      "candidate_title": "نظام مكافحة المخدرات والمؤثرات العقلية",
+      "candidate_url": "https://drive.google.com/file/d/1J9xiJ_2nYYRHAEom3eqm0p-XEIAIhfci/view",
+      "matching_existing_records": [
+        {
+          "id": "boe_221b3286-a3c6-4ea4-97c7-a9a700f18273",
+          "title": "نظام مكافحة المخدرات والمؤثرات العقلية",
+          "source": "هيئة الخبراء بمجلس الوزراء"
+        }
+      ],
+      "reason": "تطابق العنوان بعد التطبيع أو رابط العرض مع سجل قائم؛ لا يضاف مرة ثانية"
+    },
+    {
+      "candidate_id": "drive_fiqh_courts_1Wj3V5LNQvhxqZjYkDJ3Z3PcZmgvgK5W6",
+      "candidate_title": "القواعد الفقهية وتطبيقاتها في المحاكم",
+      "candidate_url": "https://drive.google.com/file/d/1Wj3V5LNQvhxqZjYkDJ3Z3PcZmgvgK5W6/view",
+      "matching_existing_records": [
+        {
+          "id": "legal_lib_12974",
+          "title": "القواعد الفقهية وتطبيقاتها في المحاكم",
+          "source": "المكتبة القانونية ⚖️"
+        }
+      ],
+      "reason": "تطابق العنوان بعد التطبيع أو رابط العرض مع سجل قائم؛ لا يضاف مرة ثانية"
+    },
+    {
+      "candidate_id": "drive_root_1oM3lx5Tq1NOVilsVx13hqtbd0pm7F0ES",
+      "candidate_title": "السوابق القضائية لحقوق المؤلف",
+      "candidate_url": "https://drive.google.com/file/d/1oM3lx5Tq1NOVilsVx13hqtbd0pm7F0ES/view",
+      "matching_existing_records": [
+        {
+          "id": "lawlibrary_3043",
+          "title": "السوابق القضائية لحقوق المؤلف",
+          "source": "مكتبة القانون"
+        }
+      ],
+      "reason": "تطابق العنوان بعد التطبيع أو رابط العرض مع سجل قائم؛ لا يضاف مرة ثانية"
+    }
+  ],
+  "availability": [
+    {
+      "id": "drive_analysis_1Avl1w2K_xT3I9zFaFFVRH2LhVAgxuVax",
+      "url": "https://drive.google.com/file/d/1Avl1w2K_xT3I9zFaFFVRH2LhVAgxuVax/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Avl1w2K_xT3I9zFaFFVRH2LhVAgxuVax/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_analysis_1LepftIVxqXE5kJ-ifqeWMhQ8-1AaFyuA",
+      "url": "https://drive.google.com/file/d/1LepftIVxqXE5kJ-ifqeWMhQ8-1AaFyuA/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1LepftIVxqXE5kJ-ifqeWMhQ8-1AaFyuA/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_analysis_1r0x6fil7dAqrbpS6R6dRuF2oYd91xQbi",
+      "url": "https://drive.google.com/file/d/1r0x6fil7dAqrbpS6R6dRuF2oYd91xQbi/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1r0x6fil7dAqrbpS6R6dRuF2oYd91xQbi/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_company_policies_1WWSwpIyNE8Ae2pcNu8PBoJzSAItGuhmj",
+      "url": "https://drive.google.com/file/d/1WWSwpIyNE8Ae2pcNu8PBoJzSAItGuhmj/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1WWSwpIyNE8Ae2pcNu8PBoJzSAItGuhmj/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_11S5HySLRg_JMbn0autR3PvVoLo50zM6f",
+      "url": "https://drive.google.com/file/d/11S5HySLRg_JMbn0autR3PvVoLo50zM6f/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/11S5HySLRg_JMbn0autR3PvVoLo50zM6f/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_12QSh0UHAwYfmKP6qsEMh-R1zMJF6VV7N",
+      "url": "https://drive.google.com/file/d/12QSh0UHAwYfmKP6qsEMh-R1zMJF6VV7N/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/12QSh0UHAwYfmKP6qsEMh-R1zMJF6VV7N/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_13ErUFfDXZ0X4Aem4I5UXLI2jw6byPP8B",
+      "url": "https://drive.google.com/file/d/13ErUFfDXZ0X4Aem4I5UXLI2jw6byPP8B/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/13ErUFfDXZ0X4Aem4I5UXLI2jw6byPP8B/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_17CP7juTfFMK96akHWgwBdJqEnCw9wd5J",
+      "url": "https://drive.google.com/file/d/17CP7juTfFMK96akHWgwBdJqEnCw9wd5J/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/17CP7juTfFMK96akHWgwBdJqEnCw9wd5J/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_17YcPLeeGDYnbcC59BsTJE4nbk5HdAOOo",
+      "url": "https://drive.google.com/file/d/17YcPLeeGDYnbcC59BsTJE4nbk5HdAOOo/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/17YcPLeeGDYnbcC59BsTJE4nbk5HdAOOo/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_192wZitqo7py1LR-hROY2xlROXJpQQrFT",
+      "url": "https://drive.google.com/file/d/192wZitqo7py1LR-hROY2xlROXJpQQrFT/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/192wZitqo7py1LR-hROY2xlROXJpQQrFT/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1CUthJMeiMgDC29zxqNwR76_N6_dsmwm5",
+      "url": "https://drive.google.com/file/d/1CUthJMeiMgDC29zxqNwR76_N6_dsmwm5/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1CUthJMeiMgDC29zxqNwR76_N6_dsmwm5/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1EIPmdSDn-nDCNSGTf9ODlKZSD501Mi43",
+      "url": "https://drive.google.com/file/d/1EIPmdSDn-nDCNSGTf9ODlKZSD501Mi43/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1EIPmdSDn-nDCNSGTf9ODlKZSD501Mi43/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1HJ-llje4IMO0MBcok7A13sr3WTD35rQ0",
+      "url": "https://drive.google.com/file/d/1HJ-llje4IMO0MBcok7A13sr3WTD35rQ0/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1HJ-llje4IMO0MBcok7A13sr3WTD35rQ0/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1I68Jt1oeg3RnMDt5O-oql_cbfWhhGHri",
+      "url": "https://drive.google.com/file/d/1I68Jt1oeg3RnMDt5O-oql_cbfWhhGHri/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1I68Jt1oeg3RnMDt5O-oql_cbfWhhGHri/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1IXTSUdIjmiQxEDCgGBRR8qC8US0M2lx4",
+      "url": "https://drive.google.com/file/d/1IXTSUdIjmiQxEDCgGBRR8qC8US0M2lx4/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1IXTSUdIjmiQxEDCgGBRR8qC8US0M2lx4/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1J1iyviL1MF3wuM86TAcTkf2itSjiYrxh",
+      "url": "https://drive.google.com/file/d/1J1iyviL1MF3wuM86TAcTkf2itSjiYrxh/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1J1iyviL1MF3wuM86TAcTkf2itSjiYrxh/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1KJ39lbxaLp67E84OaJFXKjndmMrORShx",
+      "url": "https://drive.google.com/file/d/1KJ39lbxaLp67E84OaJFXKjndmMrORShx/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1KJ39lbxaLp67E84OaJFXKjndmMrORShx/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1Pjaz8_wd9jNIT8IRhy1-Z7n9-hHwpLLJ",
+      "url": "https://drive.google.com/file/d/1Pjaz8_wd9jNIT8IRhy1-Z7n9-hHwpLLJ/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Pjaz8_wd9jNIT8IRhy1-Z7n9-hHwpLLJ/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1RH_12Qef8XL67ttLnR5GWvZazB0SbfOc",
+      "url": "https://drive.google.com/file/d/1RH_12Qef8XL67ttLnR5GWvZazB0SbfOc/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1RH_12Qef8XL67ttLnR5GWvZazB0SbfOc/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1TKC9wIPr-zqteiliOXCCS-QkLGjrMU7y",
+      "url": "https://drive.google.com/file/d/1TKC9wIPr-zqteiliOXCCS-QkLGjrMU7y/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1TKC9wIPr-zqteiliOXCCS-QkLGjrMU7y/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1X_KuQdAFZCekbjpPE9OT2zARkimkmUtM",
+      "url": "https://drive.google.com/file/d/1X_KuQdAFZCekbjpPE9OT2zARkimkmUtM/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1X_KuQdAFZCekbjpPE9OT2zARkimkmUtM/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1azBugq4oupzbueoBRhIQQ57dyxfSV0EW",
+      "url": "https://drive.google.com/file/d/1azBugq4oupzbueoBRhIQQ57dyxfSV0EW/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1azBugq4oupzbueoBRhIQQ57dyxfSV0EW/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1bpxrKsRoMlZboWrl3hLFcOh8Txm9tHTf",
+      "url": "https://drive.google.com/file/d/1bpxrKsRoMlZboWrl3hLFcOh8Txm9tHTf/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1bpxrKsRoMlZboWrl3hLFcOh8Txm9tHTf/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1dUzxIV0QFkELzw2sGgOIIMZapipFLqLf",
+      "url": "https://drive.google.com/file/d/1dUzxIV0QFkELzw2sGgOIIMZapipFLqLf/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1dUzxIV0QFkELzw2sGgOIIMZapipFLqLf/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1evXQdmX3Nrc50DsVUTHB-CwbNBe3aQlq",
+      "url": "https://drive.google.com/file/d/1evXQdmX3Nrc50DsVUTHB-CwbNBe3aQlq/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1evXQdmX3Nrc50DsVUTHB-CwbNBe3aQlq/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1hnuWYGP_SrGq-vV-1qjDjHTQ1vu-QZhM",
+      "url": "https://drive.google.com/file/d/1hnuWYGP_SrGq-vV-1qjDjHTQ1vu-QZhM/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1hnuWYGP_SrGq-vV-1qjDjHTQ1vu-QZhM/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1irrn4qdK6cDAS0yVOsTY1zHuoq4yDONt",
+      "url": "https://drive.google.com/file/d/1irrn4qdK6cDAS0yVOsTY1zHuoq4yDONt/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1irrn4qdK6cDAS0yVOsTY1zHuoq4yDONt/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1kV3hnv160Yz_kQzqQu_vQ2WkLIQhvKVq",
+      "url": "https://drive.google.com/file/d/1kV3hnv160Yz_kQzqQu_vQ2WkLIQhvKVq/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1kV3hnv160Yz_kQzqQu_vQ2WkLIQhvKVq/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1kw0nAjQ285mercnzpEjmKR8JM6UfM_t8",
+      "url": "https://drive.google.com/file/d/1kw0nAjQ285mercnzpEjmKR8JM6UfM_t8/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1kw0nAjQ285mercnzpEjmKR8JM6UfM_t8/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1oEKTRhT45E2McPkMzfWefm5-BAfqk2yE",
+      "url": "https://drive.google.com/file/d/1oEKTRhT45E2McPkMzfWefm5-BAfqk2yE/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1oEKTRhT45E2McPkMzfWefm5-BAfqk2yE/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1q-j5Uksunuqf9xnV-RiG1tXlZtSZuh2Y",
+      "url": "https://drive.google.com/file/d/1q-j5Uksunuqf9xnV-RiG1tXlZtSZuh2Y/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1q-j5Uksunuqf9xnV-RiG1tXlZtSZuh2Y/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1qC_d9oVHTQTlfeMpeB-t3LOfnhYvYxna",
+      "url": "https://drive.google.com/file/d/1qC_d9oVHTQTlfeMpeB-t3LOfnhYvYxna/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1qC_d9oVHTQTlfeMpeB-t3LOfnhYvYxna/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1s0cgSNfxWdALN-IDU-yzKYqxVcQsQ1gj",
+      "url": "https://drive.google.com/file/d/1s0cgSNfxWdALN-IDU-yzKYqxVcQsQ1gj/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1s0cgSNfxWdALN-IDU-yzKYqxVcQsQ1gj/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1t24-ndY1BsQMi3__qFGUdZBrhmWshDf0",
+      "url": "https://drive.google.com/file/d/1t24-ndY1BsQMi3__qFGUdZBrhmWshDf0/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1t24-ndY1BsQMi3__qFGUdZBrhmWshDf0/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1uUl-0y-GH8H2No_5o504Ntzkhq5IQuV8",
+      "url": "https://drive.google.com/file/d/1uUl-0y-GH8H2No_5o504Ntzkhq5IQuV8/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1uUl-0y-GH8H2No_5o504Ntzkhq5IQuV8/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1vWHaqLA8q_VHg1QU1rkWSLU9Sm-tEoWV",
+      "url": "https://drive.google.com/file/d/1vWHaqLA8q_VHg1QU1rkWSLU9Sm-tEoWV/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1vWHaqLA8q_VHg1QU1rkWSLU9Sm-tEoWV/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1zpw7OBw7SWMSXMIa0D8JO52N3bIwe95I",
+      "url": "https://drive.google.com/file/d/1zpw7OBw7SWMSXMIa0D8JO52N3bIwe95I/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1zpw7OBw7SWMSXMIa0D8JO52N3bIwe95I/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_circulars_1zuiDYEFpsn2C8_GBH9k5TnfvxTRBrWn-",
+      "url": "https://drive.google.com/file/d/1zuiDYEFpsn2C8_GBH9k5TnfvxTRBrWn-/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1zuiDYEFpsn2C8_GBH9k5TnfvxTRBrWn-/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_10fuwy3cqj4h2Nk-Qc6LcQpmzvhPd78Qy",
+      "url": "https://drive.google.com/file/d/10fuwy3cqj4h2Nk-Qc6LcQpmzvhPd78Qy/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/10fuwy3cqj4h2Nk-Qc6LcQpmzvhPd78Qy/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_16mllqyuB5_XjB3s28kr5jNFCwsYrgTSk",
+      "url": "https://drive.google.com/file/d/16mllqyuB5_XjB3s28kr5jNFCwsYrgTSk/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/16mllqyuB5_XjB3s28kr5jNFCwsYrgTSk/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1DtWLcYSY8pRMq_sN2pXzeQIDtxLWYwFc",
+      "url": "https://drive.google.com/file/d/1DtWLcYSY8pRMq_sN2pXzeQIDtxLWYwFc/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1DtWLcYSY8pRMq_sN2pXzeQIDtxLWYwFc/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1EN3kqxmfji-trUDB8v0AyFzUkiSGi0wL",
+      "url": "https://drive.google.com/file/d/1EN3kqxmfji-trUDB8v0AyFzUkiSGi0wL/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1EN3kqxmfji-trUDB8v0AyFzUkiSGi0wL/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1Ftg9k1WhN8870wCPGxnva7gSJE3iipdf",
+      "url": "https://drive.google.com/file/d/1Ftg9k1WhN8870wCPGxnva7gSJE3iipdf/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Ftg9k1WhN8870wCPGxnva7gSJE3iipdf/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1TEZ-2gYrFsQ6tQ0YxcenF06H4mRIIs7V",
+      "url": "https://drive.google.com/file/d/1TEZ-2gYrFsQ6tQ0YxcenF06H4mRIIs7V/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1TEZ-2gYrFsQ6tQ0YxcenF06H4mRIIs7V/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1Wh5vsG7NodjKdSEYdedaZxqrnC0eXWyJ",
+      "url": "https://drive.google.com/file/d/1Wh5vsG7NodjKdSEYdedaZxqrnC0eXWyJ/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Wh5vsG7NodjKdSEYdedaZxqrnC0eXWyJ/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1bV-cUoCRHMKUK9Vg4v8atuy4bxsd536K",
+      "url": "https://drive.google.com/file/d/1bV-cUoCRHMKUK9Vg4v8atuy4bxsd536K/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1bV-cUoCRHMKUK9Vg4v8atuy4bxsd536K/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1ejYhBzTSCBTJY1PSqjEWpx6zSN9-T7xA",
+      "url": "https://drive.google.com/file/d/1ejYhBzTSCBTJY1PSqjEWpx6zSN9-T7xA/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1ejYhBzTSCBTJY1PSqjEWpx6zSN9-T7xA/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1gpa_xM0DNZeUApIw19r7xh14eUiBoogB",
+      "url": "https://drive.google.com/file/d/1gpa_xM0DNZeUApIw19r7xh14eUiBoogB/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1gpa_xM0DNZeUApIw19r7xh14eUiBoogB/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1ok-8ta8_qL8XE5RhfOP6ZBra4FQQlim1",
+      "url": "https://drive.google.com/file/d/1ok-8ta8_qL8XE5RhfOP6ZBra4FQQlim1/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1ok-8ta8_qL8XE5RhfOP6ZBra4FQQlim1/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1pxRfivRgLLCfV7Y8V6MC6geNgafjH5ET",
+      "url": "https://drive.google.com/file/d/1pxRfivRgLLCfV7Y8V6MC6geNgafjH5ET/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1pxRfivRgLLCfV7Y8V6MC6geNgafjH5ET/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1swPQbRpqZfmFdmxJ-FjP72uNnY-NAXpb",
+      "url": "https://drive.google.com/file/d/1swPQbRpqZfmFdmxJ-FjP72uNnY-NAXpb/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1swPQbRpqZfmFdmxJ-FjP72uNnY-NAXpb/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_memos_1yJEtEJmhXY9lHY5BICbl8so6QI7FOx8W",
+      "url": "https://drive.google.com/file/d/1yJEtEJmhXY9lHY5BICbl8so6QI7FOx8W/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1yJEtEJmhXY9lHY5BICbl8so6QI7FOx8W/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_14s3WjxJ8uBb7WIujpkudRQrtiYNb5k7a",
+      "url": "https://drive.google.com/file/d/14s3WjxJ8uBb7WIujpkudRQrtiYNb5k7a/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/14s3WjxJ8uBb7WIujpkudRQrtiYNb5k7a/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_15N88dqrbWvo3Z1qmbSvGkxFt8rMyAdQq",
+      "url": "https://drive.google.com/file/d/15N88dqrbWvo3Z1qmbSvGkxFt8rMyAdQq/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/15N88dqrbWvo3Z1qmbSvGkxFt8rMyAdQq/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_15wS0KKzrG7-1S-SAHw0kfFaFRhFDGeQ4",
+      "url": "https://drive.google.com/file/d/15wS0KKzrG7-1S-SAHw0kfFaFRhFDGeQ4/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/15wS0KKzrG7-1S-SAHw0kfFaFRhFDGeQ4/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1Axdwud-K2NaMNKSP1ZnhBBk9hUq_Li2I",
+      "url": "https://drive.google.com/file/d/1Axdwud-K2NaMNKSP1ZnhBBk9hUq_Li2I/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Axdwud-K2NaMNKSP1ZnhBBk9hUq_Li2I/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1D-Unzg7i7nFbFYQjhEu4e8PG5-fZZ9Rm",
+      "url": "https://drive.google.com/file/d/1D-Unzg7i7nFbFYQjhEu4e8PG5-fZZ9Rm/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1D-Unzg7i7nFbFYQjhEu4e8PG5-fZZ9Rm/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1F-9u1Cn03adhML9erTmFJk_XuyUZkc6C",
+      "url": "https://drive.google.com/file/d/1F-9u1Cn03adhML9erTmFJk_XuyUZkc6C/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1F-9u1Cn03adhML9erTmFJk_XuyUZkc6C/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1G3ao91bQu405KRsRhqoctrb4gbwOSYxU",
+      "url": "https://drive.google.com/file/d/1G3ao91bQu405KRsRhqoctrb4gbwOSYxU/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1G3ao91bQu405KRsRhqoctrb4gbwOSYxU/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1Hrq8kpNwHoq7uvL9tgMZ90jwElxmhsv3",
+      "url": "https://drive.google.com/file/d/1Hrq8kpNwHoq7uvL9tgMZ90jwElxmhsv3/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Hrq8kpNwHoq7uvL9tgMZ90jwElxmhsv3/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1J45l4lW-hZm7A7dWRKUyisSIcq-zanR0",
+      "url": "https://drive.google.com/file/d/1J45l4lW-hZm7A7dWRKUyisSIcq-zanR0/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1J45l4lW-hZm7A7dWRKUyisSIcq-zanR0/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1QVnvjitlmPkhAL6u8ZlHHv0nXC92RHNS",
+      "url": "https://drive.google.com/file/d/1QVnvjitlmPkhAL6u8ZlHHv0nXC92RHNS/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1QVnvjitlmPkhAL6u8ZlHHv0nXC92RHNS/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1SFmUlW_VrXAS2qQ0YfiA1yRb3rB-eolp",
+      "url": "https://drive.google.com/file/d/1SFmUlW_VrXAS2qQ0YfiA1yRb3rB-eolp/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1SFmUlW_VrXAS2qQ0YfiA1yRb3rB-eolp/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1TAl1wdN9qiVZBimzkhMbiKwa8ODzDm4z",
+      "url": "https://drive.google.com/file/d/1TAl1wdN9qiVZBimzkhMbiKwa8ODzDm4z/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1TAl1wdN9qiVZBimzkhMbiKwa8ODzDm4z/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1ZSSsJqWpvjxez22wpjxso26qCaa_XmGB",
+      "url": "https://drive.google.com/file/d/1ZSSsJqWpvjxez22wpjxso26qCaa_XmGB/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1ZSSsJqWpvjxez22wpjxso26qCaa_XmGB/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1_ZF2ovCiaQd7zD5Bl9IUC6iyyhc9RbAn",
+      "url": "https://drive.google.com/file/d/1_ZF2ovCiaQd7zD5Bl9IUC6iyyhc9RbAn/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1_ZF2ovCiaQd7zD5Bl9IUC6iyyhc9RbAn/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1b_zxUUQzaER__TxHdIITQfsE88bDSavl",
+      "url": "https://drive.google.com/file/d/1b_zxUUQzaER__TxHdIITQfsE88bDSavl/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1b_zxUUQzaER__TxHdIITQfsE88bDSavl/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1eBvWoXTwiqJT29fo7nHU2pK2-_kreTAV",
+      "url": "https://drive.google.com/file/d/1eBvWoXTwiqJT29fo7nHU2pK2-_kreTAV/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1eBvWoXTwiqJT29fo7nHU2pK2-_kreTAV/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1jCKy9CEFCjnPY7bHHNqW40D7shC3aakb",
+      "url": "https://drive.google.com/file/d/1jCKy9CEFCjnPY7bHHNqW40D7shC3aakb/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1jCKy9CEFCjnPY7bHHNqW40D7shC3aakb/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1lBE0V0sebMcq3QM7pk5nBopdZklAiY87",
+      "url": "https://drive.google.com/file/d/1lBE0V0sebMcq3QM7pk5nBopdZklAiY87/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1lBE0V0sebMcq3QM7pk5nBopdZklAiY87/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1lQF-dGafseXtHEPaHzhMTJCtk0YHmYqb",
+      "url": "https://drive.google.com/file/d/1lQF-dGafseXtHEPaHzhMTJCtk0YHmYqb/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1lQF-dGafseXtHEPaHzhMTJCtk0YHmYqb/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1nNgzLuIyHr9QN5WRpQq7nchG2TT3Z1so",
+      "url": "https://drive.google.com/file/d/1nNgzLuIyHr9QN5WRpQq7nchG2TT3Z1so/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1nNgzLuIyHr9QN5WRpQq7nchG2TT3Z1so/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1nvsGNpuRd9fJUnKIhoKJzf2m9hqQsBrS",
+      "url": "https://drive.google.com/file/d/1nvsGNpuRd9fJUnKIhoKJzf2m9hqQsBrS/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1nvsGNpuRd9fJUnKIhoKJzf2m9hqQsBrS/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1p6D8RmsNwL7FVgdwrg_GKjfT62t2rdMn",
+      "url": "https://drive.google.com/file/d/1p6D8RmsNwL7FVgdwrg_GKjfT62t2rdMn/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1p6D8RmsNwL7FVgdwrg_GKjfT62t2rdMn/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1py0untpag5QIQhjZIGB-sDHmIWRa037L",
+      "url": "https://drive.google.com/file/d/1py0untpag5QIQhjZIGB-sDHmIWRa037L/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1py0untpag5QIQhjZIGB-sDHmIWRa037L/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1qCUbGpH_9jijyof8yM8kI-2ZHEK4CP0t",
+      "url": "https://drive.google.com/file/d/1qCUbGpH_9jijyof8yM8kI-2ZHEK4CP0t/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1qCUbGpH_9jijyof8yM8kI-2ZHEK4CP0t/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_precedents_1yEIC-yPCx0IfaFylDkD8_RDp9f0NeA1r",
+      "url": "https://drive.google.com/file/d/1yEIC-yPCx0IfaFylDkD8_RDp9f0NeA1r/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1yEIC-yPCx0IfaFylDkD8_RDp9f0NeA1r/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_11BBhxg6ZVZGhUcmMrutCyKTntqvBE3PM",
+      "url": "https://drive.google.com/file/d/11BBhxg6ZVZGhUcmMrutCyKTntqvBE3PM/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/11BBhxg6ZVZGhUcmMrutCyKTntqvBE3PM/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_15-pbTQLuj38CYQYEMtZuYZCIs5BoGXs-",
+      "url": "https://drive.google.com/file/d/15-pbTQLuj38CYQYEMtZuYZCIs5BoGXs-/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/15-pbTQLuj38CYQYEMtZuYZCIs5BoGXs-/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_15oqF_9rhXmODPOivVdxmYj2LqrYO1ADN",
+      "url": "https://drive.google.com/file/d/15oqF_9rhXmODPOivVdxmYj2LqrYO1ADN/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/15oqF_9rhXmODPOivVdxmYj2LqrYO1ADN/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_1UWtqOQq4VjvO5MtHOS_uPWgkTlNhekxm",
+      "url": "https://drive.google.com/file/d/1UWtqOQq4VjvO5MtHOS_uPWgkTlNhekxm/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1UWtqOQq4VjvO5MtHOS_uPWgkTlNhekxm/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_1Vsu1MfdTYCvOrWMeEXy_g0zI-RZj-atv",
+      "url": "https://drive.google.com/file/d/1Vsu1MfdTYCvOrWMeEXy_g0zI-RZj-atv/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Vsu1MfdTYCvOrWMeEXy_g0zI-RZj-atv/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_1VtVx7mf_ZM7jFC98Ayiiyh2VaAhGUnNI",
+      "url": "https://drive.google.com/file/d/1VtVx7mf_ZM7jFC98Ayiiyh2VaAhGUnNI/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1VtVx7mf_ZM7jFC98Ayiiyh2VaAhGUnNI/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_1cdzgf0N_jvI3qh7GMaz5v6E93Bh58tNs",
+      "url": "https://drive.google.com/file/d/1cdzgf0N_jvI3qh7GMaz5v6E93Bh58tNs/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1cdzgf0N_jvI3qh7GMaz5v6E93Bh58tNs/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_1lPOV8VDJDcPHGDI3VKRIA2mu8L5H-CLb",
+      "url": "https://drive.google.com/file/d/1lPOV8VDJDcPHGDI3VKRIA2mu8L5H-CLb/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1lPOV8VDJDcPHGDI3VKRIA2mu8L5H-CLb/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_1mDejeJB7G4gseNE2Q9E03bVDhy7SxPXk",
+      "url": "https://drive.google.com/file/d/1mDejeJB7G4gseNE2Q9E03bVDhy7SxPXk/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1mDejeJB7G4gseNE2Q9E03bVDhy7SxPXk/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_1uP4CEVbV3yN5O0KZKE8wbQJVkKCBY-Xu",
+      "url": "https://drive.google.com/file/d/1uP4CEVbV3yN5O0KZKE8wbQJVkKCBY-Xu/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1uP4CEVbV3yN5O0KZKE8wbQJVkKCBY-Xu/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_rules_1yNYjQaKb712HOwLdNcMWz0lUNShRLsWy",
+      "url": "https://drive.google.com/file/d/1yNYjQaKb712HOwLdNcMWz0lUNShRLsWy/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1yNYjQaKb712HOwLdNcMWz0lUNShRLsWy/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_systems_1Wqt9wA9Bs9-bxUGsxxRQP3Rh6BFGx3vC",
+      "url": "https://drive.google.com/file/d/1Wqt9wA9Bs9-bxUGsxxRQP3Rh6BFGx3vC/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Wqt9wA9Bs9-bxUGsxxRQP3Rh6BFGx3vC/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_systems_1iShec-wZjI089zP4q9syn1Qua1juYcIC",
+      "url": "https://drive.google.com/file/d/1iShec-wZjI089zP4q9syn1Qua1juYcIC/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1iShec-wZjI089zP4q9syn1Qua1juYcIC/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_systems_1oLOEVMkOqLr5Q_hFf7KmPF9RcnGffWFG",
+      "url": "https://drive.google.com/file/d/1oLOEVMkOqLr5Q_hFf7KmPF9RcnGffWFG/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1oLOEVMkOqLr5Q_hFf7KmPF9RcnGffWFG/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_drug_systems_1wlKeOz0yA0NQouqKmyJgEdpZrCXHB7t3",
+      "url": "https://drive.google.com/file/d/1wlKeOz0yA0NQouqKmyJgEdpZrCXHB7t3/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1wlKeOz0yA0NQouqKmyJgEdpZrCXHB7t3/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_lawyer_basics_1GDZWk13TEV_EyOHTuZvxgMGdrAnYSbVe",
+      "url": "https://drive.google.com/file/d/1GDZWk13TEV_EyOHTuZvxgMGdrAnYSbVe/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1GDZWk13TEV_EyOHTuZvxgMGdrAnYSbVe/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_legal_memos_1k4A4GSuZd3b_enunOlFb2x0lngbXx5fp",
+      "url": "https://drive.google.com/file/d/1k4A4GSuZd3b_enunOlFb2x0lngbXx5fp/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1k4A4GSuZd3b_enunOlFb2x0lngbXx5fp/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_precedents_merged_1xhJPX18d1gfX9rWuyMmDWah0bctpEPYy",
+      "url": "https://drive.google.com/file/d/1xhJPX18d1gfX9rWuyMmDWah0bctpEPYy/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1xhJPX18d1gfX9rWuyMmDWah0bctpEPYy/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_professional_certificates_15JvoRQpfqxQPMYIayqjlOtBVUj3-kWou",
+      "url": "https://drive.google.com/file/d/15JvoRQpfqxQPMYIayqjlOtBVUj3-kWou/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/15JvoRQpfqxQPMYIayqjlOtBVUj3-kWou/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_109B9ELbwvBBKwulkZQ7f7u-qtCmpEqRX",
+      "url": "https://drive.google.com/file/d/109B9ELbwvBBKwulkZQ7f7u-qtCmpEqRX/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/109B9ELbwvBBKwulkZQ7f7u-qtCmpEqRX/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_12bEiVrdbXKzpZImdyE0i87fRwIumvHqH",
+      "url": "https://drive.google.com/file/d/12bEiVrdbXKzpZImdyE0i87fRwIumvHqH/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/12bEiVrdbXKzpZImdyE0i87fRwIumvHqH/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_12vD6Ckg0OLgFQyIxWj2R338jkaDmNJkH",
+      "url": "https://drive.google.com/file/d/12vD6Ckg0OLgFQyIxWj2R338jkaDmNJkH/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/12vD6Ckg0OLgFQyIxWj2R338jkaDmNJkH/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_15UuS0HErnHrN3N5b2Rle0NYwfYxoP-if",
+      "url": "https://drive.google.com/file/d/15UuS0HErnHrN3N5b2Rle0NYwfYxoP-if/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/15UuS0HErnHrN3N5b2Rle0NYwfYxoP-if/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1BGmPS_OH2kGt_4t41YfhDdFP4Is6YmJf",
+      "url": "https://drive.google.com/file/d/1BGmPS_OH2kGt_4t41YfhDdFP4Is6YmJf/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1BGmPS_OH2kGt_4t41YfhDdFP4Is6YmJf/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1EoyAm-A1yEauSDmXfPoQpS4ZeeYO0Sqb",
+      "url": "https://drive.google.com/file/d/1EoyAm-A1yEauSDmXfPoQpS4ZeeYO0Sqb/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1EoyAm-A1yEauSDmXfPoQpS4ZeeYO0Sqb/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1J_F0I8NdgCSsqAQ-JUuVfVBYdUcynN2v",
+      "url": "https://drive.google.com/file/d/1J_F0I8NdgCSsqAQ-JUuVfVBYdUcynN2v/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1J_F0I8NdgCSsqAQ-JUuVfVBYdUcynN2v/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1LyPM74aVdF50cgJbXl2yRe3K72Z6e2R_",
+      "url": "https://drive.google.com/file/d/1LyPM74aVdF50cgJbXl2yRe3K72Z6e2R_/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1LyPM74aVdF50cgJbXl2yRe3K72Z6e2R_/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1NNzIgWqQ4gnEs4dgUdeQ9v0tx93taiNP",
+      "url": "https://drive.google.com/file/d/1NNzIgWqQ4gnEs4dgUdeQ9v0tx93taiNP/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1NNzIgWqQ4gnEs4dgUdeQ9v0tx93taiNP/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1Pnwr_UHMb5Ta702n57i7AurSjGQXtxBf",
+      "url": "https://drive.google.com/file/d/1Pnwr_UHMb5Ta702n57i7AurSjGQXtxBf/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Pnwr_UHMb5Ta702n57i7AurSjGQXtxBf/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1PqfXc6N-Sju8NDIT8Z9E5xzfeSr21iLG",
+      "url": "https://drive.google.com/file/d/1PqfXc6N-Sju8NDIT8Z9E5xzfeSr21iLG/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1PqfXc6N-Sju8NDIT8Z9E5xzfeSr21iLG/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1RdoXKRAejiGaRlbC_qIBsHslo-GZWUL-",
+      "url": "https://drive.google.com/file/d/1RdoXKRAejiGaRlbC_qIBsHslo-GZWUL-/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1RdoXKRAejiGaRlbC_qIBsHslo-GZWUL-/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1TrUg2G1b_NujfyiQ3sfETj1nor4I4Duo",
+      "url": "https://drive.google.com/file/d/1TrUg2G1b_NujfyiQ3sfETj1nor4I4Duo/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1TrUg2G1b_NujfyiQ3sfETj1nor4I4Duo/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1UA2i5sS4b9omWzq6i6b0DU27nn3MQS3T",
+      "url": "https://drive.google.com/file/d/1UA2i5sS4b9omWzq6i6b0DU27nn3MQS3T/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1UA2i5sS4b9omWzq6i6b0DU27nn3MQS3T/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1UM6fYOOd2fz-qkyWwLITI8_g6pFb8Oqt",
+      "url": "https://drive.google.com/file/d/1UM6fYOOd2fz-qkyWwLITI8_g6pFb8Oqt/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1UM6fYOOd2fz-qkyWwLITI8_g6pFb8Oqt/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1UkVM6ZNJmpEkynCzBoPTopMdaMCysnwQ",
+      "url": "https://drive.google.com/file/d/1UkVM6ZNJmpEkynCzBoPTopMdaMCysnwQ/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1UkVM6ZNJmpEkynCzBoPTopMdaMCysnwQ/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1UnnCs4BrMUol91hYTU8Al75wla2z0H0g",
+      "url": "https://drive.google.com/file/d/1UnnCs4BrMUol91hYTU8Al75wla2z0H0g/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1UnnCs4BrMUol91hYTU8Al75wla2z0H0g/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1VeoRdYafAki3Pzkri5QNZSNpCGXWeLnS",
+      "url": "https://drive.google.com/file/d/1VeoRdYafAki3Pzkri5QNZSNpCGXWeLnS/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1VeoRdYafAki3Pzkri5QNZSNpCGXWeLnS/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1WTIih6PU3Y_SK8bYkMS6ijr2S9RBCYUo",
+      "url": "https://drive.google.com/file/d/1WTIih6PU3Y_SK8bYkMS6ijr2S9RBCYUo/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1WTIih6PU3Y_SK8bYkMS6ijr2S9RBCYUo/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1W_-zvXgM3FhkYQbX5Yywqlq8Okj0c5T3",
+      "url": "https://drive.google.com/file/d/1W_-zvXgM3FhkYQbX5Yywqlq8Okj0c5T3/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1W_-zvXgM3FhkYQbX5Yywqlq8Okj0c5T3/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1Wk7yvgF7ZMCY4ZB-_ib6y6Q2ohhPpDK8",
+      "url": "https://drive.google.com/file/d/1Wk7yvgF7ZMCY4ZB-_ib6y6Q2ohhPpDK8/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1Wk7yvgF7ZMCY4ZB-_ib6y6Q2ohhPpDK8/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1YoiiHe9-67vWtR7yCUrs4KiQ6Z0IenRz",
+      "url": "https://drive.google.com/file/d/1YoiiHe9-67vWtR7yCUrs4KiQ6Z0IenRz/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1YoiiHe9-67vWtR7yCUrs4KiQ6Z0IenRz/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1YpJhaFsqV3XZcXTfJ6DZtKSUW57csRei",
+      "url": "https://drive.google.com/file/d/1YpJhaFsqV3XZcXTfJ6DZtKSUW57csRei/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1YpJhaFsqV3XZcXTfJ6DZtKSUW57csRei/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1_iQOtI9sQsmTQtvGf_8ef0jvw-nDNWbR",
+      "url": "https://drive.google.com/file/d/1_iQOtI9sQsmTQtvGf_8ef0jvw-nDNWbR/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1_iQOtI9sQsmTQtvGf_8ef0jvw-nDNWbR/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1cSG_xlQzcFxuevkdsE7aK6zNFxsVile3",
+      "url": "https://drive.google.com/file/d/1cSG_xlQzcFxuevkdsE7aK6zNFxsVile3/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1cSG_xlQzcFxuevkdsE7aK6zNFxsVile3/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1cxNbI-Nr7Q02A9Ljfa4d4IZgwg7_gNQv",
+      "url": "https://drive.google.com/file/d/1cxNbI-Nr7Q02A9Ljfa4d4IZgwg7_gNQv/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1cxNbI-Nr7Q02A9Ljfa4d4IZgwg7_gNQv/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1dYaVl_88dHV0o4pr-4R_bqLY9cZsra8o",
+      "url": "https://drive.google.com/file/d/1dYaVl_88dHV0o4pr-4R_bqLY9cZsra8o/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1dYaVl_88dHV0o4pr-4R_bqLY9cZsra8o/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1fFUXZfQx_zYvDEBagBZDHm1MTu7umSaU",
+      "url": "https://drive.google.com/file/d/1fFUXZfQx_zYvDEBagBZDHm1MTu7umSaU/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1fFUXZfQx_zYvDEBagBZDHm1MTu7umSaU/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1jTdPwya7-nKSv8BPUH2-6Px9Xj_Hfs4U",
+      "url": "https://drive.google.com/file/d/1jTdPwya7-nKSv8BPUH2-6Px9Xj_Hfs4U/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1jTdPwya7-nKSv8BPUH2-6Px9Xj_Hfs4U/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1kuDlY3B3aLNrI6h9apvqA1Oj373Z_BOX",
+      "url": "https://drive.google.com/file/d/1kuDlY3B3aLNrI6h9apvqA1Oj373Z_BOX/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1kuDlY3B3aLNrI6h9apvqA1Oj373Z_BOX/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1lecyr1FXvJb_xCuf65yxhZH5Tl6rdjOi",
+      "url": "https://drive.google.com/file/d/1lecyr1FXvJb_xCuf65yxhZH5Tl6rdjOi/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1lecyr1FXvJb_xCuf65yxhZH5Tl6rdjOi/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1m8drB2kXittdM3OC5Z_QXxkC5QtCRopO",
+      "url": "https://drive.google.com/file/d/1m8drB2kXittdM3OC5Z_QXxkC5QtCRopO/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1m8drB2kXittdM3OC5Z_QXxkC5QtCRopO/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1m_0k8d_mtT9hnqXZo-mSgBoYyV-oQWP0",
+      "url": "https://drive.google.com/file/d/1m_0k8d_mtT9hnqXZo-mSgBoYyV-oQWP0/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1m_0k8d_mtT9hnqXZo-mSgBoYyV-oQWP0/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1noIehCKeSQ7TCMUtljxds-c60Gk4nxT6",
+      "url": "https://drive.google.com/file/d/1noIehCKeSQ7TCMUtljxds-c60Gk4nxT6/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1noIehCKeSQ7TCMUtljxds-c60Gk4nxT6/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1npKzo1pKkpWtBqEusf7HJmELLjUpDIU-",
+      "url": "https://drive.google.com/file/d/1npKzo1pKkpWtBqEusf7HJmELLjUpDIU-/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1npKzo1pKkpWtBqEusf7HJmELLjUpDIU-/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1rudeD6WLIvjjLIxTRfGam58M5CZnMqjX",
+      "url": "https://drive.google.com/file/d/1rudeD6WLIvjjLIxTRfGam58M5CZnMqjX/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1rudeD6WLIvjjLIxTRfGam58M5CZnMqjX/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1uqQ8orPbanfdytW2j4rpp3Z9BWtbD-2B",
+      "url": "https://drive.google.com/file/d/1uqQ8orPbanfdytW2j4rpp3Z9BWtbD-2B/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1uqQ8orPbanfdytW2j4rpp3Z9BWtbD-2B/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1vfbrUDIQndTigHJlhOHGnm-bhNE1m_g2",
+      "url": "https://drive.google.com/file/d/1vfbrUDIQndTigHJlhOHGnm-bhNE1m_g2/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1vfbrUDIQndTigHJlhOHGnm-bhNE1m_g2/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1yKgoDH10bGYIsNSrsqxmtv7bv3UP4fO9",
+      "url": "https://drive.google.com/file/d/1yKgoDH10bGYIsNSrsqxmtv7bv3UP4fO9/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1yKgoDH10bGYIsNSrsqxmtv7bv3UP4fO9/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1ydm_8OseDFT3keutB4FI8V9tvJQJeGq-",
+      "url": "https://drive.google.com/file/d/1ydm_8OseDFT3keutB4FI8V9tvJQJeGq-/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1ydm_8OseDFT3keutB4FI8V9tvJQJeGq-/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    },
+    {
+      "id": "drive_root_1zzGp74kjKULsxbI7tH1F5SmRkXkf2bsT",
+      "url": "https://drive.google.com/file/d/1zzGp74kjKULsxbI7tH1F5SmRkXkf2bsT/view",
+      "status": 200,
+      "final_url": "https://drive.google.com/file/d/1zzGp74kjKULsxbI7tH1F5SmRkXkf2bsT/view",
+      "content_type": "text/html; charset=utf-8",
+      "available": true
+    }
+  ],
+  "accepted_ids": [
+    "drive_analysis_1Avl1w2K_xT3I9zFaFFVRH2LhVAgxuVax",
+    "drive_analysis_1r0x6fil7dAqrbpS6R6dRuF2oYd91xQbi",
+    "drive_analysis_1LepftIVxqXE5kJ-ifqeWMhQ8-1AaFyuA",
+    "drive_company_policies_1WWSwpIyNE8Ae2pcNu8PBoJzSAItGuhmj",
+    "drive_drug_circulars_1J1iyviL1MF3wuM86TAcTkf2itSjiYrxh",
+    "drive_drug_circulars_1EIPmdSDn-nDCNSGTf9ODlKZSD501Mi43",
+    "drive_drug_circulars_13ErUFfDXZ0X4Aem4I5UXLI2jw6byPP8B",
+    "drive_drug_circulars_1bpxrKsRoMlZboWrl3hLFcOh8Txm9tHTf",
+    "drive_drug_circulars_11S5HySLRg_JMbn0autR3PvVoLo50zM6f",
+    "drive_drug_circulars_1zpw7OBw7SWMSXMIa0D8JO52N3bIwe95I",
+    "drive_drug_circulars_1zuiDYEFpsn2C8_GBH9k5TnfvxTRBrWn-",
+    "drive_drug_circulars_1qC_d9oVHTQTlfeMpeB-t3LOfnhYvYxna",
+    "drive_drug_circulars_17YcPLeeGDYnbcC59BsTJE4nbk5HdAOOo",
+    "drive_drug_circulars_1evXQdmX3Nrc50DsVUTHB-CwbNBe3aQlq",
+    "drive_drug_circulars_1IXTSUdIjmiQxEDCgGBRR8qC8US0M2lx4",
+    "drive_drug_circulars_1RH_12Qef8XL67ttLnR5GWvZazB0SbfOc",
+    "drive_drug_circulars_1TKC9wIPr-zqteiliOXCCS-QkLGjrMU7y",
+    "drive_drug_circulars_192wZitqo7py1LR-hROY2xlROXJpQQrFT",
+    "drive_drug_circulars_1q-j5Uksunuqf9xnV-RiG1tXlZtSZuh2Y",
+    "drive_drug_circulars_1HJ-llje4IMO0MBcok7A13sr3WTD35rQ0",
+    "drive_drug_circulars_1X_KuQdAFZCekbjpPE9OT2zARkimkmUtM",
+    "drive_drug_circulars_1t24-ndY1BsQMi3__qFGUdZBrhmWshDf0",
+    "drive_drug_circulars_1CUthJMeiMgDC29zxqNwR76_N6_dsmwm5",
+    "drive_drug_circulars_1s0cgSNfxWdALN-IDU-yzKYqxVcQsQ1gj",
+    "drive_drug_circulars_1I68Jt1oeg3RnMDt5O-oql_cbfWhhGHri",
+    "drive_drug_circulars_1Pjaz8_wd9jNIT8IRhy1-Z7n9-hHwpLLJ",
+    "drive_drug_circulars_1hnuWYGP_SrGq-vV-1qjDjHTQ1vu-QZhM",
+    "drive_drug_circulars_1oEKTRhT45E2McPkMzfWefm5-BAfqk2yE",
+    "drive_drug_circulars_1uUl-0y-GH8H2No_5o504Ntzkhq5IQuV8",
+    "drive_drug_circulars_12QSh0UHAwYfmKP6qsEMh-R1zMJF6VV7N",
+    "drive_drug_circulars_1kV3hnv160Yz_kQzqQu_vQ2WkLIQhvKVq",
+    "drive_drug_circulars_1azBugq4oupzbueoBRhIQQ57dyxfSV0EW",
+    "drive_drug_circulars_1kw0nAjQ285mercnzpEjmKR8JM6UfM_t8",
+    "drive_drug_circulars_1vWHaqLA8q_VHg1QU1rkWSLU9Sm-tEoWV",
+    "drive_drug_circulars_1irrn4qdK6cDAS0yVOsTY1zHuoq4yDONt",
+    "drive_drug_circulars_17CP7juTfFMK96akHWgwBdJqEnCw9wd5J",
+    "drive_drug_circulars_1KJ39lbxaLp67E84OaJFXKjndmMrORShx",
+    "drive_drug_circulars_1dUzxIV0QFkELzw2sGgOIIMZapipFLqLf",
+    "drive_drug_memos_1gpa_xM0DNZeUApIw19r7xh14eUiBoogB",
+    "drive_drug_memos_1Wh5vsG7NodjKdSEYdedaZxqrnC0eXWyJ",
+    "drive_drug_memos_1ok-8ta8_qL8XE5RhfOP6ZBra4FQQlim1",
+    "drive_drug_memos_1EN3kqxmfji-trUDB8v0AyFzUkiSGi0wL",
+    "drive_drug_memos_10fuwy3cqj4h2Nk-Qc6LcQpmzvhPd78Qy",
+    "drive_drug_memos_1yJEtEJmhXY9lHY5BICbl8so6QI7FOx8W",
+    "drive_drug_memos_1DtWLcYSY8pRMq_sN2pXzeQIDtxLWYwFc",
+    "drive_drug_memos_1swPQbRpqZfmFdmxJ-FjP72uNnY-NAXpb",
+    "drive_drug_memos_1bV-cUoCRHMKUK9Vg4v8atuy4bxsd536K",
+    "drive_drug_memos_16mllqyuB5_XjB3s28kr5jNFCwsYrgTSk",
+    "drive_drug_memos_1TEZ-2gYrFsQ6tQ0YxcenF06H4mRIIs7V",
+    "drive_drug_memos_1pxRfivRgLLCfV7Y8V6MC6geNgafjH5ET",
+    "drive_drug_memos_1Ftg9k1WhN8870wCPGxnva7gSJE3iipdf",
+    "drive_drug_memos_1ejYhBzTSCBTJY1PSqjEWpx6zSN9-T7xA",
+    "drive_drug_precedents_1J45l4lW-hZm7A7dWRKUyisSIcq-zanR0",
+    "drive_drug_precedents_1Axdwud-K2NaMNKSP1ZnhBBk9hUq_Li2I",
+    "drive_drug_precedents_14s3WjxJ8uBb7WIujpkudRQrtiYNb5k7a",
+    "drive_drug_precedents_1nNgzLuIyHr9QN5WRpQq7nchG2TT3Z1so",
+    "drive_drug_precedents_1nvsGNpuRd9fJUnKIhoKJzf2m9hqQsBrS",
+    "drive_drug_precedents_15N88dqrbWvo3Z1qmbSvGkxFt8rMyAdQq",
+    "drive_drug_precedents_1G3ao91bQu405KRsRhqoctrb4gbwOSYxU",
+    "drive_drug_precedents_1b_zxUUQzaER__TxHdIITQfsE88bDSavl",
+    "drive_drug_precedents_1ZSSsJqWpvjxez22wpjxso26qCaa_XmGB",
+    "drive_drug_precedents_1D-Unzg7i7nFbFYQjhEu4e8PG5-fZZ9Rm",
+    "drive_drug_precedents_1_ZF2ovCiaQd7zD5Bl9IUC6iyyhc9RbAn",
+    "drive_drug_precedents_1F-9u1Cn03adhML9erTmFJk_XuyUZkc6C",
+    "drive_drug_precedents_15wS0KKzrG7-1S-SAHw0kfFaFRhFDGeQ4",
+    "drive_drug_precedents_1lQF-dGafseXtHEPaHzhMTJCtk0YHmYqb",
+    "drive_drug_precedents_1p6D8RmsNwL7FVgdwrg_GKjfT62t2rdMn",
+    "drive_drug_precedents_1Hrq8kpNwHoq7uvL9tgMZ90jwElxmhsv3",
+    "drive_drug_precedents_1yEIC-yPCx0IfaFylDkD8_RDp9f0NeA1r",
+    "drive_drug_precedents_1qCUbGpH_9jijyof8yM8kI-2ZHEK4CP0t",
+    "drive_drug_precedents_1lBE0V0sebMcq3QM7pk5nBopdZklAiY87",
+    "drive_drug_precedents_1jCKy9CEFCjnPY7bHHNqW40D7shC3aakb",
+    "drive_drug_precedents_1TAl1wdN9qiVZBimzkhMbiKwa8ODzDm4z",
+    "drive_drug_precedents_1QVnvjitlmPkhAL6u8ZlHHv0nXC92RHNS",
+    "drive_drug_precedents_1py0untpag5QIQhjZIGB-sDHmIWRa037L",
+    "drive_drug_precedents_1eBvWoXTwiqJT29fo7nHU2pK2-_kreTAV",
+    "drive_drug_precedents_1SFmUlW_VrXAS2qQ0YfiA1yRb3rB-eolp",
+    "drive_drug_rules_11BBhxg6ZVZGhUcmMrutCyKTntqvBE3PM",
+    "drive_drug_rules_1mDejeJB7G4gseNE2Q9E03bVDhy7SxPXk",
+    "drive_drug_rules_1yNYjQaKb712HOwLdNcMWz0lUNShRLsWy",
+    "drive_drug_rules_15oqF_9rhXmODPOivVdxmYj2LqrYO1ADN",
+    "drive_drug_rules_1UWtqOQq4VjvO5MtHOS_uPWgkTlNhekxm",
+    "drive_drug_rules_1uP4CEVbV3yN5O0KZKE8wbQJVkKCBY-Xu",
+    "drive_drug_rules_15-pbTQLuj38CYQYEMtZuYZCIs5BoGXs-",
+    "drive_drug_rules_1lPOV8VDJDcPHGDI3VKRIA2mu8L5H-CLb",
+    "drive_drug_rules_1VtVx7mf_ZM7jFC98Ayiiyh2VaAhGUnNI",
+    "drive_drug_rules_1Vsu1MfdTYCvOrWMeEXy_g0zI-RZj-atv",
+    "drive_drug_rules_1cdzgf0N_jvI3qh7GMaz5v6E93Bh58tNs",
+    "drive_drug_systems_1wlKeOz0yA0NQouqKmyJgEdpZrCXHB7t3",
+    "drive_drug_systems_1iShec-wZjI089zP4q9syn1Qua1juYcIC",
+    "drive_drug_systems_1Wqt9wA9Bs9-bxUGsxxRQP3Rh6BFGx3vC",
+    "drive_drug_systems_1oLOEVMkOqLr5Q_hFf7KmPF9RcnGffWFG",
+    "drive_lawyer_basics_1GDZWk13TEV_EyOHTuZvxgMGdrAnYSbVe",
+    "drive_legal_memos_1k4A4GSuZd3b_enunOlFb2x0lngbXx5fp",
+    "drive_precedents_merged_1xhJPX18d1gfX9rWuyMmDWah0bctpEPYy",
+    "drive_professional_certificates_15JvoRQpfqxQPMYIayqjlOtBVUj3-kWou",
+    "drive_root_1UkVM6ZNJmpEkynCzBoPTopMdaMCysnwQ",
+    "drive_root_109B9ELbwvBBKwulkZQ7f7u-qtCmpEqRX",
+    "drive_root_1Wk7yvgF7ZMCY4ZB-_ib6y6Q2ohhPpDK8",
+    "drive_root_1YpJhaFsqV3XZcXTfJ6DZtKSUW57csRei",
+    "drive_root_1RdoXKRAejiGaRlbC_qIBsHslo-GZWUL-",
+    "drive_root_1UnnCs4BrMUol91hYTU8Al75wla2z0H0g",
+    "drive_root_12vD6Ckg0OLgFQyIxWj2R338jkaDmNJkH",
+    "drive_root_1vfbrUDIQndTigHJlhOHGnm-bhNE1m_g2",
+    "drive_root_1UA2i5sS4b9omWzq6i6b0DU27nn3MQS3T",
+    "drive_root_1rudeD6WLIvjjLIxTRfGam58M5CZnMqjX",
+    "drive_root_1jTdPwya7-nKSv8BPUH2-6Px9Xj_Hfs4U",
+    "drive_root_12bEiVrdbXKzpZImdyE0i87fRwIumvHqH",
+    "drive_root_1ydm_8OseDFT3keutB4FI8V9tvJQJeGq-",
+    "drive_root_1dYaVl_88dHV0o4pr-4R_bqLY9cZsra8o",
+    "drive_root_1Pnwr_UHMb5Ta702n57i7AurSjGQXtxBf",
+    "drive_root_1cxNbI-Nr7Q02A9Ljfa4d4IZgwg7_gNQv",
+    "drive_root_1NNzIgWqQ4gnEs4dgUdeQ9v0tx93taiNP",
+    "drive_root_1noIehCKeSQ7TCMUtljxds-c60Gk4nxT6",
+    "drive_root_1PqfXc6N-Sju8NDIT8Z9E5xzfeSr21iLG",
+    "drive_root_1_iQOtI9sQsmTQtvGf_8ef0jvw-nDNWbR",
+    "drive_root_1BGmPS_OH2kGt_4t41YfhDdFP4Is6YmJf",
+    "drive_root_1zzGp74kjKULsxbI7tH1F5SmRkXkf2bsT",
+    "drive_root_1cSG_xlQzcFxuevkdsE7aK6zNFxsVile3",
+    "drive_root_1fFUXZfQx_zYvDEBagBZDHm1MTu7umSaU",
+    "drive_root_15UuS0HErnHrN3N5b2Rle0NYwfYxoP-if",
+    "drive_root_1EoyAm-A1yEauSDmXfPoQpS4ZeeYO0Sqb",
+    "drive_root_1W_-zvXgM3FhkYQbX5Yywqlq8Okj0c5T3",
+    "drive_root_1yKgoDH10bGYIsNSrsqxmtv7bv3UP4fO9",
+    "drive_root_1m_0k8d_mtT9hnqXZo-mSgBoYyV-oQWP0",
+    "drive_root_1TrUg2G1b_NujfyiQ3sfETj1nor4I4Duo",
+    "drive_root_1YoiiHe9-67vWtR7yCUrs4KiQ6Z0IenRz",
+    "drive_root_1WTIih6PU3Y_SK8bYkMS6ijr2S9RBCYUo",
+    "drive_root_1npKzo1pKkpWtBqEusf7HJmELLjUpDIU-",
+    "drive_root_1UM6fYOOd2fz-qkyWwLITI8_g6pFb8Oqt",
+    "drive_root_1uqQ8orPbanfdytW2j4rpp3Z9BWtbD-2B",
+    "drive_root_1LyPM74aVdF50cgJbXl2yRe3K72Z6e2R_",
+    "drive_root_1lecyr1FXvJb_xCuf65yxhZH5Tl6rdjOi",
+    "drive_root_1VeoRdYafAki3Pzkri5QNZSNpCGXWeLnS",
+    "drive_root_1J_F0I8NdgCSsqAQ-JUuVfVBYdUcynN2v",
+    "drive_root_1kuDlY3B3aLNrI6h9apvqA1Oj373Z_BOX",
+    "drive_root_1m8drB2kXittdM3OC5Z_QXxkC5QtCRopO"
+  ]
+}

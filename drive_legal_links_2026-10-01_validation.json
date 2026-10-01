@@ -1,0 +1,37 @@
+{
+  "result": "passed",
+  "before_total": 17481,
+  "added_total": 137,
+  "after_total": 17618,
+  "old_records_missing": 0,
+  "old_records_changed": 0,
+  "unexpected_new_records": 0,
+  "ids_duplicate_count": 0,
+  "main_public_items_match": true,
+  "main_public_stats_match": true,
+  "hero_counts": {
+    "qadaa_count": 8905,
+    "nizam_count": 7547,
+    "mohama_count": 1166
+  },
+  "hero_sum": 17618,
+  "added_by_source": {
+    "سوابق القضاء العام واللجان": 44,
+    "Google Drive — روابط قانونية": 5,
+    "DRUG CASES": 88
+  },
+  "added_by_category": {
+    "أحكام قضائية": 70,
+    "الأنظمة واللوائح": 39,
+    "المحاكم والمرافعات": 15,
+    "المحاماة والتحكيم": 3,
+    "الإفلاس": 4,
+    "الأحوال الشخصية": 6
+  },
+  "files_sha256": {
+    "items.json": "b6020f2cea9352d044398248cb053495cd256adc7aeb601de021423563c21058",
+    "client/public/items.json": "b6020f2cea9352d044398248cb053495cd256adc7aeb601de021423563c21058",
+    "stats.json": "ce5815cce21bfd7c6ce2d389d300386cf326f2ad73bc063202c7926bf8285e91",
+    "client/public/stats.json": "ce5815cce21bfd7c6ce2d389d300386cf326f2ad73bc063202c7926bf8285e91"
+  }
+}

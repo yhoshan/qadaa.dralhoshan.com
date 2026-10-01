@@ -1,0 +1,16 @@
+{
+  "created_at": "2026-10-01T20:03:23.641924+00:00",
+  "purpose": "نسخة احتياطية قبل إضافة عناوين وروابط قانونية عامة من مجلد السوابق القضائية وDRUG CASES وروابط Drive الفردية؛ دون تنزيل الملفات.",
+  "before_total": 17481,
+  "files": {
+    "items.before.json": "2fe7ddee22d16f8b3bc09b8b6bcda03be8eb28e627d165a5a736655aa67d5772",
+    "client-public-items.before.json": "2fe7ddee22d16f8b3bc09b8b6bcda03be8eb28e627d165a5a736655aa67d5772",
+    "stats.before.json": "95e30a76a0a23ebd4675c421cfb3249ccc062cbc3c389318d79fea5a6771e0ee",
+    "client-public-stats.before.json": "95e30a76a0a23ebd4675c421cfb3249ccc062cbc3c389318d79fea5a6771e0ee",
+    "useItems.before.ts": "4a5f4b31c33db62a4fd580236743570a0e8918c23195c17672fbf609b8b1c3b9",
+    "candidates.json": "854f7b1f9a25591930eb23d3236e72792792a08cf1939713406341fed4560164",
+    "precheck.json": "7a875529640c56bc1af94efdb662cb036d73c69594110a8718eae3377f5b9615",
+    "prior_eight_deletion_ids.txt": "e7278cc36c2de82419bb3c0cf148d7a142cd6203efb16054d937f5894d66d09e",
+    "SHA256SUMS.txt": "fc6f8bc7d66244a7b9f7d1e686b934261bf91ac663e0ede132067c2a8c29df52"
+  }
+}
