@@ -1,0 +1,72 @@
+{
+  "operation": "Targeted deletion by explicit IDs only",
+  "created_at_utc": "2026-10-01T11:23:00Z",
+  "total_before": 17489,
+  "targets": [
+    "qadaa_3770",
+    "rasail_15221",
+    "risail_20079",
+    "qadaa_10438",
+    "risail_45844",
+    "qadaa_6620",
+    "risail_18496",
+    "buhooth_6dfa9191"
+  ],
+  "target_records": [
+    {
+      "id": "qadaa_3770",
+      "title": "التوضيح شرح مختصر ابن الحاجب لخليل بن إسحاق المالكي من أول الكتاب إلى نهاية قضاء الفوائت",
+      "source": "مكتبة الباحث العلمي",
+      "category": "القضاء الشرعي"
+    },
+    {
+      "id": "rasail_15221",
+      "title": "الرضا بالقضاء -",
+      "source": "جامعة الرسائل العلمية",
+      "category": "القضاء الشرعي"
+    },
+    {
+      "id": "risail_20079",
+      "title": "الرضا بالقضاء -",
+      "source": "قناة الرسائل العلمية",
+      "category": "القضاء الشرعي"
+    },
+    {
+      "id": "qadaa_10438",
+      "title": "الرضا بالقضاء- سالم القرني",
+      "source": "مكتبة الباحث العلمي",
+      "category": "القضاء الشرعي"
+    },
+    {
+      "id": "risail_45844",
+      "title": "قضاء العبادات والنيابة فيها \"بحث فقهي مقارن\"",
+      "source": "قناة الرسائل العلمية",
+      "category": "القضاء الشرعي"
+    },
+    {
+      "id": "qadaa_6620",
+      "title": "قضاء الفوائت من الزكاة",
+      "source": "مكتبة الباحث العلمي",
+      "category": "القضاء الشرعي"
+    },
+    {
+      "id": "risail_18496",
+      "title": "الآخر في رسائل القاضي الفاضل 596",
+      "source": "قناة الرسائل العلمية",
+      "category": "القضاء الشرعي"
+    },
+    {
+      "id": "buhooth_6dfa9191",
+      "title": "الشاهد في رسائل القاضي الفاضل من خلال: (فصوص الفصول وعقود العقول)، لابن سناء الملك",
+      "source": "موقع بحوث - مجلة العلوم العربية - جامعة الإمام (السعودية)",
+      "category": "القضاء"
+    }
+  ],
+  "files": {
+    "items.json": "7c7374324e5c801d14036a1bc933d42e5f90ba90eef3b2f681769b41b5c7c18f",
+    "stats.json": "ef39c3eb15651ce573d36a8792b79696d2be14e9a886247aa02e1cbe2ca75032",
+    "target_ids.txt": "e7278cc36c2de82419bb3c0cf148d7a142cd6203efb16054d937f5894d66d09e",
+    "client-public/items.json": "7c7374324e5c801d14036a1bc933d42e5f90ba90eef3b2f681769b41b5c7c18f",
+    "client-public/stats.json": "ef39c3eb15651ce573d36a8792b79696d2be14e9a886247aa02e1cbe2ca75032"
+  }
+}
