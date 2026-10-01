@@ -78,7 +78,7 @@ export default function Navbar() {
                 <DialogClose className="text-xl leading-none opacity-65 transition-opacity hover:opacity-100" aria-label="إغلاق">×</DialogClose>
               </div>
 
-              <DialogDescription className="pt-1 text-right text-sm leading-8" style={{ color: "#F7FBFF", fontFamily: "Cairo, sans-serif" }}>
+              <DialogDescription className="pt-1 text-right text-sm leading-8" style={{ color: "#F7FBFF", fontFamily: "Amiri, serif" }}>
                 <span>مكنز القضاء والأنظمة والمحاماة منصة بحثية غير ربحية تُعنى بفهرسة الروابط والإحالات إلى الأبحاث والمواد النظامية والقضائية المنشورة والمتاحة عبر مصادر ومواقع خارجية، وقد أُعدّت مبادرةً لتيسير البحث وخدمة الدارسين والممارسين في الحقل العدلي.</span>
                 <br />
                 <br />
