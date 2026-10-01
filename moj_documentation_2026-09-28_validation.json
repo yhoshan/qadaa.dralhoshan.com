@@ -1,0 +1,103 @@
+{
+  "validated_at": "2026-09-28T20:33:15.976Z",
+  "data_files_identical": true,
+  "stats_files_identical": true,
+  "before_total": 17172,
+  "after_total": 17178,
+  "added_total": 6,
+  "expected_ids": [
+    "moj_docs_001",
+    "moj_docs_002",
+    "moj_docs_003",
+    "moj_docs_004",
+    "moj_docs_005",
+    "moj_docs_006"
+  ],
+  "actual_new_ids": [
+    "moj_docs_001",
+    "moj_docs_002",
+    "moj_docs_003",
+    "moj_docs_004",
+    "moj_docs_005",
+    "moj_docs_006"
+  ],
+  "exact_expected_records_present": true,
+  "official_source_count": 6,
+  "original_records_unchanged_and_in_order": true,
+  "duplicate_ids": [],
+  "stats_match_recalculation": true,
+  "hero_counts_match_stats": true,
+  "cache_buster_updated": true,
+  "search_test": {
+    "query": "شرح نظام المعاملات المدنية",
+    "result_count": 4,
+    "expected_new_ids": [
+      "moj_docs_001",
+      "moj_docs_002",
+      "moj_docs_003",
+      "moj_docs_004"
+    ]
+  },
+  "material_type_filter_test": {
+    "value": "شرح",
+    "matching_new_ids": [
+      "moj_docs_001",
+      "moj_docs_002",
+      "moj_docs_003",
+      "moj_docs_004",
+      "moj_docs_006"
+    ]
+  },
+  "additions": [
+    {
+      "id": "moj_docs_001",
+      "title": "شرح نظام المعاملات المدنية - الجزء الأول",
+      "link_direct": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=SvcXfOISMh0Odp4LFsrhBA",
+      "pages_count": "490",
+      "file_size": "4.28 MB"
+    },
+    {
+      "id": "moj_docs_002",
+      "title": "شرح نظام المعاملات المدنية - الجزء الثاني",
+      "link_direct": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=JRpH3wkbBNUBBwNr50rrPw",
+      "pages_count": "400",
+      "file_size": "3.82 MB"
+    },
+    {
+      "id": "moj_docs_003",
+      "title": "شرح نظام المعاملات المدنية - الجزء الثالث",
+      "link_direct": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=4riQF_r289bQIixdoJHLyw",
+      "pages_count": "710",
+      "file_size": "4.85 MB"
+    },
+    {
+      "id": "moj_docs_004",
+      "title": "شرح نظام المعاملات المدنية - الجزء الرابع",
+      "link_direct": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=43lIdSjzwELRUaMs2s4JTQ",
+      "pages_count": "302",
+      "file_size": "3.33 MB"
+    },
+    {
+      "id": "moj_docs_005",
+      "title": "معجم المصطلحات العدلية عربي/عربي",
+      "link_direct": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA",
+      "pages_count": "39",
+      "file_size": "7.25 MB"
+    },
+    {
+      "id": "moj_docs_006",
+      "title": "شرح نظام الأحوال الشخصية",
+      "link_direct": "https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=4DC3ARZ00YqnoqpraZMxCQ",
+      "pages_count": "508",
+      "file_size": "2.65 MB"
+    }
+  ],
+  "file_hashes": {
+    "items_json": "8adef5ca41f6a83dd81b568ae9e247f3736ea5140f7277afbf840c1ff381d05f",
+    "public_items_json": "8adef5ca41f6a83dd81b568ae9e247f3736ea5140f7277afbf840c1ff381d05f",
+    "stats_json": "9976aaabbb97de80b4e069f1ee28365f00360b6965700b39f89aa6a5912e1ba3",
+    "public_stats_json": "9976aaabbb97de80b4e069f1ee28365f00360b6965700b39f89aa6a5912e1ba3"
+  },
+  "passed": true,
+  "failed_checks": []
+}

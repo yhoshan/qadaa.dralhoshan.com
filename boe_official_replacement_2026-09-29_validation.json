@@ -1,0 +1,43 @@
+{
+  "validated_at_utc": "2026-09-29T15:48:44Z",
+  "passed": true,
+  "failures": [],
+  "before_total": 17178,
+  "official_added": 538,
+  "intermediaries_removed": 226,
+  "after_total": 17490,
+  "no_listed_removal_id_remains": true,
+  "boe_id_duplicates": 0,
+  "item_id_duplicates": 0,
+  "official_urls_valid": 538,
+  "protected_moj_preserved": [
+    "moj_docs_001",
+    "moj_docs_002",
+    "moj_docs_003",
+    "moj_docs_004",
+    "moj_docs_005",
+    "moj_docs_006"
+  ],
+  "non_target_records_changed": 0,
+  "main_public_items_match": true,
+  "main_public_stats_match": true,
+  "hero_counts": {
+    "qadaa": 8828,
+    "nizam": 7499,
+    "mohama": 1163
+  },
+  "search_test": {
+    "query": "نظام التنفيذ",
+    "match_count": 78,
+    "official_execution_found": true
+  },
+  "material_type_filter_test": {
+    "value": "نظام",
+    "result_count": 1238,
+    "all_official_records_match": true
+  },
+  "file_hashes": {
+    "items_json": "3e220763ce9530a283ecf4cf8428f587741873285ae5eb9a9459aa2ecee368af",
+    "stats_json": "fb02f8ce8e1dbad8935a35342b20ec58fad0fbb0d2905153812c6e25121fb8fe"
+  }
+}

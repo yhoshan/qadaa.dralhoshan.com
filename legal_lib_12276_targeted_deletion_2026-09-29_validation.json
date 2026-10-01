@@ -1,0 +1,32 @@
+{
+  "validated_at_utc": "2026-09-29T17:25:00Z",
+  "passed": true,
+  "before_total": 17490,
+  "after_total": 17489,
+  "public_total": 17489,
+  "removed_ids": [
+    "legal_lib_12276"
+  ],
+  "added_ids": [],
+  "changed_existing_ids": [],
+  "target_absent": true,
+  "official_present": true,
+  "official_title": "نظام الشركات",
+  "main_public_items_match": true,
+  "main_public_stats_match": true,
+  "stats_total_items": 17489,
+  "hero_counts": {
+    "qadaa": 8828,
+    "nizam": 7498,
+    "mohama": 1163
+  },
+  "hero_sum": 17489,
+  "noise_title_search_results": 0,
+  "official_search_results": 72,
+  "official_in_search": true,
+  "system_filter_results": 1237,
+  "official_in_system_filter": true,
+  "cache_token_present": true,
+  "items_sha256": "7c7374324e5c801d14036a1bc933d42e5f90ba90eef3b2f681769b41b5c7c18f",
+  "stats_sha256": "ef39c3eb15651ce573d36a8792b79696d2be14e9a886247aa02e1cbe2ca75032"
+}

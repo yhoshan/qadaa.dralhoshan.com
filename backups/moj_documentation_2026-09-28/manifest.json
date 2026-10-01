@@ -1,0 +1,12 @@
+{
+  "created_at": "2026-09-28T20:33:14.023Z",
+  "purpose": "نسخة احتياطية قبل إضافة ست وثائق عدلية رسمية من البوابة القانونية لوزارة العدل السعودية",
+  "before_total": 17172,
+  "files": {
+    "items.before.json": "8e5af5d2833af3cccf47327035c3dca8709a1a6ae77eb86d55d6439e782819f7",
+    "client-public-items.before.json": "8e5af5d2833af3cccf47327035c3dca8709a1a6ae77eb86d55d6439e782819f7",
+    "stats.before.json": "afc81ee0e58cb42f7c495a803995c0f3cca279ec82633a84118a724d18bc6d08",
+    "client-public-stats.before.json": "afc81ee0e58cb42f7c495a803995c0f3cca279ec82633a84118a724d18bc6d08",
+    "useItems.before.ts": "10f678305fea71e6f547966e9babb66e9741fd824cd102f6197bb8af77deb47d"
+  }
+}

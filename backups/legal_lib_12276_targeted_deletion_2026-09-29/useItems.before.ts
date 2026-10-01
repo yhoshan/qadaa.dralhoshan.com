@@ -51,8 +51,8 @@ export function useItems() {
 
   useEffect(() => {
     Promise.all([
-      fetch(`/items.json?v=legal-lib-12276-targeted-removal-2026-09-29`).then((r) => r.json()),
-      fetch(`/stats.json?v=legal-lib-12276-targeted-removal-2026-09-29`).then((r) => r.json()),
+      fetch(`/items.json?v=boe-official-canonical-538-2026-09-29`).then((r) => r.json()),
+      fetch(`/stats.json?v=boe-official-canonical-538-2026-09-29`).then((r) => r.json()),
     ])
       .then(([itemsData, statsData]) => {
         setItems(itemsData);

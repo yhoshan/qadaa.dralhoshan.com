@@ -1,0 +1,16 @@
+{
+  "created_at_utc": "2026-09-29T15:45:00Z",
+  "purpose": "نسخة احتياطية قبل إضافة 538 سجلاً رسمياً من هيئة الخبراء وحذف 226 وسيطاً محدداً بالمعرف فقط",
+  "before_total": 17178,
+  "files": {
+    "SHA256SUMS.txt": "c33816f7f2bf1d0673f51b4dfd93a7aa6af2216742c43ee9ed70fcfc7e949511",
+    "client-public-items.before.json": "8adef5ca41f6a83dd81b568ae9e247f3736ea5140f7277afbf840c1ff381d05f",
+    "client-public-stats.before.json": "9976aaabbb97de80b4e069f1ee28365f00360b6965700b39f89aa6a5912e1ba3",
+    "inputs/qadaa_add_boe_official_538.csv": "4d974e9a4c8fe767a406376179a0f45e866ca1c9d446b174cd4174adab15e81b",
+    "inputs/qadaa_boe_execution_manifest.json": "30adb13b8f7be0390f73bb83c01c29d7d50efd3294bc947439bb1987613c4456",
+    "inputs/qadaa_remove_intermediary_226.csv": "14773bf97b88b2c068dc54ae84ca940d404061a19b6560ee0d930ea303679a43",
+    "items.before.json": "8adef5ca41f6a83dd81b568ae9e247f3736ea5140f7277afbf840c1ff381d05f",
+    "stats.before.json": "9976aaabbb97de80b4e069f1ee28365f00360b6965700b39f89aa6a5912e1ba3",
+    "useItems.before.ts": "c7ab54618c86a6189ba15c2a0204aaca9886250bf4bdf4dd4cf58059ead644d3"
+  }
+}

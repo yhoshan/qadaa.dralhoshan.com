@@ -1,0 +1,13 @@
+{
+  "created_at_utc": "2026-09-29T17:24:00Z",
+  "purpose": "نسخة احتياطية قبل حذف legal_lib_12276 فقط بالمعرف",
+  "before_total": 17490,
+  "target_id": "legal_lib_12276",
+  "files": {
+    "items.before.json": "3e220763ce9530a283ecf4cf8428f587741873285ae5eb9a9459aa2ecee368af",
+    "client-public-items.before.json": "3e220763ce9530a283ecf4cf8428f587741873285ae5eb9a9459aa2ecee368af",
+    "stats.before.json": "fb02f8ce8e1dbad8935a35342b20ec58fad0fbb0d2905153812c6e25121fb8fe",
+    "client-public-stats.before.json": "fb02f8ce8e1dbad8935a35342b20ec58fad0fbb0d2905153812c6e25121fb8fe",
+    "useItems.before.ts": "4639c6de316a734042d14d05ee8ae8dff703fbf04fd0b84bf2e0413bd5ddab9e"
+  }
+}

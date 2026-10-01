@@ -1,0 +1,11 @@
+{
+  "executed_at_utc": "2026-09-29T17:24:00Z",
+  "target_id": "legal_lib_12276",
+  "target_title": "نظام الشركات بوابة هيئة الخبراء",
+  "before_total": 17490,
+  "removed_total": 1,
+  "after_total": 17489,
+  "preserved_official_id": "boe_a8376aea-1bc3-49d4-9027-aed900b555af",
+  "backup_directory": "backups/legal_lib_12276_targeted_deletion_2026-09-29",
+  "cache_buster": "legal-lib-12276-targeted-removal-2026-09-29"
+}
