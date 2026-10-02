@@ -1,0 +1,26 @@
+{
+  "result": "passed",
+  "before_total": 17619,
+  "added_total": 721,
+  "after_total": 18340,
+  "existing_records_unchanged": 17619,
+  "missing_existing_records": 0,
+  "changed_existing_records": 0,
+  "added_records": 721,
+  "duplicate_id_count": 0,
+  "main_public_items_match": true,
+  "main_public_stats_match": true,
+  "tabseet_source_count": 722,
+  "hero_counts": {
+    "qadaa_count": 8905,
+    "nizam_count": 8269,
+    "mohama_count": 1166
+  },
+  "cache_token": "qadaa-tabseet-civil-articles-2026-10-02",
+  "files_sha256": {
+    "items.json": "86f97212c29a15b6e35abece5d9d52016adcac17a7fdb16f81f16fe47fa6b68e",
+    "client/public/items.json": "86f97212c29a15b6e35abece5d9d52016adcac17a7fdb16f81f16fe47fa6b68e",
+    "stats.json": "e4ca63071093d731b280105922d06859b51efafe985e0216080a91f057ccb4ad",
+    "client/public/stats.json": "e4ca63071093d731b280105922d06859b51efafe985e0216080a91f057ccb4ad"
+  }
+}

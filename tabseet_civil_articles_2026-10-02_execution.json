@@ -1,0 +1,12 @@
+{
+  "operation": "add_tabseet_civil_articles",
+  "executed_at": "2026-10-02T17:18:18.022282+00:00",
+  "before_total": 17619,
+  "added_total": 721,
+  "after_total": 18340,
+  "first_added_id": "tabseet_ncm_001",
+  "last_added_id": "tabseet_ncm_721",
+  "cache_token": "qadaa-tabseet-civil-articles-2026-10-02",
+  "items_sha256": "86f97212c29a15b6e35abece5d9d52016adcac17a7fdb16f81f16fe47fa6b68e",
+  "stats_sha256": "ec25570965ccbc7392ce06d5126fd8b3b94446adfe7e3486e9137def3e7b279e"
+}

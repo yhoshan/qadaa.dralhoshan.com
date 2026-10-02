@@ -51,8 +51,8 @@ export function useItems() {
 
   useEffect(() => {
     Promise.all([
-      fetch(`/items.json?v=qadaa-tabseet-civil-articles-2026-10-02`).then((r) => r.json()),
-      fetch(`/stats.json?v=qadaa-tabseet-civil-articles-2026-10-02`).then((r) => r.json()),
+      fetch(`/items.json?v=qadaa-tabseet-reference-2026-10-02`).then((r) => r.json()),
+      fetch(`/stats.json?v=qadaa-tabseet-reference-2026-10-02`).then((r) => r.json()),
     ])
       .then(([itemsData, statsData]) => {
         setItems(itemsData);
