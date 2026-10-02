@@ -1,0 +1,14 @@
+{
+  "operation": "add_single_tabseet_reference",
+  "created_at": "2026-10-02",
+  "before_total": 17618,
+  "files": {
+    "SHA256SUMS.txt": "357d9a0b135fb95026abd75c7279561b3ba3097c14d76ad581b67f35853c8f95",
+    "hero_stats_audit.before.json": "d5fb5420a4adda1e66020b17f58541e36d15e3df7b367dc8e60bbc3fc22310b8",
+    "items.before.json": "b6020f2cea9352d044398248cb053495cd256adc7aeb601de021423563c21058",
+    "items.public.before.json": "b6020f2cea9352d044398248cb053495cd256adc7aeb601de021423563c21058",
+    "stats.before.json": "ce5815cce21bfd7c6ce2d389d300386cf326f2ad73bc063202c7926bf8285e91",
+    "stats.public.before.json": "ce5815cce21bfd7c6ce2d389d300386cf326f2ad73bc063202c7926bf8285e91",
+    "useItems.before.ts": "469749df86c356976e1c9a1214f5def6d4114da0805a7830d66283ec2ba33303"
+  }
+}

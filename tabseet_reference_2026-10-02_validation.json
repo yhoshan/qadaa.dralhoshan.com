@@ -1,0 +1,25 @@
+{
+  "result": "passed",
+  "before_total": 17618,
+  "added_total": 1,
+  "after_total": 17619,
+  "target_id": "tabseet_civil_transactions_001",
+  "unchanged_old_records": 17618,
+  "old_records_missing": 0,
+  "old_records_changed": 0,
+  "duplicate_id_count": 0,
+  "main_public_items_match": true,
+  "main_public_stats_match": true,
+  "cache_token": "qadaa-tabseet-reference-2026-10-02",
+  "hero_counts": {
+    "qadaa_count": 8905,
+    "nizam_count": 7548,
+    "mohama_count": 1166
+  },
+  "files_sha256": {
+    "items.json": "be6f33077c69252d9b87fd92b9c2a76b1c9525a7aa7a86e0336fd6720459db02",
+    "client/public/items.json": "be6f33077c69252d9b87fd92b9c2a76b1c9525a7aa7a86e0336fd6720459db02",
+    "stats.json": "f2ecc79f33f9a78742a3b40ece8f2e6e6f9c404ab48d5f3bdb84f1c22a7e1058",
+    "client/public/stats.json": "f2ecc79f33f9a78742a3b40ece8f2e6e6f9c404ab48d5f3bdb84f1c22a7e1058"
+  }
+}

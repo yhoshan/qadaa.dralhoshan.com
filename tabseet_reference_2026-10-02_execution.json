@@ -1,0 +1,11 @@
+{
+  "operation": "add_single_tabseet_reference",
+  "executed_at": "2026-10-02T14:23:20.902170+00:00",
+  "before_total": 17618,
+  "added_id": "tabseet_civil_transactions_001",
+  "added_title": "تبسيط نظام المعاملات المدنية: فهرس وشرح ودفوع وحاسبة مدد",
+  "after_total": 17619,
+  "cache_token": "qadaa-tabseet-reference-2026-10-02",
+  "items_sha256": "be6f33077c69252d9b87fd92b9c2a76b1c9525a7aa7a86e0336fd6720459db02",
+  "stats_sha256": "34419244e264b4ddb312384bbcb05723bc76a80f2d49475cba6bc6a67a2ff040"
+}
