@@ -1,0 +1,10 @@
+{
+  "before_total": 20001,
+  "added_total": 54,
+  "after_total": 20055,
+  "source_count": 54,
+  "duplicate_ids": 0,
+  "items_sha256": "b9870ad17e52c13b121b2308969c017e5967bda288092655d0dfeea647e21970",
+  "stats_sha256": "57d5b77c3e5f5b0ba64d283b2e000f7b5f1d110f0e0e3c70c7f800cac6e20bfe",
+  "result": "passed"
+}

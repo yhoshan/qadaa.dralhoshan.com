@@ -1,0 +1,27 @@
+{
+  "status": "passed",
+  "before_total": 20080,
+  "candidate_total": 26461,
+  "after_total": 46541,
+  "added_by_source": {
+    "تسهيل الأنظمة": 220,
+    "مكتبة القاضي محمد الأهدل القانونية والقضائية": 25151,
+    "مكتبة القاضي صلاح سيف القانونية والقضائية": 1090
+  },
+  "hero_counts": {
+    "qadaa_count": 14333,
+    "nizam_count": 30387,
+    "mohama_count": 1821
+  },
+  "items_hash": "cfd953c3fc99e47d317503d80db3fde5cbb50fae96f2c7a4a42c648527689abd",
+  "stats_hash": "6f4387067da2bbd42305227199d0ad704b1419adbf535b687a013ec508849e14",
+  "main_public_items_match": true,
+  "main_public_stats_match": true,
+  "ids_unique": true,
+  "all_preexisting_records_unchanged": true,
+  "new_titles_unique_and_not_preexisting": true,
+  "political_titles_in_new_batch": 0,
+  "public_telegram_links_in_new_batch": 26461,
+  "cache_token": "qadaa-qadi-libraries-2026-10-03",
+  "stats_rebuilt": true
+}

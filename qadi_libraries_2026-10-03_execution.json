@@ -1,0 +1,19 @@
+{
+  "operation": "add_qadi_libraries_2026_10_03",
+  "executed_at": "2026-10-03T20:27:31.280209+00:00",
+  "before_total": 20080,
+  "added_total": 26461,
+  "after_total": 46541,
+  "added_by_source": {
+    "تسهيل الأنظمة": 220,
+    "مكتبة القاضي محمد الأهدل القانونية والقضائية": 25151,
+    "مكتبة القاضي صلاح سيف القانونية والقضائية": 1090
+  },
+  "first_added_id": "muath_11",
+  "last_added_id": "qadi_salah_5639",
+  "cache_token": "qadaa-qadi-libraries-2026-10-03",
+  "items_sha256": "cfd953c3fc99e47d317503d80db3fde5cbb50fae96f2c7a4a42c648527689abd",
+  "public_items_sha256": "cfd953c3fc99e47d317503d80db3fde5cbb50fae96f2c7a4a42c648527689abd",
+  "stats_sha256": "5521e4149aa6cb700f22317568c4f364bc922083238f5c601c8b649b719fa98a",
+  "public_stats_sha256": "5521e4149aa6cb700f22317568c4f364bc922083238f5c601c8b649b719fa98a"
+}

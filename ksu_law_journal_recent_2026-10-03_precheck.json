@@ -1,0 +1,72 @@
+{
+  "candidates": 56,
+  "exact_duplicate_count": 2,
+  "exact_duplicates": [
+    {
+      "candidate": {
+        "id": "ksu_lps_v34_i1_04",
+        "title": "تقدير قيمة الحصص العينية في شركات المساهمة العامة: دراسة مقارنة",
+        "author": "أحمد أبوزينة",
+        "investigator": "",
+        "publisher": "جامعة الملك سعود",
+        "year": "2022",
+        "link_telegram": "",
+        "link_drive": "",
+        "link_direct": "https://clps.ksu.edu.sa/sites/clps.ksu.edu.sa/files/imce_images/ldd1_lmjld_34.pdf",
+        "source": "مجلة جامعة الملك سعود للحقوق والعلوم السياسية",
+        "category": "البحوث القانونية والسياسية",
+        "material_type": "بحث",
+        "file_type": "PDF",
+        "file_size": "",
+        "pages_count": "",
+        "is_featured": false,
+        "download_links_count": 1,
+        "issue_label": "المجلد 34 العدد 1 لعام 1443هـ",
+        "issue_archive_index": 25,
+        "start_page": "79",
+        "source_archive_url": "https://clps.ksu.edu.sa/en/node/1070"
+      },
+      "matches": [
+        {
+          "id": "lawlibrary_252",
+          "title": "تقدير قيمة الحصص العينية في شركات المساهمة العامة: دراسة مقارنة",
+          "source": "مكتبة القانون"
+        }
+      ]
+    },
+    {
+      "candidate": {
+        "id": "ksu_lps_v34_i1_06",
+        "title": "إشكاليات اللائحة التنفيذية: دراسة تطبيقية على النظام في المملكة العربية السعودية",
+        "author": "حمدي محمد العجمي",
+        "investigator": "",
+        "publisher": "جامعة الملك سعود",
+        "year": "2022",
+        "link_telegram": "",
+        "link_drive": "",
+        "link_direct": "https://clps.ksu.edu.sa/sites/clps.ksu.edu.sa/files/imce_images/ldd1_lmjld_34.pdf",
+        "source": "مجلة جامعة الملك سعود للحقوق والعلوم السياسية",
+        "category": "البحوث القانونية والسياسية",
+        "material_type": "بحث",
+        "file_type": "PDF",
+        "file_size": "",
+        "pages_count": "",
+        "is_featured": false,
+        "download_links_count": 1,
+        "issue_label": "المجلد 34 العدد 1 لعام 1443هـ",
+        "issue_archive_index": 25,
+        "start_page": "133",
+        "source_archive_url": "https://clps.ksu.edu.sa/en/node/1070"
+      },
+      "matches": [
+        {
+          "id": "lawlibrary_243",
+          "title": "إشكاليات اللائحة التنفيذية: دراسة تطبيقية على النظام في المملكة العربية السعودية",
+          "source": "مكتبة القانون"
+        }
+      ]
+    }
+  ],
+  "near_match_count": 0,
+  "near_matches": []
+}

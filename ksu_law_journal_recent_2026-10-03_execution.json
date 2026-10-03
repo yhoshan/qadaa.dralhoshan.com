@@ -1,0 +1,15 @@
+{
+  "operation": "add_ksu_law_journal_recent_articles",
+  "executed_at": "2026-10-03T19:32:47.376489+00:00",
+  "before_total": 20001,
+  "candidate_total": 56,
+  "excluded_existing_exact_duplicates": [
+    "ksu_lps_v34_i1_04",
+    "ksu_lps_v34_i1_06"
+  ],
+  "added_total": 54,
+  "after_total": 20055,
+  "cache_token": "qadaa-ksu-law-journal-recent-2026-10-03",
+  "items_sha256": "b9870ad17e52c13b121b2308969c017e5967bda288092655d0dfeea647e21970",
+  "stats_sha256": "8fb542e47bb8cde3531ba5b76f89a5ead6d077975daef8e39abd0652fa1e3f49"
+}

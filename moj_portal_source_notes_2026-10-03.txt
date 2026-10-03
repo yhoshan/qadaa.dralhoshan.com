@@ -1,0 +1,51 @@
+ملاحظات مصدر وزارة العدل السعودية — البوابة القانونية
+تاريخ الفحص: 2026-10-03
+
+المصدر الرئيسي: https://laws.moj.gov.sa/ar
+التصنيف: بوابة حكومية رسمية للأنظمة العدلية والأحكام القضائية ومعاجم المصطلحات والوثائق العدلية.
+
+المسارات المهمة المتحققة:
+1) فهرس الأحكام القضائية:
+https://laws.moj.gov.sa/ar/JudicialDecisionsList/0?pageNumber=1&pageSize=12&viewType=grid&sortingBy=2
+- يذكر الفهرس 4,425 صفحة ظاهرة في واجهته عند 12 نتيجة في الصفحة.
+- السجل الظاهر يحتوي: المعرّف المشفر، رقم الحكم، تاريخ الحكم الهجري، المحكمة، المدينة، نوع المحكمة.
+- رابط تفاصيل الحكم يبنى كالتالي:
+  https://laws.moj.gov.sa/ar/JudicialDecisionsList/{courtType}/{id}
+- واجهة البيانات الرسمية المتحققة:
+  POST https://laws-gateway.moj.gov.sa/apis/legislations/v1/Judgements/judgements-list
+  Headers: languageCode: ar
+  حمولة تجريبية ناجحة:
+  {"courtTypes":0,"pageNumber":1,"pageSize":12,"identityNumber":"","sortingBy":2}
+- الاستجابة JSON ناجحة وتحتوي model.judgementsCollection. رفع pageSize إلى 100 رُفض من البوابة؛ يلزم التصفح بحجم 12.
+
+2) الوثائق العدلية:
+https://laws.moj.gov.sa/ar/documentation?type=1
+- القائمة الرسمية الحالية تعرض ست وثائق:
+  شرح نظام المعاملات المدنية - الأجزاء 1 إلى 4.
+  معجم المصطلحات العدلية عربي/عربي.
+  شرح نظام الأحوال الشخصية.
+- هذه الوثائق الست موجودة سابقاً في المكنز بالمعرفات moj_docs_001 إلى moj_docs_006، لذا لا تضاف ثانية.
+
+3) معجم المصطلحات العدلية:
+https://laws.moj.gov.sa/ar/dictionaries
+- معجم ويب عربي/إنجليزي، ويعرض مصطلحات قضائية وترجماتها. لا يقدّم عنوان مادة مستقل لكل مصطلح؛ لا يُفهرس كسجلات منفردة في هذه الدفعة.
+
+4) روابط رسمية من صفحة خدمات البوابة:
+- معجم المصطلحات العدلية عربي/عربي (موجود سابقاً):
+  https://laws-gateway.moj.gov.sa/apis/legislations/v1/ExportDocument/pdf?Serial=C3O9dWSbRvCEWj78UDAmYA
+- معجم المصطلحات العدلية عربي/إنجليزي:
+  https://www.moj.gov.sa/Documents/DictionaryOfLegalTermsV1.pdf
+- شرح نظام الإثبات:
+  https://www.moj.gov.sa/Documents/Sharing/ExplanationOfTheProofSystem.pdf
+- أحكام الإفلاس:
+  https://www.moj.gov.sa/ar/Ministry/Departments/ResearchCenter/Pages/AlaflasCourtDoc.aspx
+- وثيقة الإجراءات الجزائية ووثيقة نظام المرافعات الشرعية مذكورتان في خدمات البوابة وسيتحقق من روابطهما قبل الإدخال.
+
+5) الأنظمة العدلية:
+https://laws.moj.gov.sa/ar/legislations-regulations?type=1
+- صفحة ديناميكية؛ يجب الاعتماد على واجهة البوابة الرسمية أو منع التكرار مقابل سجلات هيئة الخبراء الموجودة في المكنز قبل إدخال أي نظام.
+
+المبدأ المعتمد لهذه المهمة:
+- عدم إدخال النسخ المكررة بالعنوان المطبّع أو الرابط.
+- إضافة العناوين وروابط الفتح الرسمية فقط؛ لا تنزيل أو رفع للملفات.
+- اعتماد مصدر مستقل في السجل: وزارة العدل السعودية — البوابة القانونية.

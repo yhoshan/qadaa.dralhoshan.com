@@ -1,0 +1,14 @@
+{
+  "executed_at": "2026-10-03T19:52:04.470Z",
+  "source": "وزارة العدل السعودية — البوابة القانونية",
+  "before_total": 20066,
+  "added_total": 3,
+  "after_total": 20069,
+  "backup_directory": "backups/moj_portal_reference_catalogues_2026-10-03",
+  "cache_buster": "qadaa-moj-portal-catalogues-2026-10-03",
+  "added_ids": [
+    "moj_portal_judicial_decisions_index_001",
+    "moj_portal_circulars_index_001",
+    "moj_portal_bankruptcy_judgments_index_001"
+  ]
+}

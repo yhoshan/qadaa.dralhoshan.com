@@ -1,0 +1,22 @@
+{
+  "executed_at": "2026-10-03T19:48:38.139Z",
+  "source": "وزارة العدل السعودية — البوابة القانونية",
+  "before_total": 20055,
+  "added_total": 11,
+  "after_total": 20066,
+  "backup_directory": "backups/moj_portal_official_2026-10-03",
+  "cache_buster": "qadaa-moj-portal-official-2026-10-03",
+  "added_ids": [
+    "moj_portal_report_089",
+    "moj_portal_report_088",
+    "moj_portal_report_087",
+    "moj_portal_report_086",
+    "moj_portal_report_085",
+    "moj_portal_report_084",
+    "moj_portal_report_083",
+    "moj_portal_report_082",
+    "moj_portal_dictionary_ar_en_001",
+    "moj_portal_criminal_procedure_001",
+    "moj_portal_sharia_pleadings_002"
+  ]
+}

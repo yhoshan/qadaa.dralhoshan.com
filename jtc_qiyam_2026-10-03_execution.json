@@ -1,0 +1,25 @@
+{
+  "executed_at": "2026-10-03T20:00:20.076Z",
+  "before_total": 20069,
+  "added_total": 11,
+  "after_total": 20080,
+  "backup_directory": "backups/jtc_qiyam_2026-10-03",
+  "cache_buster": "qadaa-jtc-qiyam-2026-10-03",
+  "added_by_source": {
+    "مكتبة قيم للقانون": 6,
+    "مركز التدريب العدلي — وزارة العدل السعودية": 5
+  },
+  "added_ids": [
+    "jtc_judicial_training_conference_001",
+    "jtc_mediators_001",
+    "jtc_enforcement_001",
+    "jtc_notaries_001",
+    "jtc_lawyers_development_001",
+    "qiyam_governance_001",
+    "qiyam_financial_compliance_001",
+    "qiyam_procurement_001",
+    "qiyam_wills_estates_001",
+    "qiyam_admin_cases_001",
+    "qiyam_contract_review_001"
+  ]
+}

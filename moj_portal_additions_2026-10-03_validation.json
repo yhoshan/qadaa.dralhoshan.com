@@ -1,0 +1,24 @@
+{
+  "before_total": 20055,
+  "added_total": 11,
+  "after_total": 20066,
+  "added_ids": [
+    "moj_portal_criminal_procedure_001",
+    "moj_portal_dictionary_ar_en_001",
+    "moj_portal_report_082",
+    "moj_portal_report_083",
+    "moj_portal_report_084",
+    "moj_portal_report_085",
+    "moj_portal_report_086",
+    "moj_portal_report_087",
+    "moj_portal_report_088",
+    "moj_portal_report_089",
+    "moj_portal_sharia_pleadings_002"
+  ],
+  "official_source_count_after": 17,
+  "report_count_after": 8,
+  "data_files_sha256": "c2756e42b3d4dde5c9183fd27ed8f3dac398240df2c2e8c32e24fbd6ca1f1990",
+  "stats_files_sha256": "7c9b8806a1fe7b99a6232ed8eee8ab1d56a63d70db82ceddfdd55de35ebeaf95",
+  "backup_directory": "backups/moj_portal_official_2026-10-03",
+  "validation": "passed"
+}

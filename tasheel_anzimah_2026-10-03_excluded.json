@@ -1,0 +1,800 @@
+[
+  {
+    "post_id": 4,
+    "id": "muath_4",
+    "title": "مشروع اللائحة التنفيذية لنظام المحاماة",
+    "date": "2024-04-03T01:58:25",
+    "file_name": "مشروع_اللائحة_التنفيذية_لنظام_المحاماة.pdf",
+    "file_size_bytes": 752224,
+    "telegram_url": "https://t.me/muath_alyahya/4",
+    "reply_to_message_id": null,
+    "reason": "مشروع لائحة مؤقت سبق اعتماد النسخة النهائية منه؛ لا يُفهرس كمصدر نظامي نافذ."
+  },
+  {
+    "post_id": 8,
+    "id": "muath_8",
+    "title": "أبرز الأسئلة الشائعة عن تخفيض المخالفات المرورية وتطبيق المادة",
+    "date": "2024-04-05T01:57:22",
+    "file_name": "أبرز_الأسئلة_الشائعة_عن_تخفيض_المخالفات_المرورية_وتطبيق_المادة.pdf",
+    "file_size_bytes": 1099019,
+    "telegram_url": "https://t.me/muath_alyahya/8",
+    "reply_to_message_id": null,
+    "reason": "مبادرة تخفيض مروري مؤقتة انتهت في 2024؛ لا تصلح مرجعاً مستقراً."
+  },
+  {
+    "post_id": 25,
+    "id": "muath_25",
+    "title": "معجم المصطلحات الوارد تعريفها في أنظمة المملكة العربية السعودية",
+    "date": "2024-04-05T03:38:02",
+    "file_name": "معجم_المصطلحات_الوارد_تعريفها_في_أنظمة_المملكة_العربية_السعودية.pdf",
+    "file_size_bytes": 3375466,
+    "telegram_url": "https://t.me/muath_alyahya/25",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_105"
+    ],
+    "matching_existing_titles": [
+      "معجم المصطلحات الوارد تعريفها في أنظمة المملكة العربية السعودية"
+    ]
+  },
+  {
+    "post_id": 38,
+    "id": "muath_38",
+    "title": "الفهم الصحيح لما حَوَاه تعميم رئيس الديوان الملكي السعودي",
+    "date": "2024-04-08T17:50:58",
+    "file_name": "الفهم_الصحيح_لما_حَوَاه_تعميم_رئيس_الديوان_الملكي_السعودي.pdf",
+    "file_size_bytes": 254667,
+    "telegram_url": "https://t.me/muath_alyahya/38",
+    "reply_to_message_id": 37,
+    "reason": "المعرّف موجود مسبقاً في المكنز؛ منع تكرار مطابق."
+  },
+  {
+    "post_id": 41,
+    "id": "muath_41",
+    "title": "ألقاب المخاطبة وعبارات التحية",
+    "date": "2024-05-03T00:08:13",
+    "file_name": "ألقاب المخاطبة وعبارات التحية.pdf",
+    "file_size_bytes": 247410,
+    "telegram_url": "https://t.me/muath_alyahya/41",
+    "reply_to_message_id": null,
+    "reason": "إرشاد بروتوكولي للمخاطبات الرسمية، وليس مادة قضائية أو نظامية مرجعية."
+  },
+  {
+    "post_id": 43,
+    "id": "muath_43",
+    "title": "سلطة المحكمة التقديرية في نظام الإثبات السعودي",
+    "date": "2024-05-28T21:03:47",
+    "file_name": "‎⁨سلطة_المحكمة_التقديرية_في_نظام_الإثبات_السعودي⁩.pdf",
+    "file_size_bytes": 1823157,
+    "telegram_url": "https://t.me/muath_alyahya/43",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "legal_lib_13426"
+    ],
+    "matching_existing_titles": [
+      "‎⁨سلطة المحكمة التقديرية في نظام الإثبات السعودي⁩"
+    ]
+  },
+  {
+    "post_id": 44,
+    "id": "muath_44",
+    "title": "تقريرات محكمة التمييز الجزء الأول",
+    "date": "2024-06-04T11:14:53",
+    "file_name": "تقريرات_محكمة_التمييز_الجزء_الأول.pdf",
+    "file_size_bytes": 34152016,
+    "telegram_url": "https://t.me/muath_alyahya/44",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_1284"
+    ],
+    "matching_existing_titles": [
+      "تقريرات محكمة التمييز الجزء الأول"
+    ]
+  },
+  {
+    "post_id": 45,
+    "id": "muath_45",
+    "title": "تقريرات محكمة التمييز الجزء الثاني",
+    "date": "2024-06-04T11:14:53",
+    "file_name": "تقريرات_محكمة_التمييز_الجزء_الثاني.pdf",
+    "file_size_bytes": 23691753,
+    "telegram_url": "https://t.me/muath_alyahya/45",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_1336"
+    ],
+    "matching_existing_titles": [
+      "تقريرات محكمة التمييز الجزء الثاني"
+    ]
+  },
+  {
+    "post_id": 54,
+    "id": "muath_54",
+    "title": "الضوابط اللغوية للصياغة القانونية",
+    "date": "2024-06-04T11:23:32",
+    "file_name": "الضوابط_اللغوية_للصياغة_القانونية_.pdf",
+    "file_size_bytes": 436662,
+    "telegram_url": "https://t.me/muath_alyahya/54",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "buhooth_0aa1d8d8"
+    ],
+    "matching_existing_titles": [
+      "الضوابط اللغوية للصياغة القانونية"
+    ]
+  },
+  {
+    "post_id": 70,
+    "id": "muath_70",
+    "title": "تيسير علم الفرائض",
+    "date": "2024-06-04T11:35:02",
+    "file_name": "تيسير علم الفرائض.pdf",
+    "file_size_bytes": 39302656,
+    "telegram_url": "https://t.me/muath_alyahya/70",
+    "reply_to_message_id": null,
+    "reason": "فقه فرائض عام بلا اتصال قضائي أو نظامي خاص في عنوان الملف."
+  },
+  {
+    "post_id": 71,
+    "id": "muath_71",
+    "title": "كتاب أصول الفقه الذي لا يسع الفقيه جهله",
+    "date": "2024-06-04T11:35:02",
+    "file_name": "كتاب_أصول_الفقه_الذي_لا_يسع_الفقيه_جهله_.pdf",
+    "file_size_bytes": 6938585,
+    "telegram_url": "https://t.me/muath_alyahya/71",
+    "reply_to_message_id": null,
+    "reason": "أصول فقه عام بلا اتصال قضائي أو نظامي خاص في عنوان الملف."
+  },
+  {
+    "post_id": 72,
+    "id": "muath_72",
+    "title": "الممتع في القواعد الفقهية",
+    "date": "2024-06-04T11:35:02",
+    "file_name": "الممتع في القواعد الفقهية.pdf",
+    "file_size_bytes": 6134651,
+    "telegram_url": "https://t.me/muath_alyahya/72",
+    "reply_to_message_id": null,
+    "reason": "قواعد فقهية عامة بلا اتصال قضائي أو نظامي خاص في عنوان الملف."
+  },
+  {
+    "post_id": 74,
+    "id": "muath_74",
+    "title": "النظريات الفقهية",
+    "date": "2024-06-04T11:35:02",
+    "file_name": "النظريات الفقهية.pdf",
+    "file_size_bytes": 4746710,
+    "telegram_url": "https://t.me/muath_alyahya/74",
+    "reply_to_message_id": null,
+    "reason": "نظريات فقهية عامة بلا اتصال قضائي أو نظامي خاص في عنوان الملف."
+  },
+  {
+    "post_id": 76,
+    "id": "muath_76",
+    "title": "شرح نظام التنفيذ للشبرمي",
+    "date": "2024-06-04T11:35:02",
+    "file_name": "شرح نظام التنفيذ للشبرمي.pdf",
+    "file_size_bytes": 5080974,
+    "telegram_url": "https://t.me/muath_alyahya/76",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_2161"
+    ],
+    "matching_existing_titles": [
+      "شرح نظام التنفيذ للشبرمي"
+    ]
+  },
+  {
+    "post_id": 77,
+    "id": "muath_77",
+    "title": "نظام التنفيذ السعودي، وما جرى عليه عمل قضاة التنفيذ",
+    "date": "2024-06-04T11:35:02",
+    "file_name": "نظام_التنفيذ_السعودي،_وما_جرى_عليه_عمل_قضاة_التنفيذ.pdf",
+    "file_size_bytes": 4931485,
+    "telegram_url": "https://t.me/muath_alyahya/77",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3397"
+    ],
+    "matching_existing_titles": [
+      "نظام التنفيذ السعودي وما جرى عليه عمل قضاة التنفيذ"
+    ]
+  },
+  {
+    "post_id": 80,
+    "id": "muath_80",
+    "title": "جمعية قضاء - تسهيل نظام الإثبات",
+    "date": "2024-06-04T11:35:24",
+    "file_name": "جمعية قضاء - تسهيل نظام الإثبات.pdf",
+    "file_size_bytes": 3586630,
+    "telegram_url": "https://t.me/muath_alyahya/80",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "legal_lib_13279"
+    ],
+    "matching_existing_titles": [
+      "جمعية قضاء - تسهيل نظام الإثبات"
+    ]
+  },
+  {
+    "post_id": 87,
+    "id": "muath_87",
+    "title": "1. مصادر الإلتزام",
+    "date": "2024-06-04T11:37:26",
+    "file_name": "1.  مصادر الإلتزام.pdf",
+    "file_size_bytes": 37036446,
+    "telegram_url": "https://t.me/muath_alyahya/87",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 88,
+    "id": "muath_88",
+    "title": "2. الإثبات- آثار الالتزام",
+    "date": "2024-06-04T11:37:26",
+    "file_name": "2.  الإثبات- آثار الالتزام.pdf",
+    "file_size_bytes": 46997976,
+    "telegram_url": "https://t.me/muath_alyahya/88",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 89,
+    "id": "muath_89",
+    "title": "3 أوصاف الالتزام الحوالة الانقضاء",
+    "date": "2024-06-04T11:37:26",
+    "file_name": "3_أوصاف_الالتزام_الحوالة_الانقضاء.pdf",
+    "file_size_bytes": 42565797,
+    "telegram_url": "https://t.me/muath_alyahya/89",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 90,
+    "id": "muath_90",
+    "title": "4. عقود الملكية. البيع - المقايضة",
+    "date": "2024-06-04T11:37:26",
+    "file_name": "4. عقود الملكية. البيع - المقايضة.pdf",
+    "file_size_bytes": 26765694,
+    "telegram_url": "https://t.me/muath_alyahya/90",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 91,
+    "id": "muath_91",
+    "title": "5 باقي عقود الملكية الهبة الشركة القرض الدخل الدائم الصلح",
+    "date": "2024-06-04T11:37:26",
+    "file_name": "5_باقي_عقود_الملكية_الهبة_الشركة_القرض_الدخل_الدائم_الصلح.pdf",
+    "file_size_bytes": 18882481,
+    "telegram_url": "https://t.me/muath_alyahya/91",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 92,
+    "id": "muath_92",
+    "title": "6 1 عقود الانتفاع بالشيء الإيجار العارية",
+    "date": "2024-06-04T11:37:26",
+    "file_name": "6_1_عقود_الانتفاع_بالشيء_الإيجار_العارية.pdf",
+    "file_size_bytes": 35655888,
+    "telegram_url": "https://t.me/muath_alyahya/92",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 93,
+    "id": "muath_93",
+    "title": "6 2 عقود الانتفاع بالشيء الإيجار العارية",
+    "date": "2024-06-04T11:37:27",
+    "file_name": "6_2_عقود_الانتفاع_بالشيء_الإيجار_العارية.pdf",
+    "file_size_bytes": 27813610,
+    "telegram_url": "https://t.me/muath_alyahya/93",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 94,
+    "id": "muath_94",
+    "title": "7 1 عقود على عمل المقاولة الوكالة الوديعة الحراسة",
+    "date": "2024-06-04T11:37:27",
+    "file_name": "7_1_عقود_على_عمل_المقاولة_الوكالة_الوديعة_الحراسة.pdf",
+    "file_size_bytes": 33733470,
+    "telegram_url": "https://t.me/muath_alyahya/94",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 95,
+    "id": "muath_95",
+    "title": "7 2 عقود الغرر المقامرة الرهان المرتب مدى الحياة التأمين",
+    "date": "2024-06-04T11:37:27",
+    "file_name": "7_2_عقود_الغرر_المقامرة_الرهان_المرتب_مدى_الحياة_التأمين.pdf",
+    "file_size_bytes": 25502708,
+    "telegram_url": "https://t.me/muath_alyahya/95",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 96,
+    "id": "muath_96",
+    "title": "8. حق الملكية. الأشياء والأموال",
+    "date": "2024-06-04T11:37:27",
+    "file_name": "8. حق الملكية. الأشياء والأموال.pdf",
+    "file_size_bytes": 41358677,
+    "telegram_url": "https://t.me/muath_alyahya/96",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 97,
+    "id": "muath_97",
+    "title": "9 أسباب كسب الملكية الحقوق العينية المتفرعة عن الملكية",
+    "date": "2024-06-04T11:37:35",
+    "file_name": "9_أسباب_كسب_الملكية_الحقوق_العينية_المتفرعة_عن_الملكية.pdf",
+    "file_size_bytes": 55283110,
+    "telegram_url": "https://t.me/muath_alyahya/97",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 98,
+    "id": "muath_98",
+    "title": "10. التأمينات الشخصية والعينية",
+    "date": "2024-06-04T11:37:35",
+    "file_name": "10. التأمينات الشخصية والعينية.pdf",
+    "file_size_bytes": 28576871,
+    "telegram_url": "https://t.me/muath_alyahya/98",
+    "reply_to_message_id": null,
+    "reason": "جزء منفرد من «الوسيط في شرح القانون المدني»؛ يغطيه السجل القائم لجميع الأجزاء 1–10."
+  },
+  {
+    "post_id": 101,
+    "id": "muath_101",
+    "title": "نظام حماية البيانات الشخصية ولوائحه التنفيذية",
+    "date": "2024-06-14T16:54:04",
+    "file_name": "‎⁨نظام_حماية_البيانات_الشخصية_ولوائحه_التنفيذية⁩.pdf",
+    "file_size_bytes": 1770101,
+    "telegram_url": "https://t.me/muath_alyahya/101",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_035"
+    ],
+    "matching_existing_titles": [
+      "نظام حماية البيانات الشخصية ولوائحه التنفيذية"
+    ]
+  },
+  {
+    "post_id": 102,
+    "id": "muath_102",
+    "title": "نظام التنفيذ أمام ديوان المظالم",
+    "date": "2024-06-14T17:14:18",
+    "file_name": "نظام_التنفيذ_أمام_ديوان_المظالم_.pdf",
+    "file_size_bytes": 1852192,
+    "telegram_url": "https://t.me/muath_alyahya/102",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "boe_ae1d79bf-3716-4bc5-a85e-ada100c8a870"
+    ],
+    "matching_existing_titles": [
+      "نظام التنفيذ أمام ديوان المظالم"
+    ]
+  },
+  {
+    "post_id": 103,
+    "id": "muath_103",
+    "title": "نظام المرافعات أمام ديوان المظالم",
+    "date": "2024-06-14T17:14:18",
+    "file_name": "نظام_المرافعات_أمام_ديوان_المظالم_.pdf",
+    "file_size_bytes": 2098171,
+    "telegram_url": "https://t.me/muath_alyahya/103",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "boe_f2f7b465-b576-4f47-a8e7-a9a700f27202"
+    ],
+    "matching_existing_titles": [
+      "نظام المرافعات أمام ديوان المظالم"
+    ]
+  },
+  {
+    "post_id": 105,
+    "id": "muath_105",
+    "title": "نظام استئجار الدولة للعقار ولائحته التنفيذية",
+    "date": "2024-06-20T14:29:52",
+    "file_name": "نظام_استئجار_الدولة_للعقار_ولائحته_التنفيذية.pdf",
+    "file_size_bytes": 1512418,
+    "telegram_url": "https://t.me/muath_alyahya/105",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3406"
+    ],
+    "matching_existing_titles": [
+      "نظام استئجار الدولة للعقار ولائحته التنفيذية"
+    ]
+  },
+  {
+    "post_id": 108,
+    "id": "muath_108",
+    "title": "أسس الملازمة القضائية في المحاكم الجزائية",
+    "date": "2024-07-15T20:47:09",
+    "file_name": "أسس_الملازمة_القضائية_في_المحاكم_الجزائية.pdf",
+    "file_size_bytes": 3231365,
+    "telegram_url": "https://t.me/muath_alyahya/108",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "legal_lib_12775"
+    ],
+    "matching_existing_titles": [
+      "أسس الملازمة القضائية في المحاكم الجزائية"
+    ]
+  },
+  {
+    "post_id": 110,
+    "id": "muath_110",
+    "title": "شرح نظام الأحوال الشخصية",
+    "date": "2024-07-16T23:56:53",
+    "file_name": "شرح نظام الأحوال الشخصية ..pdf",
+    "file_size_bytes": 60115663,
+    "telegram_url": "https://t.me/muath_alyahya/110",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "moj_docs_006"
+    ],
+    "matching_existing_titles": [
+      "شرح نظام الأحوال الشخصية"
+    ]
+  },
+  {
+    "post_id": 112,
+    "id": "muath_112",
+    "title": "مكتبة نفع القضائية",
+    "date": "2024-07-21T01:19:46",
+    "file_name": "مكتبة نفع القضائية.pdf",
+    "file_size_bytes": 2963659,
+    "telegram_url": "https://t.me/muath_alyahya/112",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3353"
+    ],
+    "matching_existing_titles": [
+      "مكتبة نفع القضائية"
+    ]
+  },
+  {
+    "post_id": 113,
+    "id": "muath_113",
+    "title": "فهرس أبحاث القضاء العام والتجاري",
+    "date": "2024-07-21T01:20:00",
+    "file_name": "فهرس أبحاث القضاء العام والتجاري.pdf",
+    "file_size_bytes": 772838,
+    "telegram_url": "https://t.me/muath_alyahya/113",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3420"
+    ],
+    "matching_existing_titles": [
+      "فهرس أبحاث القضاء العام والتجاري"
+    ]
+  },
+  {
+    "post_id": 114,
+    "id": "muath_114",
+    "title": "فهرس أبحاث القضاء الجزائي",
+    "date": "2024-07-21T01:20:09",
+    "file_name": "فهرس أبحاث القضاء الجزائي.pdf",
+    "file_size_bytes": 681850,
+    "telegram_url": "https://t.me/muath_alyahya/114",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3419"
+    ],
+    "matching_existing_titles": [
+      "فهرس أبحاث القضاء الجزائي"
+    ]
+  },
+  {
+    "post_id": 115,
+    "id": "muath_115",
+    "title": "فهرس أبحاث قضاء الأحوال الشّخصيّة",
+    "date": "2024-07-21T01:20:19",
+    "file_name": "فهرس_أبحاث_قضاء_الأحوال_الشّخصيّة.pdf",
+    "file_size_bytes": 871700,
+    "telegram_url": "https://t.me/muath_alyahya/115",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3418"
+    ],
+    "matching_existing_titles": [
+      "فهرس أبحاث قضاء الأحوال الشّخصيّة"
+    ]
+  },
+  {
+    "post_id": 116,
+    "id": "muath_116",
+    "title": "فهرس أبحاث فقه القضاء",
+    "date": "2024-07-21T01:20:29",
+    "file_name": "فهرس أبحاث فقه القضاء.pdf",
+    "file_size_bytes": 705725,
+    "telegram_url": "https://t.me/muath_alyahya/116",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "legal_lib_13433"
+    ],
+    "matching_existing_titles": [
+      "‎⁨فهرس أبحاث فقه القضاء⁩"
+    ]
+  },
+  {
+    "post_id": 123,
+    "id": "muath_123",
+    "title": "الأهم في نظام المعاملات المدنية",
+    "date": "2024-07-27T15:56:07",
+    "file_name": "الأهم في نظام المعاملات المدنية.pdf",
+    "file_size_bytes": 536019,
+    "telegram_url": "https://t.me/muath_alyahya/123",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3423"
+    ],
+    "matching_existing_titles": [
+      "الأهم في نظام المعاملات المدنية"
+    ]
+  },
+  {
+    "post_id": 124,
+    "id": "muath_124",
+    "title": "ضوابط يعرف بها المكلف بالإثبات",
+    "date": "2024-07-28T15:18:15",
+    "file_name": "ضوابط يعرف بها المكلف بالإثبات.pdf",
+    "file_size_bytes": 1248857,
+    "telegram_url": "https://t.me/muath_alyahya/124",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_058"
+    ],
+    "matching_existing_titles": [
+      "ضوابط يُعرف بها المكلف بالإثبات"
+    ]
+  },
+  {
+    "post_id": 125,
+    "id": "muath_125",
+    "title": "ضوابط أعمال الخبراء في النزاعات القضائية",
+    "date": "2024-07-28T15:25:26",
+    "file_name": "ضوابط_أعمال_الخبراء_في_النزاعات_القضائية.pdf",
+    "file_size_bytes": 1333019,
+    "telegram_url": "https://t.me/muath_alyahya/125",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3368"
+    ],
+    "matching_existing_titles": [
+      "ضوابط أعمال الخبراء في النزاعات القضائية"
+    ]
+  },
+  {
+    "post_id": 126,
+    "id": "muath_126",
+    "title": "الوجيز لقرارات المحكمة العليا في القضايا التجارية",
+    "date": "2024-07-28T15:25:47",
+    "file_name": "الوجيز_لقرارات_المحكمة_العليا_في_القضايا_التجارية.pdf",
+    "file_size_bytes": 1086130,
+    "telegram_url": "https://t.me/muath_alyahya/126",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "nawaf_109"
+    ],
+    "matching_existing_titles": [
+      "الوجيز لقرارات المحكمة العليا في القضايا التجارية"
+    ]
+  },
+  {
+    "post_id": 127,
+    "id": "muath_127",
+    "title": "المبادئ التجارية المستخلصة من أحكام المحكمة العليا",
+    "date": "2024-07-28T15:25:51",
+    "file_name": "المبادئ_التجارية_المستخلصة_من_أحكام_المحكمة_العليا.pdf",
+    "file_size_bytes": 969268,
+    "telegram_url": "https://t.me/muath_alyahya/127",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "nawaf_116"
+    ],
+    "matching_existing_titles": [
+      "المبادئ التجارية المستخلصة من أحكام المحكمة العليا"
+    ]
+  },
+  {
+    "post_id": 267,
+    "id": "muath_267",
+    "title": "مبادئ الأوراق التجارية",
+    "date": "2024-07-28T16:39:40",
+    "file_name": "مبادئ الأوراق التجارية .pdf",
+    "file_size_bytes": 1919961,
+    "telegram_url": "https://t.me/muath_alyahya/267",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_1735"
+    ],
+    "matching_existing_titles": [
+      "مبادئ الأوراق التجارية"
+    ]
+  },
+  {
+    "post_id": 268,
+    "id": "muath_268",
+    "title": "المبادئ والسوابق القضائية المحلية والدولية في مجال حقوق المؤلف",
+    "date": "2024-07-28T16:39:55",
+    "file_name": "المبادئ_والسوابق_القضائية_المحلية_والدولية_في_مجال_حقوق_المؤلف.pdf",
+    "file_size_bytes": 1760297,
+    "telegram_url": "https://t.me/muath_alyahya/268",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "suwaid_title_215"
+    ],
+    "matching_existing_titles": [
+      "المبادئ والسوابق القضائية المحلية والدولية في مجال حقوق المؤلف"
+    ]
+  },
+  {
+    "post_id": 270,
+    "id": "muath_270",
+    "title": "مدونة المبادئ القضائية في المنازعات المصرفية والتمويلية",
+    "date": "2024-07-28T16:40:16",
+    "file_name": "مدونة_المبادئ_القضائية_في_المنازعات_المصرفية_والتمويلية.pdf",
+    "file_size_bytes": 99877528,
+    "telegram_url": "https://t.me/muath_alyahya/270",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "nawaf_142"
+    ],
+    "matching_existing_titles": [
+      "مدونة المبادئ القضائية في المنازعات المصرفية والتمويلية"
+    ]
+  },
+  {
+    "post_id": 271,
+    "id": "muath_271",
+    "title": "مدونة السوابق القضائية التأمينية للجنة الاستئنافية للفصل في المنازعات",
+    "date": "2024-07-28T16:40:17",
+    "file_name": "مدونة_السوابق_القضائية_التأمينية_للجنة_الاستئنافية_للفصل_في_المنازعات.pdf",
+    "file_size_bytes": 27238903,
+    "telegram_url": "https://t.me/muath_alyahya/271",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "abdulaziz_almutawa_1198"
+    ],
+    "matching_existing_titles": [
+      "مدونة السوابق القضائية التأمينية للجنة الاستئنافية للفصل في المنازعات"
+    ]
+  },
+  {
+    "post_id": 278,
+    "id": "muath_278",
+    "title": "الجامع المختصر في إجراءات نظر التركات وتركات الشركات",
+    "date": "2024-08-15T08:50:39",
+    "file_name": "الجامع_المختصر_في_إجراءات_نظر_التركات_وتركات_الشركات.pdf",
+    "file_size_bytes": 3788336,
+    "telegram_url": "https://t.me/muath_alyahya/278",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3427"
+    ],
+    "matching_existing_titles": [
+      "الجامع المختصر في إجراءات نظر التركات وتركات الشركات"
+    ]
+  },
+  {
+    "post_id": 285,
+    "id": "muath_285",
+    "title": "نظام التنفيذ أمام ديوان المظالم ولائحته التنفيذية",
+    "date": "2025-01-01T14:00:47",
+    "file_name": "‎⁨نظام_التنفيذ_أمام_ديوان_المظالم_ولائحته_التنفيذية⁩.pdf",
+    "file_size_bytes": 1503237,
+    "telegram_url": "https://t.me/muath_alyahya/285",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3435"
+    ],
+    "matching_existing_titles": [
+      "نظام التنفيذ أمام ديوان المظالم ولائحته التنفيذية"
+    ]
+  },
+  {
+    "post_id": 286,
+    "id": "muath_286",
+    "title": "نظام المرافعات أمام ديوان المظالم ولائحته التنفيذية",
+    "date": "2025-01-01T14:01:25",
+    "file_name": "‎⁨نظام_المرافعات_أمام_ديوان_المظالم_ولائحته_التنفيذية⁩_.pdf",
+    "file_size_bytes": 4350558,
+    "telegram_url": "https://t.me/muath_alyahya/286",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "lawlibrary_3434"
+    ],
+    "matching_existing_titles": [
+      "نظام المرافعات أمام ديوان المظالم ولائحته التنفيذية"
+    ]
+  },
+  {
+    "post_id": 289,
+    "id": "muath_289",
+    "title": "نظام ملكية الوحدات العقارية وفرزها وإدارتها",
+    "date": "2025-01-26T23:41:28",
+    "file_name": "‎⁨نظام_ملكية_الوحدات_العقارية_وفرزها_وإدارتها⁩.pdf",
+    "file_size_bytes": 1176323,
+    "telegram_url": "https://t.me/muath_alyahya/289",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "boe_d19fbfe8-6517-4e8b-b06a-b09000cefe1b"
+    ],
+    "matching_existing_titles": [
+      "نظام ملكية الوحدات العقارية وفرزها وإدارتها"
+    ]
+  },
+  {
+    "post_id": 293,
+    "id": "muath_293",
+    "title": "دراسة اختصاص النظر في المطالبة بنقل المخالفات المرورية",
+    "date": "2025-10-30T16:12:06",
+    "file_name": "دراسة_اختصاص_النظر_في_المطالبة_بنقل_المخالفات_المرورية.pdf",
+    "file_size_bytes": 9779095,
+    "telegram_url": "https://t.me/muath_alyahya/293",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "wejdan_zahrani_117"
+    ],
+    "matching_existing_titles": [
+      "دراسة اختصاص النظر في المطالبة بنقل المخالفات المرورية"
+    ]
+  },
+  {
+    "post_id": 294,
+    "id": "muath_294",
+    "title": "نظام رسوم الأراضي البيضاء والعقارات الشاغرة",
+    "date": "2025-11-20T10:14:07",
+    "file_name": "نظام_رسوم_الأراضي_البيضاء_والعقارات_الشاغرة.pdf",
+    "file_size_bytes": 14813922,
+    "telegram_url": "https://t.me/muath_alyahya/294",
+    "reply_to_message_id": null,
+    "reason": "عنوان مطابق بعد التطبيع لسجل قائم؛ منع تكرار مؤكد.",
+    "matching_existing_ids": [
+      "boe_6932e745-0f61-4f25-9e4a-a9a700f21d6b"
+    ],
+    "matching_existing_titles": [
+      "نظام رسوم الأراضي البيضاء والعقارات الشاغرة"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "before_total": 20055,
+  "added_total": 14,
+  "after_total": 20069,
+  "official_source_total": 20,
+  "report_total": 8,
+  "reference_catalogue_total": 8,
+  "hero_counts": {
+    "qadaa_count": 9703,
+    "nizam_count": 8953,
+    "mohama_count": 1413
+  },
+  "data_sha256": "40bc734bbb5f37d68084080ece2e1baaed4a9052c1114cff6072e7c791a77b6a",
+  "stats_sha256": "d84a7bd213303dc7de6536bc258a354c0a61e5d5b4e8fc4739b84fc1c093a805",
+  "validation": "passed"
+}

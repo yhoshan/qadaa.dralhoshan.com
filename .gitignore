@@ -111,3 +111,15 @@ temp/
 # Manus version file (auto-generated, not part of source)
 client/public/__manus__/version.json
 .project-config.json
+
+# Local audit inputs, backups, and classifier checkpoints (derived data only)
+backups/
+.qadi_salah_llm_checkpoints/
+qadi_ahdal_2026-10-03_raw_inventory.json
+qadi_ahdal_2026-10-03_excluded.json
+qadi_ahdal_2026-10-03_candidates.json
+qadi_salah_2026-10-03_raw_pdf_inventory.json
+qadi_salah_2026-10-03_excluded.json
+qadi_salah_2026-10-03_candidates.json
+qadi_libraries_2026-10-03_candidates_deduped.json
+qadi_libraries_2026-10-03_duplicate_exclusions.json

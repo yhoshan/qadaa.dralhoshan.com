@@ -1,0 +1,17 @@
+{
+  "before_total": 20069,
+  "added_total": 11,
+  "after_total": 20080,
+  "source_counts": {
+    "مركز التدريب العدلي — وزارة العدل السعودية": 5,
+    "مكتبة قيم للقانون": 6
+  },
+  "hero_counts": {
+    "qadaa_count": 9705,
+    "nizam_count": 8960,
+    "mohama_count": 1415
+  },
+  "data_sha256": "d11514fe6f2a12eb87720964b5ea88a6c819e6d58e356532d0dd3377b5ec0eae",
+  "stats_sha256": "e10fe069d792d6f28fe19efed4eadd596f01f51472c4558f266fde9afdf13de4",
+  "validation": "passed"
+}
