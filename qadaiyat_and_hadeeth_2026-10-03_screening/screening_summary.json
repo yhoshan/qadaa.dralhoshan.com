@@ -1,0 +1,95 @@
+{
+  "generated_at_utc": "2026-10-03T14:31:45.685997+00:00",
+  "catalogue_total_before": 18340,
+  "sources": [
+    {
+      "channel_key": "qadaiyat",
+      "channel_name": "قضائيات",
+      "channel_export_id": 1128911552,
+      "all_messages": 1709,
+      "file_messages": 1570,
+      "document_files": 1523,
+      "not_clear_scope": 747,
+      "initial_keep": 557,
+      "existing_exact_duplicate": 219,
+      "non_document_file": 47
+    },
+    {
+      "channel_key": "hadeeth_law",
+      "channel_name": "حديث القانون — المنصة القانونية للمحامين",
+      "channel_export_id": 2258360695,
+      "all_messages": 639,
+      "file_messages": 421,
+      "document_files": 390,
+      "initial_keep": 302,
+      "existing_exact_duplicate": 20,
+      "not_clear_scope": 68,
+      "non_document_file": 31
+    },
+    {
+      "channel_key": "rabab_library",
+      "channel_name": "مكتبة المحامية رباب المعبي",
+      "channel_export_id": 1352319266,
+      "all_messages": 1426,
+      "file_messages": 655,
+      "document_files": 653,
+      "initial_keep": 220,
+      "not_clear_scope": 248,
+      "existing_exact_duplicate": 185,
+      "non_document_file": 2
+    },
+    {
+      "channel_key": "wejdan_zahrani",
+      "channel_name": "المحامية وجدان الزهراني ⚖️",
+      "channel_export_id": 1777689267,
+      "all_messages": 296,
+      "file_messages": 204,
+      "document_files": 203,
+      "not_clear_scope": 69,
+      "initial_keep": 64,
+      "existing_exact_duplicate": 70,
+      "non_document_file": 1
+    }
+  ],
+  "all_document_records_screened": 2769,
+  "status_counts": {
+    "EXCLUDE_EXISTING_EXACT_DUPLICATE": 494,
+    "EXCLUDE_IN_BATCH_EXACT_DUPLICATE": 93,
+    "EXCLUDE_NOT_CLEARLY_IN_SCOPE": 1132,
+    "KEEP": 1050
+  },
+  "keep_count": 1050,
+  "keep_by_source": {
+    "المحامية وجدان الزهراني ⚖️": 51,
+    "حديث القانون — المنصة القانونية للمحامين": 288,
+    "قضائيات": 512,
+    "مكتبة المحامية رباب المعبي": 199
+  },
+  "keep_by_category": {
+    "الأبحاث القانونية والقضائية": 275,
+    "الأحوال الشخصية": 19,
+    "التحكيم والوساطة": 61,
+    "القانون التجاري": 139,
+    "القانون الجنائي": 102,
+    "القانون الدستوري": 19,
+    "القانون العمالي": 22,
+    "القانون المدني": 116,
+    "القضاء الإداري": 56,
+    "المحاكم والمرافعات": 183,
+    "المحاماة والتمثيل القانوني": 58
+  },
+  "keep_by_material_type": {
+    "أحكام": 99,
+    "بحث": 14,
+    "دليل": 33,
+    "كتاب": 449,
+    "مجلة": 5,
+    "نظام": 450
+  },
+  "notes": [
+    "لم تُعدّل بيانات المكنز في هذه المرحلة.",
+    "المقارنة هنا عنوانية تامة بعد تنظيف أسماء الملفات فقط؛ لم يُنفذ دمج أو حذف للسجلات القائمة.",
+    "لا تُضاف ملفات الوسائط والصور والأرشيفات أو العناوين غير القانونية الواضحة.",
+    "مصدر «حديث القانون» لا يتضمن في ملف التصدير معرفاً عاماً مثبتاً؛ لذلك حُفظ رابط رسالة تيليجرام بالمعرف العددي المستخرج من ملف القناة فقط."
+  ]
+}

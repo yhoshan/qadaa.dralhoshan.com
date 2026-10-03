@@ -1,0 +1,23 @@
+{
+  "valid": true,
+  "before_total": 18340,
+  "added_total": 1049,
+  "after_total": 19389,
+  "sources_added": {
+    "قضائيات": 511,
+    "حديث القانون — المنصة القانونية للمحامين": 288,
+    "مكتبة المحامية رباب المعبي": 199,
+    "المحامية وجدان الزهراني ⚖️": 51
+  },
+  "items_sha256": "cecb6837ffca5b03deeb8ae2b4da31e96b00f0833d71eca11dde966e5868dfc5",
+  "stats_sha256": "a5e7a357b42361b40bc653bc4ca4a5b03ff1b56afd97fefd117f3bd32b5731c6",
+  "checks": {
+    "only_manifest_ids_added": true,
+    "existing_records_unchanged": true,
+    "main_public_items_equal": true,
+    "main_public_stats_equal": true,
+    "all_ids_unique": true,
+    "stats_rebuilt": true,
+    "cache_token_updated": true
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "executed_at_utc": "2026-10-03T14:36:22.163410+00:00",
+  "before_total": 18340,
+  "added_total": 1049,
+  "after_total": 19389,
+  "source_counts": {
+    "قضائيات": 511,
+    "حديث القانون — المنصة القانونية للمحامين": 288,
+    "مكتبة المحامية رباب المعبي": 199,
+    "المحامية وجدان الزهراني ⚖️": 51
+  },
+  "hero_counts": {
+    "qadaa_count": 9520,
+    "nizam_count": 8584,
+    "mohama_count": 1285
+  },
+  "items_sha256": "cecb6837ffca5b03deeb8ae2b4da31e96b00f0833d71eca11dde966e5868dfc5",
+  "stats_sha256": "a5e7a357b42361b40bc653bc4ca4a5b03ff1b56afd97fefd117f3bd32b5731c6",
+  "cache_token": "qadaa-four-channels-2026-10-03",
+  "checks": {
+    "items_main_public_equal": true,
+    "stats_main_public_equal": true,
+    "unique_ids": true,
+    "hero_total_equal": true
+  },
+  "status": "completed",
+  "final_check": "pnpm check + pnpm build + git diff --check: passed"
+}

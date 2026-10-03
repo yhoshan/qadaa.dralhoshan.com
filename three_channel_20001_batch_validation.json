@@ -1,0 +1,22 @@
+{
+  "status": "passed",
+  "before_total": 19389,
+  "after_total": 20001,
+  "added_total": 612,
+  "unchanged_preexisting_records": 19389,
+  "duplicate_ids": 0,
+  "items_sha256": "1646405a68d4608fc15f5b701126b187da6a4f808264bf033beca4d17259bbed",
+  "stats_sha256": "ec2d8f8bb0f053905c5d76bf32991b7bf8fe4fdb9727942604182e2c01ab7f5e",
+  "hero_counts": {
+    "qadaa_count": 9700,
+    "nizam_count": 8888,
+    "mohama_count": 1413
+  },
+  "by_new_source": {
+    "المحامي عبدالعزيز المطوع": 563,
+    "المحامي الفقيه": 19,
+    "المحامي محمّد الشكرة": 30
+  },
+  "json_primary_public_match": true,
+  "statistics_match_recalculation": true
+}
