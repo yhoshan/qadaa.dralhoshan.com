@@ -51,8 +51,8 @@ export function useItems() {
 
   useEffect(() => {
     Promise.all([
-      fetch(`/items.json?v=qadaa-qadi-libraries-2026-10-03`).then((r) => r.json()),
-      fetch(`/stats.json?v=qadaa-qadi-libraries-2026-10-03`).then((r) => r.json()),
+      fetch(`/items.json?v=qadaa-title-cleanup-2026-10-04`).then((r) => r.json()),
+      fetch(`/stats.json?v=qadaa-title-cleanup-2026-10-04`).then((r) => r.json()),
     ])
       .then(([itemsData, statsData]) => {
         setItems(itemsData);

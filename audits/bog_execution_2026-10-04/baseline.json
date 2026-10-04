@@ -1,0 +1,22 @@
+{
+  "captured_at_utc": "2026-10-04T14:41:00Z",
+  "files": {
+    "items.json": {
+      "sha256": "f2e445e44db7395d8a535181f8e5b7b8095bad793e6c4d233f3be1f5153646d8",
+      "bytes": 32773258
+    },
+    "client/public/items.json": {
+      "sha256": "f2e445e44db7395d8a535181f8e5b7b8095bad793e6c4d233f3be1f5153646d8",
+      "bytes": 32773258
+    },
+    "stats.json": {
+      "sha256": "afb08864feaafa6554bc217f956e8ca1b5ff2cdf05b6d9664c1a8657a3956638",
+      "bytes": 15171
+    },
+    "client/public/stats.json": {
+      "sha256": "afb08864feaafa6554bc217f956e8ca1b5ff2cdf05b6d9664c1a8657a3956638",
+      "bytes": 15171
+    }
+  },
+  "total_items": 45838
+}

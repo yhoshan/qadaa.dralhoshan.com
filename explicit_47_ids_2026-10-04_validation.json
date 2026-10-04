@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "before_total": 46541,
+  "after_total": 46494,
+  "target_count": 47,
+  "targets_absent": true,
+  "non_targets_unchanged": true,
+  "ids_unique": true,
+  "public_copy_matches": true,
+  "ahdal_count": 25112,
+  "qadi_salah_count": 1082,
+  "items_sha256": "436ce7be00c2b9d4fe3c55d18eafe753f90b2305ce9d6d50d810b1fdc14d5843",
+  "public_items_sha256": "436ce7be00c2b9d4fe3c55d18eafe753f90b2305ce9d6d50d810b1fdc14d5843",
+  "stats_sha256": "94986686f45bc34a16c82802e50a4e1639c467bf5071e4881636b7bf5f21c2c8",
+  "public_stats_sha256": "94986686f45bc34a16c82802e50a4e1639c467bf5071e4881636b7bf5f21c2c8"
+}

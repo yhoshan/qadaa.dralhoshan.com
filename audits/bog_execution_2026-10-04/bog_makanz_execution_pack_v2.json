@@ -1,0 +1,369 @@
+{
+  "pack_name": "bog_makanz_execution_pack",
+  "version": "2.0",
+  "purpose": "تنفيذ إدخال مواد ديوان المظالم الرسمية في مكنز القضاء والأنظمة بعد حصر المصادر من ChatGPT. لا يُطلب من Manus اكتشاف مصادر جديدة.",
+  "source_authority": {
+    "name": "ديوان المظالم",
+    "domain": "bog.gov.sa",
+    "official": true,
+    "country": "SA",
+    "main_judicial_hub": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/Pages/default.aspx",
+    "judgments_index": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/Pages/JudgmentsDefault.aspx",
+    "judgments_index_page_2": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/Pages/JudgmentsDefault.aspx?PageIndex=2",
+    "principles_index": "https://www.bog.gov.sa/knowledge-center/PrinciplesBlogs/Pages/default.aspx",
+    "site_map": "https://www.bog.gov.sa/Pages/SiteMap.aspx"
+  },
+  "curated_scope": {
+    "include_only": [
+      "الأحكام القضائية الرسمية",
+      "المبادئ القضائية الرسمية",
+      "السوابق القضائية الرسمية",
+      "مجموعة الأحكام الإدارية في الملكية الفكرية",
+      "قرارات هيئة التدقيق مجتمعة",
+      "الأنظمة القضائية الرسمية ذات الصلة",
+      "القواعد واللوائح الصادرة عن مجلس القضاء الإداري"
+    ],
+    "exclude": [
+      "الأخبار",
+      "الملف الصحفي",
+      "البيانات الإعلامية",
+      "الفعاليات",
+      "الإعلانات",
+      "التقارير الإدارية والإحصائية",
+      "المجلة العلمية في هذه الدفعة",
+      "الترجمات الإنجليزية والفرنسية والصينية لأنها نسخ مكررة دلالياً من الأصل العربي",
+      "المحتوى التعريفي العام",
+      "السياسات الداخلية غير القضائية أو غير النظامية"
+    ]
+  },
+  "judgment_collections": [
+    {
+      "title": "مجموعة الأحكام والمبادئ الإدارية للأعوام ١٤٠٢-١٤٢٦ هـ",
+      "collection_key": "AA1402-1426",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/AA1402-1426/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ الجزائية للأعوام ١٤٠٢هـ-١٤٢٧هـ",
+      "collection_key": "criminal_1402_1427",
+      "resolve_from_index": true,
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ التجارية للأعوام ١٤٠٨-١٤٢٣ هـ",
+      "collection_key": "1408-1423",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1408-1423/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ التجارية للأعوام ١٤٢٤-١٤٢٧ هـ",
+      "collection_key": "1424-1427",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1424-1427/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ الإدارية لعام ١٤٢٧ هـ",
+      "collection_key": "Blog1427",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/Blog1427/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1428 هـ",
+      "collection_key": "1428",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1428/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1429 هـ",
+      "collection_key": "1429",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1429/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1430 هـ",
+      "collection_key": "1430",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1430/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1431 هـ",
+      "collection_key": "1431",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1431/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1432 هـ",
+      "collection_key": "1432",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1432/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1433 هـ",
+      "collection_key": "1433",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1433/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1434 هـ",
+      "collection_key": "1434",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1434/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1435 هـ",
+      "collection_key": "1435",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1435/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1436 هـ",
+      "collection_key": "1436",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1436/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1437 هـ",
+      "collection_key": "1437",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1437/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1438 هـ",
+      "collection_key": "1438",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1438/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام والمبادئ لعام 1439 هـ",
+      "collection_key": "1439",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1439/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام الإدارية لعام 1440 هـ",
+      "collection_key": "1440",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1440/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام الإدارية لعام 1441 هـ",
+      "collection_key": "1441",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1441/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام الإدارية لعام 1442 هـ",
+      "collection_key": "1442",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1442/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام الإدارية لعام 1443 هـ",
+      "collection_key": "1443",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1443/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام الإدارية لعام 1444 هـ",
+      "collection_key": "1444",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/1444/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    }
+  ],
+  "special_judicial_collections": [
+    {
+      "title": "السوابق القضائية لأحكام ديوان المظالم الإدارية للأعوام ١٤٠٢-١٤٣٦هـ",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/A1402-1436/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1",
+      "rule": "افهرس السابقة القضائية كوحدة مستقلة متى أمكن، ولا تكرر الحكم نفسه إن كان موجوداً في مجموعة سنة أخرى."
+    },
+    {
+      "title": "المبادئ والأحكام القضائية لما قبل عام ١٤٠٢هـ",
+      "resolve_from_hub_exact_title": true,
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "مجموعة الأحكام الإدارية في الملكية الفكرية",
+      "collection_key": "intellectual-property",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialBlogs/intellectual-property/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1",
+      "known_extent": "أكثر من 300 حكم في خمسة مجلدات بحسب إعلان ديوان المظالم"
+    },
+    {
+      "title": "قرارات هيئة التدقيق مجتمعة",
+      "url": "https://www.bog.gov.sa/knowledge-center/decisions/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1",
+      "rule": "افهرس القرارات الموضوعية والمبادئ المستخلصة، ولا تفهرس التعريفات أو صفحات الشرح كوحدات مستقلة."
+    }
+  ],
+  "supreme_administrative_court_principles": [
+    {
+      "title": "المبادئ التي قررتها المحكمة الإدارية العليا للأعوام 1439-1440-1441هـ",
+      "url": "https://www.bog.gov.sa/knowledge-center/PrinciplesBlogs/1439-1440-1441/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "المبادئ التي قررتها المحكمة الإدارية العليا لعام 1442 هـ",
+      "url": "https://www.bog.gov.sa/knowledge-center/PrinciplesBlogs/1442/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "المبادئ التي قررتها المحكمة الإدارية العليا لعام 1443 هـ",
+      "url": "https://www.bog.gov.sa/knowledge-center/PrinciplesBlogs/1443/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    },
+    {
+      "title": "المبادئ التي قررتها المحكمة الإدارية العليا لعام 1444 هـ",
+      "url": "https://www.bog.gov.sa/knowledge-center/PrinciplesBlogs/1444/Pages/default.aspx",
+      "section": "القضاء",
+      "priority": "P1"
+    }
+  ],
+  "official_systems": [
+    {
+      "title": "الأنظمة القضائية",
+      "url": "https://www.bog.gov.sa/knowledge-center/JudicialSystems/Pages/JudicalSystems.aspx",
+      "section": "الأنظمة",
+      "priority": "P2",
+      "verified_items": [
+        "نظام ديوان المظالم",
+        "نظام المرافعات أمام ديوان المظالم",
+        "نظام القضاء",
+        "نظام المرافعات الشرعية",
+        "نظام التحكيم",
+        "نظام المحاماة",
+        "آلية العمل التنفيذية لنظام القضاء ونظام ديوان المظالم",
+        "نظام التنفيذ",
+        "نظام التنفيذ أمام ديوان المظالم",
+        "نظام الإثبات"
+      ],
+      "rule": "قارن أولاً بالموجود في المكنز. إن كان النظام موجوداً من هيئة الخبراء فلا تنشئ نسخة ثانية؛ احتفظ بالمصدر الرسمي الأساسي القائم وأضف رابط ديوان المظالم كمصدر مساعد عند الحاجة."
+    }
+  ],
+  "administrative_justice_council_rules": [
+    {
+      "index_url": "https://www.bog.gov.sa/AdministrativeJusticeCouncil/RulesAndRegulations/Pages/default.aspx",
+      "section": "الأنظمة",
+      "priority": "P2",
+      "verified_items": [
+        "قواعد اختيار القضاة في ديوان المظالم",
+        "الأعمال القضائية النظيرة المطلوبة لشغل الدرجات القضائية بديوان المظالم",
+        "قواعد نقل القضاة",
+        "قواعد تقويم القضاة خلال فترة التجربة",
+        "تنظيم أعمال الملازمين القضائيين",
+        "لائحة التفتيش القضائي بديوان المظالم",
+        "قواعد تفرغ القضاة للدراسة",
+        "قواعد الاستعانة بالخبراء وتحديد أتعابهم أمام محاكم ديوان المظالم",
+        "آلية النظر في التظلمات من قرارات نزع ملكية العقارات للمنفعة العامة",
+        "ضوابط الاستعانة بمقدمي خدمات التنفيذ أمام ديوان المظالم"
+      ],
+      "rule": "تدخل كوحدات نظامية مستقلة إذا لم تكن موجودة. حافظ على العنوان الرسمي والرابط الرسمي وتاريخ القرار إن وجد."
+    }
+  ],
+  "record_model": {
+    "id": "bog_<stable_id_or_hash>",
+    "title": "العنوان الرسمي",
+    "section": "القضاء أو الأنظمة",
+    "subcategory": "إداري/تجاري/جزائي/ملكية فكرية/مبدأ المحكمة الإدارية العليا/سابقة/قرار هيئة التدقيق/نظام/لائحة/قاعدة/ضابط",
+    "hijri_year": "إن وجد",
+    "case_number": "إن وجد",
+    "first_instance_judgment_number": "إن وجد",
+    "appeal_or_audit_number": "إن وجد",
+    "court": "إن وجدت",
+    "topics": "كما في المصدر",
+    "summary": "الملخص الرسمي فقط إن وجد",
+    "legal_basis": "مستند الحكم كما في المصدر إن وجد",
+    "source_name": "ديوان المظالم",
+    "source_url": "الرابط الرسمي المباشر",
+    "source_type": "official_government",
+    "country": "SA",
+    "language": "ar",
+    "verified_official": true
+  },
+  "deduplication": {
+    "required": true,
+    "priority": [
+      "الرابط الرسمي نفسه",
+      "رقم القضية + رقم الحكم + السنة",
+      "رقم الحكم/الاستئناف/التدقيق",
+      "العنوان المطبع + السنة + المجموعة",
+      "التطابق الدلالي العالي مع سجل قائم"
+    ],
+    "rules": [
+      "لا تكرر الحكم لأنه موجود في مجموعة سنوية وفي مجموعة السوابق.",
+      "لا تكرر المبدأ لأنه مستخلص من حكم موجود؛ إن كان المكنز يسمح بنوع سجل مختلف للمبدأ فاحتفظ به كسجل principle مستقل مع ربطه بالحكم، وإلا فاختر المبدأ بوصفه الوحدة الأعلى قيمة للبحث.",
+      "لا تكرر نظاماً موجوداً أصلاً من هيئة الخبراء.",
+      "الترجمات الأجنبية لا تنشئ سجلات جديدة."
+    ]
+  },
+  "political_and_safety_filter": {
+    "keep": "كل حكم أو مبدأ سعودي رسمي صحيح حتى لو ورد داخله اسم دولة أو رئيس أو واقعة سياسية عرضاً.",
+    "exclude": "الأخبار والتصريحات والتحليلات السياسية والإعلامية.",
+    "important": "لا تطبق مرشح الكلمات السياسية على متن الأحكام الرسمية؛ الحكم الرسمي يدخل لصفته القضائية، لا لموضوع الأسماء الواردة فيه."
+  },
+  "manus_execution": {
+    "mode": "EXECUTE_CURATED_PACK_ONLY",
+    "instructions": [
+      "لا تبحث عن مصادر جديدة ولا توسع النطاق خارج العناصر المحددة في هذا الملف.",
+      "استخدم صفحات الفهارس الرسمية فقط لحل الرابط المباشر للعناصر التي تحمل resolve_from_index أو resolve_from_hub_exact_title.",
+      "استخرج الوحدات القضائية الفردية من ملفات ومجلدات المجموعات المحددة، لا تكتفِ بإضافة عنوان المجلد أو PDF الكامل.",
+      "قارن كل وحدة بقاعدة المكنز قبل الإضافة.",
+      "أضف الناقص فقط وفق نموذج البيانات الحالي للموقع دون تغيير البنية.",
+      "ضع الأحكام والمبادئ والسوابق وقرارات هيئة التدقيق في قسم القضاء.",
+      "ضع الأنظمة والقواعد واللوائح والضوابط في قسم الأنظمة، مع منع تكرار مواد هيئة الخبراء الموجودة.",
+      "لا تغير قسم المحاماة في هذه المهمة.",
+      "لا تحذف أي سجل حالي بسبب هذه الدفعة.",
+      "لا تعد تصميم الواجهة ولا تغيّر البحث أو الفلاتر.",
+      "لا تنشر ولا تنشئ Checkpoint ولا تزامن GitHub حتى اكتمال اختبارات القبول."
+    ],
+    "required_outputs": [
+      "bog_added_records.json",
+      "bog_skipped_duplicates.json",
+      "bog_execution_report.json"
+    ]
+  },
+  "acceptance_tests": [
+    "كل سجل مضاف له رابط bog.gov.sa رسمي مباشر أو رابط مجموعة رسمية موثقة.",
+    "صفر أخبار أو مواد صحفية ضمن الإضافات.",
+    "صفر ترجمة أجنبية مكررة.",
+    "صفر تكرار لنظام موجود من هيئة الخبراء.",
+    "صفر تكرار لنفس الحكم داخل أكثر من مجموعة.",
+    "كل الأحكام والمبادئ والقرارات القضائية مصنفة تحت القضاء.",
+    "كل الأنظمة والقواعد واللوائح المصنفة الجديدة تحت الأنظمة.",
+    "لم يتغير أي سجل غير مستهدف.",
+    "البحث والفلاتر والبناء ينجح بعد الدمج.",
+    "التقرير النهائي يذكر: عدد الوحدات المفحوصة، المضاف، المكرر المتروك، المستبعد، والإجمالي النهائي للمكنز."
+  ],
+  "not_yet_included": {
+    "1445_and_later": "لم أضع مجموعات 1445 وما بعدها؛ وجدت إشارات إلى الطباعة/المشاريع، لكن الفهارس القضائية الرسمية التي تحققت منها تعرض حتى 1444هـ. لا تُدخل 1445+ إلا عند وجود صفحة نشر قضائي رسمية فعلية."
+  }
+}

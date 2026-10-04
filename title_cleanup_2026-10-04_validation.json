@@ -1,0 +1,24 @@
+{
+  "before_total": 45830,
+  "after_public_total": 45814,
+  "rewritten_titles": 1414,
+  "internally_isolated": 16,
+  "root_public_items_sha256": "140656de2c3116adc5f012e27ddcfbb54598c0cd6ff5d379556738a4b3d28cf1",
+  "root_public_stats_sha256": "e6eee81ccca67ed98f8b93325c74867de6029214a57c95203429f54de1aa2dba",
+  "hero_counts": {
+    "qadaa_count": 14152,
+    "nizam_count": 23271,
+    "mohama_count": 8391
+  },
+  "checks": {
+    "root_public_items_match": true,
+    "root_public_stats_match": true,
+    "non_target_records_unchanged": true,
+    "rewrites_only_change_title": true,
+    "internal_records_preserved_privately": true,
+    "no_duplicate_ids": true,
+    "no_empty_public_titles": true,
+    "hero_total_matches": true,
+    "updated_titles_have_no_file_suffix_noise": true
+  }
+}

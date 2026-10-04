@@ -1,0 +1,20 @@
+{
+  "validated_at_utc": "2026-10-04T17:09:29.155901+00:00",
+  "status": "passed",
+  "before_total": 45838,
+  "after_total": 45829,
+  "removed_count": 9,
+  "remaining_targets": [],
+  "non_target_records_changed": 0,
+  "duplicate_ids_after": 0,
+  "root_public_items_identical": true,
+  "root_public_stats_identical": true,
+  "hero_counts": {
+    "qadaa": 14162,
+    "nizam": 23277,
+    "mohama": 8390
+  },
+  "cache_token": "qadaa-political-reclassification-nine-removals-2026-10-04",
+  "items_sha256": "35257dc0eb6922d3e4f265e45f234942652dc9fc3d3699b0b6018eba28c286e7",
+  "stats_sha256": "55736da86ad3fbc8b5fe5e21ed0f9f244c1022680d7d5ed84fb6bcf1ffbc46b3"
+}

@@ -1,0 +1,25 @@
+{
+  "status": "passed",
+  "total_items": 45838,
+  "qadaa_before_after": [
+    14162,
+    14162
+  ],
+  "nizam_before_after": [
+    29856,
+    23285
+  ],
+  "mohama_before_after": [
+    1820,
+    8391
+  ],
+  "migrated_from_nizam": 6571,
+  "items_unchanged": true,
+  "only_expected_stats_changed": true,
+  "root_public_items_match": true,
+  "root_public_stats_match": true,
+  "candidate_ids_unique": true,
+  "cache_token": "qadaa-mohama-professional-reclassification-2026-10-04",
+  "items_sha256": "f2e445e44db7395d8a535181f8e5b7b8095bad793e6c4d233f3be1f5153646d8",
+  "stats_sha256": "afb08864feaafa6554bc217f956e8ca1b5ff2cdf05b6d9664c1a8657a3956638"
+}

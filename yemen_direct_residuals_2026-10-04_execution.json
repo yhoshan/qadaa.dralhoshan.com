@@ -1,0 +1,28 @@
+{
+  "operation": "direct_yemen_residuals_exact_id_removal",
+  "executed_at_utc": "2026-10-04T13:29:27.140524+00:00",
+  "before_total": 45851,
+  "removed_total": 13,
+  "after_total": 45838,
+  "removed_ids": [
+    "qadi_ahdal_28368",
+    "qadi_ahdal_30087",
+    "qadi_ahdal_30193",
+    "qadi_ahdal_43641",
+    "qadi_ahdal_84231",
+    "qadi_ahdal_92176",
+    "qadi_ahdal_95225",
+    "qadi_ahdal_100079",
+    "qadi_ahdal_100083",
+    "qadi_ahdal_101620",
+    "qadi_ahdal_109566",
+    "qadi_ahdal_119233",
+    "qadi_ahdal_119234"
+  ],
+  "non_targets_unchanged": true,
+  "cache_token": "qadaa-yemen-cleanup-complete-2026-10-04",
+  "items_sha256": "f2e445e44db7395d8a535181f8e5b7b8095bad793e6c4d233f3be1f5153646d8",
+  "public_items_sha256": "f2e445e44db7395d8a535181f8e5b7b8095bad793e6c4d233f3be1f5153646d8",
+  "stats_sha256": "7a2d2386ea2e2f2daec95662d91d1dfce0872caacb4cad8030d8174bc7253bee",
+  "public_stats_sha256": "7a2d2386ea2e2f2daec95662d91d1dfce0872caacb4cad8030d8174bc7253bee"
+}

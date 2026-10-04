@@ -1,0 +1,13 @@
+{
+  "operation": "residual_yemen_journal_exact_id_removal",
+  "executed_at_utc": "2026-10-04T13:27:20.607999+00:00",
+  "removed_id": "journal_link_87e8d4e152f2cf24",
+  "before_total": 45852,
+  "after_total": 45851,
+  "non_targets_unchanged": true,
+  "cache_token": "qadaa-yemen-cleanup-final-2026-10-04",
+  "items_sha256": "006e30e96e02c35678a9c01874055f5537c9b410c5f802e90e7624e354b72d06",
+  "public_items_sha256": "006e30e96e02c35678a9c01874055f5537c9b410c5f802e90e7624e354b72d06",
+  "stats_sha256": "194f4313c811d5e0617ada874ddd61d02a783ae3ec92f3c59deb53326b83d869",
+  "public_stats_sha256": "194f4313c811d5e0617ada874ddd61d02a783ae3ec92f3c59deb53326b83d869"
+}

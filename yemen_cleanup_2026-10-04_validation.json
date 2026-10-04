@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "before_total": 46494,
+  "targeted_yemen_records": 656,
+  "removed_total": 656,
+  "after_total": 45838,
+  "all_target_ids_absent": true,
+  "non_target_records_unchanged": true,
+  "remaining_direct_yemen_signals": 0,
+  "remaining_yemen_source_labels": 0,
+  "ids_unique": true,
+  "root_public_items_match": true,
+  "root_public_stats_match": true,
+  "hero_counts_total": 45838,
+  "cache_token": "qadaa-yemen-cleanup-complete-2026-10-04",
+  "items_sha256": "f2e445e44db7395d8a535181f8e5b7b8095bad793e6c4d233f3be1f5153646d8",
+  "public_items_sha256": "f2e445e44db7395d8a535181f8e5b7b8095bad793e6c4d233f3be1f5153646d8",
+  "stats_sha256": "a1e3f658c4414642fdb4cb2ef55d3019986cc7361d4917359167253494264599",
+  "public_stats_sha256": "a1e3f658c4414642fdb4cb2ef55d3019986cc7361d4917359167253494264599"
+}
